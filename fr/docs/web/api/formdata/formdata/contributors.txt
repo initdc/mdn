@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/formdata/formdata/index.md
+
+# Original Wiki contributors
+tristantheb
+SphinxKnight
+Pandazaur
+ThreadElric

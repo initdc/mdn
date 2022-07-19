@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmloutputelement/index.md
+
+# Original Wiki contributors
+mfuji09
+jswisher
+sideshowbarker
+connorshea
+ExE-Boss
+Sebastianz
+arronei
+libbymc
+fscholz
+Nexii
+jwmcpeak
+teoli
+kscarfone
+Sheppy
+ethertank
+Jeremie

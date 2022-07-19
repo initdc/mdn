@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlformelement/reportvalidity/index.md
+
+# Original Wiki contributors
+salvan13
+mfluehr
+connorshea
+fscholz
+cduun
+sezginruhi
+aeischeid
+Alexander_
+claudepache
+jpmedley
+cvrebert
+Sebastianz
+IncSW
+teoli
+kscarfone

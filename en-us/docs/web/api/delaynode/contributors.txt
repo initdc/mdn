@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/delaynode/index.md
+
+# Original Wiki contributors
+drollie12
+sideshowbarker
+Sheppy
+Jedipedia
+fscholz
+chrisdavidmills
+jpmedley
+erikadoyle
+Sebastianz
+JesseTG
+padenot
+tregagnon
+teoli

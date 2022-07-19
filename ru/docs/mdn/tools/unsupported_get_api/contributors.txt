@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/tools/unsupported_get_api/index.html
+
+# Original Wiki contributors
+ksam

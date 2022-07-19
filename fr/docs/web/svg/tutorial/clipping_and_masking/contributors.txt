@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/tutorial/clipping_and_masking/index.md
+
+# Original Wiki contributors
+a-mt
+parmentf
+teoli
+PetiPandaRou

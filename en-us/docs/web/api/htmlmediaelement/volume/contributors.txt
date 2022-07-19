@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmediaelement/volume/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+Jedipedia
+libbymc
+PushpitaPikuDey
+jpmedley
+stri8ed
+tylerpaige

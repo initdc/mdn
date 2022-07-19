@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/minmax/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ramiy
+wbamberg
+mfuji09
+derekmorash
+estelle
+jwhitlock
+codewilling
+hinell
+mfluehr
+fscholz
+khs
+weslord
+mattchestnut
+PascalAOMS
+rachelandrew
+teoli
+Sebastianz

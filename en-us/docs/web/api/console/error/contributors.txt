@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/console/error/index.md
+
+# Original Wiki contributors
+connorshea
+fscholz
+nickmccurdy
+freddyvega
+arronei
+valtlai
+erikadoyle
+mrenty
+sergeyklay
+Sebastianz
+chrisdavidmills
+teoli
+Sheppy
+Havvy
+kscarfone
+Khodaidad_Basharmand
+ethertank
+Morgul
+myakura

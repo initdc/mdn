@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbcursor/update/index.md
+
+# Original Wiki contributors
+bershanskiy
+sideshowbarker
+alattalatta
+vitaly-zdanevich
+fscholz
+jpmedley
+chrisdavidmills
+arronei
+libbymc
+inexorabletash
+teoli

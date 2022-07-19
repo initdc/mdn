@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/web/javascript/obsolete_pages/obsolete_pages/obsolete_pages/預先定義的函數/parseint_和_parsefloat_函數/index.html
+
+# Original Wiki contributors
+teoli
+happysadman

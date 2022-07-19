@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/screen/colordepth/index.md
+
+# Original Wiki contributors
+ExE-Boss
+mfluehr
+connorshea
+fscholz
+jpmedley
+cvrebert
+teoli
+namolmes
+ethertank
+Sheppy
+Mgjbot
+Diablownik
+Gor1

@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/building_blocks/looping_code/index.md
+
+# Original Wiki contributors
+theRealJennie
+SphinxKnight
+Rafael_Green
+mrmowji
+chrisdavidmills
+The-UCS-Variable
+sideshowbarker
+hhimanshu
+naser-baig
+tayyabalishan
+muhammadghazali
+loretta-arineva
+mariusmucenicu
+walonge
+eremis101
+keshav1245
+4EPTAKA
+Erramyne
+li3097
+sumnercommajohn
+thenoelman
+csarami
+SebastianMaciel
+RundongZou
+FloraFauna
+stephaniehobson
+GowthamPrakaash
+JackZL
+BrunkBeard
+nmve
+Jeremie
+BaderSur
+fscholz

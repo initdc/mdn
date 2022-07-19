@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlimageelement/decoding/index.md
+
+# Original Wiki contributors
+mfuji09
+Sheppy
+padraig-ohiceadha
+chrisdavidmills

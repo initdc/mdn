@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/statements/switch/index.html
+
+# Original Wiki contributors
+1MrHous1
+SphinxKnight
+teoli
+Rokuzo
+Mgjbot
+Ptak82
+Diablownik

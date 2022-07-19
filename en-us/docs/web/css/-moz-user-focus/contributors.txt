@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-moz-user-focus/index.md
+
+# Original Wiki contributors
+wbamberg
+ddbeck
+chrisdavidmills
+ExE-Boss
+teoli
+mfluehr
+Sebastianz
+jswisher
+hectorsan68
+Sheppy
+ethertank
+DBaron
+wellington7
+Clarkbw
+nikfox
+Nickolay
+Sylware

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/css_counter_styles/using_css_counters/index.html
+
+# Original Wiki contributors
+Kuzirashi
+teoli
+Mgjbot
+Ptak82
+PablO

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/document_object_model/using_the_w3c_dom_level_1_core/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+kohei.yoshino
+Mgjbot

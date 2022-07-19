@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/index.html
+
+# Original Wiki contributors
+alattalatta
+desty
+JisooLee
+yjs000
+cs09g
+woniok
+project42da
+limkukhyun
+gaucho1218
+starkying
+frankradio
+Latera
+daebum-lee
+devcken
+sooyoung32
+hoony
+groovecoder

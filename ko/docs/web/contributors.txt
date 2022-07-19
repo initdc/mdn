@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/index.md
+
+# Original Wiki contributors
+lundella
+alattalatta
+ehgus
+limkukhyun
+project42da
+zziuni
+tamnajio
+young-gratia
+pjc0247
+stephenjang
+Channy
+ethertank

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/headers/cache-control/index.md
+
+# Original Wiki contributors
+pcw
+mfuji09
+SegaraRai
+attakei
+utgwkk
+zawataki
+isudzumi
+antidotech
+saitouena
+silverskyvicto
+shimazu
+kakerukaeru
+Meganesaru
+becyn

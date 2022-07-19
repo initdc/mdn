@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mouseevent/mouseevent/index.md
+
+# Original Wiki contributors
+CitrusFruits
+LiorDev
+sideshowbarker
+fscholz
+xfq
+imrobinized
+rohitharkhani
+aheckmann
+Sheppy
+DmitryEfimenko
+thEpisode
+jpmedley
+vanslly
+siirila
+bethge
+rodrigoteobaldo
+teoli
+michael-speed-elder
+samoxbal

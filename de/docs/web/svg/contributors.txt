@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/svg/index.html
+
+# Original Wiki contributors
+teoli
+ethertank
+DavidWalsh
+nicolasmn
+fscholz
+Mickiboy
+-=Renegade=-
+Ak120

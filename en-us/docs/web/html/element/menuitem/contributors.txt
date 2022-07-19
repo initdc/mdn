@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/menuitem/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+sideshowbarker
+ExE-Boss
+Rococolate
+Sheppy
+jakubfiala
+teoli
+whirr.click
+rudiedirkx
+Sebastianz
+slimsag
+Sheepy
+dhodder
+Alhadis
+kscarfone
+kohei.yoshino

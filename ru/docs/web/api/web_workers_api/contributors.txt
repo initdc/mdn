@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/web_workers_api/index.html
+
+# Original Wiki contributors
+m-mityureva
+iamvector
+aadm2014
+ivaskonyan
+utking
+Sebastianz

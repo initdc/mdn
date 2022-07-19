@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/resolution/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+Delapouite
+Artoria2e5
+connorshea
+ExE-Boss
+mfluehr
+kscarfone
+cvrebert

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/idbindex/locale/index.md
+
+# Original Wiki contributors
+teoli
+gadgino

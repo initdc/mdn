@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/matchall/index.md
+
+# Original Wiki contributors
+mfuji09
+ArcticZeroo
+mediumdeviation
+fscholz
+SphinxKnight
+Zearin_Galaurum
+simon-paris
+sideshowbarker
+krosylight

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/core_javascript_1.5_正規表達式的建立/index.html
+
+# Original Wiki contributors
+wbamberg
+happysadman

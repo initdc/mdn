@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/webrequest/onauthrequired/index.md
+
+# Original Wiki contributors
+rebloor
+Zearin_Galaurum
+wbamberg
+ericjung
+shark0der
+andrewtruongmoz
+Makyen
+rolfedh
+billmccloskey

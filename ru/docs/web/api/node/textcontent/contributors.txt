@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/node/textcontent/index.html
+
+# Original Wiki contributors
+Natalya_Surikova
+AlexAlex
+fscholz
+smaximov
+khalid32
+Norville
+Troynov

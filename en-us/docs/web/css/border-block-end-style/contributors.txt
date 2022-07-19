@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-block-end-style/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ddbeck
+Sheppy
+mfuji09
+rachelandrew
+mfluehr
+elysdir1
+teoli
+Sebastianz
+fscholz
+jsx
+kscarfone

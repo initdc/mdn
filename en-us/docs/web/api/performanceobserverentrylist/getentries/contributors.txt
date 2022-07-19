@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performanceobserverentrylist/getentries/index.md
+
+# Original Wiki contributors
+sideshowbarker
+connorshea
+chrisdavidmills
+jpmedley
+teoli
+rolfedh
+AFBarstow

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/cancelbubble/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+Sheppy
+caseyjhol
+jpmedley
+chrisdavidmills
+erikadoyle
+cvrebert

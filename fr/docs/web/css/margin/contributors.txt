@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/margin/index.md
+
+# Original Wiki contributors
+nathsou
+SphinxKnight
+guirip
+mrstork
+Sebastianz
+teoli
+FredB
+ThePrisoner
+tcit

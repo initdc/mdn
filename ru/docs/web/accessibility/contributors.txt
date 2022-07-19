@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/accessibility/index.html
+
+# Original Wiki contributors
+RaMDiss
+servis.gruz74
+D.Lesnik
+SphinxKnight
+helperman
+chmutoff
+Aleksej
+teoli
+jswisher

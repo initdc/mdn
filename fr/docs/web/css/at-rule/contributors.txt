@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/at-rule/index.md
+
+# Original Wiki contributors
+SphinxKnight
+LudoL
+loella16
+brikou
+vvvaleee
+Chealer
+teoli
+naar
+FredB

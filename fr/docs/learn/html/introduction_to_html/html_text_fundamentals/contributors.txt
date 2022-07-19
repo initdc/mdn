@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/html/introduction_to_html/html_text_fundamentals/index.md
+
+# Original Wiki contributors
+aSeches
+Chomchaum
+LeMilitaire
+Dralyab
+gnoyaze
+clamb
+Ilphrin

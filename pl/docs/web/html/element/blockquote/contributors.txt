@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/html/element/blockquote/index.html
+
+# Original Wiki contributors
+teoli
+ethertank
+Witia
+Ptak82
+PablO
+VooEak

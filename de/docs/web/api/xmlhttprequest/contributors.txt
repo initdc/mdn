@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/xmlhttprequest/index.html
+
+# Original Wiki contributors
+wbamberg
+sebastianroming
+fscholz
+Sebastianz
+ethertank
+paul_thomann

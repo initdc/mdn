@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/e/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+jameshkramer
+Mingun
+fred.wang
+Sheppy
+ethertank
+trevorh
+evilpie
+OsamaBinLogin
+Mgjbot
+Kyodev
+Maian
+Marcoos
+Dria

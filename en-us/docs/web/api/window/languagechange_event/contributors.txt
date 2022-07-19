@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/languagechange_event/index.md
+
+# Original Wiki contributors
+mfuji09
+ehom
+fscholz
+mfluehr
+freaktechnik
+realityking
+teoli
+ziyunfei

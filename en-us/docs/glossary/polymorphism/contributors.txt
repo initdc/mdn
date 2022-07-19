@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/polymorphism/index.md
+
+# Original Wiki contributors
+klez
+Andrew_Pfeiffer
+pbmj5233
+kscarfone
+ChrisL
+chunm

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/expect/index.md
+
+# Original Wiki contributors
+dizel3d
+mfuji09
+ExE-Boss
+fscholz
+nwhittaker
+zbjornson

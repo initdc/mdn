@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/base64/index.md
+
+# Original Wiki contributors
+WangXBruc
+waitingsong
+RainSlide
+luojia
+fghpdf
+ahcheqiu

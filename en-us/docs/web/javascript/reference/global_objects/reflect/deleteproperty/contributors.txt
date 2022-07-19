@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/reflect/deleteproperty/index.md
+
+# Original Wiki contributors
+zapthedingbat
+mfuji09
+fscholz
+Zearin_Galaurum
+velusgautam
+alattalatta
+wbamberg
+jameshkramer
+nmve
+kdex
+bsara
+eduardoboucas
+gingerik
+YuichiNukiyama
+ziyunfei

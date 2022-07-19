@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/text-decoration/index.html
+
+# Original Wiki contributors
+SJW
+Sebastianz
+fscholz
+Jürgen Jeka
+Michael2402

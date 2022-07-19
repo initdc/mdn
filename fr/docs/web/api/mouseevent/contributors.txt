@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/mouseevent/index.md
+
+# Original Wiki contributors
+loella16
+Sebastianz
+Jean-MariePETIT
+julienw
+AlainRinder
+kipcode66

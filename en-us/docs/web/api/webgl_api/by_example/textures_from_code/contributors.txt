@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webgl_api/by_example/textures_from_code/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+beblueblue
+Sheppy
+fscholz
+ifilin

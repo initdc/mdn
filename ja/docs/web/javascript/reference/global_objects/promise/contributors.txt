@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/promise/index.md
+
+# Original Wiki contributors
+mahaker
+eltociear
+shimataro
+mfuji09
+silverskyvicto
+Uemmra3
+technohippy
+segayuu
+fscholz
+oakgb
+ymizushi
+tisanyan
+satour
+chikoski
+DriftwoodJP
+yasuhiroki
+lv7777
+akiomik
+u_7cc
+maruhiro
+teoli
+Susisu

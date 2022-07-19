@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/anatomy/index.md
+
+# Original Wiki contributors
+SphinxKnight
+lins1105
+GoneProtoss
+castle-sky
+jingkaimori
+Fulgrim
+ZhouWeicheng90
+veici
+U0Axuan
+LaneSun
+wbamberg
+chaosdog
+xrr2016
+varcat
+yydzxz
+slimeball
+hansonfang
+Ende93
+yjy1992

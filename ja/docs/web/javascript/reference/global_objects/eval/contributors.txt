@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/eval/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+dlwe
+AkihikoTakeda
+ocknamo
+Uemmra3
+Ss_Oo
+mkato
+TakashiHarano
+x2357
+teoli
+ethertank
+masahal
+Potappo
+Hfjapancom

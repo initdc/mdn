@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/cross-site_scripting/index.html
+
+# Original Wiki contributors
+Luiggy
+qwerty726

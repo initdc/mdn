@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/intl/datetimeformat/index.md
+
+# Original Wiki contributors
+longlho
+hamishwillee
+mfuji09
+fscholz
+sergiofgonzalez
+bkardell
+husam212
+romulocintra
+lliehu
+alattalatta
+jahzielv
+ymhr
+dflanagan
+gorlikariel
+danielcompton
+battaglr
+guilhermesimoes
+jhpratt
+HolgerJeromin
+stewx
+wbamberg
+chharvey
+Robg1
+jameshkramer
+thetalecrafter
+arai
+Yeti
+Mingun
+coladict
+Sheppy
+Norbert

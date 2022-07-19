@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/function/arguments/index.md
+
+# Original Wiki contributors
+fscholz
+claudepache
+sideshowbarker
+Zearin_Galaurum
+CertainPerformance
+Voile
+eighthjouster
+rwaldron
+AlisaTerzieva
+saintstarrow
+jameshkramer
+ziyunfei
+Mingun
+surjikal
+Sheppy
+ethertank
+evilpie
+Mgjbot
+Nickolay
+Maian

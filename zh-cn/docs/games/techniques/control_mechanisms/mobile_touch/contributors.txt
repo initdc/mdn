@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/techniques/control_mechanisms/mobile_touch/index.md
+
+# Original Wiki contributors
+fisho

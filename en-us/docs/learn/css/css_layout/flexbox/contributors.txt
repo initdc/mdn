@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/css_layout/flexbox/index.md
+
+# Original Wiki contributors
+vkweb
+theRealJennie
+chrisdavidmills
+JohnnyMu-Cn
+OtterOne
+rachelandrew
+choudh70
+vnctdj
+SphinxKnight
+suiucat
+xiaohanyu
+stefsulzer
+saifeiLee
+coolmanishks
+stephaniehobson
+X-Jagger
+jeffreysbrother
+qdirks
+pmontegna
+PyroLagus
+niekdegreef
+Sebastianz

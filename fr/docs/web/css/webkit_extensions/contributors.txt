@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/webkit_extensions/index.md
+
+# Original Wiki contributors
+Lo_h
+SphinxKnight
+ExE-Boss
+Goofy
+louuis

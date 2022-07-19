@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/add-ons/webextensions/api/cookies/onchangedcause/index.md
+
+# Original Wiki contributors
+wbamberg
+iigmir

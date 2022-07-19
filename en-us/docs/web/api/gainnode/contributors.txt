@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/gainnode/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Jedipedia
+fscholz
+btooom
+chrisdavidmills
+Sheppy
+arronei
+erikadoyle
+jpmedley
+Sebastianz
+Jeremie
+kscarfone
+stuajc
+teoli

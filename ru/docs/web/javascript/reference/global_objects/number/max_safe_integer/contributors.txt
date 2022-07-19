@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/number/max_safe_integer/index.html
+
+# Original Wiki contributors
+bm12
+art-gur
+Yialo
+SphinxKnight
+Mingun

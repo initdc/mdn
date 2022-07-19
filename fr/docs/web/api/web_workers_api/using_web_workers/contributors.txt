@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/web_workers_api/using_web_workers/index.md
+
+# Original Wiki contributors
+leobnt
+SphinxKnight
+hyphaene
+necraidan
+loella16
+aurelienb33
+Gasperowicz
+dcamilleri
+Philiphil
+mliatt
+SaintCyr
+qwincy_p
+m3doune
+nicodel
+jmh
+goofy_bz
+ThibautBremand
+jean-pierre.gay
+gaspardbenoit
+teoli
+tregagnon
+dbruant
+AurelienM

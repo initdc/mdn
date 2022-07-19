@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/websockets_api/index.md
+
+# Original Wiki contributors
+Aminevsky
+mfuji09
+PicoSushi
+silverskyvicto
+lv7777
+hamasaki
+teoli
+ethertank
+yyss

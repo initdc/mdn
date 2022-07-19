@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/manifest/index.html
+
+# Original Wiki contributors
+Zyndoras
+gpion
+SphinxKnight
+tomknig
+Lanseuo
+lionralfs
+hrjhn
+McSodbrenner
+fscholz
+mojoaxel
+tempelgogo
+yzanomi

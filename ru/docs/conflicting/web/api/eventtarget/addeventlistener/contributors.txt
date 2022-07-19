@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/conflicting/web/api/eventtarget/addeventlistener/index.html
+
+# Original Wiki contributors
+proshka
+Bargamut
+m-kon
+daydarkln
+insafski
+einperegrin

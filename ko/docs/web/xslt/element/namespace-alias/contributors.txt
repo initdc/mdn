@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/xslt/element/namespace-alias/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+teoli
+Netaras

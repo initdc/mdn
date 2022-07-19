@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_focus-within/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+mfuji09
+ExE-Boss
+fscholz
+jpmedley
+mfluehr
+chrisdavidmills
+scottaohara
+rego
+tysongach
+DBaron
+Sebastianz

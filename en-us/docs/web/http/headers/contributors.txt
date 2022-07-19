@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Malvoz
+mfuji09
+lewislbr
+bershanskiy
+way2datta
+Tigt
+Sheppy
+lol768
+curt953
+Llamaless
+Bertware
+garvitmangal
+hinell
+ExE-Boss
+fscholz
+Alpha
+jpmedley
+yamakira
+stephaniehobson
+Naesten
+nackman
+scooter-dangle
+MaureenKole
+MrJadaml
+teoli
+maximilian-ruppert
+groovecoder
+anthonyryan1
+kscarfone
+Tgr
+jswisher
+dbruant

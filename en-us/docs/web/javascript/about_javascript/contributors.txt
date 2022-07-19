@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/about_javascript/index.md
+
+# Original Wiki contributors
+fscholz
+dominicegginton
+aplaskota
+HMVisuality
+Nooshu1234
+chraiet
+hadleyel
+jsx
+galambalazs
+pierreneter
+Saliene
+Sheppy
+xfq
+claudepache
+velvel53
+ethertank
+markg
+Sonrisa
+inma_610
+Dhtmlkitchen@gmail.com
+99corps
+Cnmahj
+MookyMa
+Pd
+George3
+Dan Smith
+Mgjbot
+DavidCary
+BenoitL
+Hillman
+Dria

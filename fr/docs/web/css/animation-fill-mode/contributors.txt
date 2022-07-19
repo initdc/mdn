@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/animation-fill-mode/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+Sebastianz
+FredB
+tregagnon

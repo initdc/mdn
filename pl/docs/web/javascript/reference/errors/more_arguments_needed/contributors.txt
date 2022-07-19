@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/errors/more_arguments_needed/index.html
+
+# Original Wiki contributors
+krzmig
+saulgajda

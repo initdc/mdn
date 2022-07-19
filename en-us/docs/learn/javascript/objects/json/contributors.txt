@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/objects/json/index.md
+
+# Original Wiki contributors
+randycasburn
+chrisdavidmills
+jswisher
+mariusmucenicu
+thebearingedge
+bripmccann
+shilili
+thekosiguy
+TasosPoursaitides
+dvsgnr
+stephaniehobson
+torazaburo
+DipperP
+qdirks
+systematis
+mememachine666
+nmve
+Jeremie
+fscholz

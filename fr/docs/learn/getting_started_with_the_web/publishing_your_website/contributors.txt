@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/getting_started_with_the_web/publishing_your_website/index.md
+
+# Original Wiki contributors
+edspeedy
+Dralyab
+NemoNobobyPersonne
+Ilphrin
+villastien
+SphinxKnight

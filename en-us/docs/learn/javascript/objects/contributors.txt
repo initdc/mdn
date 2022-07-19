@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/objects/index.md
+
+# Original Wiki contributors
+owdown
+chrisdavidmills
+CodeDotJS
+bripmccann
+shi_zi_
+Ch0coL8te
+omeid
+torazaburo
+MashKao
+fscholz

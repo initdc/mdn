@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/css_grid_layout/box_alignment_in_css_grid_layout/index.md
+
+# Original Wiki contributors
+fesaille
+SphinxKnight
+Kalwyn

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/conflicting/web/javascript/guide/details_of_the_object_model_b021bd32308e4c421518cdd7104ac7bc/index.html
+
+# Original Wiki contributors
+teoli
+happysadman

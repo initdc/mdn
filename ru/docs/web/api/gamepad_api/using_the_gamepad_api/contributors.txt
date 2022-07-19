@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/gamepad_api/using_the_gamepad_api/index.html
+
+# Original Wiki contributors
+venanen

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/flex/index.md
+
+# Original Wiki contributors
+julienw
+Thyme1152
+SphinxKnight
+Hartesic
+sylvainpolletvillard
+fscholz
+Sebastianz
+Mahan91
+teoli
+Golmote
+FredB
+Delapouite
+lalop
+rd6137

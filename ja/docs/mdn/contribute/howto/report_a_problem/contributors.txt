@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/contribute/howto/report_a_problem/index.md
+
+# Original Wiki contributors
+peterbe
+mfuji09
+wbamberg
+Uemmra3
+hamasaki

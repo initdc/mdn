@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvasrenderingcontext2d/createimagedata/index.md
+
+# Original Wiki contributors
+mfluehr
+danzen
+fscholz
+jpmedley
+nmve
+erikadoyle

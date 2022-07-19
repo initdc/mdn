@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/max/index.md
+
+# Original Wiki contributors
+mfuji09
+Meny
+Sheppy
+fscholz
+shaedrich
+wbamberg
+roryokane
+jameshkramer
+tushar-singh
+eduardoboucas
+sanderd17
+Mingun
+ethertank
+bendman
+evilpie
+mattflaschen
+Mgjbot
+Kyodev
+Nickolay
+SylvainPasche
+Maian
+Marcoos
+Dria

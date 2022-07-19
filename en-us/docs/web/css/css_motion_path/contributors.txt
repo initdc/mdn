@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_motion_path/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Siilwyn
+chrisdavidmills
+dancwilson
+fscholz
+mfluehr
+jpmedley
+Sebastianz
+teoli

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/django/deployment/index.md
+
+# Original Wiki contributors
+hamishwillee
+Rafael_Green
+kruschk
+ankitShaw
+romanjamesmirov
+kk112233
+chrisdavidmills
+NikolaiT
+farleykr
+WofWca
+T1mL3arn
+pineapplebug
+MihaiChelaru
+RaphaelTuor
+pcsteppan
+stephaniehobson
+evansd
+alanypz

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/createshadowroot/index.md
+
+# Original Wiki contributors
+ExE-Boss
+DomenicDenicola
+Keysox
+japacible
+jpmedley
+markg
+Sebastianz

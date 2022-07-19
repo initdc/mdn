@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/margin/index.html
+
+# Original Wiki contributors
+trusohamn
+wbamberg
+Terite
+fscholz
+teoli
+yecril71pl
+hADeSik
+Wasiqs

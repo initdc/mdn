@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/element/setattribute/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Linkus
+loella16
+teoli
+julienw
+fscholz
+khalid32
+Mgjbot
+BenoitL
+Takenbot

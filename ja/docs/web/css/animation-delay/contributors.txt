@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/animation-delay/index.md
+
+# Original Wiki contributors
+mfuji09
+teoli
+Sebastianz
+yyss
+ethertank
+Potappo
+FredB

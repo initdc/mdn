@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/client-side_web_apis/third_party_apis/index.md
+
+# Original Wiki contributors
+UnorthodoxThing
+chrisdavidmills
+kruschk
+ZrSiO4
+markdudevad
+wbamberg
+MPDSilva
+smoothie1998
+sideshowbarker
+RafeyIqbalRahman
+markalanrichards
+SteviBee
+championshuttler
+dlwagner
+minguoITnan
+stephaniehobson

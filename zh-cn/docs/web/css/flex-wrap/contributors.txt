@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/flex-wrap/index.md
+
+# Original Wiki contributors
+xgqfrms
+SolitudeRA
+JX-Master
+dongyu_-_
+lijim
+fscholz
+Go7hic
+Sebastianz
+FredWe

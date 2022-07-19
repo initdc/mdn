@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/cookies/index.md
+
+# Original Wiki contributors
+michivi
+ThCarrere
+guillaumebouhier
+bodingar
+gpartenet
+antoineneff
+a-mt
+SphinxKnight
+antoineroux
+tomcodes

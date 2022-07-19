@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/element/getattributenode/index.md
+
+# Original Wiki contributors
+noporon
+YuichiNukiyama
+fscholz
+khalid32
+Mgjbot
+Ryotakano

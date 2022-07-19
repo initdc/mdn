@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/dominant-baseline/index.md
+
+# Original Wiki contributors
+cdoublev
+chrisdavidmills
+Zearin_Galaurum
+asmar
+Sebastianz
+connorshea
+absynce
+zabbarob
+kscarfone
+Jeremie
+ratcliffe_mike

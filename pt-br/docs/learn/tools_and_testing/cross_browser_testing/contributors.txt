@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/tools_and_testing/cross_browser_testing/index.html
+
+# Original Wiki contributors
+caiquesandrade
+wbamberg
+arai

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cssstylesheet/deleterule/index.md
+
+# Original Wiki contributors
+Sheppy
+anonyco
+fscholz
+erikadoyle
+pcat
+Sebastianz
+teoli
+ethertank
+jliu
+Ptak82
+Dria
+JesseW

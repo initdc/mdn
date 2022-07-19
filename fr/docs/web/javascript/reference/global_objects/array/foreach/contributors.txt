@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/array/foreach/index.md
+
+# Original Wiki contributors
+SphinxKnight
+beumsk
+Mr21
+opii93
+maxailloud
+gaelb
+teoli
+XenonDeele
+galymn
+antham

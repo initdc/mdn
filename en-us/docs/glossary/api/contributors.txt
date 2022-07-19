@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/api/index.md
+
+# Original Wiki contributors
+collin
+squeakyc
+janpeuker
+jetthusher
+kalch
+chrisdavidmills
+Sheppy
+iigmir
+klez
+Andrew_Pfeiffer
+Jeremie
+hoosteeno
+ajinkya_p

@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/used_value/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+myf
+hinell
+FumiyaShibusawa
+Tuman
+shogunsea
+mfluehr
+Loadmaster
+Mori
+david_ross
+DecadeCode
+azoorob3
+fcard
+Syle91
+kscarfone
+phil_nist
+Kritz
+Dholbert
+teoli
+ethertank
+Sheppy
+FredB
+yonathan

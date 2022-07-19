@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/django/admin_site/index.md
+
+# Original Wiki contributors
+hamishwillee
+chrisdavidmills
+A.Faturechi
+kruschk
+sarmadgulzar
+cbernardo84
+drchuck
+jdblischak
+jtwilson0294
+pineapplebug
+hackernewslibrary
+MihaiChelaru
+ygretharekar
+ryangrose
+alurodriguez
+stephaniehobson
+ecssiah
+Kishy-nivas
+tridc
+kalch
+shakib609

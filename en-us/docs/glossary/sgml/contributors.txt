@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/sgml/index.md
+
+# Original Wiki contributors
+mfluehr
+Jeremie
+hbloomer
+andy1633
+Andrew_Pfeiffer
+klez
+Biraj
+teoli
+avsaro

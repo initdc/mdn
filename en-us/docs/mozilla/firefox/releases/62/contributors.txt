@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/62/index.md
+
+# Original Wiki contributors
+jswisher
+dartraiden
+chrisdavidmills
+Whimboo
+irenesmith
+digitarald
+Jib
+ExE-Boss
+Sheppy
+wbamberg
+fscholz

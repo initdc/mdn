@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            html {
+  font-family: sans-serif;
+}
+canvas {
+  background: #fff;
+  border: 1px dashed;
+}
+a {
+  display: inline-block;
+  background: #69c;
+  color: #fff;
+  padding: 5px 10px;
+}
+        </style>
+        
+        <title>&lt;a&gt; - 저장_링크를_가진_그림판_예제 - code sample</title>
+    </head>
+    <body>
+        
+            <p>마우스 드래그로 그림을 그려보세요.
+  <a href="" download="my_painting.png">다운로드</a>
+</p>
+
+<canvas width="300" height="300"></canvas>
+
+        
+        
+            <script>
+                var canvas = document.querySelector('canvas'),
+    c = canvas.getContext('2d');
+c.fillStyle = 'hotpink';
+
+function draw(x, y) {
+  if (isDrawing) {
+    c.beginPath();
+    c.arc(x, y, 10, 0, Math.PI*2);
+    c.closePath();
+    c.fill();
+  }
+}
+
+canvas.addEventListener('mousemove', event =>
+  draw(event.offsetX, event.offsetY)
+);
+canvas.addEventListener('mousedown', () => isDrawing = true);
+canvas.addEventListener('mouseup', () => isDrawing = false);
+
+document.querySelector('a').addEventListener('click', event =>
+  event.target.href = canvas.toDataURL()
+);
+
+            </script>
+        
+    </body>
+</html>

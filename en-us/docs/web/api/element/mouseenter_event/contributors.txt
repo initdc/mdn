@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/mouseenter_event/index.md
+
+# Original Wiki contributors
+mfuji09
+Sheppy
+irenesmith
+chrisdavidmills
+mikalai-sauchanka
+fscholz
+jeffvandyke
+DisorientedSpacePenguin
+Konrud
+sideshowbarker
+Onkar316
+vapier
+erikadoyle
+Sebastianz
+Yaffle
+m_gol
+bsalex
+torbasow
+Rob W
+teoli
+Masayuki
+ethertank
+louisremi

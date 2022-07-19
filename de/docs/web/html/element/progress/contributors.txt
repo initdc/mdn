@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/html/element/progress/index.html
+
+# Original Wiki contributors
+Breaker222
+thuhh
+Volker-E
+wbamberg
+phlppn
+DrMabuse23
+Sebastianz
+teoli
+Slashcat

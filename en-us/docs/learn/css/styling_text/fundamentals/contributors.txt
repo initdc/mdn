@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/styling_text/fundamentals/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+salutis
+choudh70
+tayyabalishan
+xp44mm
+pei-han
+UnorthodoxThing
+PanayiotisPaschalides
+koralcem
+stephaniehobson
+wilton-cruz
+Sheppy
+TimSongCoder
+qdirks
+PyroLagus
+richardzacur
+plug-n-play

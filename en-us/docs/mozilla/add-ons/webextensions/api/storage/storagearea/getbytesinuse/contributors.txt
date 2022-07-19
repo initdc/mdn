@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/storage/storagearea/getbytesinuse/index.md
+
+# Original Wiki contributors
+ericjung
+Lamina-Paj
+Jack.Works
+wbamberg
+Makyen
+chrisdavidmills

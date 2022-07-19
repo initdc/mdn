@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mdn/guidelines/does_this_belong_on_mdn/index.md
+
+# Original Wiki contributors
+

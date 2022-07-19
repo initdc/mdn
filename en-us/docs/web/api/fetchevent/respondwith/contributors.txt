@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/fetchevent/respondwith/index.md
+
+# Original Wiki contributors
+aquariuslt
++
+Wind1808
+sideshowbarker
+jpmedley
+BrantNielsen
+fscholz
+chrisdavidmills
+bkelly
+jaffathecake
+spleen387
+Sebastianz
+kscarfone
+teoli

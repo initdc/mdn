@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/contribute/localize/index.md
+
+# Original Wiki contributors
+SphinxKnight
+irvinfly
+chrisdavidmills
+wbamberg
+pascalchevrel
+jwhitlock
+jswisher
+mstanke
+Sheppy
+ethertank
+FredB

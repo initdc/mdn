@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/errors/invalid_for-in_initializer/index.md
+
+# Original Wiki contributors
+SphinxKnight

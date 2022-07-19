@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/security/index.md
+
+# Original Wiki contributors
+silverskyvicto
+pcw
+mfuji09
+SphinxKnight
+hashedhyphen
+takashi

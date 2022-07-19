@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/element/innerhtml/index.html
+
+# Original Wiki contributors
+Kitsune
+teoli
+khalid32
+Ptak82
+Mgjbot
+Jan Dudek

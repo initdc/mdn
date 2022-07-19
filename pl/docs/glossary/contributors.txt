@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/glossary/index.html
+
+# Original Wiki contributors
+peterbe
+SphinxKnight
+wbamberg
+asbud
+Jeremie

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/orphaned/web/api/navigatorplugins/plugins/index.html
+
+# Original Wiki contributors
+sheldarr
+teoli
+jsx
+AshfaqHossain
+Mgjbot
+Diablownik

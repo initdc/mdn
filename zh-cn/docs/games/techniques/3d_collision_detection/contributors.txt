@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/techniques/3d_collision_detection/index.md
+
+# Original Wiki contributors
+wbamberg
+lhyt
+varcat

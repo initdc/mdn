@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/collapsetoend/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+ddbeck
+RedHatter
+abbycar
+ziyunfei
+BenjamP
+fscholz
+teoli
+jsx
+kscarfone
+Prachi_Dighe
+Kartik_Chadha
+Sheppy
+Bzbarsky
+Federico
+DR
+Rev
+Jonnyq

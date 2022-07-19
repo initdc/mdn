@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/bgcolor/index.md
+
+# Original Wiki contributors
+sideshowbarker
+boxa6
+mattbrundageMDN
+fscholz
+valtlai
+-Simon-
+teoli
+sylv1
+MHasan
+kscarfone
+Sheppy
+George3
+DR
+LouCypher
+Ptak82
+Dria
+JesseW

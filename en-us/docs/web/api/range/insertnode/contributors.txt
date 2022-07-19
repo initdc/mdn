@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/insertnode/index.md
+
+# Original Wiki contributors
+fscholz
+abbycar
+Sebastianz
+teoli
+kollishivagangadhar
+Khodaidad_Basharmand
+Sheppy
+Hansschmucker
+George3
+Feofan
+Gor1

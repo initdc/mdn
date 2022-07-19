@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/xmp/index.md
+
+# Original Wiki contributors
+teoli
+mfluehr
+Peppester
+kscarfone
+tregagnon
+Sheppy
+ethertank
+fscholz
+Ms2ger

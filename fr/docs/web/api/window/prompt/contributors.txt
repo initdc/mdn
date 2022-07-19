@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/prompt/index.md
+
+# Original Wiki contributors
+Yopai
+goofy_mdn
+SphinxKnight
+SUN-D-IA-L
+fscholz
+teoli
+icefire
+khalid32
+Mgjbot
+BenoitL

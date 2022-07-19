@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/webgl_api/index.html
+
+# Original Wiki contributors
+dloranc
+fscholz
+michaldudak
+odfdoodokdoudos
+Dawid_Chmura_JWE
+Trebor

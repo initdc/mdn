@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/string/charat/index.md
+
+# Original Wiki contributors
+SphinxKnight
+josef

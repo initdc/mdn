@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-start-end-radius/index.md
+
+# Original Wiki contributors
+Loirooriol
+ddbeck
+Sheppy
+chrisdavidmills
+rachelandrew

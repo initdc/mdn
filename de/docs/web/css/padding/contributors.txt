@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/padding/index.html
+
+# Original Wiki contributors
+SJW
+fscholz
+Sebastianz
+Yuichiro
+Jürgen Jeka
+Michael2402

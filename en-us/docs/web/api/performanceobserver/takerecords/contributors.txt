@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performanceobserver/takerecords/index.md
+
+# Original Wiki contributors
+jpmedley
+fscholz
+Claas
+jamietre
+chrisdavidmills

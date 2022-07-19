@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/structures/page_types/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+ExE-Boss
+wbamberg
+SphinxKnight
+MrZhangJunShuai
+Sheppy
+jswisher
+david_ross

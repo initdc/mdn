@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/touch/index.md
+
+# Original Wiki contributors
+mfuji09
+irenesmith
+fscholz
+jpmedley
+Ms2ger
+chrisdavidmills
+mattwojo
+AFBarstow
+teoli
+dtapuska
+Jeremie
+momoi
+kosvrouvas
+shubham.hatwar
+Sheppy
+wesj
+dflanagan

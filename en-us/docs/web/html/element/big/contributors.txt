@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/big/index.md
+
+# Original Wiki contributors
+Sheppy
+teoli
+mfluehr
+erikadoyle
+tregagnon
+kscarfone
+avsaro
+Nickolay
+ethertank
+cers
+jswisher
+Ptak82
+CarZo3
+Jscher2000
+Mgjbot
+PablO
+alecananian
+Jinexile
+Dria
+Charles

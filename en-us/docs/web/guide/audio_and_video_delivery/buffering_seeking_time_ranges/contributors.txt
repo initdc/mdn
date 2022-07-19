@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/audio_and_video_delivery/buffering_seeking_time_ranges/index.md
+
+# Original Wiki contributors
+industral
+chrisdavidmills
+cracube
+oodavid
+maboa

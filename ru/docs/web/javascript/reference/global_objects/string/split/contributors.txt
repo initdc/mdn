@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/string/split/index.html
+
+# Original Wiki contributors
+DarkGoanna
+Ect0PzG4m1ng
+IgorSkvortsov
+bruha
+terranisu
+Mingun
+FRiMN

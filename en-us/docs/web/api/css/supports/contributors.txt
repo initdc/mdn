@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/css/supports/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+sideshowbarker
+valtlai
+fscholz
+claudepache
+behnammodi
+Konrud
+erikadoyle
+yisibl
+m_gol
+teoli
+yisi
+ziyunfei
+kscarfone
+ethertank
+Sheppy

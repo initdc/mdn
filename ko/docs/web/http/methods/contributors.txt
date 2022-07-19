@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/methods/index.html
+
+# Original Wiki contributors
+alattalatta
+flavono123
+dbwodlf3
+kidkkr
+fscholz

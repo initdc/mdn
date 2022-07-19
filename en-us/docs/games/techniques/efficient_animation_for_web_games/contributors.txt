@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/techniques/efficient_animation_for_web_games/index.md
+
+# Original Wiki contributors
+escattone
+chrisdavidmills
+Mohnatus
+mfluehr
+wbamberg
+rileym7
+flyingbuddha
+I_m_back_now
+fscholz
+jsx

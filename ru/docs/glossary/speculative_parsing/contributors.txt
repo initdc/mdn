@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/speculative_parsing/index.html
+
+# Original Wiki contributors
+s1lver
+pk.prog
+SnejUgal
+teoli
+Gucci_08_rus

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/networkinformation/index.md
+
+# Original Wiki contributors
+sideshowbarker
+jpmedley
+Vanilagy
+fscholz
+AshKyd
+jeroenvisser101
+GreenBeard
+chrisdavidmills
+jprichardson
+teoli
+Sebastianz

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/list-style-type/index.md
+
+# Original Wiki contributors
+dlwe
+mfuji09
+momdo
+yyss
+Guillaume-Heras
+teoli
+SphinxKnight
+Sebastianz
+ethertank
+sosleepy

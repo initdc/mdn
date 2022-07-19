@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/isprototypeof/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+jameshkramer
+puranik3
+oksana-khristenko
+Sheppy
+natterca
+ibratoev
+eduardoboucas
+FredKSchott
+Mingun
+emagnier
+jasssonpet
+ziyunfei
+ethertank
+pig_knuckle_sandwich
+mimiz33
+angusc
+evilpie
+Sevenspade
+Johnjbarton
+LJR
+Mgjbot
+Haluk
+Ptak82
+Nickolay
+Trollll

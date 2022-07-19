@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_grid_layout/layout_using_named_grid_lines/index.md
+
+# Original Wiki contributors
+rachelandrew
+escattone
+richardkmichael
+magnificode
+jarrodn
+1986slayer
+Konrud
+aermolaev
+teoli

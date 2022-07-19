@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/element/removeattribute/index.md
+
+# Original Wiki contributors
+sylv1
+loella16
+fscholz
+teoli
+khalid32
+Mgjbot
+Fredchat
+BenoitL
+Celelibi

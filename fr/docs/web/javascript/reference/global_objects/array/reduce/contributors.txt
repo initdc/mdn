@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/array/reduce/index.md
+
+# Original Wiki contributors
+yorick-dumet
+SphinxKnight
+MSOConsulting
+gloucklegnou
+Haroon24
+jilljenn
+korosakikun
+arguiot
+Pandalousie
+rbinsztock
+dupontdenis
+foucdeg
+nkokla
+adamhesim
+cloughy
+marie-ototoi
+Xartok
+matteodelabre
+teoli
+Batmat
+Exirel

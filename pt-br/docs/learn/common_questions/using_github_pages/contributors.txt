@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/common_questions/using_github_pages/index.html
+
+# Original Wiki contributors
+Celio1234

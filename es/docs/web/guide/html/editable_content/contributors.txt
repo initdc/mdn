@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/guide/html/editable_content/index.html
+
+# Original Wiki contributors
+vinyetcg
+JoaquinGiordano
+V.Morantes

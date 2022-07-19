@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/primitive/index.md
+
+# Original Wiki contributors
+gaoyia
+Ty-160
+jinhuiyon
+theCodingApe
+zxsunrise
+kevinfszu
+zhangchen
+Ende93
+Musan
+painty

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/index.md
+
+# Original Wiki contributors
+peterbe
+SphinxKnight
+RainSlide
+wbamberg
+Terry.Qiao
+micblo
+wth
+Jack-Q
+xhlsrj
+iwo

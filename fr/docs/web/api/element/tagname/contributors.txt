@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/element/tagname/index.md
+
+# Original Wiki contributors
+loella16
+fscholz
+teoli
+jsx
+Mgjbot
+BenoitL

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pushmanager/subscribe/index.md
+
+# Original Wiki contributors
+sideshowbarker
+chrisdavidmills
+erikadoyle
+Sheppy
+safwan
+fscholz
+kitcambridge
+jrconlin
+aliams
+libbymc
+jasonpang
+Flimm
+JessevanAssen
+jpmedley
+f0rkB0mb
+qsysmine
+kscarfone
+teoli

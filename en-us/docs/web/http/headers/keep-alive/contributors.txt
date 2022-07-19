@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/keep-alive/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+ivnl
+martin-martin
+ExE-Boss
+leothorp
+davidjb
+fscholz
+kmag
+teoli

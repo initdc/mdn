@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/regexp/global/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+mingzhang6
+wbamberg
+schalkneethling
+jameshkramer
+pygy
+Daniel Hug
+Mingun
+Sheppy
+Mgjbot
+Maian
+Prodoc
+Dria

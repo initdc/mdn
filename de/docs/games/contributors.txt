@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/games/index.html
+
+# Original Wiki contributors
+SphinxKnight
+ctexxx
+wbamberg
+Ja3ar
+RewoSiedge
+fscholz
+Chris-CR
+wiegels
+sonjaka
+F6F

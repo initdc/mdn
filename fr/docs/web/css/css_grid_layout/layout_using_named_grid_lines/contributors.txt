@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/css_grid_layout/layout_using_named_grid_lines/index.md
+
+# Original Wiki contributors
+SphinxKnight

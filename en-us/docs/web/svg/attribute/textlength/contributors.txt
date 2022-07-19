@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/textlength/index.md
+
+# Original Wiki contributors
+hallb9
+Sebastianz
+fscholz
+vriojtg
+HTMLValidator
+lukaszzdanikowski
+colinmorris
+Sheppy
+rolfedh
+Tigt

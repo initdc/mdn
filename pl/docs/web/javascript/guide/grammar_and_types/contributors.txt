@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/guide/grammar_and_types/index.html
+
+# Original Wiki contributors
+danrakh
+Konrad007
+cybor0
+lukasz-jakub-adamczuk
+Miras
+AndrzejSala
+xolir
+dolphugly
+KamilDuda01
+marekjedrzejewski

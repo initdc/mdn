@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/analysernode/getfloattimedomaindata/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Rumyra
+thenoelman
+sa-mm
+fscholz
+halimb
+erikadoyle
+teoli
+chrisdavidmills

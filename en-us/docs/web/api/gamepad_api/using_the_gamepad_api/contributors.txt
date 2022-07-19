@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/gamepad_api/using_the_gamepad_api/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+wbamberg
+ExE-Boss
+TheTophatDemon
+torch2424
+khg0712
+diekus
+mvasilkov
+teoli
+gmanpersona
+brianblakely
+cvan
+Qantas94Heavy
+Ted_Mielczarek
+Jeremie
+Raffzahn
+grendel
+lillithompson

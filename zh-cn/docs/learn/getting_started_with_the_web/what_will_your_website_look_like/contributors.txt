@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/getting_started_with_the_web/what_will_your_website_look_like/index.md
+
+# Original Wiki contributors
+zrzjohn
+Roy-Tian
+WoodCube
+outloudvi
+xmcgcg
+Harry-Zhao
+liangshuhua
+abc3660170
+liminjun
+ZhouZhou360
+DUHZ
+fan19900404
+Kevin-Xi
+troywith77
+ziyunfei

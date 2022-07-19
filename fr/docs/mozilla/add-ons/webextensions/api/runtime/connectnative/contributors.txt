@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/api/runtime/connectnative/index.md
+
+# Original Wiki contributors
+hellosct1
+wbamberg
+Crikxi

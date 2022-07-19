@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/document/all/index.html
+
+# Original Wiki contributors
+3elenkovskiy

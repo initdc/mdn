@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/tabs/index.md
+
+# Original Wiki contributors
+Jonathan_Watt
+Zearin_Galaurum
+irenesmith
+ariasuni
+GregDomjan
+fscholz
+hellosct1
+wbamberg
+Rapptz
+cmcaine
+andrewtruongmoz
+abbycar
+idupree
+Sheppy
+Jeremie
+kmaglione

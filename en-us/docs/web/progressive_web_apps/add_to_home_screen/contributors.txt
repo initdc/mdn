@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/progressive_web_apps/add_to_home_screen/index.md
+
+# Original Wiki contributors
+atjn
+SphinxKnight
+kittiphophum18
+alfred_chao95
+mfuji09
+9999472
+chrisdavidmills
+HolgerJeromin
+Sheppy
+jamesdhurd
+andreasbovens

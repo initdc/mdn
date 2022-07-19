@@ -1,0 +1,52 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_not/index.md
+
+# Original Wiki contributors
+chrisvltn
+chrisdavidmills
+rachelandrew
+mfuji09
+lionel-rowe
+mikalai-sokarau
+Sheppy
+wbamberg
+skywalker_z
+Konrud
+BrianARuff
+piotr-bajer
+estelle
+drewswaycool
+fscholz
+mfluehr
+Garbee
+haroldb
+jstewart8053
+Daniel Hug
+Sebastianz
+PyroLagus
+erikadoyle
+maltrics
+ziyunfei
+DominikDitoIvosevic
+teoli
+clongo
+armorking5
+duncancumming
+bertyhell
+MusikAnimal
+Krinkle
+amitabha197
+frisellcpl
+emiluzelac
+tregagnon
+jswisher
+jjenzz
+kscarfone
+Tripad
+ethertank
+enderandpeter
+McGurk
+justjust
+Jürgen Jeka
+j.j.
+miken32

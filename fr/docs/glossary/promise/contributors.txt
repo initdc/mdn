@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/promise/index.md
+
+# Original Wiki contributors
+Dimitri_TRAVAILLOUX
+JNa0
+tpoisseau

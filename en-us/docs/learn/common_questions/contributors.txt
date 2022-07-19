@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/common_questions/index.md
+
+# Original Wiki contributors
+kruschk
+romanjamesmirov
+stephaniehobson
+JeffD
+chrisdavidmills
+rudolfo
+Mori

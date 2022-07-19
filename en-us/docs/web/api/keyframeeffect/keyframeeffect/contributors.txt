@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/keyframeeffect/keyframeeffect/index.md
+
+# Original Wiki contributors
+lpd-au
+fscholz
+chrisdavidmills
+BrianSipple
+birtles
+rachelnabors
+jpmedley

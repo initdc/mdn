@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/keyboard-navigable_javascript_widgets/index.md
+
+# Original Wiki contributors
+fuzzbomb
+katydecorah
+SphinxKnight
+zd1010150
+hidde
+LayZeeDK
+brucelawson
+estelle
+bradleyflood
+6112
+diiq
+ddal
+Tigt
+Sheppy
+Jifeon
+Aaronlev
+anjan.ux
+anastasia
+peterbraden

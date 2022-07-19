@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/bluetoothremotegattservice/isprimary/index.md
+
+# Original Wiki contributors
+sideshowbarker
+ExE-Boss
+fscholz
+chrisdavidmills
+jpmedley
+rolfedh

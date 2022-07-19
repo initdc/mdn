@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/window/focus_event/index.html
+
+# Original Wiki contributors
+bartosz-bieniek

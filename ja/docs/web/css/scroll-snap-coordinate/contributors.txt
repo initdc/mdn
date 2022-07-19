@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/scroll-snap-coordinate/index.md
+
+# Original Wiki contributors
+mfuji09

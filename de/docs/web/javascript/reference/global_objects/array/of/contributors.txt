@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/array/of/index.html
+
+# Original Wiki contributors
+schlagi123
+dennissterzenbach
+almai
+mormahr
+oliver-j

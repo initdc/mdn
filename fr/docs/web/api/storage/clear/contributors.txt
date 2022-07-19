@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/storage/clear/index.md
+
+# Original Wiki contributors
+tristantheb
+JNa0
+Axnyff
+Hell_Carlito
+EmilienD

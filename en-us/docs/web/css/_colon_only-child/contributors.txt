@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_only-child/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+aute
+dimitarnestorov
+mfluehr
+fscholz
+chrisdavidmills
+david_ross
+jpmedley
+azcn2503
+erikadoyle
+Sebastianz
+MusikAnimal
+tregagnon
+kscarfone
+Tripad
+teoli
+mattt
+Sheppy
+ethertank
+Vikash
+FredB
+McGurk

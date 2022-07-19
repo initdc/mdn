@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/gethours/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+Ashray_Gupta
+schalkneethling
+jameshkramer
+eduardoboucas
+Mingun
+ethertank
+Jeremie
+Sheppy
+ziyunfei
+evilpie
+Yuichirou
+Mgjbot
+Ptak82
+Maian
+Dria

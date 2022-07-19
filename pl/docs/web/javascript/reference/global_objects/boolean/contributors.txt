@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/boolean/index.html
+
+# Original Wiki contributors
+kanapka94
+wbamberg
+teoli
+Diablownik
+Internauta1024A
+Ptak82
+Mgjbot
+Marcoos

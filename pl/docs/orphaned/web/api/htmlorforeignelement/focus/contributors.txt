@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/orphaned/web/api/htmlorforeignelement/focus/index.html
+
+# Original Wiki contributors
+teoli
+jsx
+Mgjbot
+Ptak82
+Jan Dudek

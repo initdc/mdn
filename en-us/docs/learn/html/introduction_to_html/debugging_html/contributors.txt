@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/introduction_to_html/debugging_html/index.md
+
+# Original Wiki contributors
+anewton
+avivmu
+chrisdavidmills
+tayyabalishan
+sideshowbarker
+frezier
+stephaniehobson
+stefanocbl
+johnjago
+mustak
+breno785au
+richardzacur
+sockofleas

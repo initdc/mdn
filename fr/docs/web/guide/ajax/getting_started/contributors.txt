@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/guide/ajax/getting_started/index.md
+
+# Original Wiki contributors
+grandoc
+VictorLequin
+Watilin
+GregMorel
+CyrilKrylatov
+chrisdavidmills
+Jibec
+P_MO
+arena
+Mgjbot
+Fredchat
+Rbories
+BenoitL
+Cbi1net
+Rodolphe
+Chbok
+VincentN
+Taken
+Oumar
+Diskostu

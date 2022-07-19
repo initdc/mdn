@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/prepend/index.md
+
+# Original Wiki contributors
+TrevorKarjanis
+mfuji09
+beingmrkenny
+sideshowbarker
+rysmax
+matthewp
+mfluehr
+krosylight
+ExE-Boss
+merih
+stevenwdv
+CollinGrimm
+Sheppy
+jszhou
+jpmedley
+fscholz

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/operators/function/index.html
+
+# Original Wiki contributors
+m5yu
+jakobpack
+schlagi123
+christianrhansen
+vssn
+amelzer

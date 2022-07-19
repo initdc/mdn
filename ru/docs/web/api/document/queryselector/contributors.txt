@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/document/queryselector/index.html
+
+# Original Wiki contributors
+yuri.chernyshov
+ViktorWizard
+Khaidarov-Dinar
+ironCat
+gudkovdanila
+xapdkop
+newallure
+wizion
+boxa6
+SmartRW
+NetVetal
+indieveed
+SlavaJan
+BychekRU
+Geraldus
+fscholz
+khalid32
+thisninja

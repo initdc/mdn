@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/animationevent/elapsedtime/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+fscholz
+erikadoyle
+teoli
+jpmedley
+tregagnon

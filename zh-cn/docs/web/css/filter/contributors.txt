@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/filter/index.md
+
+# Original Wiki contributors
+RoXoM
+grape
+zhangchen
+lyz810
+Jiang-Xuan
+zhuangyin
+xgqfrms
+Sebastianz
+lazurey
+teoli
+AzureRay
+ziyunfei
+lzf0402

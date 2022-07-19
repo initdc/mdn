@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/client-side_web_apis/drawing_graphics/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Rafael_Green
+kim.tranberg
+ckashby
+kruschk
+imchriskitchens
+ionicpanda
+2alin
+shivansh11
+stephaniehobson
+TheHumbleGhost
+Sheppy

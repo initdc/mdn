@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/array/findindex/index.html
+
+# Original Wiki contributors
+SebinNyshkim
+schlagi123
+psychotammi
+sosnet
+labcode-de

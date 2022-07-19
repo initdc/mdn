@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/regexp/index.html
+
+# Original Wiki contributors
+wbamberg
+lunesco
+kisiiel
+morthan
+tomash18r
+teoli
+Nux
+Mysz
+Ptak82
+Mgjbot
+Marcoos
+VooEak

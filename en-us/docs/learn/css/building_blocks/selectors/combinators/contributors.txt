@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/selectors/combinators/index.md
+
+# Original Wiki contributors
+haond10adp
+rachelandrew
+xp44mm
+DanielNoamTuby
+chrisdavidmills

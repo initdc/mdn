@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/floor/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+snek
+alattalatta
+TDurr
+absurdist
+nikhilganji
+amardeokar23
+wbamberg
+jameshkramer
+eduardoboucas
+PhiLho
+Mingun
+ashnur
+Agamemnus
+fred.wang
+Sheppy
+haasz
+ethertank
+evilpie
+Naesten
+Mgjbot
+Kyodev
+Maian
+Marcoos
+Dria

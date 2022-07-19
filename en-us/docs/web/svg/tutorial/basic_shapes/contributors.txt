@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/basic_shapes/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+mPotasky
+RicardsVeveris
+HusamIbrahim
+codelemur
+idest
+Dizzy
+shyamji1983
+mathewlippincott
+trevorh
+Jeremie
+ethertank
+teoli
+yyss
+PetiPandaRou
+Manuel_Strehl
+Longsonr
+sebastian.zim
+fscholz
+Thrill
+Wjjohnst

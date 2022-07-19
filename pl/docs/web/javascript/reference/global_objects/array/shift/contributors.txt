@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/array/shift/index.html
+
+# Original Wiki contributors
+Krysik
+teoli
+tomecko
+Mgjbot
+telendt
+Internauta1024A
+Ptak82

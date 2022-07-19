@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/children/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+mfluehr
+ExE-Boss
+Sheppy
+Pbb
+jackblackevo
+Delapouite
+idontusenumbers
+K-Gun
+jonkee
+vedmack
+Robg1
+fscholz
+Prome
+ziyunfei
+danburzo
+Kartik_Chadha
+teoli
+Krinkle
+Dan-Dascalescu
+fryn
+Philip Chee
+paul.irish
+janmoesen

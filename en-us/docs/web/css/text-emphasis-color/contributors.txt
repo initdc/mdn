@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/text-emphasis-color/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+valtlai
+Tigt
+mfuji09
+mfluehr
+Sheppy
+chrisdavidmills
+teoli
+yisibl
+upsuper

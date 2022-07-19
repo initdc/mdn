@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/canvas_api/tutorial/hit_regions_and_accessibility/index.html
+
+# Original Wiki contributors
+kbsbroad

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/guide/events/overview_of_events_and_handlers/index.html
+
+# Original Wiki contributors
+superyusuke

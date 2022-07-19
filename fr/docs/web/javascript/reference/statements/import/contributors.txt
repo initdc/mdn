@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/statements/import/index.md
+
+# Original Wiki contributors
+SphinxKnight
+lhapaipai
+NemoNobobyPersonne
+gpenissard
+madarche
+Hartesic
+kdex
+Yukulele.
+ylerjen
+teoli

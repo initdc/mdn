@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/guide/working_with_objects/index.md
+
+# Original Wiki contributors
+fscholz
+khg0712
+SphinxKnight
+nacyot
+KBGenie
+jigs12
+PineMt
+ryukato
+cafrii

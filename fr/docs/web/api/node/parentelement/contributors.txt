@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/node/parentelement/index.md
+
+# Original Wiki contributors
+loella16
+Hell_Carlito
+CLEm
+Goofy
+Eyelock

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/errors/unexpected_token/index.html
+
+# Original Wiki contributors
+Ende93

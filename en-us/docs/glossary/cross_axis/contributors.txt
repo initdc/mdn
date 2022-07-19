@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/cross_axis/index.md
+
+# Original Wiki contributors
+mfuji09
+l3oxy
+chrisdavidmills
+rude9
+rachelandrew

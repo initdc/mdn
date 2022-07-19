@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/gainnode/index.md
+
+# Original Wiki contributors
+marie-ototoi
+fscholz
+teoli
+vava
+tregagnon
+Delapouite
+dexterneo

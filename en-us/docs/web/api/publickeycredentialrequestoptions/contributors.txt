@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/publickeycredentialrequestoptions/index.md
+
+# Original Wiki contributors
+AdamPrins
+mfuji09
+austinbruch
+SphinxKnight
+jpmedley
+fscholz
+chrisdavidmills
+apowers313

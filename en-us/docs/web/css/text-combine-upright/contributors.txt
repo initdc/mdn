@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/text-combine-upright/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+mfuji09
+wbamberg
+yisibl
+chrisdavidmills
+libbymc
+rolfedh
+Sebastianz
+DBaron
+PushpitaPikuDey
+jpmedley
+myakura
+teoli

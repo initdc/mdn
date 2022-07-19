@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/getelementsbyclassname/index.md
+
+# Original Wiki contributors
+abvll
+loella16
+fscholz
+teoli
+khalid32
+Mgjbot
+BenoitL

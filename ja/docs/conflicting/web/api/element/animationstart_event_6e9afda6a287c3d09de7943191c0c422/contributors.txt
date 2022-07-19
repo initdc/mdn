@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/element/animationstart_event_6e9afda6a287c3d09de7943191c0c422/index.html
+
+# Original Wiki contributors
+mfuji09

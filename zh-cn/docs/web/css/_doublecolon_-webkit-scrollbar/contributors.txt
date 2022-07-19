@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/_doublecolon_-webkit-scrollbar/index.md
+
+# Original Wiki contributors
+Sally-he
+LoveofRedMoon
+Messiah

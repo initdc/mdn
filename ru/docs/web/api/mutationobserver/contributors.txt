@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/mutationobserver/index.html
+
+# Original Wiki contributors
+BelousovDmitrii
+YozhEzhi
+PaulineNemchak
+Corba
+Vasiliskov
+torbasow
+Allgoll

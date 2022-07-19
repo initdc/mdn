@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/urlsearchparams/getall/index.md
+
+# Original Wiki contributors
+ciffelia
+chrisdavidmills
+jhpratt
+fscholz
+PushpitaPikuDey
+jpmedley

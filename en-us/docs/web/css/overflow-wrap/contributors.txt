@@ -1,0 +1,39 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/overflow-wrap/index.md
+
+# Original Wiki contributors
+SphinxKnight
+adhitya.venkat12
+wbamberg
+fscholz
+mfluehr
+Sheppy
+mfuji09
+estelle
+chrisdavidmills
+ddbeck
+y6nH
+hannamocha
+davidjb
+arronei
+xrtariq2594
+erikadoyle
+PhiLho
+krixian
+teoli
+Thibaut
+cvrebert
+Sebastianz
+jsx
+paddingme
+Chealer
+LouisLazaris
+Nickolay
+kscarfone
+mattbrundage
+ethertank
+FredB
+dynamis
+mkato
+Jürgen Jeka
+Michael Ryan

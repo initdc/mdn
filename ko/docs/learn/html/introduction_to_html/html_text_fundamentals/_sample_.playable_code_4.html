@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  font-family: 'Open Sans Light', Helvetica, Arial, sans-serif;
+}
+
+.input, .output {
+  width: 90%;
+  height: 8em;
+  padding: 10px;
+  border: 1px solid #0095dd;
+  overflow: auto;
+}
+
+button {
+  padding: 10px 10px 10px 0;
+}
+
+        </style>
+        
+        <title>HTML text fundamentals - playable_code_4 - code sample</title>
+    </head>
+    <body>
+        
+            <h2>Input</h2>
+<textarea id="code" class="input">Quick hummus recipe
+
+    This recipe makes quick, tasty hummus, with no messing. It has been adapted from a number of different recipes that I have read over the years.
+
+    Hummus is a delicious thick paste used heavily in Greek and Middle Eastern dishes. It is very tasty with salad, grilled meats and pitta breads.
+
+    Ingredients
+
+    1 can (400g) of chick peas (garbanzo beans)
+    175g of tahini
+    6 sundried tomatoes
+    Half a red pepper
+    A pinch of cayenne pepper
+    1 clove of garlic
+    A dash of olive oil
+
+    Instructions
+
+    Remove the skin from the garlic, and chop coarsely
+    Remove all the seeds and stalk from the pepper, and chop coarsely
+    Add all the ingredients into a food processor
+    Process all the ingredients into a paste.
+    If you want a coarse "chunky" hummus, process it for a short time
+    If you want a smooth hummus, process it for a longer time
+
+    For a different flavour, you could try blending in a small measure of lemon and coriander, chili pepper, lime and chipotle, harissa and mint, or spinach and feta cheese. Experiment and see what works for you.
+
+    Storage
+
+    Refrigerate the finished hummus in a sealed container. You should be able to use it for about a week after you've made it. If it starts to become fizzy, you should definitely discard it.
+
+    Hummus is suitable for freezing; you should thaw it and use it within a couple of months.</textarea>
+<h2>Output</h2>
+<div class="output"></div>
+<div class="controls">
+  <input id="reset" type="button" value="Reset" />
+  <input id="solution" type="button" value="Show solution" />
+</div>
+
+        
+        
+            <script>
+                var textarea = document.getElementById("code");
+var reset = document.getElementById("reset");
+var code = textarea.value;
+var output = document.querySelector(".output");
+var solution = document.getElementById("solution");
+
+function drawOutput() {
+  output.innerHTML = textarea.value;
+}
+
+reset.addEventListener("click", function() {
+  textarea.value = code;
+  drawOutput();
+});
+
+solution.addEventListener("click", function() {
+  textarea.value = '<h1>Quick hummous recipe</h1>\n\n<p>This recipe makes quick, tasty hummus, with no messing. It has been adapted from a number of different recipes that I have read over the years.</p>\n\n<p>Hummus is a delicious thick paste used heavily in Greek and Middle Eastern dishes. It is very tasty with salad, grilled meats and pitta breads.</p>\n\n<h2>Ingredients</h2>\n\n<ul>\n<li>1 can (400g) of chick peas (garbanzo beans)</li>\n<li>175g of tahini</li>\n<li>6 sundried tomatoes</li>\n<li>Half a red pepper</li>\n<li>A pinch of cayenne pepper</li>\n<li>1 clove of garlic</li>\n<li>A dash of olive oil</li>\n</ul>\n\n<h2>Instructions</h2>\n\n<ol>\n<li>Remove the skin from the garlic, and chop coarsely.</li>\n<li>Remove all the seeds and stalk from the pepper, and chop coarsely.</li>\n<li>Add all the ingredients into a food processor.</li>\n<li>Process all the ingredients into a paste.</li>\n<li>If you want a coarse "chunky" hummus, process it for a short time.</li>\n<li>If you want a smooth hummus, process it for a longer time.</li>\n</ol>\n\n<p>For a different flavour, you could try blending in a small measure of lemon and coriander, chili pepper, lime and chipotle, harissa and mint, or spinach and feta cheese. Experiment and see what works for you.</p>\n\n<h2>Storage</h2>\n\n<p>Refrigerate the finished hummus in a sealed container. You should be able to use it for about a week after you\'ve made it. If it starts to become fizzy, you should definitely discard it.</p>\n\n<p>Hummus is suitable for freezing; you should thaw it and use it within a couple of months.</p>';
+  drawOutput();
+});
+
+textarea.addEventListener("input", drawOutput);
+
+window.addEventListener("load", drawOutput);
+
+            </script>
+        
+    </body>
+</html>

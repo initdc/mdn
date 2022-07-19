@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/certificate_authority/index.md
+
+# Original Wiki contributors
+ksugimori
+sutara79

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/array/foreach/index.html
+
+# Original Wiki contributors
+SebinNyshkim
+schlagi123
+Martin.Kraft
+Anonymous
+StevenS77
+L15t3
+langco
+sudave
+olastor

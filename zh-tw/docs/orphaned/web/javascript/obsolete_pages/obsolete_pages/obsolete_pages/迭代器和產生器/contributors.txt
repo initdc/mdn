@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/web/javascript/obsolete_pages/obsolete_pages/obsolete_pages/迭代器和產生器/index.html
+
+# Original Wiki contributors
+wbamberg
+teoli
+Wladimir_Palant
+happysadman

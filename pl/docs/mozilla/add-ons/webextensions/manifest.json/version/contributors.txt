@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/mozilla/add-ons/webextensions/manifest.json/version/index.html
+
+# Original Wiki contributors
+wbamberg
+Ciepcin

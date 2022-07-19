@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/resize_event/index.md
+
+# Original Wiki contributors
+tristantheb
+gregprice
+sideshowbarker
+wbamberg
+chrisdavidmills
+irenesmith
+awvalenti
+mfluehr
+slater
+Fangfeidenimen
+tshinnic
+fscholz
+neenhouse
+Cameron637
+Tigt
+poacher2k
+cvrebert
+pantherCZ
+codeboy
+teoli
+torbasow
+Brettz9
+kgreen
+raphaelstary
+Sheppy
+ethertank
+louisremi

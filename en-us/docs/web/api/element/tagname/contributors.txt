@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/tagname/index.md
+
+# Original Wiki contributors
+mfluehr
+sideshowbarker
+fscholz
+Sheppy
+walmik
+erikadoyle
+AndySky21
+mrenty
+rolfedh
+VictorCoding
+Sebastianz
+kosvrouvas
+kscarfone
+ziyunfei
+Jürgen Jeka
+Hsivonen
+Kohei
+Mgjbot
+Ptak82
+Nickolay
+Waldo
+Maian
+Dria
+Callek
+JesseW

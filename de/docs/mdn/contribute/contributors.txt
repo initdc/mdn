@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/mdn/contribute/index.html
+
+# Original Wiki contributors
+wbamberg
+matze
+sbarthel
+Sheppy

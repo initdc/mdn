@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/box-sizing/index.html
+
+# Original Wiki contributors
+amazing79
+Soyaine
+manuelizo
+IsraelFloresDGA
+GiioBass
+Derhks
+Sebastianz
+juandiegoles

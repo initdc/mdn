@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/operators/this/index.html
+
+# Original Wiki contributors
+KratosAurion
+schlagi123
+kelthuzad
+eluchsinger

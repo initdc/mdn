@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cache/put/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Wind1808
+jpmedley
+iandunn
+fdor
+newyork-anthonyng
+ronyclau
+fscholz
+erikadoyle
+tomayac
+chrisdavidmills
+nasearle
+DavidScales
+samdutton
+ithinkihaveacat
+vrana
+kscarfone

@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/guide/working_with_objects/index.html
+
+# Original Wiki contributors
+mikhail.makarov
+dyaroman
+alex_wert_and
+logty3
+tonkushin
+m0nclous
+secretarius
+rinbik
+injashkin
+alyokhander
+pathliving
+Siteograf
+Matters
+Megabyteceer
+atlonis
+agrygoriev
+hawkridge
+NobbsNobby
+Grumvol
+TrigDevelopment
+jigs12
+vzhikness
+fscholz
+walkman2058
+yekver
+teoli
+Mxtnr
+dimko_desu
+Vlad.Abdullin
+uleming

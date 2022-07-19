@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/z-index/index.md
+
+# Original Wiki contributors
+SphinxKnight
+akezhan56301
+Mrakobees
+torbasow
+yaruson

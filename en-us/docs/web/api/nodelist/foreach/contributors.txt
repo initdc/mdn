@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/nodelist/foreach/index.md
+
+# Original Wiki contributors
+Sheppy
+Zearin_Galaurum
+sideshowbarker
+jwhitlock
+christiansany
+ExE-Boss
+slokhorst
+gushecht
+JorisW
+Makyen
+Gabrys1
+destin.moulton
+valtlai
+jrencz
+chrisbruford
+teoli

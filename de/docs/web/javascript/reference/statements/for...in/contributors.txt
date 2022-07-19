@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/statements/for...in/index.html
+
+# Original Wiki contributors
+zuzuzu
+baasti
+koedev
+Vitroxyn
+schlagi123
+KuhnEDV
+JohannesDienst
+fscholz
+lupo72

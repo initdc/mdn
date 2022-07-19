@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mozilla/firefox/releases/3.6/index.md
+
+# Original Wiki contributors
+wbamberg
+SphinxKnight
+ethertank
+ziyunfei

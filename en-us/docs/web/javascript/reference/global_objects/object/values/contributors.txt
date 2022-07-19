@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/values/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+chrisdavidmills
+LJHarb
+Zearin_Galaurum
+fkling42
+elharony
+tnacious
+zhuangyin
+superman666
+SphinxKnight
+ryanmurakami
+koddsson
+jameshkramer
+jpmedley
+nmve
+ozknemoy
+eduardoboucas
+ChrisTM
+yisibl
+rwaldron
+x2357
+arai

@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvasrenderingcontext2d/drawimage/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+OliverJAsh2
+mfluehr
+sideshowbarker
+domfarolino
+stianjensen
+I_m_back_now
+fscholz
+Codecat
+jpmedley
+smalllong
+K3N
+nmve
+arronei
+erikadoyle
+QihangSun
+wdgreg
+Kaku
+figure002
+lukasolson

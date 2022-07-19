@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/javascript/index.md
+
+# Original Wiki contributors
+alireza-rezaee
+darby
+AlexHalb
+lukemccartney
+pastparty
+chrisdavidmills
+Packt
+Zearin_Galaurum
+CS-Birb
+Callmeyoon
+titanrei
+zfJames
+_serendipity_
+iigmir
+alper.pekdemir
+Sheppy
+Jeremie
+lpiot
+jsx
+cocobeans123
+Andrew_Pfeiffer
+Biraj
+fscholz
+ajinkya_p
+gorrotowi

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/input/index.html
+
+# Original Wiki contributors
+maodecolombia
+KacosPro
+moisesalmonte
+israel-munoz
+Alejandra.B
+garciaFullana
+j-light
+chech
+dennistobar
+welm
+Johsua
+byverdu
+chipsweb
+teoli
+ovnicraft

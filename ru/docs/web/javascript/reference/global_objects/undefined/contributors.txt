@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/undefined/index.html
+
+# Original Wiki contributors
+almaceleste
+boxa6
+YozhEzhi
+sasd97
+SphinxKnight
+Mingun

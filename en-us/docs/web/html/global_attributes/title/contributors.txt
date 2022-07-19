@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/global_attributes/title/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+Tigt
+wbamberg
+ericwbailey
+fscholz
+sideshowbarker
+JamesCatt
+scottaohara
+mfluehr
+NimJay
+david_ross
+IsaacSchemm
+Nickolay
+r-o-b
+teoli

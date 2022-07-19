@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/runtime/getbackgroundpage/index.md
+
+# Original Wiki contributors
+tim-we
+bershanskiy
+wbamberg
+danny0838
+juraj
+andrewtruongmoz
+Makyen
+chrisdavidmills

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/functions/set/index.html
+
+# Original Wiki contributors
+SerzN1
+severin-d
+PaulineNemchak
+serzero2007
+d4rkm3z

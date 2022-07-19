@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/containing_block/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+alattalatta
+nsangwan
+gregprice
+mustafasalah
+Konrud
+CaTmmao
+Sheppy
+tshinnic
+mfluehr
+Gwyn

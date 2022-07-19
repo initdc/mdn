@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/canvas_api/tutorial/basic_animations/index.html
+
+# Original Wiki contributors
+korobkov
+scanick
+fenfil
+komuroe
+Isk1n
+evgeniy83
+Vovanostm
+SphinxKnight
+fscholz
+RokkerRuslan

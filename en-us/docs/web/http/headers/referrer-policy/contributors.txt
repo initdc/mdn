@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/referrer-policy/index.md
+
+# Original Wiki contributors
+bluezery
+chrisdavidmills
+vstoykovbg
+mfuji09
+Malvoz
+gadflysu
+Sephr
+Tigt
+sideshowbarker
+lennybacon
+fscholz
+ExE-Boss
+pwdst
+myakura
+TriMoon
+Ginkoid
+dhausknecht
+twm
+ptamarit
+lfaraone
+pox

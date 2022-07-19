@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/conflicting/web/api/file_and_directory_entries_api/index.html
+
+# Original Wiki contributors
+Wessonlu
+liuyuan0071

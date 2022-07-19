@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/mathml/element/mtd/index.md
+
+# Original Wiki contributors
+rachelandrew
+ExE-Boss
+Yaffle
+Draussenduscher
+fscholz
+Sheppy

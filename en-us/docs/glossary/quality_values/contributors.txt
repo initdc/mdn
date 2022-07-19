@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/quality_values/index.md
+
+# Original Wiki contributors
+sinanergin
+david_ross
+sobuctb
+fscholz
+teoli

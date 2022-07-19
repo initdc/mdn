@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/input/password/index.md
+
+# Original Wiki contributors
+bershanskiy
+mfuji09
+Anonymous
+estelle
+joecoyle
+KuromiAK
+chrisdavidmills
+Sheppy
+SphinxKnight
+mnoorenberghe
+fscholz
+schalkneethling
+Sebastianz
+teoli
+Meghana_Desai
+JJMC

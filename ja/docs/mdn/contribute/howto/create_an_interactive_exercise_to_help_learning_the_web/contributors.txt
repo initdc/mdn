@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/contribute/howto/create_an_interactive_exercise_to_help_learning_the_web/index.md
+
+# Original Wiki contributors
+silverskyvicto

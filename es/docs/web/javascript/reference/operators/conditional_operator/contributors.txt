@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/operators/conditional_operator/index.html
+
+# Original Wiki contributors
+mauroflamig
+osmar-vil
+maedca
+CesarBustios
+eacp
+cornezuelo
+joeljose

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/btoa/index.md
+
+# Original Wiki contributors
+RainSlide
+zhangchen
+RoXoM
+Carrotzpc
+dingyanhe
+xgqfrms-GitHub
+ziyunfei
+teoli
+khalid32
+cuixiping

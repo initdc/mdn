@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mozilla/add-ons/webextensions/manifest.json/index.html
+
+# Original Wiki contributors
+alexandersolovyov
+anton.pribora
+wbamberg

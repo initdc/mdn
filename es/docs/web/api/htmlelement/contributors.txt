@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/htmlelement/index.html
+
+# Original Wiki contributors
+hernandoh
+hpintos
+fscholz

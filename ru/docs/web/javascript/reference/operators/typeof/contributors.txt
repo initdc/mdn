@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/typeof/index.html
+
+# Original Wiki contributors
+Bonerdelli
+dima74
+Sergey.Vdovareize
+Ohar
+SphinxKnight
+teoli
+kvantor

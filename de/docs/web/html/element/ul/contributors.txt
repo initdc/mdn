@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/html/element/ul/index.html
+
+# Original Wiki contributors
+dio
+teoli
+fscholz
+ethertank
+Crash

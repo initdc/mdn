@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/canvas_api/tutorial/basic_usage/index.html
+
+# Original Wiki contributors
+Davidaz
+mariogalan
+teoli
+guillermomartinmarco
+eoasakura
+mamigove

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/color_value/rgb/index.md
+
+# Original Wiki contributors
+

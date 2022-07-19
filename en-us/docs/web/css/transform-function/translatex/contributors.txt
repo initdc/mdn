@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transform-function/translatex/index.md
+
+# Original Wiki contributors
+Johuspect
+rachelandrew
+ramiy
+wbamberg
+Sebastianz
+estelle
+komalbharadiya
+mfluehr
+chrisdavidmills
+Sheppy
+SphinxKnight
+xjlin
+mrstork
+jsx
+teoli

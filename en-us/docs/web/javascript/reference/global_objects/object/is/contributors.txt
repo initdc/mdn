@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/is/index.md
+
+# Original Wiki contributors
+mfuji09
+alexlur
+wbamberg
+fscholz
+ashuorg
+thibaultboursier
+RunDevelopment
+cohenudi
+jameshkramer
+gunnim
+kdex
+rwaldron
+DaSchTour
+Sheppy
+SphinxKnight
+davidchambers
+isiahmeadows
+teoli
+realityking
+Mingun
+Robg1
+hthetiot
+Sevenspade
+honnza
+Waldo
+ethertank
+evilpie
+ziyunfei

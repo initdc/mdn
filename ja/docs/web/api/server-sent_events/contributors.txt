@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/server-sent_events/index.md
+
+# Original Wiki contributors
+k-ta-yamada
+mfuji09
+yyss
+ethertank
+raju_dasa

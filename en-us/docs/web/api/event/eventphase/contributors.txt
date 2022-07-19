@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/eventphase/index.md
+
+# Original Wiki contributors
+bershanskiy
+Zearin_Galaurum
+mfluehr
+fscholz
+AndreasCag
+Sebastianz
+cvrebert
+bantic
+SphinxKnight
+dzlabs
+MadAnd
+Sheppy
+rayhatfield
+teoli
+kosvrouvas
+kscarfone
+Cobra
+maybe
+Nickolay
+Matej Lednar
+Yaroukh
+Jo-W
+Jabez
+Ptak82
+Maian
+Dria
+JesseW

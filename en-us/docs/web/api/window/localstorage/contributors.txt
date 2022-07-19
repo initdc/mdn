@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/localstorage/index.md
+
+# Original Wiki contributors
+firstnamelastname
+alattalatta
+jswisher
+SphinxKnight
+41836176+tati
+vitaly-zdanevich
+ExE-Boss
+mfluehr
+buoyantair
+xgqfrms
+connorshea
+j-d-b
+billbitt
+Utopiah
+vilozio
+Sheppy
+fscholz
+chrisdavidmills
+maverickpravin
+erikadoyle
+sarafec
+torra
+crumb
+kscarfone
+jsx

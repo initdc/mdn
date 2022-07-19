@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/weakset/add/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+jameshkramer
+kdex
+eduardoboucas
+chrisdavidmills
+andradei
+realityking
+teoli

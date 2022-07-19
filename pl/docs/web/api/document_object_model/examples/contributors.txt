@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document_object_model/examples/index.html
+
+# Original Wiki contributors
+pablovsky
+mklkj
+khalid32
+Ptak82
+Mgjbot
+Bedi

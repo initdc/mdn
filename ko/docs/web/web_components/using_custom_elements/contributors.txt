@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/web_components/using_custom_elements/index.md
+
+# Original Wiki contributors
+cutelee
+chdaud1995
+alattalatta
+atomDevelop
+nerdrun
+ByeongGi

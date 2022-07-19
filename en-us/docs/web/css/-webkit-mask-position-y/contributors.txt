@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-webkit-mask-position-y/index.md
+
+# Original Wiki contributors
+wbamberg
+ddbeck
+Sheppy
+teoli
+fscholz
+mfluehr
+Sebastianz

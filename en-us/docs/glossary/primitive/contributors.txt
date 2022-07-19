@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/primitive/index.md
+
+# Original Wiki contributors
+sideshowbarker
+AlexHalb
+mfuji09
+wentout
+dcompcoder
+chrisdavidmills
+jonathan-soifer
+JonDevOps
+pabo
+alexhrao
+Da13Harris
+Braveheartforyou
+iulia
+aaronfranke
+linuscash
+sutkh
+user708315
+aetonsi
+elharony
+denmch
+PyroLagus
+akinjide
+anmary
+teoli
+stevemao
+ssorallen
+hbloomer
+davidchambers
+Andrew_Pfeiffer
+klez
+fscholz

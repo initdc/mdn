@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/rtcrtpreceiver/index.md
+
+# Original Wiki contributors
+Sheppy
+krosylight
+fscholz
+jpmedley

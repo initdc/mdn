@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/text-decoration-style/index.md
+
+# Original Wiki contributors
+mfuji09
+Sebastianz
+mitsuba-clover
+ethertank
+sosleepy
+yyss

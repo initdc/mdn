@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/errors/not_defined/index.html
+
+# Original Wiki contributors
+Nik1tasm
+irodger
+MrDaedra
+KurumiToki
+alexfromvl
+topcomfort

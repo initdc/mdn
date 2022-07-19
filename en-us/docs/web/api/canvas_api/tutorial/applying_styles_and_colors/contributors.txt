@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvas_api/tutorial/applying_styles_and_colors/index.md
+
+# Original Wiki contributors
+stefanradivojevic
+dumau144
+ryym
+stephaniehobson
+nmve
+onurtemizkan
+jake-griffin
+Krenair
+fscholz
+edlau
+micahcarroll
+teoli
+Jeremie
+onedir
+kscarfone
+enderandpeter
+zbjornson
+Sheppy
+trevorh

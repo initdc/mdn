@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/array/includes/index.html
+
+# Original Wiki contributors
+Yialo
+Hronex
+nikolai-shabalin
+dima74
+Setol
+burashka
+jwhitlock
+dema
+Mingun
+fscholz

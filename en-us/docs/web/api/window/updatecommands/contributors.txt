@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/updatecommands/index.md
+
+# Original Wiki contributors
+mfuji09
+lucian95
+SphinxKnight
+forivall
+fscholz
+MHasan
+teoli
+iamanupmenon
+utkarsh_shah
+Sheppy
+Mgjbot
+Maian

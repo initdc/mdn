@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/data_structures/index.html
+
+# Original Wiki contributors
+BenjHawk
+GR_Fuchs
+fL03
+schlagi123
+twarncke
+yampus
+ChristianLuxem
+nodexo
+fscholz
+siggi-heltau
+FabianBeiner
+spiegelp

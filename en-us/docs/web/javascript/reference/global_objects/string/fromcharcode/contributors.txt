@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/fromcharcode/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+kurbanovjasur
+fscholz
+sideshowbarker
+Zearin_Galaurum
+Solomon.Rutzky
+vqrs
+Erutuon
+asmforce
+jameshkramer
+calhiari
+kdex
+eduardoboucas
+Mingun
+mathiasbynens
+Sheppy
+ethertank
+Brettz9
+ziyunfei
+KevinGadd
+timoxley
+evilpie
+Sevenspade
+Mgjbot
+BijuGC
+Maian
+Dria

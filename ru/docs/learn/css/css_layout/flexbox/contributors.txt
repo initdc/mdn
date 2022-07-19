@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/css/css_layout/flexbox/index.html
+
+# Original Wiki contributors
+Dmitrjj_Klat
+shade0602
+dastier
+BuzzardSX
+egorgrin
+kublahanov
+janglewood
+greenkey
+SukachevAlex
+Shururup
+AlexZetto
+j-and
+AlexSND
+rhiter

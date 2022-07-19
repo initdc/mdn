@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Принятие решений в вашем коде — условные конструкции - playable_code_2 - code sample</title>
+    </head>
+    <body>
+        
+            <div class="output" style="height: 300px;">
+  <label for="theme">Выберите тему: </label>
+  <select id="theme">
+    <option value="white">Белая</option>
+    <option value="black">Чёрная</option>
+    <option value="purple">Лиловая</option>
+    <option value="yellow">Жёлтая</option>
+    <option value="psychedelic">Психоделическая</option>
+  </select>
+
+  <h1>Это мой веб-сайт</h1>
+</div>
+
+<hr>
+
+<textarea id="code" class="playable-code" style="height: 450px;">
+var select = document.querySelector('select');
+var html = document.querySelector('.output');
+
+select.onchange = function() {
+  var choice = select.value;
+
+  // ДОБАВЬТЕ ИНСТРУКЦИЮ SWITCH
+}
+
+function update(bgColor, textColor) {
+  html.style.backgroundColor = bgColor;
+  html.style.color = textColor;
+}</textarea>
+
+<div class="playable-buttons">
+  <input id="reset" type="button" value="Сброс">
+  <input id="solution" type="button" value="Показать решение">
+</div>
+
+        
+        
+            <script>
+                var textarea = document.getElementById('code');
+var reset = document.getElementById('reset');
+var solution = document.getElementById('solution');
+var code = textarea.value;
+
+function updateCode() {
+  eval(textarea.value);
+}
+
+reset.addEventListener('click', function() {
+  textarea.value = code;
+  userEntry = textarea.value;
+  solutionEntry = jsSolution;
+  solution.value = 'Показать решение';
+  updateCode();
+});
+
+solution.addEventListener('click', function() {
+  if(solution.value === 'Показать решение') {
+     textarea.value = solutionEntry;
+     solution.value = 'Скрыть решение';
+   } else {
+     textarea.value = userEntry;
+     solution.value = 'Показать решение';
+   }
+  updateCode();
+});
+
+var jsSolution = 'var select = document.querySelector(\'select\');\nvar html = document.querySelector(\'.output\');\n\nselect.onchange = function() {\n  var choice = select.value;\n\n  switch(choice) {\n    case \'black\':\n      update(\'black\',\'white\');\n      break;\n    case \'white\':\n      update(\'white\',\'black\');\n      break;\n    case \'purple\':\n      update(\'purple\',\'white\');\n      break;\n    case \'yellow\':\n      update(\'yellow\',\'darkgray\');\n      break;\n    case \'psychedelic\':\n      update(\'lime\',\'purple\');\n      break;\n  }\n}\n\nfunction update(bgColor, textColor) {\n  html.style.backgroundColor = bgColor;\n  html.style.color = textColor;\n}';
+var solutionEntry = jsSolution;
+
+textarea.addEventListener('input', updateCode);
+window.addEventListener('load', updateCode);
+
+// stop tab key tabbing out of textarea and
+// make it write a tab at the caret position instead
+
+textarea.onkeydown = function(e){
+   if (e.keyCode === 9) {
+      e.preventDefault();
+      insertAtCaret('\t');
+   }
+
+   if (e.keyCode === 27) {
+      textarea.blur();
+      }
+  };
+
+function insertAtCaret(text) {
+   var scrollPos = textarea.scrollTop;
+   var caretPos = textarea.selectionStart;
+
+   var front = (textarea.value).substring(0, caretPos);
+   var back = (textarea.value).substring(textarea.selectionEnd, textarea.value.length);
+   textarea.value = front + text + back;
+   caretPos = caretPos + text.length;
+   textarea.selectionStart = caretPos;
+   textarea.selectionEnd = caretPos;
+   textarea.focus();
+   textarea.scrollTop = scrollPos;
+ }
+
+// Update the saved userCode every time the user updates the text area code
+
+textarea.onkeyup = function(){
+  // We only want to save the state when the user code is being shown,
+  // not the solution, so that solution is not saved over the user code
+  if(solution.value === 'Показать решение') {
+    userEntry = textarea.value;
+  } else {
+    solutionEntry = textarea.value;
+  }
+
+
+updateCode();
+
+};
+
+
+            </script>
+        
+    </body>
+</html>

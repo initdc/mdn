@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/mimetypes/index.md
+
+# Original Wiki contributors
+ExE-Boss
+fscholz
+jpmedley
+chrisdavidmills
+teoli
+MHasan
+bsmedberg
+kscarfone
+Sheppy
+ethertank
+Mgjbot
+Diablownik
+George3
+Dria
+JesseW

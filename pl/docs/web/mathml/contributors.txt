@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/mathml/index.html
+
+# Original Wiki contributors
+tjasinski
+teoli
+fred.wang
+Bedi
+Ptak82
+gandalf

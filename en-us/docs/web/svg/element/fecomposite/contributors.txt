@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/fecomposite/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+liyongleihf2006
+ntim
+abbycar
+Sebastianz
+kscarfone
+Jeremie
+Manuel_Strehl

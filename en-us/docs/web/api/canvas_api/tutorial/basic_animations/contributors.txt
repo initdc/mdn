@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvas_api/tutorial/basic_animations/index.md
+
+# Original Wiki contributors
+PG-8
+hvmptydvmpty
+kunalverma94
+vighnesh153
+smasher164
+stephaniehobson
+neilc
+rideron89
+niceplugin
+nmve
+raphamorim
+kscarfone
+duckumu
+fscholz
+Jeremie
+onedir
+mcdavis
+Sheppy
+trevorh

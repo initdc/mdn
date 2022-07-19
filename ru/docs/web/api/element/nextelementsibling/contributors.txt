@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/element/nextelementsibling/index.html
+
+# Original Wiki contributors
+T-p-V
+GoodLuck

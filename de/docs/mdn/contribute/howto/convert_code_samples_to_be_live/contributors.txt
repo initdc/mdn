@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/mdn/contribute/howto/convert_code_samples_to_be_live/index.html
+
+# Original Wiki contributors
+wbamberg
+lmoench
+Tutz

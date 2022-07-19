@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/analysernode/frequencybincount/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Jedipedia
+fscholz
+klachhani
+erikadoyle
+teoli

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/common_questions/index.md
+
+# Original Wiki contributors
+DaniellaAngel
+y976362357
+yuyx91
+ArcherGrey
+lavenderming
+ziyunfei
+funnyChinese
+wth
+Yidada

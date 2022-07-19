@@ -1,0 +1,41 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/3.6/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+SphinxKnight
+Sebastianz
+Sheppy
+chandran
+ethertank
+ziyunfei
+madarche
+fryn
+Verruckt
+Jst
+Nickolay
+Blizzard
+sicking
+Hsivonen
+atte
+BenoitL
+Mcs
+Potappo
+Level
+Crash
+Alex Barrett
+crayzeepete
+Kirschkern
+Taken
+Midnightaz
+Ms2ger
+Jürgen Jeka
+Mvent2
+DBaron
+Masayuki
+Michael Ryan
+ljgljg
+Natch
+Waldo
+Dougt

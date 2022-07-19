@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediarecordererrorevent/error/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Rumyra
+Wind1808
+fscholz
+Sheppy

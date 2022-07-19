@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/clients/matchall/index.md
+
+# Original Wiki contributors
+asamidoi
+Wind1808
+jpmedley
+mfluehr
+sideshowbarker
+NateNjuguna
+fscholz
+chrisdavidmills
+nmve
+marco-c
+digitarald
+Sebastianz
+teoli
+kscarfone

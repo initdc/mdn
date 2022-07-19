@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/privacy/index.md
+
+# Original Wiki contributors
+SphinxKnight
+memeuzo903
+jl2452360
+Sheppy
+antoinegrant

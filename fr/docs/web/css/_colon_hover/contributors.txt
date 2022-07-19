@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/_colon_hover/index.md
+
+# Original Wiki contributors
+SphinxKnight
+PhilippeV
+FredB
+teoli
+tregagnon
+ThePrisoner
+tcit

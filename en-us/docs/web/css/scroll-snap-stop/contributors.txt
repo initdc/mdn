@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/scroll-snap-stop/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+chrisdavidmills
+andrewdushane
+mfuji09
+rachelandrew
+ZaneHannanAU

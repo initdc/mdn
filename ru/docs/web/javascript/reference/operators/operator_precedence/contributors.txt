@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/operator_precedence/index.html
+
+# Original Wiki contributors
+Yialo
+nakhodkiin
+synth
+Ihor92
+BychekRU
+Aleksej
+fscholz
+mcmimik
+teoli
+TotalAMD
+hazestalker

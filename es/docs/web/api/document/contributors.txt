@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document/index.md
+
+# Original Wiki contributors
+luis.iglesias
+AlejandroCordova
+fscholz
+Crash
+DoctorRomi
+Mgjbot
+DR
+Carlosds
+Nathymig

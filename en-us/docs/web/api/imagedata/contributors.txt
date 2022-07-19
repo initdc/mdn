@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/imagedata/index.md
+
+# Original Wiki contributors
+hamishwillee
+stevejay
+mfluehr
+Zhang-Junzhi
+fscholz
+zbjornson
+libbymc
+jpmedley
+pci
+hbloomer
+PixievoltNo1
+pjbaron
+svr93
+teoli
+spleen387
+KarlGl
+nehasharma
+Bobo
+Sheppy
+tolki
+ethertank
+ziyunfei
+Brettz9

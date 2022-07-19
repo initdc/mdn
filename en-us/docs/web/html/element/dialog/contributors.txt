@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/dialog/index.md
+
+# Original Wiki contributors
+mfuji09
+JamesCatt
+Tigt
+alattalatta
+ecgan
+Mathdrquinn
+luisdfp
+rajsite
+Sheppy
+acdvorak
+beingmrkenny
+ExE-Boss
+tatellos
+thatemil
+Thojo
+teoli
+Sebastianz
+edwinmdn1
+Noyabronok
+Chealer
+sideshowbarker
+torbasow
+cvrebert
+LPGhatguy
+ght
+jsx
+dhodder
+Akilan_Arasu

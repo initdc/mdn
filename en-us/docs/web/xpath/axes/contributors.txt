@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xpath/axes/index.md
+
+# Original Wiki contributors
+ExE-Boss
+SphinxKnight
+Davorak
+Sheppy
+brettsky
+Cuimingda
+Mgjbot
+Fredchat
+Ptak82
+Nickolay
+CitizenK
+Dria

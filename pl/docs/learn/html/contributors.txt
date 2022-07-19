@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/html/index.html
+
+# Original Wiki contributors
+AleksCreative
+Sabi_K
+vistafan12
+HynekMartin751
+smile121

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_flexible_box_layout/index.md
+
+# Original Wiki contributors
+wbamberg
+vnctdj
+LukV
+hinell
+fscholz
+rachelandrew
+mfuji09
+andrzejkrecicki
+chrisdavidmills
+bear-bibeault
+mfluehr
+WynnChen
+Arturio1970
+teoli

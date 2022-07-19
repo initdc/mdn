@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/websockets_api/writing_websocket_servers/index.md
+
+# Original Wiki contributors
+jswisher
+elatllat
+lemonizer
+Sheppy
+jamessouth
+Lexicality
+SphinxKnight
+Johannes-Janssens
+alexhultman
+Krizzu
+broofa
+stauzs
+dchest
+dawud-tan
+teoli
+OscarCou
+kscarfone
+pkoli
+oddalot
+laobubu
+styfle
+anistark
+rvighne
+mrbrc
+Arshabh
+kdbanman
+bitrayne
+dron

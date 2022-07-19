@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/user-select/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Sheppy
+Fredchat
+teoli
+louuis

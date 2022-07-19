@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_colors/applying_color/index.md
+
+# Original Wiki contributors
+Isaaac-Jr
+the-lyu
+UnorthodoxThing
+irenesmith
+alattalatta
+fazl
+Sheppy
+alexaguiarx
+joseph-kaainoa
+chrisdavidmills

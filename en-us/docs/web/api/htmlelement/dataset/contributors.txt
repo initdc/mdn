@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/dataset/index.md
+
+# Original Wiki contributors
+lucaswerkmeister
+Tigt
+roryokane
+12Me21
+Zearin_Galaurum
+dougshamoo
+mfuji09
+ExE-Boss
+alattalatta
+sideshowbarker
+dangtu
+adamhotep
+egml
+fscholz
+Benratelade
+Sheppy
+rugk
+cweiske
+SphinxKnight
+Cactus
+abramz
+erikadoyle
+kevin_martinez
+pcat
+ondreian
+teoli
+claudepache
+yan
+kscarfone
+pseudosavant
+ebidel
+ernestd
+nimbu

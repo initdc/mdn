@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvasrenderingcontext2d/getimagedata/index.md
+
+# Original Wiki contributors
+andrezsanchez
+mfluehr
+kealan-parr
+Sheppy
+TimothyGu
+fscholz
+zbjornson
+brttd
+nmve
+erikadoyle
+michaellaszlo

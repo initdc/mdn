@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mdn/contribute/howto/tag/index.html
+
+# Original Wiki contributors
+wbamberg
+Creasick
+blanchart
+meCarrion17
+rafamagno
+teoli
+PepeAntonio
+CristianMar25
+anmartinez
+LeoHirsch

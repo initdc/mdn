@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/mozilla/firefox/index.html
+
+# Original Wiki contributors
+SphinxKnight
+wbamberg
+Shadowman0983
+Arekusandoru
+dziubeq
+BogdanMDN
+Danios512
+kubutekf
+teoli
+splewako
+Yecril
+mirekczechxmm
+KesSelL
+Timmi

@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/hasfocus/index.md
+
+# Original Wiki contributors
+mfuji09
+mfluehr
+Konrud
+fscholz
+Abradoks
+antpaw
+erikadoyle
+turadg
+BenLF
+scunliffe
+teoli
+cvrebert
+hirokiosame
+kollishivagangadhar
+bradleymeck
+kscarfone
+Khodaidad_Basharmand
+ethertank
+Sheppy
+ogonkov
+ziyunfei
+Marcoos
+jswisher
+Brettz9
+Kohei
+Mgjbot
+Shoot

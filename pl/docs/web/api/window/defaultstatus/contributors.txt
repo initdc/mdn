@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/window/defaultstatus/index.html
+
+# Original Wiki contributors
+teoli
+khalid32
+Mgjbot
+Ptak82
+Internauta1024A
+Diablownik

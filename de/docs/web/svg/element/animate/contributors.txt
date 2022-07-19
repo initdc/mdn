@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/svg/element/animate/index.html
+
+# Original Wiki contributors
+Dschubba
+Sebastianz
+fscholz
+teoli
+martin_ti

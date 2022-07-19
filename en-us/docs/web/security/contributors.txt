@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/security/index.md
+
+# Original Wiki contributors
+Sichen-Wang
+mfuji09
+jswisher
+roshan0708
+SphinxKnight
+nuengrutaifin
+Sheppy
+fscholz
+PPElite
+marumari
+ISOBEL
+AdamC
+SpencerG

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmloptgroupelement/index.md
+
+# Original Wiki contributors
+sideshowbarker
+ExE-Boss
+Sebastianz
+libbymc
+slimsag
+fscholz
+teoli
+kscarfone
+Sheppy
+Jeremie

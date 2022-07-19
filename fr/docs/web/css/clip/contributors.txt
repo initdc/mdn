@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/clip/index.md
+
+# Original Wiki contributors
+SphinxKnight
+mrstork
+Sebastianz
+teoli
+FredB
+Mgjbot
+Valacar
+Elethiomel
+Fredchat

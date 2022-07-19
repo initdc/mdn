@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_flexible_box_layout/relationship_of_flexbox_to_other_layout_methods/index.md
+
+# Original Wiki contributors
+gerfolder
+upbeatcode
+Wryhder
+chrisdavidmills
+riking
+reppets
+mattbrundageMDN
+demir-delic
+nicross
+JonathanPool
+rachelandrew

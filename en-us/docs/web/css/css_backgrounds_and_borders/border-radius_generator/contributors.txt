@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_backgrounds_and_borders/border-radius_generator/index.md
+
+# Original Wiki contributors
+alattalatta
+mfluehr
+Sheppy
+teoli
+gabriel_ivanica

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/input/password/index.html
+
+# Original Wiki contributors
+MarielaBR
+xxx41
+AlvaroNieto

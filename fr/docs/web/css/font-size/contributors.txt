@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/font-size/index.md
+
+# Original Wiki contributors
+yaaax
+JNa0
+SphinxKnight
+Kocal
+Bringdal
+fscholz
+teoli
+Fredchat
+louuis
+FredB
+anthony.gaidot
+Mgjbot
+Kyodev

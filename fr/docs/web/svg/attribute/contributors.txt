@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/attribute/index.md
+
+# Original Wiki contributors
+a-mt
+Frigory
+marie-ototoi
+teoli
+Delapouite
+Blackhole
+ethertank

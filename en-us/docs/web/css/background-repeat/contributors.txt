@@ -1,0 +1,39 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/background-repeat/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+ddbeck
+mfluehr
+zhuangyin
+fscholz
+Arty-chan
+xfq
+dyf19118
+teoli
+erikadoyle
+Sebastianz
+yisibl
+SphinxKnight
+MarkusStange
+jsx
+chrisAnderson
+TWebs
+Sheneman
+J-Mackerel
+kscarfone
+ethertank
+tregagnon
+leaverou
+estelle
+grendel
+JonRimmer
+Alex Lakatos
+Mgjbot
+BijuGC
+Gabrys
+Qazzian
+Sembiance
+alecananian
+Readams

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/print-color-adjust/index.md
+
+# Original Wiki contributors
+ramiy
+wbamberg
+Sheppy
+chrisdavidmills
+mfuji09
+ddbeck
+XPiRED
+Siilwyn

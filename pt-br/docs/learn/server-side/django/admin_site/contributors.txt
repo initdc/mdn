@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/server-side/django/admin_site/index.html
+
+# Original Wiki contributors
+ecoscom
+jefersonsalvador
+fossalex
+theafien

@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-bottom-color/index.md
+
+# Original Wiki contributors
+ddbeck
+Sheppy
+valtlai
+sideshowbarker
+mfuji09
+wbamberg
+mfluehr
+elysdir1
+erikadoyle
+Krenair
+Sebastianz
+fscholz
+jsx
+teoli
+J-Mackerel
+SiddharthBhatt
+kscarfone
+vim-chhetri
+FredB
+trevorh
+ethertank
+Yuichiro
+Jürgen Jeka
+Mgjbot
+BijuGC
+DBaron
+Qazzian
+alecananian

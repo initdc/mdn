@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/getting_started_with_the_web/javascript_basics/index.md
+
+# Original Wiki contributors
+edspeedy
+grandoc
+SuppWill
+Melanie.Almeida
+Drakone
+clamb
+manuilambert
+Maartz
+codingk8
+Dralyab
+TheStarrK
+loella16
+TheoDardel
+bl4n
+SphinxKnight
+Aelerinya

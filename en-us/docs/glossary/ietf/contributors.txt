@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/ietf/index.md
+
+# Original Wiki contributors
+darby
+Sheppy
+smarvin
+klez
+Andrew_Pfeiffer

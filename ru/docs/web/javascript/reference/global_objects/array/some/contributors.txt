@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/array/some/index.html
+
+# Original Wiki contributors
+ekirpichyov
+VovanR
+zhvirblis
+Mingun
+teoli
+hel-galdr

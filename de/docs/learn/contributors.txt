@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/learn/index.html
+
+# Original Wiki contributors
+Towdo
+hrfischer1983
+methodx
+SphinxKnight
+Shidigital
+babylinda1973
+sigoa
+makobasuri
+Ayaka
+LeBasti
+wittmern
+kscarfone

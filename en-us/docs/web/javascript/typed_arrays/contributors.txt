@@ -1,0 +1,39 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/typed_arrays/index.md
+
+# Original Wiki contributors
+wbamberg
+wellset
+fscholz
+Zearin_Galaurum
+Sheppy
+danielpmichalski
+utkarshbhatt12
+Harrison1
+nmve
+kdex
+seadour
+chessweb01
+adria
+dharkness
+stevemao
+dap6000
+JamesGreene
+Delapouite
+robinst
+lsk
+velvel53
+fusionchess
+calvin
+teoli
+louisremi
+ethertank
+evilpie
+yyss
+Sevenspade
+Kennyluck
+csmithson
+Brettz9
+vjeux
+paul.irish
+Philip Chee

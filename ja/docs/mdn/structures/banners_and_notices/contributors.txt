@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/structures/banners_and_notices/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+silverskyvicto

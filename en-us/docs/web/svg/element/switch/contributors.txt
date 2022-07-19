@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/switch/index.md
+
+# Original Wiki contributors
+escattone
+Tigt
+hinell
+jwhitlock
+fscholz
+mattwojo
+y6nH
+Sebastianz
+kscarfone
+Jeremie
+trevorh
+Manuel_Strehl
+Longsonr

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/web_components/using_templates_and_slots/index.html
+
+# Original Wiki contributors
+olalinv
+quintero_japon
+BrunoUY
+ulisestrujillo

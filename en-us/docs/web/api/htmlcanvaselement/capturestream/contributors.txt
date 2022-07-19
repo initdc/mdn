@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlcanvaselement/capturestream/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Sheppy
+fscholz
+nmve
+miguelao
+jpmedley
+samdutton
+Sebastianz
+teoli
+tstrokes
+gmarty

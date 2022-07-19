@@ -1,0 +1,57 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/createelement/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+UnJavaScripter
+chrisdavidmills
+mfuji09
+Juandresyn
+jxjj
+fscholz
+jpmedley
+r-i-c-h
+piuccio
+svillegas
+erikadoyle
+wbamberg
+julienq
+madarche
+teoli
+karbassi
+Strilanc
+Sheppy
+FineTralfazz
+Velmurugan
+frd
+MHasan
+edendramis
+Delapouite
+goetz
+RUJordan
+kscarfone
+Navin_Jadhav
+wsh91
+Bzbarsky
+ethertank
+paul.irish
+f0x
+mohamad kmail
+Nickolay
+Crash
+Jürgen Jeka
+Hsivonen
+Matej Lednar
+Mgjbot
+Quasiphoton
+Hyeongryeol
+Federico
+Sebuls
+Jabez
+Psychopsia
+Jovemsabio
+Ptak82
+Sp
+BenoitL
+Dria
+JesseW

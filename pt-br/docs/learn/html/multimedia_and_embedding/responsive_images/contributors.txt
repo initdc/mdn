@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/html/multimedia_and_embedding/responsive_images/index.html
+
+# Original Wiki contributors
+gustavaum
+davimh
+rafaelcavalcante
+BrunoThomaz

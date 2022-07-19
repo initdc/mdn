@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/glossary/middleware/index.html
+
+# Original Wiki contributors
+a962017

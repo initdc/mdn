@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/promise/index.html
+
+# Original Wiki contributors
+sebenns
+semmelbroesl
+Dschubba
+mrmoree
+CorvusRohan
+jnnkm
+SphinxKnight
+0xflotus
+HendrikRunte
+1blankz7

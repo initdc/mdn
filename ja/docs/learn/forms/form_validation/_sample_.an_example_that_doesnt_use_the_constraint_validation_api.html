@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            /* これはサンプルの見栄えをよくするスタイルです */
+body {
+  font: 1em sans-serif;
+  padding: 0;
+  margin : 0;
+}
+
+form {
+  max-width: 200px;
+}
+
+p * {
+  display: block;
+}
+
+input.mail {
+  -webkit-appearance: none;
+
+  width: 100%;
+  border: 1px solid #333;
+  margin: 0;
+
+  font-family: inherit;
+  font-size: 90%;
+
+  box-sizing: border-box;
+}
+
+/* これは不正なフィールド向けのスタイルです */
+input.invalid{
+  border-color: #900;
+  background-color: #FDD;
+}
+
+input:focus.invalid {
+  outline: none;
+}
+
+/* これはエラーメッセージ向けのスタイルです */
+.error {
+  width  : 100%;
+  padding: 0;
+
+  font-size: 80%;
+  color: white;
+  background-color: #900;
+  border-radius: 0 0 5px 5px;
+  box-sizing: border-box;
+}
+
+.error.active {
+  padding: 0.3em;
+}
+        </style>
+        
+        <title>クライアント側のフォームデータ検証 - an_example_that_doesnt_use_the_constraint_validation_api - code sample</title>
+    </head>
+    <body>
+        
+            <form>
+  <p>
+    <label for="mail">
+        <span>メールアドレスを入力してください。</span>
+        <input type="text" class="mail" id="mail" name="mail">
+        <span class="error" aria-live="polite"></span>
+    </label>
+  <p>
+  <!-- 一部の古いブラウザーでは button 要素で、type 属性に明示的に
+       submit を設定する必要があります。-->
+  <button type="submit">Submit</button>
+</form>
+        
+        
+            <script>
+                // 古いブラウザーで DOM ノードを選択する方法は少ない
+const form  = document.getElementsByTagName('form')[0];
+const email = document.getElementById('mail');
+
+// 以下は DOM 内で次の兄弟要素にたどり着くための技です。
+// これは容易に無限ループになることがあるため、危険です。
+// 新しいブラウザーでは、element.nextElementSibling を使用しましょう。
+let error = email;
+while ((error = error.nextSibling).nodeType != 1);
+
+// HTML5 仕様書より
+const emailRegExp = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+
+// 多くの古いブラウザーは addEventListener メソッドをサポートしていません。
+// 以下はこれを扱うためのシンプルな方法です。なお唯一の方法ではありません。
+function addEvent(element, event, callback) {
+  let previousEventCallBack = element["on"+event];
+  element["on"+event] = function (e) {
+    const output = callback(e);
+
+    // `false` を返すコールバックはコールバックチェーンを止めて、
+    // イベントコールバックの実行を中断します。
+    if (output === false) return false;
+
+    if (typeof previousEventCallBack === 'function') {
+      output = previousEventCallBack(e);
+      if(output === false) return false;
+    }
+  }
+};
+
+// ここから検証制約の再構築ができます。
+// CSS の疑似クラスに頼ることはできないため、メールアドレスフィールドで
+// valid/invalid クラスを明示的に設定しなければなりません。
+addEvent(window, "load", function () {
+  // ここで、フィールドが空かを確認しています (フィールドは必須入力ではありません)
+  // 空でなければ、内容部が適切な電子メールアドレスかを確認します。
+  const test = email.value.length === 0 || emailRegExp.test(email.value);
+
+  email.className = test ? "valid" : "invalid";
+});
+
+// ユーザーがフィールドに入力したときに、何をするかを定義します。
+addEvent(email, "input", function () {
+  const test = email.value.length === 0 || emailRegExp.test(email.value);
+  if (test) {
+    email.className = "valid";
+    error.textContent = "";
+    error.className = "error";
+  } else {
+    email.className = "invalid";
+  }
+});
+
+// ユーザーがデータを送信しようとしたときに何をするかを定義します。
+addEvent(form, "submit", function () {
+  const test = email.value.length === 0 || emailRegExp.test(email.value);
+
+  if (!test) {
+    email.className = "invalid";
+    error.textContent = "I expect an e-mail, darling!";
+    error.className = "error active";
+
+    // 一部の古いブラウザーは event.reventDefault() メソッドをサポートしていません。
+    return false;
+  } else {
+    email.className = "valid";
+    error.textContent = "";
+    error.className = "error";
+  }
+});
+            </script>
+        
+    </body>
+</html>

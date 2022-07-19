@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mouseevent/x/index.md
+
+# Original Wiki contributors
+connorshea
+fscholz
+chrisdavidmills
+libbymc
+salty-horse
+Sebastianz
+cvrebert
+teoli

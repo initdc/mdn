@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/indexeddb_api/browser_storage_limits_and_eviction_criteria/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+StefanSurkamp
+grubec

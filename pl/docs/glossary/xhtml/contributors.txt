@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/glossary/xhtml/index.html
+
+# Original Wiki contributors
+Diablownik
+Ptak82
+gandalf

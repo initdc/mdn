@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_types/index.md
+
+# Original Wiki contributors
+rachelandrew
+chrisdavidmills
+ramiy
+mfuji09
+wbamberg
+jswisher
+estelle
+Sheppy
+mfluehr
+david_ross
+CarloMartini
+mantou

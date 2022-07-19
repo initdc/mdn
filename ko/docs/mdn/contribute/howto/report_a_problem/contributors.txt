@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/mdn/contribute/howto/report_a_problem/index.html
+
+# Original Wiki contributors
+peterbe
+wbamberg
+LimeClover

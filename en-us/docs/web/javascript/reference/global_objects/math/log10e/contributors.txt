@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/log10e/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+jameshkramer
+Mingun
+fred.wang
+Sheppy
+ethertank
+evilpie
+Mgjbot
+Kyodev
+Maian
+Marcoos
+Dria

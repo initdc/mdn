@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/instance/index.md
+
+# Original Wiki contributors
+roshan0708
+lpiot
+klez
+Andrew_Pfeiffer
+kscarfone
+gusleindecker

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglrenderingcontext/getactiveuniform/index.md
+
+# Original Wiki contributors
+realityforge
+Ovilia
+aleonhard
+gmanpersona
+Sheppy
+fscholz
+teoli

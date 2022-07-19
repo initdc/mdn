@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/constructor/index.md
+
+# Original Wiki contributors
+maybe
+PetiPandaRou
+Andrew_Pfeiffer
+hbloomer
+pbmj5233
+klez
+vdmannvol

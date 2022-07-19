@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/guide/introduction/index.html
+
+# Original Wiki contributors
+woiddale
+schlagi123
+aldec-dv
+NedNisW
+janjo
+Chtheile
+miniemuff
+fscholz
+Sir.Codewright

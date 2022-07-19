@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/80/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+sourabhramsingh
+Whimboo
+evilpie
+myakura
+fscholz
+Sheppy
+jswisher

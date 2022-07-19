@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/worker/terminate/index.md
+
+# Original Wiki contributors
+ExE-Boss
+DomenicDenicola
+erikadoyle
+pallxk
+nmve
+teoli
+jean-pierre.gay
+chrisdavidmills
+kscarfone

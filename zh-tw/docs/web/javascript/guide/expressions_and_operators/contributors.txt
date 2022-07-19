@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/guide/expressions_and_operators/index.html
+
+# Original Wiki contributors
+ShawnLin
+jackblackevo
+Kaiyeh

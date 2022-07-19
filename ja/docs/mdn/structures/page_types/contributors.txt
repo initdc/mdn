@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/structures/page_types/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+silverskyvicto

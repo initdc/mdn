@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/file_api/using_files_from_web_applications/index.md
+
+# Original Wiki contributors
+silverskyvicto
+mfuji09
+imanabu
+uzuworks
+chrisdavidmills
+ethertank
+myakura
+saneyuki_s
+souta

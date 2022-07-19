@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/atob/index.html
+
+# Original Wiki contributors
+HawkeyePierce89
+hunty

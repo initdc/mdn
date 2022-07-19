@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/decodeuri/index.html
+
+# Original Wiki contributors
+teoli
+Mgjbot
+Diablownik
+Internauta1024A
+Ptak82
+VooEak

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/performance/how_browsers_work/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+estelle

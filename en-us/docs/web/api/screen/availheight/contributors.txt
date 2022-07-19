@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/screen/availheight/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+connorshea
+fscholz
+Sheppy
+cvrebert
+teoli
+Navin_Jadhav
+ethertank
+Mgjbot
+Gor1

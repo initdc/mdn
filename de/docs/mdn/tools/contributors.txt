@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/mdn/tools/index.html
+
+# Original Wiki contributors
+wbamberg
+jezdez
+LeindK

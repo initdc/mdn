@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglrenderingcontext/linewidth/index.md
+
+# Original Wiki contributors
+gmanpersona
+fscholz
+dcposch
+teoli

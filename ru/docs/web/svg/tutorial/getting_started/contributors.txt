@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/svg/tutorial/getting_started/index.html
+
+# Original Wiki contributors
+hisbvdis
+alexbs
+warsan
+komuroe
+valery-paschenkov
+tavira
+mboris1
+Eugene_Ishchenko

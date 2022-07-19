@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/flex-grow/index.md
+
+# Original Wiki contributors
+teaware
+zhuguibiao
+zhicongyang
+dongyu_-_
+Sebastianz
+fscholz
+fskuok
+teoli
+Ribery

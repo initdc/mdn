@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/arraybuffer/index.md
+
+# Original Wiki contributors
+lajaso
+joseluisq
+mlealvillarreal
+AzazelN28
+tamat

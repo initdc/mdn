@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/mozilla/firefox/releases/56/index.html
+
+# Original Wiki contributors
+wbamberg
+equakaralad04

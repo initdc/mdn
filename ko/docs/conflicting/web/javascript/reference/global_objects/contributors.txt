@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/conflicting/web/javascript/reference/global_objects/index.html
+
+# Original Wiki contributors
+alattalatta
+teoli
+Perlmint

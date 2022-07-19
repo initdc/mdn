@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/getting_started_with_the_web/javascript_basics/index.html
+
+# Original Wiki contributors
+Sławek
+kocielnik
+Iwanek08
+mat-bi
+kosanr2
+tjasinski
+modrym
+kosanr1
+AdrianaOlszak

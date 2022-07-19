@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/webassembly/text_format_to_wasm/index.md
+
+# Original Wiki contributors
+mfuji09
+Sunfishcode
+JNa0
+leela52452
+ExE-Boss
+julienw
+chrisdavidmills
+PushpitaPikuDey
+sideshowbarker
+KateSturmey
+jmittert
+kingysu
+lukewagner

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/touch_events/using_touch_events/index.md
+
+# Original Wiki contributors
+CerebralAdvantage
+grantmnz
+edemaine
+lobsterhands
+mbelsky
+FreshCapsule
+rolfedh
+AFBarstow

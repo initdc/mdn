@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/webextensions/index.md
+
+# Original Wiki contributors
+darby
+chrisdavidmills
+damiafluixacanals28
+mconca
+andrewtruongmoz
+TannerFilip
+Sebastianz

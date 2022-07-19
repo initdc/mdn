@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/mobile_accessibility_checklist/index.md
+
+# Original Wiki contributors
+m5rdi822
+chrisdavidmills
+scottaohara
+tanazyazdani
+riceh3
+estelle
+Anne-Victoria
+Tanaguru

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/media/index.md
+
+# Original Wiki contributors
+silverskyvicto
+YujiSoftware
+Uemmra3
+dskmori
+Suuzuukii

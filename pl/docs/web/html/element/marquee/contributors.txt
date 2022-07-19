@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/html/element/marquee/index.html
+
+# Original Wiki contributors
+teoli
+ethertank
+Witia
+PablO
+Ptak82
+VooEak

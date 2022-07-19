@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/canvas_api/tutorial/applying_styles_and_colors/index.html
+
+# Original Wiki contributors
+hisbvdis
+coolwebdev
+RomatoPotato
+levi2ki
+warsan
+artrudov
+mormiron
+jynweythek
+fil7
+Theana27
+Sebastianz
+SphinxKnight
+fscholz
+Neir

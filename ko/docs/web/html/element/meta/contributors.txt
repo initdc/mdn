@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/html/element/meta/index.html
+
+# Original Wiki contributors
+alattalatta
+SeonHyungJo
+dolmoon
+Narrativi
+joshua1988
+azunyan3

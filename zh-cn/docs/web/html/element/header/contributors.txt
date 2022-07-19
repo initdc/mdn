@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/header/index.html
+
+# Original Wiki contributors
+gafish
+RainSlide
+wbamberg
+ziyunfei
+hutuxu

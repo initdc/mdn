@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/array/includes/index.html
+
+# Original Wiki contributors
+oliver-gramberg
+MichelBahl
+mikakruschel
+schlagi123
+adabru

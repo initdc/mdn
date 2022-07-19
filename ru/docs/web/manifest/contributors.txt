@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/manifest/index.html
+
+# Original Wiki contributors
+almaceleste
+chrisdavidmills
+bershanskiy
+ZolotoArtem
+Encamy
+SergeyMirvoda
+Eugeno
+Katarzina
+Kidsman
+suncitygirl
+curdwithraisins

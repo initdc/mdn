@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/border-bottom-width/index.md
+
+# Original Wiki contributors
+SphinxKnight
+fscholz
+teoli
+FredB
+Yuichiro
+Mgjbot
+Fredchat
+Kyodev

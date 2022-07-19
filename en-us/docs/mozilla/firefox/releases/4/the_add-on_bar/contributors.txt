@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/4/the_add-on_bar/index.md
+
+# Original Wiki contributors
+wbamberg
+teoli
+trevorh
+kscarfone
+Sheppy
+BrunoLM
+Potappo
+Philip Chee
+The RedBurn
+Dao
+jswisher
+grebulon
+Gryllida

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/content-security-policy-report-only/index.md
+
+# Original Wiki contributors
+mfuji09
+zuzuzu
+andrei.mitin
+leela52452
+larsonreever
+jpmedley
+fscholz
+stilliard

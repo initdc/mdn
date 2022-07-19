@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/console/log/index.html
+
+# Original Wiki contributors
+aleshkanet
+IgorPuchkov2003
+alfill
+pk.prog
+Bargamut
+Lukavyi

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/canvasrenderingcontext2d/getimagedata/index.md
+
+# Original Wiki contributors
+JNa0
+SphinxKnight
+loella16
+Nerostalgeek

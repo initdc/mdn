@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/content_negotiation/list_of_default_accept_values/index.md
+
+# Original Wiki contributors
+hamishwillee
+styfle
+spicyj
+mfuji09
+chrisdavidmills
+JeffersonScher
+acme
+Sheppy
+AutoSponge
+fscholz
+teoli

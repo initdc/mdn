@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/guidelines/does_this_belong_on_mdn/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+jswisher
+wbamberg
+Sheppy
+heathhamilton

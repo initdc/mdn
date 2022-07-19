@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmliframeelement/index.md
+
+# Original Wiki contributors
+bershanskiy
+chrisdavidmills
+sideshowbarker
+jpmedley
+fscholz
+rainydio
+trusktr
+arronei
+erikadoyle
+Sebastianz
+teoli
+Gabrys1
+mbarak
+kohei.yoshino
+kscarfone
+Jeremie
+Sheppy
+ethertank
+Nickolay
+jswisher

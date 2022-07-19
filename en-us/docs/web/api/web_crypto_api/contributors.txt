@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_crypto_api/index.md
+
+# Original Wiki contributors
+hamishwillee
+wbamberg
+Hekelleh
+fscholz
+johnnywell
+JamesJefferyUK
+chrisdavidmills
+ruf-io
+tedmarynicz
+jpmedley
+kgeorgiou
+Sebastianz
+teoli
+Sheppy
+danwoods

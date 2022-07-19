@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/architecture/index.md
+
+# Original Wiki contributors
+Sheppy
+fscholz
+badrfoot
+Aaronlev
+Joanmarie
+Parente
+Rd4Uix
+Nickolay

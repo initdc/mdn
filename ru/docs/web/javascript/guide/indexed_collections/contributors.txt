@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/guide/indexed_collections/index.html
+
+# Original Wiki contributors
+prometium
+yankovskiy
+postwj
+v.bilinskyi
+pk.prog
+sergeymakoveev
+Megabyteceer
+a302379333
+Grumvol
+blitzkrieg393
+ignusin
+magetor

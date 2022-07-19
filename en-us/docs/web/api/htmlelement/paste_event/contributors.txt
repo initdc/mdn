@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/paste_event/index.md
+
+# Original Wiki contributors
+mfluehr
+Mooocraft
+fscholz
+mfuji09
+depthdev
+valtlai
+teoli
+kscarfone
+nairakhil13
+Sheppy
+ethertank
+ziyunfei
+Mgjbot
+Potappo

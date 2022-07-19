@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/progressive_enhancement/index.md
+
+# Original Wiki contributors
+loella16
+xdelatour

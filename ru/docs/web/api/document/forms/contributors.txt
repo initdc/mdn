@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/document/forms/index.html
+
+# Original Wiki contributors
+constantkek
+zuzuru
+ivasyutaalexey
+boxa6
+BychekRU

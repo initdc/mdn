@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audiobuffer/copyfromchannel/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+sizvix
+Sheppy
+Jedipedia
+fscholz
+erikadoyle
+halfbyte
+jpmedley
+eharris
+teoli
+chrisdavidmills

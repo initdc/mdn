@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/web_applications_and_aria_faq/index.html
+
+# Original Wiki contributors
+chris-martin
+stephaniehobson
+6112
+morenoh149
+kscarfone
+akhabibullina
+xfq
+Fredchat
+mpiotrowicz
+Sheppy
+BrendanMcKeon
+anastasia
+jswisher
+Aaronlev
+colinbdclark

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/csrf/index.md
+
+# Original Wiki contributors
+九千鸦
+Toxiiic
+zhouzhonghao
+chanWeFun
+wangfengzi

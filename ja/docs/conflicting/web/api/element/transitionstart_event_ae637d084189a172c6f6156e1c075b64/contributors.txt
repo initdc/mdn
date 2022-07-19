@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/element/transitionstart_event_ae637d084189a172c6f6156e1c075b64/index.html
+
+# Original Wiki contributors
+mfuji09

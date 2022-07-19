@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audioworkletglobalscope/registerprocessor/index.md
+
+# Original Wiki contributors
+sideshowbarker
+chrisdavidmills
+1valdis

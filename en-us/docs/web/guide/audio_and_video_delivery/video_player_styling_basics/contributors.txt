@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/audio_and_video_delivery/video_player_styling_basics/index.md
+
+# Original Wiki contributors
+agdillon
+DeltaTV
+chrisdavidmills

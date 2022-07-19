@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/padding-bottom/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+Malvoz
+sideshowbarker
+alattalatta
+ddbeck
+mfluehr
+chrisdavidmills
+Wliu
+erikadoyle
+Sebastianz
+Prinz_Rana
+miket
+trevorh
+kscarfone
+teoli
+Sheppy
+ethertank
+grendel
+jojomojo
+Yuichiro
+BijuGC
+Waldo

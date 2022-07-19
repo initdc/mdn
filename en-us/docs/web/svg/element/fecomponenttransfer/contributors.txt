@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/fecomponenttransfer/index.md
+
+# Original Wiki contributors
+timkay
+davidnegley
+fscholz
+abbycar
+Sebastianz
+kscarfone
+Jeremie
+Manuel_Strehl

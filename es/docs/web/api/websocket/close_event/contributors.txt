@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/websocket/close_event/index.html
+
+# Original Wiki contributors
+irenesmith
+ExE-Boss
+FLAVIOALFA

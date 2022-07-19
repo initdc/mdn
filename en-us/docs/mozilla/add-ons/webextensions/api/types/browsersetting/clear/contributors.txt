@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/clear/index.md
+
+# Original Wiki contributors
+ddurst
+hellosct1
+andrewtruongmoz
+wbamberg
+jwhitlock
+david_ross

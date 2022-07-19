@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/anchors/index.md
+
+# Original Wiki contributors
+bershanskiy
+ANH25
+mfuji09
+mfluehr
+wbamberg
+chrisdavidmills
+fscholz
+valtlai
+cvrebert
+teoli
+kosvrouvas
+kscarfone
+ethertank
+Sheppy
+ziyunfei
+timemachine3030
+DR
+Mgjbot
+George3
+Jabez
+Ptak82
+Dria
+JesseW

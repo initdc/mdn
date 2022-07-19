@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/contribute/howto/create_and_edit_pages/index.html
+
+# Original Wiki contributors
+karifan8767
+wbamberg
+djigach
+KaroHovhannisyan
+Ferguse
+vaser321
+TemmyR
+Servik17
+vislogurov
+Chronosms
+BychekRU
+SashaSh
+Spiker

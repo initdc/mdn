@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/css_backgrounds_and_borders/box-shadow_generator/index.html
+
+# Original Wiki contributors
+BychekRU
+Sebastianz

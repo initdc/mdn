@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/building_blocks/test_your_skills_colon__loops/index.md
+
+# Original Wiki contributors
+neuroptera
+chrisdavidmills

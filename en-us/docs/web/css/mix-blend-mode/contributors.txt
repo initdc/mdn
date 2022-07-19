@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/mix-blend-mode/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+ddbeck
+chrisdavidmills
+mfluehr
+Mohamed3on
+fscholz
+Jeremie
+pborenstein
+Wliu
+Charlottha
+sarahgp
+zakdances
+mrstork
+Sebastianz
+jordanmoore
+teoli
+APerson241
+jpmedley
+ishita
+kyleolsondesign
+FredB

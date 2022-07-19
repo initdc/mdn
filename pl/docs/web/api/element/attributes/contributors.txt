@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/element/attributes/index.html
+
+# Original Wiki contributors
+teoli
+khalid32
+lukasz.jezierski
+Mgjbot
+Ptak82
+Jan Dudek

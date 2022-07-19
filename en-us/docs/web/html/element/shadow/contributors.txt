@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/shadow/index.md
+
+# Original Wiki contributors
+Sheppy
+teoli
+DomenicDenicola
+sideshowbarker
+Sebastianz
+m32po
+markg
+webours

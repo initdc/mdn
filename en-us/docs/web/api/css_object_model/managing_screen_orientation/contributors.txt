@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/css_object_model/managing_screen_orientation/index.md
+
+# Original Wiki contributors
+zjffun
+mfuji09
+ExE-Boss
+conman124
+JohnRiv
+AaronPope
+SpencerG
+chrisdavidmills
+teoli
+dstorey
+Jeremie
+williamr

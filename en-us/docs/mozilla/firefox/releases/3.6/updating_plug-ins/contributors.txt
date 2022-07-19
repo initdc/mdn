@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/3.6/updating_plug-ins/index.md
+
+# Original Wiki contributors
+wbamberg
+teoli
+Giselle
+Sheppy

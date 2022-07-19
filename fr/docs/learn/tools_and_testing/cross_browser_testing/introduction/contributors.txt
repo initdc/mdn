@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/tools_and_testing/cross_browser_testing/introduction/index.md
+
+# Original Wiki contributors
+Azyme

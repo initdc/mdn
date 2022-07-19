@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/mdn/contribute/howto/set_the_summary_for_a_page/index.html
+
+# Original Wiki contributors
+wbamberg
+Astrid-GitHub
+RSyehann

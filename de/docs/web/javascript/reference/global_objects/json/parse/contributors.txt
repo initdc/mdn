@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/json/parse/index.html
+
+# Original Wiki contributors
+schlagi123
+mdnde
+fscholz
+ccoenen
+maxkl
+dguhl

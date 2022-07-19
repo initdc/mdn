@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/first_steps/web_frameworks/index.md
+
+# Original Wiki contributors
+Software202
+chrisdavidmills
+kruschk
+Peter-Liao-github
+BananaTheef
+lopezpdvn
+fazl
+th7nder
+gubjack
+Yonkai
+mantaspet
+SalilKothadia
+jdblischak
+maishakins
+vidhi_
+stephaniehobson
+Saurabh_Chhabra
+deSagaz
+HugoLiconV
+0level0
+kberov
+thelartman
+jjhampton
+kalch
+Julie1984
+shakib609
+hamishwillee

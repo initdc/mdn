@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/user_input_methods/index.md
+
+# Original Wiki contributors
+mfuji09
+ericcastro
+chrisdavidmills
+KadirTopal
+sprodrigues
+MashKao
+teoli
+franciov

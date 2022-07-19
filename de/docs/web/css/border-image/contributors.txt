@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/border-image/index.html
+
+# Original Wiki contributors
+SJW
+d4rkne55
+teoli
+Sebastianz
+tyrann0us

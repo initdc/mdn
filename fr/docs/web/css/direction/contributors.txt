@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/direction/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ncoden
+Sebastianz
+teoli
+ksad
+FredB
+Mgjbot
+Fredchat
+Kyodev
+VincentN

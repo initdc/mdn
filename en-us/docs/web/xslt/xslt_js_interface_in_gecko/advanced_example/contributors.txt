@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xslt/xslt_js_interface_in_gecko/advanced_example/index.md
+
+# Original Wiki contributors
+bershanskiy
+jswisher
+kamil.rzeszotarski
+smoothie1998
+teoli
+cvrebert
+MrTim
+Brettz9
+trevorh
+Fredchat
+Interfaced
+JdeValk

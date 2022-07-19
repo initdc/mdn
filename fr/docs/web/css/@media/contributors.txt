@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/@media/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ferdi_
+edspeedy
+fscholz
+Chealer
+teoli
+wakka27
+FredB
+VincentN
+ethertank
+Fredchat

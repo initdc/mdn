@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/contribute/processes/index.md
+
+# Original Wiki contributors
+wbamberg
+david_ross
+jswisher
+Sheppy

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/border-top-left-radius/index.md
+
+# Original Wiki contributors
+mfuji09
+Simplexible
+Sebastianz
+Prinz_Rana
+ethertank
+FredB
+Yuichiro

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/javascript/first_steps/a_first_splash/index.html
+
+# Original Wiki contributors
+webfelipemaia
+zKhiro
+MattBizzo
+rubenfaria
+thiagolucio

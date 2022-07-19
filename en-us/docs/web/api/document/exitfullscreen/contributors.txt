@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/exitfullscreen/index.md
+
+# Original Wiki contributors
+mfluehr
+Konrud
+EnixCoda
+Anonymous
+irenesmith
+mfuji09
+jpreuss
+Sheppy
+fscholz
+jpmedley
+stiang
+teoli
+Sebastianz
+MHasan
+cvrebert
+kscarfone
+Reachmeatshivam

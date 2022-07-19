@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/websockets_api/writing_websocket_client_applications/index.md
+
+# Original Wiki contributors
+mfuji09
+weslord
+Sheppy
+iigmir
+fscholz
+sideshowbarker
+David263
+zanetu
+teoli
+stoyanster
+rebr
+anistark
+mnoorenberghe
+k-yo
+mrbrc
+aseijo1
+kscarfone
+mattbasta
+Tyson
+jake33
+jswisher
+ericz
+gilesburdett
+Kennyluck

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/clear/index.html
+
+# Original Wiki contributors
+Johuspect
+SJW
+wbamberg
+fscholz
+Sebastianz
+Michael2402

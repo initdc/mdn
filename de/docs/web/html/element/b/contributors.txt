@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/html/element/b/index.html
+
+# Original Wiki contributors
+Maugo
+schlagi123
+tobiasfabian
+teoli
+DD0101
+fscholz
+Crash

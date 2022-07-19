@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/word-spacing/index.html
+
+# Original Wiki contributors
+SJW
+Prinz_Rana
+Sebastianz

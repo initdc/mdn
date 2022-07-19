@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/visibility/index.md
+
+# Original Wiki contributors
+patrickfournier
+SphinxKnight
+Sebastianz
+Hell_Carlito
+vava
+teoli
+tregagnon
+FredB
+Kyodev
+Fredchat

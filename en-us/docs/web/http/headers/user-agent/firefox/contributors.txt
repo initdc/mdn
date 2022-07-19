@@ -1,0 +1,44 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/user-agent/firefox/index.md
+
+# Original Wiki contributors
+Sheppy
+jacobhall
+cpeterson
+mcomella
+mfuji09
+wbamberg
+miket
+darby
+stephaniehobson
+vladikoff
+aubreyadeno
+fscholz
+julienw
+Tantek
+kohei.yoshino
+Rabeckaaaa
+.vimrc
+Rik
+ali55
+mythmon
+karlmoz
+NickDesaulniers
+teoli
+OllyHodgson
+markg
+lmandel
+karlcow
+Gerv
+juergen jeka
+MattBrubeck
+deadsquid
+zmi
+jswisher
+yyss
+Hsivonen
+Skalman
+madarche
+Dwitte
+dsm
+user01

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlanchorelement/host/index.md
+
+# Original Wiki contributors
+Wind1808
+fscholz
+lap00zza
+jpmedley
+libbymc
+teoli
+Sebastianz
+chrisdavidmills
+cvrebert
+mbudde
+Bzbarsky
+mattbasta
+Kartik_Chadha

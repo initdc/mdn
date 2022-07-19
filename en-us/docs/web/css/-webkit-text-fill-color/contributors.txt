@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-webkit-text-fill-color/index.md
+
+# Original Wiki contributors
+sideshowbarker
+codingdudecom
+ddbeck
+Sheppy
+connorshea
+fscholz
+DailyAlice
+erikadoyle
+Sebastianz
+cvrebert
+Siilwyn
+mrenty

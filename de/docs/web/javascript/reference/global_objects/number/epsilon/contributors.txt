@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/number/epsilon/index.html
+
+# Original Wiki contributors
+mitch3ls
+schlagi123
+Steditor
+Tilli81
+fscholz
+AngelSankturio

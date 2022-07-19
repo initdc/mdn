@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/dom/index.md
+
+# Original Wiki contributors
+loella16
+davidgourde
+vanz
+Goofy
+htindon

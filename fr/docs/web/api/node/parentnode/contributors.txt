@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/node/parentnode/index.md
+
+# Original Wiki contributors
+mickro
+loella16
+vava
+fscholz
+teoli
+jsx
+Mgjbot
+Takenbot
+BenoitL

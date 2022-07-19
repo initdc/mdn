@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/errors/resulting_string_too_large/index.md
+
+# Original Wiki contributors
+fscholz
+PatrickKettner

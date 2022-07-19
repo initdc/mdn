@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/forms/sending_forms_through_javascript/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+aelliott1485
+estelle
+tayyabalishan
+choudh70
+virtualmix
+peterschussheim
+ferrysdayoff
+l1n
+Sheppy
+stephaniehobson
+vSanjo
+Tigt
+andreiepure
+jimmywarting
+teoli
+uddin
+RufusCSharma
+afzaal_ahmad_zeeshan
+dhodder
+DarkNexus
+kohei.yoshino
+Jeremie
+kscarfone

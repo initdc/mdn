@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/update-frequency/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+connorshea
+mfluehr
+y0ssar1an
+Sebastianz
+kscarfone
+cvrebert

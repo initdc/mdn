@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/json/parse/index.md
+
+# Original Wiki contributors
+cyrilbois
+SphinxKnight
+Eric-ciccotti
+edspeedy
+Nolwennig
+KacyLuzzardi
+marie-ototoi
+raphael0202
+WSH
+teoli
+DCK

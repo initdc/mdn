@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/@font-face/index.md
+
+# Original Wiki contributors
+SphinxKnight
+mh_nichts
+fscholz
+mleduque
+Qu3tzalify
+teoli
+PifyZ
+FredB
+naar
+Jürgen Jeka
+BenoitL
+Fredchat
+Valacar
+Huchezal
+SebMouren

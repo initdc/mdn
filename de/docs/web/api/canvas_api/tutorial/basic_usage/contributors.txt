@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/canvas_api/tutorial/basic_usage/index.html
+
+# Original Wiki contributors
+I_I
+fheckl
+FelixLehmann
+P5ych0
+teoli
+Leun4m
+medium-endian
+pixunil

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mdn/at_ten/index.md
+
+# Original Wiki contributors
+FlyingPig
+cughudson_1
+WarriorWu

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/gpu/index.md
+
+# Original Wiki contributors
+ran
+vtkrishn
+Kongklakker
+coder206
+klez

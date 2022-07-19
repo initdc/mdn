@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/mozilla/add-ons/webextensions/index.html
+
+# Original Wiki contributors
+rs-github
+Artist-sumo
+SphinxKnight
+Bodo1445
+Clown77
+Abro

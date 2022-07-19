@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/guide/regular_expressions/quantifiers/index.md
+
+# Original Wiki contributors
+jhanschoo
+ItaHeld90
+wbamberg
+fscholz
+SphinxKnight
+juandfloresm
+chrisdavidmills
+pkay
+jpmedley

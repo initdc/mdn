@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/guide/regular_expressions/index.md
+
+# Original Wiki contributors
+yami03
+yeonjuan
+Jung-Max
+deltakor1234
+idid0210
+seungha-kim
+limkukhyun
+khg0712
+nazuna1
+kooljay82
+fdevjm
+coffeenjava
+gaeun917
+namhong2001
+woochankim
+JunBeom-Park
+SooYeonKim

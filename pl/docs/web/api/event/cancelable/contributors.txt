@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/event/cancelable/index.html
+
+# Original Wiki contributors
+Sturmpl
+teoli
+khalid32
+Mgjbot
+Jan Dudek
+Ptak82

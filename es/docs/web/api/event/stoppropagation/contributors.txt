@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/event/stoppropagation/index.html
+
+# Original Wiki contributors
+sebaLinares
+theskear
+AlePerez92

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/server-side/first_steps/website_security/index.md
+
+# Original Wiki contributors
+smeden-lod
+ThCarrere
+LeMilitaire
+SphinxKnight
+JeffD

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/documentfragment/queryselectorall/index.md
+
+# Original Wiki contributors
+wbamberg
+ExE-Boss
+Sebastianz
+fscholz
+jsx
+nairakhil13
+teoli

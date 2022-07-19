@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/gradient/index.html
+
+# Original Wiki contributors
+Sebastianz
+fscholz
+SJW

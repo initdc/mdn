@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/aria_live_regions/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+kwangdosa
+gaurav5430
+PickensC
+estelle
+pradn
+patrickhlauke
+rishabhsrao
+headquarters
+ajjusto
+dcondrey
+mike-nelson
+mrenty
+Hywan
+integritydc
+Sheppy
+Aaronlev

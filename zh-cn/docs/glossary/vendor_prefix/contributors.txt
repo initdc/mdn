@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/vendor_prefix/index.md
+
+# Original Wiki contributors
+Clarkkkk
+Jayeley
+Oliver_Queen
+crabmessage
+acooler15
+HyattJobs
+arbiter
+Antqian
+XiongAmao
+broven

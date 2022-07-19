@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_link/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+cattofiq
+wbamberg
+fscholz
+mfluehr
+magic96
+PolskiSwir345
+erikadoyle
+Sebastianz
+cvrebert
+bradleyflood
+potterbm
+tregagnon
+Vento
+kscarfone
+Deraillor
+teoli
+ethertank
+Sheppy
+chevalric
+Jürgen Jeka
+BijuGC

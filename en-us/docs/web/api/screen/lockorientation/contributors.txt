@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/screen/lockorientation/index.md
+
+# Original Wiki contributors
+ExE-Boss
+mfuji09
+dd-pardal
+mfluehr
+locorocorolling
+fscholz
+xfq
+Sebastianz
+MichalPaszkiewicz
+teoli
+phistuck
+rabimba
+dstorey
+viral
+k5e
+kscarfone
+namolmes
+dbruant
+marcosc
+Jeremie
+justinpotts
+Sheppy
+wesj

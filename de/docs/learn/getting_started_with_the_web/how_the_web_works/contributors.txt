@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/learn/getting_started_with_the_web/how_the_web_works/index.html
+
+# Original Wiki contributors
+Shidigital

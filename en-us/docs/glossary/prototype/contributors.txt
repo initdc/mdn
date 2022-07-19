@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/prototype/index.md
+
+# Original Wiki contributors
+rolfedh
+ajklotz
+dns2utf8
+klez
+hbloomer

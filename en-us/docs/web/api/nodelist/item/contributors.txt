@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/nodelist/item/index.md
+
+# Original Wiki contributors
+sideshowbarker
+ExE-Boss
+david_ross
+tompie1
+destin.moulton
+jswisher
+Aralun
+fscholz
+teoli
+gzip
+kosvrouvas
+Delapouite
+kscarfone
+Kartik_Chadha
+Sheppy
+myf
+ziyunfei
+Nickolay
+Jabez
+Dria
+JesseW

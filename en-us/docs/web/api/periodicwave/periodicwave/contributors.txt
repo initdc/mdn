@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/periodicwave/periodicwave/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+chrisdavidmills
+Sheppy
+jpmedley

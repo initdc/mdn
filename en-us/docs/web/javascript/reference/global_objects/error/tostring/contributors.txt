@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/error/tostring/index.md
+
+# Original Wiki contributors
+forest51690
+mfuji09
+fscholz
+wbamberg
+rufengch
+jameshkramer
+eduardoboucas
+Mingun
+Waldo
+getify
+Sheppy
+ethertank
+evilpie
+Sevenspade

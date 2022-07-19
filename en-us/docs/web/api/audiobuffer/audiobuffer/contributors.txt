@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audiobuffer/audiobuffer/index.md
+
+# Original Wiki contributors
+Xmader
+notthetup
+chrisdavidmills
+Rumyra
+Phoenix35
+Sheppy
+fscholz
+teoli
+jarrodn
+jpmedley
+david_ross

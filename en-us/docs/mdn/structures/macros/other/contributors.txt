@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/structures/macros/other/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+SphinxKnight
+alattalatta
+fscholz
+Sheppy
+jswisher

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/conflicting/web/api/worker/message_event/index.html
+
+# Original Wiki contributors
+szdytom
+Syclover-u2400
+spatio

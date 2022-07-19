@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/guide/index.md
+
+# Original Wiki contributors
+ele-gall-ac-mineducation
+tristantheb
+SphinxKnight
+Leticiak37
+demangejeremy
+EloD10
+axel8591
+SaintCyr
+Hydr0s
+Fredchat
+Caudralys
+teoli
+fama25
+ethertank
+tregagnon
+Sheppy

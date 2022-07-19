@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/first_steps/useful_string_methods/index.html
+
+# Original Wiki contributors
+nyood
+SphinxKnight
+Ivan961
+Anonymous
+RedKvothe
+ConstantineZz
+boxa6
+chrisdavidmills
+AsVit
+AliyevHrn
+slychai85
+MariyaSka
+samofand
+AndrewSamofalov

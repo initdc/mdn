@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/index.html
+
+# Original Wiki contributors
+steevn
+Jonydaboy19
+SphinxKnight
+chrisdavidmills
+ivan-pan
+tirein
+rs-github
+schlagi123
+dontbyte
+Sixl-Daniel
+sigoa
+gjungb
+Old-Lady
+tieftoener
+fscholz
+Patrick_St.
+mcweba
+omniskop
+loki
+Airblader
+eminor
+ethertank
+shapeshifta
+Philipp

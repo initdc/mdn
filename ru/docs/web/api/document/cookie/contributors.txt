@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/document/cookie/index.html
+
+# Original Wiki contributors
+JohnPier
+wadzari
+boxa6
+SphinxKnight
+alik0211
+Drag46
+beautifulSuicide
+ykshatroff
+c01nd01r

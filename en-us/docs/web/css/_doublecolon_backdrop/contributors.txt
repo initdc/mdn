@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_doublecolon_backdrop/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+estelle
+MNizam0802
+Sheppy
+ExE-Boss
+beingmrkenny
+fscholz
+mfluehr
+erikadoyle
+teoli
+yisibl
+cvrebert
+Sebastianz
+Delapouite
+kscarfone
+dhodder
+rctgamer3

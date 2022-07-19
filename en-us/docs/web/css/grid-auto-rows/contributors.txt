@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/grid-auto-rows/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+Sheppy
+greatislander
+chrisdavidmills
+denimX
+johnakruse
+laampui
+VonClownstick
+fscholz
+libbymc
+mfluehr
+pborenstein
+jpmedley
+yisibl
+teoli
+Sebastianz
+rolfedh

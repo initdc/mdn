@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/promise/catch/index.md
+
+# Original Wiki contributors
+mfuji09
+dienluong
+fscholz
+duanemoody
+nigelbpeck
+Sheppy
+petrpacas
+pastparty
+ZPiDER666
+juraj
+Flimm
+wbamberg
+schalkneethling
+NigelKibodeaux
+0x80
+aetonsi
+ParaBolt
+SheltonDong
+kdex
+Granjow
+torazaburo
+joshunger
+eduardoboucas
+UziTech
+idrism
+Brettz9
+flockonus
+fskuok
+realityking

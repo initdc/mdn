@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/mouseout_event/index.md
+
+# Original Wiki contributors
+mfuji09
+irenesmith
+Sheppy
+DisorientedSpacePenguin
+vapier
+fscholz
+erikadoyle
+drcircuit
+Sebastianz
+teoli
+ethertank
+louisremi

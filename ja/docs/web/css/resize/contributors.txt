@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/resize/index.md
+
+# Original Wiki contributors
+mfuji09
+YuichiNukiyama
+SphinxKnight
+Sebastianz
+ethertank
+sosleepy

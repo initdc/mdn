@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/abstraction/index.md
+
+# Original Wiki contributors
+Haroenv
+chrisdavidmills
+sunilkumarvalmiki
+sideshowbarker
+Jose_Fonseca
+klez
+Andrew_Pfeiffer
+hbloomer
+Jeremie
+chunm

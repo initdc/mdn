@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/cssrule/csstext/index.html
+
+# Original Wiki contributors
+fscholz
+arunpandianp
+teoli
+HenryGR

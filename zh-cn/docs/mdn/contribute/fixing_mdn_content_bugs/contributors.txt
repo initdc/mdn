@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mdn/contribute/fixing_mdn_content_bugs/index.md
+
+# Original Wiki contributors
+

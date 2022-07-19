@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/forwarded/index.md
+
+# Original Wiki contributors
+mvasin
+florentin-soubrand
+mfuji09
+chrylis
+fscholz
+duelinmarkers
+teoli

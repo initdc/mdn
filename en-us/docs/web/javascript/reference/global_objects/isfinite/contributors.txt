@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/isfinite/index.md
+
+# Original Wiki contributors
+mfuji09
+koroliov
+fscholz
+boxa6
+DontGiveAFck
+wbamberg
+schalkneethling
+wardenfeng
+jameshkramer
+nicszerman
+nmve
+behnammodi
+gunnim
+eduardoboucas
+szabolcs-szilagyi
+imsaar
+orduh
+Brettz9
+Sheppy
+XP1
+Sarabjot
+evilpie
+Mgjbot
+Ptak82
+Maian
+Dria

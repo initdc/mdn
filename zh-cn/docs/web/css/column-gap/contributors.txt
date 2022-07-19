@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/column-gap/index.md
+
+# Original Wiki contributors
+narol
+Minya_Chan
+billcz
+fscholz
+Sebastianz
+FredWe

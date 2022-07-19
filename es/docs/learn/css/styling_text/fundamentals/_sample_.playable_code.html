@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Fundamentos de texto y fuentes tipográficas - playable_code - code sample</title>
+    </head>
+    <body>
+        
+            <div class="body-wrapper" style="font-family: 'Open Sans Light',Helvetica,Arial,sans-serif;">
+  <h2>HTML Input</h2>
+  <textarea id="code" class="html-input" style="width: 90%;height: 10em;padding: 10px;border: 1px solid #0095dd;">
+  <p>Some sample text for your delight</p></textarea>
+
+  <h2>CSS Input</h2>
+  <textarea id="code" class="css-input" style="width: 90%;height: 10em;padding: 10px;border: 1px solid #0095dd;">p {
+
+  }</textarea>
+
+  <h2>Output</h2>
+  <div class="output" style="width: 90%;height: 10em;padding: 10px;border: 1px solid #0095dd;"></div>
+  <div class="controls">
+    <input id="reset" type="button" value="Reset" style="margin: 10px 10px 0 0;">
+  </div>
+</div>
+
+        
+        
+            <script>
+                var htmlInput = document.querySelector(".html-input");
+const cssInput = document.querySelector(".css-input");
+const reset = document.getElementById("reset");
+let htmlCode = htmlInput.value;
+let cssCode = cssInput.value;
+const output = document.querySelector(".output");
+
+const styleElem = document.createElement('style');
+const headElem = document.querySelector('head');
+headElem.appendChild(styleElem);
+
+function drawOutput() {
+  output.innerHTML = htmlInput.value;
+  styleElem.textContent = cssInput.value;
+}
+
+reset.addEventListener("click", function() {
+  htmlInput.value = htmlCode;
+  cssInput.value = cssCode;
+  drawOutput();
+});
+
+htmlInput.addEventListener("input", drawOutput);
+cssInput.addEventListener("input", drawOutput);
+window.addEventListener("load", drawOutput);
+
+            </script>
+        
+    </body>
+</html>

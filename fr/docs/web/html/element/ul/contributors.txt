@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/ul/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Bat
+tregagnon
+teoli
+fabien.canu@gmail.com

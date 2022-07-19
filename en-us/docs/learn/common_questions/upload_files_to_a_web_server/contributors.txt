@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/common_questions/upload_files_to_a_web_server/index.md
+
+# Original Wiki contributors
+hamishwillee
+GCCSheep
+Sturmtiger
+amitananddotxyz
+chrisdavidmills
+SphinxKnight
+MandyuTOJ
+xfq
+Jett
+Jeremie
+Andrew_Pfeiffer
+notabene
+RufusCSharma
+rhyne24

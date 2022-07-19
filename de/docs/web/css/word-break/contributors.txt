@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/word-break/index.html
+
+# Original Wiki contributors
+SJW
+okj579
+teoli
+fscholz
+Sebastianz

@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audiolistener/index.md
+
+# Original Wiki contributors
+tim-we
+okoboji
+chrisdavidmills
+Rumyra
+fscholz
+jpmedley
+arronei
+erikadoyle
+alvov
+Sheppy
+teoli
+padenotmoz
+JesseTG
+anirudh_venkatesh
+sabrish
+kscarfone

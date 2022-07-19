@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/subtlecrypto/importkey/index.md
+
+# Original Wiki contributors
+fippo
+Jed
+Sheppy
+epieddy
+MicahZoltu
+wbamberg
+chrisdavidmills
+fscholz
+vitaly-zdanevich
+fozi
+jhf
+Dans24
+abbycar
+oughter
+teoli

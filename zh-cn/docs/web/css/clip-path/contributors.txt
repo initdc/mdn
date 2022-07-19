@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/clip-path/index.md
+
+# Original Wiki contributors
+Kingbultsea
+ZouYj
+xgqfrms
+zhaoshouxin
+RainSlide
+AozakiOrenji
+gaolil
+xrr2016
+Clark-Zhao
+scplay
+Jeffrey.Wang
+smilewalker

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/isnan/index.html
+
+# Original Wiki contributors
+boxa6
+deadem
+arogachev
+DrTantal
+toxahak
+igor4949i
+torbasow
+SphinxKnight
+fscholz
+Troynov
+teoli
+Dionys
+Sheppy

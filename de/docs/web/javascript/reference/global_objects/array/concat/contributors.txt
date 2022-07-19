@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/array/concat/index.html
+
+# Original Wiki contributors
+schlagi123
+ghost23
+pecoes
+oliver-j
+FelixSebastianLange

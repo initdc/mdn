@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/screen/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+mfluehr
+connorshea
+mrenty
+cvrebert
+fscholz
+teoli
+rhyne24
+Ms2ger
+iamanupmenon
+Jeremie
+Sheppy
+ethertank
+wesj
+Matej Lednar
+Mgjbot
+Potappo
+Mw22
+Ptak82
+Nickolay
+Jabez
+Gor1

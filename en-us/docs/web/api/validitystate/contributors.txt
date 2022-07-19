@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/validitystate/index.md
+
+# Original Wiki contributors
+alattalatta
+estelle
+jswisher
+sideshowbarker
+Zavarock
+connorshea
+amy-mac
+erikadoyle
+wido
+andreaswachowski
+ianwalter
+Alhadis
+Jeremie
+teoli
+fscholz
+pwdst
+kscarfone
+Rowno
+ethertank
+Sheppy

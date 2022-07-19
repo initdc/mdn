@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/index.html
+
+# Original Wiki contributors
+SphinxKnight
+SuperMaksio
+JWPB
+mitelak
+Errorino
+mptak
+asbud
+Miras
+teoli
+Rokuzo
+safjanowski
+ggolebio
+ethertank
+kartofelek007
+grzegorz
+Mgjbot
+Ptak82
+Wilq32
+Internauta1024A
+Verruckt
+gandalf
+Marcoos
+Ruby
+Dria

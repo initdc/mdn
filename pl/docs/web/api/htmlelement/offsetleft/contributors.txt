@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/htmlelement/offsetleft/index.html
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+khalid32
+Diablownik
+Mgjbot
+Ptak82

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/css_counter_styles/using_css_counters/index.md
+
+# Original Wiki contributors
+mfuji09
+LuckyWind_sck
+ethertank
+sosleepy
+sii

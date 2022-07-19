@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/media/css/index.md
+
+# Original Wiki contributors
+mfuji09
+roshan0708
+arjenlgill
+Zearin_Galaurum
+sideshowbarker
+ElliotHawkins
+Iqbalh11
+Sheppy

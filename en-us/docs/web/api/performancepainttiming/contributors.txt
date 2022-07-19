@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performancepainttiming/index.md
+
+# Original Wiki contributors
+Rumyra
+mitchellcarroll
+meziantou
+ExE-Boss
+GiS91
+jwhitlock
+molily2
+jpmedley

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/asynchronous/introducing/index.html
+
+# Original Wiki contributors
+WhoRlyCares
+Qnemes
+pikeraft
+KulkovaAnna
+kjkoala
+evgeniy.bilan93
+d-goppen
+MaxYenot

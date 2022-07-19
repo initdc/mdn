@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/css_painting_api/guide/index.html
+
+# Original Wiki contributors
+FrederikWeitz

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/nodeiterator/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+ExE-Boss
+abbycar
+jwhitlock
+asashour
+fscholz
+Prome
+teoli
+kscarfone
+Sheppy
+Ms2ger
+Brettz9
+Nickolay

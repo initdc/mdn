@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/common_questions/what_are_browser_developer_tools/index.md
+
+# Original Wiki contributors
+avivmu
+SphinxKnight
+HappyFeelMore
+chrisdavidmills
+walkerbrown
+danpoynor
+irenesmith
+vorian
+ifilin
+Jeremie
+Andrew_Pfeiffer
+chrisdavidmills-github

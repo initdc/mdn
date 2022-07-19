@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/audio_and_video_delivery/webaudio_playbackrate_explained/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+david_ross
+stevebanikrocana
+teoli

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/structures/live_samples/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+dskmori
+silverskyvicto
+wbamberg
+Uemmra3
+nakano348

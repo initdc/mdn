@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/boolean/index.md
+
+# Original Wiki contributors
+SphinxKnight
+184289542
+Yayure
+snail-xx
+zeyongTsai
+Terry.Qiao
+comyn
+zhangchen
+SmluVFpI
+righttoe
+Hugh
+xgqfrms-GitHub
+Folgore
+emctoo
+slientomorrr
+yenshen
+ziyunfei
+teoli

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/add-ons/webextensions/manifest.json/index.md
+
+# Original Wiki contributors
+landylan
+wbamberg
+ExE-Boss

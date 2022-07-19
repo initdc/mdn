@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/forms/ui_pseudo-classes/index.md
+
+# Original Wiki contributors
+theBstar
+chrisdavidmills
+sjud
+wbamberg
+estelle

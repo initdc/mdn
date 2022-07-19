@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/games/tutorials/2d_breakout_game_pure_javascript/move_the_ball/index.md
+
+# Original Wiki contributors
+PascalLeMerrer
+SphinxKnight
+jgil83000
+wbamberg
+eerrtrr
+Arhance05
+Cotting

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/first_steps/a_first_splash/index.md
+
+# Original Wiki contributors
+hyeonjun_jo
+theun0524
+dejoro
+jennybehan
+SSJ-unclear
+LoverKei
+thkimmiridih
+ChanghwaLee

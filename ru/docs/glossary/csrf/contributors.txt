@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/csrf/index.html
+
+# Original Wiki contributors
+anastasiya-solodkaya

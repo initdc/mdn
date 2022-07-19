@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/errors/cant_access_lexical_declaration_before_init/index.md
+
+# Original Wiki contributors
+fscholz
+PatrickKettner
+johnjago
+jonathanKingston

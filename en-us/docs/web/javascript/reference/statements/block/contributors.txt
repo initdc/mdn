@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/statements/block/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+manngo
+wbamberg
+kerteszgab
+Dorward
+Pointy
+jakubboucek
+preyes323
+SphinxKnight
+PerseveranceMbewe
+lodewijkadlp
+amitparrikar
+schalkneethling
+rwaldron
+jameshkramer
+oksana-khristenko
+michaelsanford
+OwnageIsMagic
+Sebastianz
+tearwyx
+thynctank
+Havvy
+arasbm
+Sheppy
+ethertank
+cers
+user01
+Mgjbot
+Nanto vi
+Ptak82
+Maian

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/pointer_lock_api/index.html
+
+# Original Wiki contributors
+fscholz
+arquigames
+joredjs

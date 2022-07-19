@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/string/replace/index.html
+
+# Original Wiki contributors
+fools-mate
+danieldiekmeier
+kkoop
+HdHeiniDev
+giffeler
+TobiGe
+fancyFranci
+schlagi123
+Saschlong
+mower
+tspaeth
+fscholz
+powerswitch

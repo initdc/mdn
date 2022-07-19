@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/html/global_attributes/tabindex/index.html
+
+# Original Wiki contributors
+drm404

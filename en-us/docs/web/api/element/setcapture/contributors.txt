@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/setcapture/index.md
+
+# Original Wiki contributors
+bershanskiy
+mfluehr
+wbamberg
+connorshea
+ndevenish
+isonet
+jpjitendrapal
+TotalAMD
+david_ross
+nick0606
+lauriro
+fscholz
+teoli
+kscarfone
+Sheppy
+mattbasta
+Ms2ger
+vali29

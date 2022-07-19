@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/feature_policy/index.md
+
+# Original Wiki contributors
+hamishwillee
+mfuji09
+Malvoz
+old_morfey13
+Sheppy
+jpchase
+leela52452
+bershanskiy
+ashleybooniphone
+fscholz
+jpmedley

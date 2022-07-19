@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/http/status/index.html
+
+# Original Wiki contributors
+absinthminded
+Dmitry
+u_mulder
+dmakarov-hystax
+veryvorobey
+AgRuN1
+Sturmtiger
+swiftail
+zhanser1k
+Gvozdikova
+ProgMiner
+fscholz
+masterx2
+LinMAD
+dovgart

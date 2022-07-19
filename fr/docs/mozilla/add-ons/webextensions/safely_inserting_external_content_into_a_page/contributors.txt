@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/safely_inserting_external_content_into_a_page/index.md
+
+# Original Wiki contributors
+hellosct1

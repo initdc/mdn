@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/vendor_prefix/index.md
+
+# Original Wiki contributors
+j9t
+karx
+mfuji09
+wbamberg
+ExE-Boss
+SirDaev
+cspencer404
+CalebRouleau
+Sheppy
+darby
+chrisdavidmills
+Sockses
+hbloomer
+teoli
+Andrew_Pfeiffer
+klez
+stephaniehobson

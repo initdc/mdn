@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/string/substr/index.html
+
+# Original Wiki contributors
+dzek69
+KonradKubiec
+teoli
+Julien.stuby
+Mgjbot
+Ptak82
+Diablownik

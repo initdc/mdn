@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/getelementbyid/index.html
+
+# Original Wiki contributors
+xmentor
+teoli
+khalid32
+Ptak82
+Mgjbot
+Takenbot
+Jan Dudek

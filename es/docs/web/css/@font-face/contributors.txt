@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/@font-face/index.html
+
+# Original Wiki contributors
+ZodiacFireworks
+fscholz
+rtunon
+ozkxr
+teoli
+ccarruitero
+Nuc134rB0t
+inma_610

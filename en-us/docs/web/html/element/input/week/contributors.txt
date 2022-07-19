@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/input/week/index.md
+
+# Original Wiki contributors
+mfuji09
+estelle
+chrisdavidmills
+Sheppy
+wbamberg
+fscholz
+irenesmith
+jnetterf

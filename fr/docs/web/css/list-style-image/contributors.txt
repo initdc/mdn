@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/list-style-image/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Hinato15
+fscholz
+Sebastianz
+teoli
+FredB
+Mgjbot
+Fredchat
+Kyodev
+VincentN

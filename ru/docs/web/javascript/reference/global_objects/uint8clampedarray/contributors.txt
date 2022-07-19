@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/uint8clampedarray/index.html
+
+# Original Wiki contributors
+InoY
+tz4678

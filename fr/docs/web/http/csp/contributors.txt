@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/csp/index.md
+
+# Original Wiki contributors
+SphinxKnight
+lhapaipai
+valimero
+AntoineGrandchamp
+David-5-1

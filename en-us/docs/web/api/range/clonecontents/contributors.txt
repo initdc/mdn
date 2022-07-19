@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/clonecontents/index.md
+
+# Original Wiki contributors
+fscholz
+abbycar
+teoli
+afreen
+shubham.hatwar
+Sheppy
+SkyLined
+Gor1

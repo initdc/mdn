@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/progressive_web_apps/index.html
+
+# Original Wiki contributors
+abes21111984

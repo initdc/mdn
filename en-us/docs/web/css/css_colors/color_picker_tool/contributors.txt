@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_colors/color_picker_tool/index.md
+
+# Original Wiki contributors
+td2014
+mfluehr
+stephaniehobson
+Sheppy
+pqpace
+The-Quill
+jeng1111
+teoli
+730
+gabriel_ivanica

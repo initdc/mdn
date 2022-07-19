@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/getting_started_with_the_web/what_will_your_website_look_like/index.html
+
+# Original Wiki contributors
+skapesec
+gitzizou
+Egokorok
+BychekRU
+Evgeny_Kurkin
+NOSOROG
+Unregistered45
+dm_glazunov

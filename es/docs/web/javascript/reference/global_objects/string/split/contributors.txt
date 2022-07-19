@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/string/split/index.html
+
+# Original Wiki contributors
+germun
+narigondelsiglo
+davegomez
+teoli
+Juanromerocruz
+Talisker
+Mgjbot

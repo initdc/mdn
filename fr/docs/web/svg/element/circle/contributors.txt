@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/element/circle/index.md
+
+# Original Wiki contributors
+EloD10
+Sebastianz
+SphinxKnight
+teoli
+tregagnon
+gemy_c

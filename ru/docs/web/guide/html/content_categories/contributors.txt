@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/guide/html/content_categories/index.html
+
+# Original Wiki contributors
+niktariy
+Sotik
+KTatyana
+Isk1n
+Angelskih
+Quaiby
+chernysh2909
+alexbaumgertner
+Aleksej
+Lambrusco.pro

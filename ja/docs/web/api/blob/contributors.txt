@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/blob/index.md
+
+# Original Wiki contributors
+MikuroXina
+silverskyvicto
+snakada
+YuichiNukiyama
+yyss
+andrykyt
+fscholz
+myakura
+Jxck

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/glossary/abstraction/index.html
+
+# Original Wiki contributors
+Sebastianz
+ursingold
+t1m0fej

@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/configuring_server_mime_types/index.md
+
+# Original Wiki contributors
+caraya
+hamishwillee
+chrisdavidmills
+jswisher
+sideshowbarker
+jtvjan
+mfuji09
+snuggs
+teoli
+Riyaj786
+Sheppy
+kscarfone
+trevorh
+Zwol
+Ms2ger
+Jseghi
+Patrix
+Nukeador
+Np
+Nickolay
+Schapel
+NickolayBot
+Andreas Wuest
+Mathieu Deaudelin
+Dria

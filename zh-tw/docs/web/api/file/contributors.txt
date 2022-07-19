@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/file/index.html
+
+# Original Wiki contributors
+pan93412
+jackblackevo

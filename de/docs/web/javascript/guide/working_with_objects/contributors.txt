@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/guide/working_with_objects/index.html
+
+# Original Wiki contributors
+schlagi123
+Dr-Oetker
+SphinxKnight
+papper371
+timosperisen
+serv-inc
+fw-zirkusdigitalo
+fscholz
+DavidWalsh
+stephaniehobson
+cyclodev
+eminor

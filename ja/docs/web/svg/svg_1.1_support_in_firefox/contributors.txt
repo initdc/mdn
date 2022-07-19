@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/svg_1.1_support_in_firefox/index.html
+
+# Original Wiki contributors
+Kohei
+Mgjbot

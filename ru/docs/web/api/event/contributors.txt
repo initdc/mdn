@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/event/index.html
+
+# Original Wiki contributors
+pk.prog
+emil4
+Sasha4ever

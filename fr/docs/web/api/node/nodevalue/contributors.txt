@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/node/nodevalue/index.md
+
+# Original Wiki contributors
+loella16
+fscholz
+jsx
+teoli
+dextra
+BenoitL
+Kamel

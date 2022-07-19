@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/drop_event/index.html
+
+# Original Wiki contributors
+wiki
+鑫花
+wbamberg
+fscholz
+fanyer
+Ende93

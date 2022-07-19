@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/proxy/index.html
+
+# Original Wiki contributors
+kosarev_va
+sivashev
+xurshidbekjonwin
+lmjavascriptprogrammer
+boxa6
+DonikaV
+nakhodkiin
+Andrey-Bushman
+kdex
+torbasow
+dtretyakov
+im7mortal

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/common_questions/using_github_pages/index.html
+
+# Original Wiki contributors
+slychai85

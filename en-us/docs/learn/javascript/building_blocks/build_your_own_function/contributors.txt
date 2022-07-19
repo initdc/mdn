@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/building_blocks/build_your_own_function/index.md
+
+# Original Wiki contributors
+A.Faturechi
+chrisdavidmills
+mariusmucenicu
+docrob0t
+sambgordon
+thenoelman
+wazz
+kan199041
+stephaniehobson
+FishinginaSombrero8
+cPlayIt
+nmve
+rteliczan
+Jeremie

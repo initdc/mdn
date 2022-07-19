@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/perspective-origin/index.md
+
+# Original Wiki contributors
+mfuji09
+yyss
+Simplexible
+Prinz_Rana
+fscholz
+Sebastianz
+ethertank
+sosleepy
+hateka

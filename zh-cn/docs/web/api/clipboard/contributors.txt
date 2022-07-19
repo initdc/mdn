@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/clipboard/index.md
+
+# Original Wiki contributors
+ReiJi
+alanhg
+Carllllo
+RainSlide
+cpdyj

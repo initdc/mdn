@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/getting_started_with_the_web/the_web_and_web_standards/index.html
+
+# Original Wiki contributors
+kleversonsc
+Xxxtechnopy
+wilkersalazar

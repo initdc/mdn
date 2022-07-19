@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/svg/tutorial/svg_and_css/index.html
+
+# Original Wiki contributors
+teoli
+Verruckt
+gandalf
+Takenbot
+Ptak82
+Witia

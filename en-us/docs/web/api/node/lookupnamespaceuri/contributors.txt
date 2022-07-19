@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/lookupnamespaceuri/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+fscholz
+yangshun
+teoli
+kscarfone
+khushboo_Dwivedi
+gurdev_singh
+Sheppy
+mattbasta
+ziyunfei
+vali29
+Brettz9

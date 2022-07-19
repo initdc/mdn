@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/text-rendering/index.md
+
+# Original Wiki contributors
+Sheppy
+wbamberg
+ddbeck
+fscholz
+06b
+Sebastianz
+mfluehr
+brianmacdonald
+lizdizon
+Druzion
+smonff
+tregagnon
+teoli
+studip101
+kscarfone
+anselmh
+acdha
+ethertank
+maxhoffmann
+FredB
+grendel
+paul.irish
+Jürgen Jeka
+MrDanielLewis
+Athula

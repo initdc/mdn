@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/guidelines/writing_style_guide/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+jswisher
+silverskyvicto
+wbamberg
+horichiyo
+SphinxKnight
+Uemmra3
+dai
+5ara5treamer

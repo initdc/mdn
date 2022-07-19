@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/math/asin/index.md
+
+# Original Wiki contributors
+SphinxKnight
+francois-travais
+teoli
+Jeremie
+Mgjbot
+Kyodev

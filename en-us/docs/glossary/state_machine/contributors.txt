@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/state_machine/index.md
+
+# Original Wiki contributors
+skkiennhtg2327
+hbloomer
+klez
+Andrew_Pfeiffer
+chunm
+tylerbrockett

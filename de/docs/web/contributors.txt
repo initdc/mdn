@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/index.html
+
+# Original Wiki contributors
+GanJix91
+tirein
+Ninomilani
+schlagi123
+Beder3004
+Simix2017
+AxelK
+ascii4rt
+axelrindle
+sbarthel
+j.bjbb
+Pascal
+petzichen
+Sheppy

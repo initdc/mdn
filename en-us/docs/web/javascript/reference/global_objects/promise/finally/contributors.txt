@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/promise/finally/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+Userbit
+Granjow
+duanemoody
+chrisdavidmills
+JasperZelf
+SphinxKnight
+iamahuman
+arye-eidelman
+juraj
+oliverwebr
+sideshowbarker
+zerkms
+raghav710
+Aprillion
+Konrud
+rkatic
+wesleyt
+mfluehr
+uniqname
+Sheppy
+marcinkowal2015
+jsx

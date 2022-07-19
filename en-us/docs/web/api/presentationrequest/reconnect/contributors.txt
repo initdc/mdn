@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/presentationrequest/reconnect/index.md
+
+# Original Wiki contributors
+lucian95
+PushpitaPikuDey
+MashKao

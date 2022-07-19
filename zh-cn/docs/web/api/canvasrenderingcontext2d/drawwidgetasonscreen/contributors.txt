@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvasrenderingcontext2d/drawwidgetasonscreen/index.html
+
+# Original Wiki contributors
+teoli
+YeClimEric

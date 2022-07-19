@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/doctype/index.md
+
+# Original Wiki contributors
+IdEvEbI
+qwertyuiop6
+CapDuan
+pluwen
+sudoor
+xieranmaya

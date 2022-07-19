@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/notification/image/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+fscholz
+jpmedley
+david_ross

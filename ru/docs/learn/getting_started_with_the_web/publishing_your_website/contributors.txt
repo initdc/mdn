@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/getting_started_with_the_web/publishing_your_website/index.html
+
+# Original Wiki contributors
+valandis
+Anonymous
+Sonntag09
+valerii15298
+AlexanderSpivak
+mickgo
+smo1in
+skapesec
+reksar
+nikin93
+Riptrip
+IrinaShv
+thelensky
+roikefir
+gnusee
+romkadmitrievka1997
+nemyxa
+bondpuoq
+Evgeny_Kurkin

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/element/transitionend_event/index.html
+
+# Original Wiki contributors
+ExE-Boss
+fscholz
+juan-ferrer-toribio

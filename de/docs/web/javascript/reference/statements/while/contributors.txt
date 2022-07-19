@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/statements/while/index.html
+
+# Original Wiki contributors
+dmho
+schlagi123
+Jintzo
+Elyasin

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/object/hasownproperty/index.html
+
+# Original Wiki contributors
+JB1905
+kanapka94
+s1awek
+dianafa

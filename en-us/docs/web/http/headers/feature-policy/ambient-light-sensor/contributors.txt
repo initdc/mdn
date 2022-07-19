@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/feature-policy/ambient-light-sensor/index.md
+
+# Original Wiki contributors
+verde79
+bershanskiy

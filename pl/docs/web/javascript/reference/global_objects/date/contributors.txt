@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/date/index.html
+
+# Original Wiki contributors
+wojexe
+dkoprowski
+wbamberg
+teoli
+Witia
+Internauta1024A
+telendt
+Mgjbot
+Ptak82
+Jfkpl
+VooEak
+Marcoos

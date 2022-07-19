@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/semantics/index.md
+
+# Original Wiki contributors
+sargis.mkoyan
+M.M.J
+mfuji09
+saral
+chrisdavidmills
+jscott313
+depthdev
+Comandeer
+247flashgames

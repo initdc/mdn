@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cache/addall/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Wind1808
+jpmedley
+ricea
+fscholz
+erikadoyle
+tomayac
+Dietrich
+chrisdavidmills
+jrburke
+nyrosmith
+tresdin
+kscarfone

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/stylesheets/index.html
+
+# Original Wiki contributors
+teoli
+jsx
+Robson
+Mgjbot
+Jan Dudek

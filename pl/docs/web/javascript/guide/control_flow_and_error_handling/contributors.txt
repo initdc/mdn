@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/guide/control_flow_and_error_handling/index.html
+
+# Original Wiki contributors
+Konrad007
+AndrzejSala
+lukasz-jakub-adamczuk
+Mateusz
+maciejmarczak

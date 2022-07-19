@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webgl_api/tutorial/lighting_in_webgl/index.md
+
+# Original Wiki contributors
+Sheppy
+chrisdavidmills
+0la0
+stephaniehobson
+aaronolsen
+WouterVanmulken
+gmanpersona
+aunzat
+d28b
+nmve
+fscholz
+Zerrien
+gregtatum
+Jeremie
+desktop
+teoli
+w3rosom
+AllenZ
+yyss

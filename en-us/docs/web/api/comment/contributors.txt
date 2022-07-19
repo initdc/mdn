@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/comment/index.md
+
+# Original Wiki contributors
+sideshowbarker
+kbjoon2426
+alattalatta
+katzrkool
+stevenwdv
+arronei
+erikadoyle
+fscholz
+MHasan
+teoli
+Sheppy
+Brettz9

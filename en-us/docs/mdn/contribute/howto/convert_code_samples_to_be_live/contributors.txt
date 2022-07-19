@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/contribute/howto/convert_code_samples_to_be_live/index.md
+
+# Original Wiki contributors
+mfuji09
+SphinxKnight
+atu6581
+chrisdavidmills
+AleksandrK69
+wbamberg
+jswisher
+daisyrowley777
+BM802
+ErvisTusha
+audiodude
+stephaniehobson
+Sheppy
+ilyakamens

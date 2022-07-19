@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/xslt/using_the_mozilla_javascript_interface_to_xsl_transformations/index.html
+
+# Original Wiki contributors
+wbamberg
+chrisdavidmills
+teoli
+Netaras

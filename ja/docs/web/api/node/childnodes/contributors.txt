@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/node/childnodes/index.md
+
+# Original Wiki contributors
+YUUKIToriyama
+silverskyvicto
+fscholz
+khalid32
+siokoshou
+ethertank
+Shoot
+Marsf
+Mgjbot
+Hfjapancom

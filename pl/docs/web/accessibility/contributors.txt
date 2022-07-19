@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/accessibility/index.html
+
+# Original Wiki contributors
+SphinxKnight
+rokthe888
+teoli
+Mgjbot
+Ptak82
+gandalf
+Marcoos
+Dria

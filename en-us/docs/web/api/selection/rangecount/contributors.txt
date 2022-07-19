@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/rangecount/index.md
+
+# Original Wiki contributors
+paul-go
+Yaffle
+sideshowbarker
+mfluehr
+ddbeck
+abbycar
+caofeng1
+Dan-Dascalescu
+BenjamP
+fscholz
+teoli
+kosvrouvas
+kscarfone
+sujeetgholap
+Sheppy
+DR
+Federico
+Diablownik
+Jonnyq

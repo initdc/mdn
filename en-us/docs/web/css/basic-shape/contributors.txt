@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/basic-shape/index.md
+
+# Original Wiki contributors
+wbamberg
+SphinxKnight
+hinell
+estelle
+mfluehr
+chrisdavidmills
+rachelandrew
+fscholz
+Ahhaha233
+teoli
+Tingyu
+Prinz_Rana
+mrstork
+jsx
+rebeccahauck

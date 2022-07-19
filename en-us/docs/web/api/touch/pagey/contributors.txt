@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/touch/pagey/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+chrisdavidmills
+mattwojo
+AFBarstow
+teoli
+jsx
+kscarfone
+Khodaidad_Basharmand
+Sheppy

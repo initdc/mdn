@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_positioning/understanding_z_index/stacking_without_z-index/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+nicokoenig
+jonjohnjohnson
+mfluehr
+SphinxKnight
+ViktorPalansky
+javichito
+duncanmcdonald
+teoli
+xfq
+Jeremie
+Sheppy
+tregagnon
+azatazz
+deepakjoy
+Mgjbot
+Fredchat
+Nickolay
+Rod Whiteley
+bradipao

@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_workers_api/index.md
+
+# Original Wiki contributors
+hamishwillee
+alattalatta
+chrisdavidmills
+a0m0rajab
+SphinxKnight
+atomLee1
+fscholz
+ExE-Boss
+taangle
+Pamplemousse
+lionralfs
+plaxdan
+VsevolodGolovanov
+aligatorjmg
+mgthomas99
+tocretpa
+DomenicDenicola
+akshayjai1
+joneit
+erikadoyle
+massic80
+Sebastianz
+teoli
+svincent
+edicsa
+sinancan
+ChrisL

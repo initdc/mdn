@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/sessionstorage/index.md
+
+# Original Wiki contributors
+madidier
+SphinxKnight
+Prestine
+begmans
+carvallegro
+cedeber
+gharel
+Puxarnal
+Weeple

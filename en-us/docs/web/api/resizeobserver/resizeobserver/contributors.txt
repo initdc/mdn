@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/resizeobserver/resizeobserver/index.md
+
+# Original Wiki contributors
+Rumyra
+alexlur
+sideshowbarker
+mfuji09
+tmhrtwg
+chrisdavidmills
+tbjgolden
+bodo22
+jpmedley

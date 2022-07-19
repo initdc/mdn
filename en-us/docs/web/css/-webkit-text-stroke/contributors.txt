@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-webkit-text-stroke/index.md
+
+# Original Wiki contributors
+sideshowbarker
+codingdudecom
+ddbeck
+Sheppy
+ExE-Boss
+mfluehr
+pimmink
+llkk
+libbymc
+Sebastianz
+Druzion
+cvrebert

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/forms/alerts/index.html
+
+# Original Wiki contributors
+SameeraST
+eltom13
+thenoelman
+jeremybbauer
+sergionsz
+Jason0
+jonscottclark
+Fredchat
+Sheppy
+lukecanvin
+anastasia
+Aaronlev

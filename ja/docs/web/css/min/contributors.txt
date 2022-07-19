@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/min/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+8845musign

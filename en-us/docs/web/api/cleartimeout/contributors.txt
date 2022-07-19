@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cleartimeout/index.md
+
+# Original Wiki contributors
+mfuji09
+Skimmy
+fscholz
+erikadoyle
+nmve
+chrisdavidmills
+DLuPi
+Sheppy
+tiffling
+tvthatsme
+Qwick
+githue
+hweeks
+teoli
+AshfaqHossain
+basemnassar11
+ethertank
+fusionchess
+jyasskin
+karbassi
+qfel13
+kswedberg
+Mgjbot
+Nickolay
+BenoitL
+Dria
+Callek
+JesseW

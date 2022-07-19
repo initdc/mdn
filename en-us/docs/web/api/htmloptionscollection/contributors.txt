@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmloptionscollection/index.md
+
+# Original Wiki contributors
+sideshowbarker
+GustvandeWal
+connorshea
+ExE-Boss
+Sebastianz
+fscholz
+teoli
+kscarfone
+Sheppy
+ethertank
+mkato
+Brettz9

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/dblclick_event/index.md
+
+# Original Wiki contributors
+mfluehr
+mfuji09
+Sheppy
+irenesmith
+wbamberg
+BrianARuff
+DisorientedSpacePenguin
+fscholz
+zhangjun620
+Robg1
+chrisdavidmills
+erikadoyle
+Sebastianz
+teoli
+kscarfone
+robcolburn
+ethertank
+louisremi

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/intl/locale/hourcycle/index.md
+
+# Original Wiki contributors
+fscholz
+mfuji09
+sideshowbarker
+SphinxKnight
+jahzielv

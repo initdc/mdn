@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/server-side/django/introduction/index.html
+
+# Original Wiki contributors
+mantisSp
+malikovboo
+exelay
+NickSalander
+xc0derx
+azhlbn
+NeshkoO
+kivaschenko
+hbble
+Danchek
+n05tr0m0
+Limpar
+vakhet
+kilovoltov
+AnnaSamonenko
+DIAMONDinc

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/a_re-introduction_to_javascript/index.html
+
+# Original Wiki contributors
+kanapka94
+edgyFAT
+xbravadox
+r0v
+joanna-by
+Poftorek
+JKarkosza

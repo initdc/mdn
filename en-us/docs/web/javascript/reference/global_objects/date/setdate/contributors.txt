@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/setdate/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+CodeDotJS
+fscholz
+tbenko73
+itotallyrock
+danners
+jamesnuanez
+Seabrand
+Nick-Rivera
+GawiSh97
+wbamberg
+schalkneethling
+jameshkramer
+eduardoboucas
+Jaaromy
+sinelaw
+Rklasens
+Mingun
+Robg1
+Sheppy
+ethertank
+evilpie
+Neil
+Ptak82
+Maian
+Dria

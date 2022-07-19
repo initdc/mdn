@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/column-fill/index.md
+
+# Original Wiki contributors
+SphinxKnight
+fscholz
+Munto
+Sebastianz
+teoli
+FredB
+Delapouite

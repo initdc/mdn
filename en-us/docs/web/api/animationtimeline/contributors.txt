@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/animationtimeline/index.md
+
+# Original Wiki contributors
+birtles
+ExE-Boss
+Sheppy
+suzyh
+rachelnabors
+chrisdavidmills

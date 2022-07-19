@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performancetiming/responsestart/index.md
+
+# Original Wiki contributors
+fscholz
+abbycar
+chrisdavidmills
+eli_f
+kscarfone
+teoli

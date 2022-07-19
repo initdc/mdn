@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/htmlelement/offsetparent/index.html
+
+# Original Wiki contributors
+teoli
+xuancanh
+Ptak82
+Tomekperlak
+Mgjbot
+Internauta1024A

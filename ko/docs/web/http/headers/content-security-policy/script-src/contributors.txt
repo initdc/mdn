@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/headers/content-security-policy/script-src/index.html
+
+# Original Wiki contributors
+karuana

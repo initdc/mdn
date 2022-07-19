@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/iframe/index.md
+
+# Original Wiki contributors
+quadristan
+SphinxKnight
+ThCarrere
+loella16
+guillaumegarcia13
+PxlCtzn
+marie-ototoi
+shinigami35
+msherefel
+tregagnon

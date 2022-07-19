@@ -1,0 +1,48 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domparser/index.md
+
+# Original Wiki contributors
+sno2
+mfuji09
+sideshowbarker
+Zearin_Galaurum
+jmsfwk
+hinell
+trishul
+connorshea
+myf
+Sheppy
+esphen
+tigercosmos
+kamoroso94
+etwobe
+erikadoyle
+Sebastianz
+Sephr
+teoli
+Rob W
+Derbeth
+Noitidart
+stevemao
+kscarfone
+freddyb
+vyv03354
+ethertank
+ziyunfei
+Hsivonen
+Jeremie
+Nickolay
+shergin
+PWeilbacher
+Jorend
+another_sam
+Varmaa
+Mnyromyr
+Bzbarsky
+Mgjbot
+Ricky
+Chbok
+Dria
+Andreas Wuest
+Mjwilson
+Oniseijin

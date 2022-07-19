@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/font-stretch/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+wbamberg
+Sheppy
+vinyldarkscratch
+chrisdavidmills
+jimlamm
+mfluehr
+fscholz
+pborenstein
+wahome
+erikadoyle
+ZaneHannanAU
+Tigt
+duncanmcdonald
+LPGhatguy
+Sebastianz
+teoli
+kscarfone
+LouisLazaris
+FredB
+ethertank
+pdmdn
+brianloveswords
+DBaron
+Marcoos
+southernroutes
+bcombee
+grendel
+stopsatgreen
+Jürgen Jeka
+BijuGC
+Ptak82
+Fredchat

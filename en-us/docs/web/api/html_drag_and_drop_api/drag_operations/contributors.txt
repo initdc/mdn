@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/html_drag_and_drop_api/drag_operations/index.md
+
+# Original Wiki contributors
+softwareCobbler
+Zearin_Galaurum
+felicien-brochu
+Tigt
+artalar
+jarrodn
+chrisdavidmills
+teoli
+williamboman
+riophaelee
+tasstwa
+AFBarstow
+EnnDeakin
+LinusU
+manni66
+pioul
+xfq
+foxbrush
+wojrze
+Jeremie
+mnoorenberghe
+Delapouite
+kscarfone
+Sheppy
+ultranaut
+WebchainH@gmail.com
+ethertank
+ndm250
+Sephr
+Dongdong
+Enn
+Piro

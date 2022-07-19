@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/css/block_formatting_context/index.md
+
+# Original Wiki contributors
+spollard
+pacexy
+wbamberg
+Mookiepiece
+SelenIT
+TrevorKarjanis
+mfuji09
+Konrud
+estelle
+wavesheep
+jennyevans
+MelvinIdema
+chrisdavidmills
+Ende93
+xiaohanyu
+YvonneZhang
+pythonista27
+S-Dey
+mfluehr
+yisibl
+alberts+
+rainyLeo
+PageYe
+HashemQolami
+Jeremie
+teoli
+kscarfone
+tregagnon
+Sheppy
+cbiesinger
+Kohei
+DBaron

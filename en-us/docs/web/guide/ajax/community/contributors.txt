@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/ajax/community/index.md
+
+# Original Wiki contributors
+devquora
+jamesdhurd
+SphinxKnight
+KateSturmey
+chrisdavidmills
+Zappykeyboard
+k2lp5p
+Bismisoft
+Ptak82
+IzgE7b
+VincentN
+Alaa.moustafa
+Mgjbot
+Dria
+Callek
+Digitalsanctum

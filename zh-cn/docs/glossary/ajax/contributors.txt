@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/ajax/index.md
+
+# Original Wiki contributors
+benniks
+zzzimaple
+jason-guo
+心斩心鬼
+cosformula
+Zhong
+Terry.Qiao
+zsxeee
+icaoweiwei

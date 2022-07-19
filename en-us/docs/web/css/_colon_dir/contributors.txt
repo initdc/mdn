@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_dir/index.md
+
+# Original Wiki contributors
+Malvoz
+wbamberg
+rachelandrew
+fscholz
+mfluehr
+chrisdavidmills
+PyroLagus
+xfq
+Sebastianz
+cvrebert
+teoli
+jsx
+SJW
+kscarfone
+Sheppy
+FredB

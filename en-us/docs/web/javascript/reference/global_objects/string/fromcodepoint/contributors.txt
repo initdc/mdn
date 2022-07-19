@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/fromcodepoint/index.md
+
+# Original Wiki contributors
+wbamberg
+b2m9
+Zearin_Galaurum
+fscholz
+Solomon.Rutzky
+Peppesterest
+SphinxKnight
+Jolg42
+jameshkramer
+ramsunvtech
+kdex
+crazymykl
+eduardoboucas
+fasttime
+ziyunfei
+Mingun
+cookch10
+mathiasbynens

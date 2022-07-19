@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlelement/paste_event/index.md
+
+# Original Wiki contributors
+mfuji09
+mitsuba-clover
+fscholz
+khalid32
+Potappo

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/forms/how_to_build_custom_form_controls/example_4/index.md
+
+# Original Wiki contributors
+Dralyab

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/node/previoussibling/index.md
+
+# Original Wiki contributors
+wbamberg
+loella16
+fscholz
+jsx
+Sheppy
+Mgjbot
+BenoitL
+Pitoutompoilu

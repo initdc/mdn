@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/hoisting/index.md
+
+# Original Wiki contributors
+ganeshjadhav221b
+Balakhadze
+chrisdavidmills
+drklee3
+RafeyIqbalRahman
+hsostock
+michael-soorys
+premkash
+RafaelDavisH
+Alex1597533
+draytxn
+Tymofek
+rev1c0sm0s
+jxf
+IsaacAaron
+Sheppy
+Nevillealee
+fscholz
+Landish
+LeftofZen
+rwaldron
+SpartaSixZero
+rsamala-osius
+somdow
+charleshypk
+gitsubham
+mhalitk
+jonny5
+kaveh
+vaniananthuni
+rajkishor09
+SnoopyRules
+kscarfone

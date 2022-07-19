@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/fespecularlighting/index.md
+
+# Original Wiki contributors
+Jeremie
+abbycar
+Sebastianz
+iwarui
+kscarfone
+Baptiste
+Manuel_Strehl

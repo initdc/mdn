@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_doublecolon_marker/index.md
+
+# Original Wiki contributors
+jswisher
+wbamberg
+prayagbs
+rachelandrew
+ExE-Boss
+fscholz
+Tigt
+mfluehr
+cPhost
+TylerH
+cvrebert

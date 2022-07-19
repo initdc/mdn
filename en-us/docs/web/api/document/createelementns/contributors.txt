@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/createelementns/index.md
+
+# Original Wiki contributors
+Yaffle
+futpib
+mfuji09
+ExE-Boss
+mfluehr
+fscholz
+dunnbobcat
+arronei
+erikadoyle
+wbamberg
+teoli
+stuart
+Noitidart
+jsx
+mattflaschen
+kscarfone
+Navin_Jadhav
+Sheppy
+ethertank
+FredGandt
+stanton
+Sephr
+Blizzard
+Ptak82
+LvlMkw
+Nickolay
+20after4

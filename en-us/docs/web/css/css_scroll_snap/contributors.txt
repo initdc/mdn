@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_scroll_snap/index.md
+
+# Original Wiki contributors
+Rik
+wbamberg
+r-i-c-h
+Sebastianz
+rachelandrew
+chrisdavidmills
+ExE-Boss
+mfuji09
+Seblor
+twhb

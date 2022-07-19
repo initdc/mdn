@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/classes/static/index.md
+
+# Original Wiki contributors
+mfuji09
+krankj
+sideshowbarker
+fscholz
+vivy27
+SphinxKnight
+diasoluyalu
+Sheppy
+wbamberg
+jameshkramer
+kdex
+stevenellul
+thefourtheye
+tylerargo
+r05al
+emiljohansson
+Getkey
+paulwithap
+MortezaT
+vmasto
+renren89
+fortunebubble
+rusht
+morenoh149
+rwaldron
+emailnitram
+jpmedley
+samhagman

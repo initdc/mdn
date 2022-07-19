@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/webassembly/understanding_the_text_format/index.md
+
+# Original Wiki contributors
+dgb23
+chrisdavidmills
+lukewagner
+martin-t
+cwebber
+leela52452
+adamkewley
+AlanFoster
+sideshowbarker
+ofrobots
+theSdev
+ExE-Boss
+puzpuzpuz
+olegvs
+antstei
+mkelliher
+kenrick95
+KagamiH
+maximebl
+kingysu
+ukyo
+fanmingfei
+AndreasHassing
+BrainBuzzer
+kdex

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/mozilla/add-ons/webextensions/your_first_webextension/index.html
+
+# Original Wiki contributors
+jangromko
+Sławek
+Waterrail
+oliwier1232
+Ciepcin

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/string/slice/index.html
+
+# Original Wiki contributors
+inva8de
+bestwebdeveloper
+Andrii-Oleksyshyn
+Mingun

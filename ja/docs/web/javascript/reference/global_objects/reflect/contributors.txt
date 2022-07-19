@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/reflect/index.md
+
+# Original Wiki contributors
+ushironoko
+mfuji09
+segayuu
+imanabu
+yyss
+shide55

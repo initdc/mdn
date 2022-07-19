@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/statements/throw/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+myf
+duanemoody
+jayden-arrai
+schalkneethling
+jameshkramer
+nmve
+Natalya_Surikova
+ptepper
+nacyot
+GuilhermeReda
+rxgx
+Dan-Dascalescu
+Havvy
+Ginden
+Sheppy
+tregagnon
+safjanowski
+Shiningtiti
+Mgjbot
+Ptak82
+Maian
+Anonymous
+Dria

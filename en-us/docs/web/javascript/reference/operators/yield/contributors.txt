@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/yield/index.md
+
+# Original Wiki contributors
+sinanergin
+fscholz
+Misiur
+mfuji09
+wbamberg
+Zearin_Galaurum
+dbandstra
+Dan-Dascalescu
+sideshowbarker
+zeevmoney
+Agamemnus
+akshayjai1
+jameshkramer
+fleksin
+XMO
+nmve
+kdex
+pipcet
+imconfig
+Havvy
+Sheppy
+Nickolay
+tearwyx
+arai
+mountainmoon
+rrt
+P0lip
+SphinxKnight
+alexcastrounis
+myf
+MattBrubeck
+Sevenspade

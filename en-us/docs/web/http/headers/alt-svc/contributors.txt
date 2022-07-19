@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/alt-svc/index.md
+
+# Original Wiki contributors
+Wind1808
+Lekensteyn
+amitabh-anandcl
+tomasbedrich
+ExE-Boss

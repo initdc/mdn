@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/history/index.md
+
+# Original Wiki contributors
+irenesmith
+hinell
+wbamberg
+andrewtruongmoz
+Sheppy
+mwein

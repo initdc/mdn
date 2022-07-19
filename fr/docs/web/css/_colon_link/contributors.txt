@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/_colon_link/index.md
+
+# Original Wiki contributors
+SphinxKnight
+tregagnon
+teoli
+FredB
+Delapouite
+ThePrisoner

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webgl_api/tutorial/index.md
+
+# Original Wiki contributors
+rfinkley
+Brettz9
+Sheppy
+fscholz

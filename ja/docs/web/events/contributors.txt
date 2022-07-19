@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/events/index.md
+
+# Original Wiki contributors
+mpcjazz
+companymickey
+neeg2
+FujiHaruka
+u-sho
+mfuji09
+wbamberg
+silverskyvicto
+WhiteHawk-taka
+Marsf
+ssw
+ethertank
+Sheppy

@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/attr/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ramiy
+wbamberg
+mfuji09
+xiaochengh
+valtlai
+WebMechanic
+Mookiepiece
+QuentinA
+jpmedley
+ExE-Boss
+torazaburo
+xgqfrms-GitHub
+fscholz
+mfluehr
+Sebastianz
+erikadoyle
+mrstork
+prayash
+jrencz
+teoli
+jwhitlock
+Loiro
+visiongeist
+Bzbarsky
+tregagnon
+kscarfone
+Sheppy
+mattbasta
+arhayward
+m_gol
+ethertank
+McGurk

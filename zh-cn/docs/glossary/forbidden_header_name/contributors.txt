@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/forbidden_header_name/index.md
+
+# Original Wiki contributors
+Opportunity
+yuankunzhang
+WayneCui

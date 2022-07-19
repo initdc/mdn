@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/template/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Mr21
+Yopadd
+P45QU10U
+Fredchat
+ylerjen

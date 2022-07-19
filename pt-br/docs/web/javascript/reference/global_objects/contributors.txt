@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/global_objects/index.html
+
+# Original Wiki contributors
+misabraga
+thiagoh
+SphinxKnight
+teoli
+vagnerleitte
+Norbert

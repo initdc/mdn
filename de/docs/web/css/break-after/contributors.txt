@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/break-after/index.html
+
+# Original Wiki contributors
+SJW
+tobias47n9e
+fscholz
+Sebastianz
+spiegelp

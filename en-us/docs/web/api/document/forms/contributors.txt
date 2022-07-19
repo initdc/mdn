@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/forms/index.md
+
+# Original Wiki contributors
+mfuji09
+Neil188
+chrisdavidmills
+fscholz
+Sheppy
+Garbee
+dbrew
+cvrebert
+teoli
+Delapouite
+kosvrouvas
+kscarfone
+Khodaidad_Basharmand
+ethertank
+ziyunfei
+Marcoos
+Matej Lednar
+Piopier
+Mgjbot
+George3
+Jabez
+Ptak82
+Dria
+JesseW

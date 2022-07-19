@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_flexible_box_layout/typical_use_cases_of_flexbox/index.md
+
+# Original Wiki contributors
+sutara79
+mattbrundageMDN
+rachelandrew
+chrisdavidmills

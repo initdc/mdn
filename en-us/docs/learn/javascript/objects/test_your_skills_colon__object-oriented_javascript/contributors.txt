@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/objects/test_your_skills_colon__object-oriented_javascript/index.md
+
+# Original Wiki contributors
+A.Faturechi
+abinashLin
+chrisdavidmills

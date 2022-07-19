@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svgaelement/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+fscholz
+Sebastianz
+dunnbobcat
+abbycar
+dverane08
+kscarfone
+Sheppy
+Jeremie

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/guide/text_formatting/index.html
+
+# Original Wiki contributors
+schlagi123
+patpir
+SEBv15

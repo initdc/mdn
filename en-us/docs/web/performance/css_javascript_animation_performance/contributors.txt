@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/performance/css_javascript_animation_performance/index.md
+
+# Original Wiki contributors
+leela52452
+estelle
+spencercorwin
+chrisdavidmills
+newyork-anthonyng
+Zeanith
+jswisher
+sungchiu
+MashKao

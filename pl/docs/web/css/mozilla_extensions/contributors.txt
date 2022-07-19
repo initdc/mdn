@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/mozilla_extensions/index.html
+
+# Original Wiki contributors
+ExE-Boss
+SphinxKnight
+teoli
+tregagnon
+fscholz
+Filemon
+Mgjbot
+Ptak82
+Bedi
+Witia

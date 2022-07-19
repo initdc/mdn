@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/array/map/index.html
+
+# Original Wiki contributors
+michalwarda
+halicki
+cojack
+Miras
+nix1
+teoli
+Mgjbot
+Ptak82
+tybulewicz
+Internauta1024A

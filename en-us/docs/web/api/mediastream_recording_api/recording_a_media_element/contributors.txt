@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediastream_recording_api/recording_a_media_element/index.md
+
+# Original Wiki contributors
+mfuji09
+Jib
+Wind1808
+cesque
+Sheppy

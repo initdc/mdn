@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/offsettop/index.md
+
+# Original Wiki contributors
+elgs
+TheTophatDemon
+NotARobit
+erikadoyle
+jwhitlock
+Dineshari
+2is10
+jpmedley
+ryanpcmcquen
+depthdev
+fscholz
+teoli
+saneyuki_s
+ajaybhat
+kscarfone
+Sheppy
+ethertank
+alys
+George3
+Mgjbot
+Ptak82
+Dria
+Prodoc

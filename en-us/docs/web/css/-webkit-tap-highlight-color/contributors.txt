@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-webkit-tap-highlight-color/index.md
+
+# Original Wiki contributors
+Sheppy
+ddbeck
+ekilah
+estelle
+MNizam0802
+dylanmaassen
+behnammodi
+rwilson.or
+RyanNerd
+rolfedh
+cvrebert

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/statements/var/index.md
+
+# Original Wiki contributors
+FloydTsai
+RainSlide
+zhangchen
+AymaxLi
+xgqfrms-GitHub
+The-End-Hero
+loddit
+lunix01
+AlexChao
+SphinxKnight
+Fify

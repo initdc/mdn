@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvas_api/tutorial/using_images/index.md
+
+# Original Wiki contributors
+stephaniehobson
+gsaviane
+chrisdavidmills
+nmve
+jmh
+MaxManchak
+fscholz
+andietat
+teoli
+davidblurton
+Raffzahn
+ishita
+EGlassman
+Jeremie
+enderandpeter
+foxbrush
+Quoth
+Sheppy
+trevorh

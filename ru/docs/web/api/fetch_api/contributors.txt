@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/fetch_api/index.html
+
+# Original Wiki contributors
+lidahp
+torbasow
+DASenkiv
+hcodes
+bershanskiy
+qqwweeaassdd
+WispProxy
+aleshkanet
+marichka4345
+Aleynikov_Boris
+Miha-x64
+karatheodory
+RumyantsevMichael
+sashashakun
+visortelle
+savelevcorr

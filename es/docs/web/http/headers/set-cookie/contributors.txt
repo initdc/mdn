@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/headers/set-cookie/index.html
+
+# Original Wiki contributors
+ignacio-ifm
+IsraelFloresDGA
+rayrojas
+ramonserrano
+garolard

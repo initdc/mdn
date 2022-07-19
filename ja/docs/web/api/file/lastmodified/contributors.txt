@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/file/lastmodified/index.md
+
+# Original Wiki contributors
+迷子碳
+mfuji09
+silverskyvicto

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/alternative_style_sheets/index.html
+
+# Original Wiki contributors
+Sebastianz

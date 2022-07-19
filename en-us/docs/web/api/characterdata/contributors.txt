@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/characterdata/index.md
+
+# Original Wiki contributors
+katzrkool
+stevenwdv
+arronei
+erikadoyle
+fscholz
+teoli
+LouisLazaris
+npup
+Sheppy
+ethertank
+leuqarte
+Brettz9

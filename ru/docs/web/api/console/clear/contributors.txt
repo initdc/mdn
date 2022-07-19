@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/console/clear/index.html
+
+# Original Wiki contributors
+georgelviv
+YozhEzhi
+art-gur

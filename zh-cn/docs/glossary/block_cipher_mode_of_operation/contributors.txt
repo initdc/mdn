@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/block_cipher_mode_of_operation/index.md
+
+# Original Wiki contributors
+xh1996819

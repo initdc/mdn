@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/css_transforms/using_css_transforms/index.md
+
+# Original Wiki contributors
+alattalatta
+fscholz
+teoli
+mirinae312
+jaemin_jo

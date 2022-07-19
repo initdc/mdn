@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/getting_started_with_the_web/installing_basic_software/index.html
+
+# Original Wiki contributors
+DoctorLarva
+Sławek
+ffipe

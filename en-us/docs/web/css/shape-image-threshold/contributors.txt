@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/shape-image-threshold/index.md
+
+# Original Wiki contributors
+mfuji09
+ddbeck
+fscholz
+heyvian
+rachelandrew
+Sheppy
+chrisdavidmills
+mfluehr
+Sebastianz
+myf
+Siilwyn
+teoli
+shaunw
+rebeccahauck

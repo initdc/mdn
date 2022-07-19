@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/client-side_web_apis/client-side_storage/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+JohnnyMu-Cn
+stevemasta34
+ckashby
+SphinxKnight
+VincentHead
+kruschk
+nsangwan
+sideshowbarker
+Milind-Gawande
+Eduardo06sp
+reddraggone9
+Ilphrin
+Sheppy
+TheHumbleGhost

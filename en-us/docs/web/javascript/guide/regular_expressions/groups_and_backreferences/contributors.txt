@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/guide/regular_expressions/groups_and_backreferences/index.md
+
+# Original Wiki contributors
+ItaHeld90
+fscholz
+SphinxKnight
+chrisdavidmills
+bernardirfan
+fetis
+pkay
+neirongkuifa
+jpmedley

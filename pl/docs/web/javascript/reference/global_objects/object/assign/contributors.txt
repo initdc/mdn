@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/object/assign/index.html
+
+# Original Wiki contributors
+oddehh
+tkitynski
+belfz
+kkowalczuk
+drzazga
+JacobDesight

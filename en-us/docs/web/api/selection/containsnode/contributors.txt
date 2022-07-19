@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/containsnode/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+myakura
+ddbeck
+chrisdavidmills
+realappie
+abbycar
+fscholz
+BenjamP
+teoli
+MHasan
+kscarfone
+Kartik_Chadha
+Sheppy
+Federico
+DR
+Rev
+Mw22

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/common_questions/what_are_hyperlinks/index.md
+
+# Original Wiki contributors
+jingkaimori
+AnneBai
+yuyx91
+wanguaf2016
+ziyunfei
+wth

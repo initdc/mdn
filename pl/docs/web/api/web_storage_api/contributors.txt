@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/web_storage_api/index.html
+
+# Original Wiki contributors
+rudol
+teoli
+AshfaqHossain
+Mgjbot
+Ptak82
+Rev
+Bedi
+Internauta1024A

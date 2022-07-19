@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/feblend/index.md
+
+# Original Wiki contributors
+kudlav
+fscholz
+abbycar
+Sebastianz
+iwarui
+kscarfone
+Jeremie
+Manuel_Strehl

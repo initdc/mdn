@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/reference/index.html
+
+# Original Wiki contributors
+SJW
+plathub
+Claas
+condottiero1985
+Sebastianz
+fscholz
+tregagnon
+Jürgen Jeka
+The Witcher
+Michael2402
+Jech
+Nathymig

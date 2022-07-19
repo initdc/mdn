@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/http/headers/x-content-type-options/index.html
+
+# Original Wiki contributors
+Johuspect
+claui
+AnthyG
+peschuster
+Joeatc

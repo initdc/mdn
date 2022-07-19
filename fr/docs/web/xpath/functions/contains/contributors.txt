@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/xpath/functions/contains/index.md
+
+# Original Wiki contributors
+ExE-Boss
+joseph2rs
+eleg
+Mgjbot
+VincentN
+Fredchat

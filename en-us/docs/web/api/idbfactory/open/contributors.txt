@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbfactory/open/index.md
+
+# Original Wiki contributors
+sideshowbarker
+chrisdavidmills
+johannh
+fscholz
+jpmedley
+arronei
+libbymc
+inexorabletash
+SpaceMudge
+Brettz9
+scottmtp
+coobie
+chrahunt
+teoli

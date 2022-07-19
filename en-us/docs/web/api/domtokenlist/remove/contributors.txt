@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domtokenlist/remove/index.md
+
+# Original Wiki contributors
+mcmimik
+kwliou
+Zearin_Galaurum
+manngo
+mfuji09
+tjcrowder
+fscholz
+Speich
+chrisdavidmills

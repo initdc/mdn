@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/function/caller/index.html
+
+# Original Wiki contributors
+teoli
+Mgjbot
+Marcoos
+Ptak82

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_logical_properties/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+David_Gilbertson
+chrisdavidmills
+rachelandrew
+ExE-Boss
+mfluehr
+Patrick_Dark
+Sebastianz
+teoli

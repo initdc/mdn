@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/guide/ajax/community/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+teoli
+Jorolo

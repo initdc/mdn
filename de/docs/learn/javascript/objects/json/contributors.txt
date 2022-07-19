@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/learn/javascript/objects/json/index.html
+
+# Original Wiki contributors
+MuellerRi
+DirkMassmann

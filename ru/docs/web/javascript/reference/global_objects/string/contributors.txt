@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/string/index.html
+
+# Original Wiki contributors
+liubov
+mangl-auf
+boxa6
+wbamberg
+an2323
+IvanMorkva
+Mingun
+fobo66
+teoli
+ethertank

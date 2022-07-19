@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/conflicting/web/css/css_fonts_25d4b407d3e5044aeffb97faa9669a95/index.html
+
+# Original Wiki contributors
+maxim20121776

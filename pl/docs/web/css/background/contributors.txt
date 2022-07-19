@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/background/index.html
+
+# Original Wiki contributors
+fatherJS
+LuciusLuWroc
+teoli
+SphinxKnight
+Yuichiro
+Witia
+Mgjbot
+Kjj2
+Ptak82

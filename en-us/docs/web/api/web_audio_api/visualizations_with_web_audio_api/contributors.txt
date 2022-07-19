@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_audio_api/visualizations_with_web_audio_api/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+nomad-mystic
+MAKIO135
+jonchaney
+so_matt_basta
+searsaw
+sirishn

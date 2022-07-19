@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/web_components/using_templates_and_slots/index.md
+
+# Original Wiki contributors
+PSthely
+wiredbug

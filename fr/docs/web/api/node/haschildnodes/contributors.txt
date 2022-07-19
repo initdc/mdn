@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/node/haschildnodes/index.md
+
+# Original Wiki contributors
+loella16
+fscholz
+teoli
+khalid32
+Mgjbot
+BenoitL
+Fredchat
+Celelibi

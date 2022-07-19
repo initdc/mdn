@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/boolean/index.md
+
+# Original Wiki contributors
+QuentinR
+SphinxKnight
+madarche
+ycintre
+BenoitEsnard
+teoli
+Goofy
+tregagnon
+Jeremie
+LaBoumerde
+daniel35310

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/tt/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+sideshowbarker
+Koavf
+Jürgen Jeka
+Sheppy
+teoli
+mfluehr
+kscarfone
+tregagnon
+ethertank
+fscholz
+Ms2ger
+Mgjbot
+Jscher2000

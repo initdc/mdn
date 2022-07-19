@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/notification/index.html
+
+# Original Wiki contributors
+Dimonasdf
+talgautb
+102
+teoli
+fsanano

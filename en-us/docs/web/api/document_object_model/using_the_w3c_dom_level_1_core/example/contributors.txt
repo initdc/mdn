@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document_object_model/using_the_w3c_dom_level_1_core/example/index.md
+
+# Original Wiki contributors
+mk7087
+teoli
+NickolayBot
+Andreas Wuest
+Nickolay
+Gor1

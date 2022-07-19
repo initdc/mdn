@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/channelmergernode/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+teoli
+chrisdavidmills
+kmag
+arronei
+erikadoyle
+Sebastianz
+JesseTG
+padenot
+tregagnon
+Sheppy

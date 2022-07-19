@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/string/slice/index.html
+
+# Original Wiki contributors
+huberts
+teoli
+Mgjbot
+Ptak82
+Diablownik

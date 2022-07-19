@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/array/pop/index.md
+
+# Original Wiki contributors
+mfuji09
+amr.fathy.ebraheem
+fscholz
+justinbourb
+jeremiahlee
+wbamberg
+erikadoyle
+oksana-khristenko
+bakotaco
+pitouseang
+luisco
+eduardoboucas
+Fornost461
+teemuremes
+elindie
+Mingun
+clivepaterson768
+nquinlan
+ethertank
+Sheppy
+trevorh
+Raynos
+evilpie
+Sevenspade
+Mgjbot
+Yuichirou
+Ptak82
+Maian
+Dria

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/filereader/readasbinarystring/index.md
+
+# Original Wiki contributors
+holderms
+fscholz
+jamesdhurd
+u_7cc
+erikadoyle
+xfq
+Sebastianz
+teoli
+kscarfone
+sklnd
+Chad_Smith
+alex35
+Jeremie

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvasrenderingcontext2d/textalign/index.md
+
+# Original Wiki contributors
+mfluehr
+Tombez
+fscholz
+Sheppy
+troeggla
+nmve
+erikadoyle
+moscartong

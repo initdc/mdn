@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/conflicting/web/javascript/reference/operators_310dc67549939233c3d18a8fa2cdbb23/index.html
+
+# Original Wiki contributors
+jackblackevo

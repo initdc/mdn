@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/beacon_api/index.md
+
+# Original Wiki contributors
+Krinkle
+mfluehr
+xgqfrms
+chrisdavidmills
+suterj
+kalpeshmange
+neb
+Rowno
+rolfedh
+cpeterson
+AFBarstow

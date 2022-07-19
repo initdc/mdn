@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/accessibility/html/index.md
+
+# Original Wiki contributors
+grape
+kuldahar
+ChuckZhang
+zxsunrise
+xiwusheng
+zouyang1230
+Junx

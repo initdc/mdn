@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/border-bottom/index.html
+
+# Original Wiki contributors
+wbamberg
+fscholz
+teoli
+Yuichiro
+Witia
+Ptak82
+Mgjbot

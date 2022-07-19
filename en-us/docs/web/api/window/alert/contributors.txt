@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/alert/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+jpmedley
+alattalatta
+sideshowbarker
+MrChinico
+DomenicDenicola
+chrisn
+LightGuard
+Radi123
+teoli
+kscarfone
+trevorh
+Sheppy
+maybe
+Oideveloper
+Mgjbot
+Pmash
+Nickolay
+Jabez
+BenoitL
+Maian
+Dria
+Callek
+JesseW

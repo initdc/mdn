@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/date/parse/index.html
+
+# Original Wiki contributors
+teoli
+Niewiado
+Mgjbot
+Internauta1024A
+Ptak82
+Diablownik

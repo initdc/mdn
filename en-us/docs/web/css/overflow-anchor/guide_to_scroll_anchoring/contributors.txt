@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/overflow-anchor/guide_to_scroll_anchoring/index.md
+
+# Original Wiki contributors
+mfuji09
+rachelandrew
+emilio_
+mfluehr
+steveluscher
+bensoibj
+chrisdavidmills

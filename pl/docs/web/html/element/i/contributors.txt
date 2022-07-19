@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/html/element/i/index.html
+
+# Original Wiki contributors
+teoli
+lukasz.jezierski
+Ptak82
+Witia
+PablO

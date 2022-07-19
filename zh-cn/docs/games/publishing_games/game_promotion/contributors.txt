@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/publishing_games/game_promotion/index.md
+
+# Original Wiki contributors
+c03311
+wbamberg
+chengweigao

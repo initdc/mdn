@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/basics_of_http/resource_urls/index.md
+
+# Original Wiki contributors
+ExE-Boss
+gmierz
+David_B
+chrisdavidmills

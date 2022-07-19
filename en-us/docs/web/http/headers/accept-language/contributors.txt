@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/accept-language/index.md
+
+# Original Wiki contributors
+xec
+mfuji09
+SphinxKnight
+Innanazmova83
+fscholz
+chrisdavidmills
+aphillips
+piper
+Flimm
+andrejss88
+kristopolous@yahoo.com
+teoli

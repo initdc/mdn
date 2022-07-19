@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/data_structures/index.md
+
+# Original Wiki contributors
+zangbianxuegu
+wallena3
+Logan-Li
+xuanji
+huxinsen
+molee1905
+WangLeto
+wemamawe
+ywjco
+ShirleyM
+wblovezqy
+eyasliu
+issliu
+hangyangws
+Musan
+Ende93
+eric183
+Jacobwang
+knightf
+JsonMe
+asdzxcqwe
+holsety
+Breezewish
+ElsaHuang
+7anshuai
+teoli
+keechi
+polucy
+_WhiteCusp

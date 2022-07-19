@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/functions/arguments/index.html
+
+# Original Wiki contributors
+sashakrauzer
+Ziserman
+boxa6
+dima74
+KTatyana
+Olovyanch
+uleming
+BychekRU
+fscholz

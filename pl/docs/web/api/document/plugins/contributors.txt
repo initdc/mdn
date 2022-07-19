@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/plugins/index.html
+
+# Original Wiki contributors
+teoli
+khalid32
+Jan Dudek

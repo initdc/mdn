@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/response/index.md
+
+# Original Wiki contributors
+swimmwatch
+David263
+LouisLazaris
+DeveLawyer
+Zearin_Galaurum
+ZaneHannanAU
+vriojtg
+soominkimu
+fscholz
+jpmedley
+chrisdavidmills
+herrmannplatz
+TJ_Crowder
+ZeikJT
+abbycar
+teoli
+isonic
+Sheppy
+Sebastianz
+kscarfone

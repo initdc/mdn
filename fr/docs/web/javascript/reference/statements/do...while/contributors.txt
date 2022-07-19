@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/statements/do...while/index.md
+
+# Original Wiki contributors
+jdvauguet
+SphinxKnight
+teoli
+matteodelabre

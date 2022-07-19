@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_fonts/index.md
+
+# Original Wiki contributors
+wbamberg
+alattalatta
+SphinxKnight
+j9t
+estelle
+MNizam0802
+chrisdavidmills
+YanCanCode
+mfluehr
+Sebastianz
+fscholz
+teoli

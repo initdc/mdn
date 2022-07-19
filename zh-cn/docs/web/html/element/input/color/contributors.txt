@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/input/color/index.html
+
+# Original Wiki contributors
+ecnelises
+litmonw
+konrumi

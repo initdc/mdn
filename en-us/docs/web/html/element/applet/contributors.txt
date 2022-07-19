@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/applet/index.md
+
+# Original Wiki contributors
+alattalatta
+sideshowbarker
+ddbeck
+mfuji09
+ExE-Boss
+Sheppy
+teoli
+mfluehr
+chrisdavidmills
+erikadoyle
+brunoais
+kscarfone
+ethertank
+tregagnon
+avsaro
+cers
+fscholz
+osdm
+Taken
+Ptak82
+Um4Sm1
+Witia
+PablO

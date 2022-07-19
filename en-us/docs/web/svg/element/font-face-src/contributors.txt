@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/font-face-src/index.md
+
+# Original Wiki contributors
+fscholz
+Sebastianz
+kscarfone
+Jeremie
+Manuel_Strehl

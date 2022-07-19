@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/custom-ident/index.md
+
+# Original Wiki contributors
+mfuji09
+eltociear
+SphinxKnight
+Marsf
+Guillaume-Heras
+ethertank
+sosleepy

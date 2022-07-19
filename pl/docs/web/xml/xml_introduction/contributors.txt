@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/xml/xml_introduction/index.html
+
+# Original Wiki contributors
+ExE-Boss
+Mgjbot
+Bedi
+Iorlef
+Ptak82
+Marcoos
+Takenbot
+Gjaryczewski
+Anonymous

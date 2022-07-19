@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/functions/arguments/index.md
+
+# Original Wiki contributors
+mfuji09
+segayuu
+uint256_t
+AkihikoTakeda
+Uemmra3
+woodmix
+mdmss37
+yyss
+teoli
+ethertank
+Potappo
+Mgjbot
+Nanto vi

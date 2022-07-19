@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/thead/index.md
+
+# Original Wiki contributors
+mfuji09
+neoncitylights
+JamesCatt
+wbamberg
+thhuang
+SphinxKnight
+teoli
+mfluehr
+stephaniehobson
+arronei
+sideshowbarker
+libbymc
+renoirb
+christophe.hurpeau
+kscarfone
+Sheppy
+medicdude
+tw2113
+scott113341
+fscholz
+Manuel_Strehl
+McGurk

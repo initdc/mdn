@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/images/index.md
+
+# Original Wiki contributors
+scottastrophic
+chrisdavidmills
+fscholz
+Sheppy
+nmve
+Makyen
+cristobal.pina
+cvrebert
+teoli
+kscarfone
+Khodaidad_Basharmand
+ethertank
+trevorh
+ziyunfei
+RAP1D
+Yanmorin
+George3
+Alexb
+Ptak82
+BenoitL
+Nickolay
+Dria
+JesseW

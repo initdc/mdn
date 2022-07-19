@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/node/contains/index.md
+
+# Original Wiki contributors
+karakol2017
+8845musign
+fscholz
+AshfaqHossain
+ethertank

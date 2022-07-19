@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/element/insertadjacenthtml/index.html
+
+# Original Wiki contributors
+SadCat88
+ekirpichyov
+AjiTae
+mms27
+fscholz
+khalid32
+BaNru

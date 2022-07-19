@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/dommatrixreadonly/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+Sheppy
+mfluehr
+connorshea
+chrisdavidmills
+jpmedley
+darrnshn
+zbjornson
+zsk526
+blooddy
+jwhitlock
+teoli

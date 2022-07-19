@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mozilla/add-ons/webextensions/your_first_webextension/index.html
+
+# Original Wiki contributors
+ArtemPolanskiy
+yuriqdev
+T1mL3arn
+idma88
+NAKAMODI
+siweter

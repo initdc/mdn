@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/margin-inline-start/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+louuis
+FredB
+VincentN
+Fredchat

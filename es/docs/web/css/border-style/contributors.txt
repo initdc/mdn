@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/border-style/index.html
+
+# Original Wiki contributors
+YairCaptain
+SphinxKnight
+javierpolit
+teoli
+Yuichiro
+Nathymig

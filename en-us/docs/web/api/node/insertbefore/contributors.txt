@@ -1,0 +1,56 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/insertbefore/index.md
+
+# Original Wiki contributors
+Lekensteyn
+mfuji09
+sideshowbarker
+Zearin_Galaurum
+1j01
+mfluehr
+Konrud
+zhuangyin
+fscholz
+msorce
+Lil_Devil
+Floofies
+Delapouite
+vcicmanec
+DaiZhiTao
+abbycar
+CrazyPython
+harmic
+PushpitaPikuDey
+madarche
+kossi
+draco
+Nickolay
+jenson555
+SpaceMudge
+Markus Prokott
+nishanths
+ncthis
+rviscomi
+teoli
+deveedutta
+kscarfone
+namolmes
+vrana
+ethertank
+Sheppy
+mattbasta
+Rob W
+mdbauman
+token
+Matej Lednar
+Brettz9
+Mgjbot
+Romankr
+Codigo13
+Jabez
+gandalf
+westonruter
+RobG
+BenoitL
+Dria
+JesseW

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/wheelevent/deltamode/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+libbymc
+m_gol
+jwhitlock
+teoli

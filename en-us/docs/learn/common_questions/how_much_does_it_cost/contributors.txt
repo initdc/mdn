@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/common_questions/how_much_does_it_cost/index.md
+
+# Original Wiki contributors
+A.Faturechi
+chrisdavidmills
+zzhhbyt1
+jdblischak
+Gordon-Bleu
+1pankajmehra1
+surigangula
+kamleshrao
+jswisher
+david_ross
+ggarrickk
+AdityaPareek
+martinmcbride
+Jeremie
+Andrew_Pfeiffer
+notabene

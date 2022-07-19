@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/gettimezoneoffset/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+Zearin_Galaurum
+akccakcctw
+neaumusic
+wbamberg
+schalkneethling
+MaloJaffre
+rafaeleyng
+SphinxKnight
+JesuisTong
+jameshkramer
+Robg1
+eduardoboucas
+Biphobe
+Mingun
+Sheppy
+Waldo
+ethertank
+dconrad
+timmywil
+evilpie
+Bzbarsky
+Ptak82
+Lpgcritr
+Maian
+Dria

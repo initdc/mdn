@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/html/element/a/index.html
+
+# Original Wiki contributors
+DoctorLarva
+teoli
+Ptak82
+Flaneur
+Mgjbot
+Diablownik
+Miczek
+Witia
+Chlopczyk

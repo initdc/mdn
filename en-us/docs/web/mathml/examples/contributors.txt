@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/mathml/examples/index.md
+
+# Original Wiki contributors
+maryannetpdx
+SphinxKnight
+nielsdg
+ethertank
+ChaitanyaGSNR
+Sheppy
+fscholz

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbdatabase/transaction/index.md
+
+# Original Wiki contributors
+jaffathecake
+bershanskiy
+sideshowbarker
+alattalatta
+fscholz
+DavidScales
+jpmedley
+arronei
+libbymc
+inexorabletash
+chrisdavidmills

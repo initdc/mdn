@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/createtextnode/index.md
+
+# Original Wiki contributors
+mfuji09
+DermotMacFlann
+hinell
+sideshowbarker
+fscholz
+erikadoyle
+tacsipacsi
+teoli
+Sebastianz
+raamdanger
+kscarfone
+ethertank
+Sheppy
+ziyunfei
+Matej Lednar
+Hyeongryeol
+Jabez
+Takenbot
+Ptak82
+BenoitL
+Dria
+JesseW

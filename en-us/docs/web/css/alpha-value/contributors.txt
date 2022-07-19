@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/alpha-value/index.md
+
+# Original Wiki contributors
+Sheppy
+wbamberg
+mfuji09
+pans9
+jswisher

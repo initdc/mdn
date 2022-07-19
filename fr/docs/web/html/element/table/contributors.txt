@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/table/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Akyrish
+Erwann
+tregagnon
+fkhannouf
+fabien.canu@gmail.com

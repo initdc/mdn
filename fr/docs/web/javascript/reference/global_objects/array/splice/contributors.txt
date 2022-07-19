@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/array/splice/index.md
+
+# Original Wiki contributors
+Cirediallo
+barroij
+SphinxKnight
+elgamine
+PierreDmyy
+gregstone
+sebjean
+zoom
+VictorLequin
+dcamilleri
+lespacedunmatin
+Elarcis
+CLEm
+teoli
+tregagnon
+WSH
+goofy_bz

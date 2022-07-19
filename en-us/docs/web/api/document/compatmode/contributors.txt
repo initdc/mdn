@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/compatmode/index.md
+
+# Original Wiki contributors
+vrana
+mfuji09
+sideshowbarker
+alattalatta
+Tigt
+mfluehr
+fscholz
+teoli
+MHasan
+u_7cc
+Ms2ger
+kscarfone
+Cobra
+Sheppy
+Rob W
+ziyunfei
+Nickolay
+George3
+Ptak82
+Dria
+JesseW

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/overflow-anchor/index.md
+
+# Original Wiki contributors
+bwrrp
+wbamberg
+fscholz
+mfluehr
+vor0nwe
+chrisdavidmills
+rachelandrew
+Aiman_Alkhamisi
+krosylight

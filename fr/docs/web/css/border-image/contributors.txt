@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/border-image/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+pl6025
+FredB
+PetiPandaRou
+openjck
+Jeremie

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/learn/html/introduction_to_html/html_text_fundamentals/index.html
+
+# Original Wiki contributors
+Hofei
+Shidigital

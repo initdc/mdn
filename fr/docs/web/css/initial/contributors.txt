@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/initial/index.md
+
+# Original Wiki contributors
+SphinxKnight
+adrien-gueret
+nhoizey
+teoli
+FredB
+Mgjbot
+Fredchat
+Kyodev

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/http/basics_of_http/mime_types/index.html
+
+# Original Wiki contributors
+fscholz
+Mgjbot
+Ptak82
+Takenbot
+gandalf
+Jan Dudek

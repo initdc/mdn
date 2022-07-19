@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/web/api/document_object_model/events/index.html
+
+# Original Wiki contributors
+H-W-Chang

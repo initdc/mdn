@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/common_questions/how_much_does_it_cost/index.md
+
+# Original Wiki contributors
+咸鱼快去读书
+kidonng
+SirnoChan
+Yang_Hanlin
+Geno1024
+bingxl
+xiwusheng
+JohnJiangLA
+sher
+ArcherGrey

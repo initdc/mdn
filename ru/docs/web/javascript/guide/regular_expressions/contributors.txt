@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/guide/regular_expressions/index.html
+
+# Original Wiki contributors
+touze147
+SphinxKnight
+DASenkiv
+qqwweeaassdd
+rinbik
+Katarzina
+laion220995
+kzotoff
+WispProxy
+KysaKey
+Reiider
+Grumvol
+indiefishman
+romannebesny
+dstereo
+rin-nas
+fscholz
+keika
+teoli
+wilddeer
+uleming
+Odysseus

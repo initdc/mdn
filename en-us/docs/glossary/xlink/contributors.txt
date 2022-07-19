@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/xlink/index.md
+
+# Original Wiki contributors
+rolfedh
+klez
+teoli
+Taken
+Brettz9

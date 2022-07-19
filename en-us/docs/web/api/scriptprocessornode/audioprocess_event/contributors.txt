@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/scriptprocessornode/audioprocess_event/index.md
+
+# Original Wiki contributors
+wbamberg
+vinyldarkscratch
+chrisdavidmills
+fscholz
+Sheppy
+erikadoyle
+Vihan
+teoli

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/async_function/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+Zearin_Galaurum
+ExE-Boss
+zhuangyin
+vitaliylag
+jameshkramer
+teddy-error
+stevemao
+jr-grenoble
+DanielHerr
+arai

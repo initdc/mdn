@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/radialgradient/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mark2
+SeanBennett
+Jeremie
+y6nH
+fscholz
+mattwojo
+Sebastianz
+AilsaKim
+kscarfone
+Manuel_Strehl
+Sheppy

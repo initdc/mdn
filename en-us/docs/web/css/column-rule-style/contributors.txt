@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/column-rule-style/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+Sheppy
+ddbeck
+connorshea
+mfluehr
+chrisdavidmills
+erikadoyle
+jpmedley
+fscholz
+teoli
+Fernando_Bernal_Marin
+Sebastianz
+jsx
+kscarfone
+FredB
+ethertank
+brianloveswords
+kuvik3
+Marsf
+Jürgen Jeka

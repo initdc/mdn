@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/element/keypress_event/index.md
+
+# Original Wiki contributors
+Marsf
+SphinxKnight
+fscholz
+khalid32
+ethertank

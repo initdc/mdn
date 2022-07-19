@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/accessibility/aria/aria_techniques/using_the_aria-valuenow_attribute/index.html
+
+# Original Wiki contributors
+Wind1808

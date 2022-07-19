@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/html/global_attributes/tabindex/index.html
+
+# Original Wiki contributors
+alattalatta
+7ylee
+young-gratia

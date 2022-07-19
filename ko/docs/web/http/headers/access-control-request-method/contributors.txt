@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/headers/access-control-request-method/index.html
+
+# Original Wiki contributors
+hard_coder

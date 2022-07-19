@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/resource_timing_api/index.md
+
+# Original Wiki contributors
+hamishwillee
+levy9527
+jochakovsky
+robatron
+chrisdavidmills
+AdamTReineke
+studdugie
+Sheppy
+adamsanderson
+rolfedh
+AFBarstow

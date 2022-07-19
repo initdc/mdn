@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/class_selectors/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+mfluehr
+leaverou
+JonathanPool
+WillBeethoven
+fscholz
+erikadoyle
+Sebastianz
+cvrebert
+chrisdavidmills
+dagolinuxoid
+MusikAnimal
+SphinxKnight
+FredB
+pablofiumara
+teoli
+Sheppy
+ethertank
+sii
+miken32

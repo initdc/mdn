@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/function/tostring/index.html
+
+# Original Wiki contributors
+teoli
+ethertank
+Mgjbot
+Ptak82
+Diablownik

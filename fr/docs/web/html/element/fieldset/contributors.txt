@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/fieldset/index.md
+
+# Original Wiki contributors
+SphinxKnight
+marie-ototoi
+tregagnon
+teoli
+ethertank

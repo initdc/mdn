@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/word-break/index.md
+
+# Original Wiki contributors
+mfuji09
+terkel
+mikiishijima
+cobodo
+sutara79
+yyss
+teoli
+fscholz
+Sebastianz
+ethertank
+sosleepy

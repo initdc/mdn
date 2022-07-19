@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/functions/arrow_functions/index.html
+
+# Original Wiki contributors
+Nachec
+camsa
+MateoOlarteCampo
+Ivnosing
+DavidGalvis
+fcanellas
+AlePerez92
+crisaragon
+SebastianHondarza
+AVRILALEJANDRO
+slam
+frank-orellana
+DiegoA1114
+Omar.VzqzAc
+oagarcia
+davecarter

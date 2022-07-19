@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmediaelement/playbackrate/index.md
+
+# Original Wiki contributors
+alastor0325
+Pava
+Pokechu22
+mfuji09
+Interfacer
+sideshowbarker
+Ding-Fan
+fscholz
+jpmedley
+erikadoyle
+markg

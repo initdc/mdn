@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/webnavigation/onreferencefragmentupdated/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+fscholz
+michael-zapata
+wbamberg
+Makyen

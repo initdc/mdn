@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/setinterval/index.html
+
+# Original Wiki contributors
+luan0ap

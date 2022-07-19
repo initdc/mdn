@@ -1,0 +1,38 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-width/index.md
+
+# Original Wiki contributors
+alattalatta
+chrisdavidmills
+ddbeck
+fscholz
+wbamberg
+mfluehr
+DallasBelt
+DailyAlice
+erikadoyle
+HashemQolami
+Prinz_Rana
+mrenty
+zinfone
+Sebastianz
+whirr.click
+jsx
+teoli
+ArleyM
+apalma
+ima007
+J-Mackerel
+kscarfone
+SiddharthBhatt
+Sheppy
+ethertank
+FredB
+trevorh
+Yuichiro
+Rowno
+Jürgen Jeka
+Nathymig
+BijuGC
+Killerowski
+Mgjbot

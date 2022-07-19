@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/security/subresource_integrity/index.md
+
+# Original Wiki contributors
+freddyb
+sideshowbarker
+kdkd
+roy-vanegas
+ianlyons
+chrisdavidmills
+iangcarroll
+cdunklau
+FranklinYu
+mfuji09
+fscholz
+thedapperdev
+markalanrichards
+aeronox
+jpmedley
+Sheppy
+julienw
+binoculars
+SphinxKnight
+Bodo1445
+fmarier
+jwhitlock
+jsx
+wbamberg

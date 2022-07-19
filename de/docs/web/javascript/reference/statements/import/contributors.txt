@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/statements/import/index.html
+
+# Original Wiki contributors
+fmeyertoens
+kdex
+Snapstromegon
+Kani1013
+michaelze
+yampus
+yannick_versley
+BennyAlex
+Marzelpan
+schlagi123
+Breaker222
+Simmarith
+matbad

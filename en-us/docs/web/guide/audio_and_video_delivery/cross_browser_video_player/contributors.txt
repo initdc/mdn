@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/audio_and_video_delivery/cross_browser_video_player/index.md
+
+# Original Wiki contributors
+rafaqf
+cki
+SphinxKnight
+LJEsp
+SCUT-hao
+chrisdavidmills
+internell
+benbyford
+bertyhell
+Sheppy
+Ian-Devlin

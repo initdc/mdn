@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/typed_arrays/index.html
+
+# Original Wiki contributors
+shevchenko
+Imperat
+Bargamut
+redishko
+WispProxy
+Anomeon
+some_vlad
+Megabyteceer

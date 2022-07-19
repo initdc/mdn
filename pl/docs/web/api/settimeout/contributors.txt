@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/settimeout/index.html
+
+# Original Wiki contributors
+teoli
+AshfaqHossain
+qfel13
+Ceth
+Mgjbot
+Jan Dudek

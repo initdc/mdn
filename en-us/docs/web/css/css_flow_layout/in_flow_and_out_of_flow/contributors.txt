@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_flow_layout/in_flow_and_out_of_flow/index.md
+
+# Original Wiki contributors
+ExE-Boss
+mfuji09
+rachelandrew

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-moz-user-input/index.md
+
+# Original Wiki contributors
+wbamberg
+ddbeck
+chrisdavidmills
+ExE-Boss
+mfluehr
+Sebastianz
+teoli
+Sheppy
+DBaron
+fscholz
+BijuGC
+Fredchat
+Nickolay
+Mgjbot
+Spanglerco

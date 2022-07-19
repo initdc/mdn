@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/safely_inserting_external_content_into_a_page/index.md
+
+# Original Wiki contributors
+spoji
+wdh
+PhilippeV
+smoqadam
+kewisch
+rebloor

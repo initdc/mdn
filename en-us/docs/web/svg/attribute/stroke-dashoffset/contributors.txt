@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/stroke-dashoffset/index.md
+
+# Original Wiki contributors
+aplaice
+Jeremie
+connorshea
+mpmckenna8
+dirkschulze
+Ted_Mielczarek
+stevemao
+ratcliffe_mike

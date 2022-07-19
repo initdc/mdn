@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xpath/functions/string-length/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Sheppy
+Mgjbot
+Ptak82
+Jonnyq

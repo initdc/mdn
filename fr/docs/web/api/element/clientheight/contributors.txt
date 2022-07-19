@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/element/clientheight/index.md
+
+# Original Wiki contributors
+fscholz
+teoli
+khalid32
+Mgjbot
+Takenbot
+BenoitL
+Peter1789
+Chbok

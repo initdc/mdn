@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/forms/other_form_controls/index.md
+
+# Original Wiki contributors
+

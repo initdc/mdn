@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/understanding_colors_and_luminance/index.md
+
+# Original Wiki contributors
+Koavf
+austin-2019
+estelle

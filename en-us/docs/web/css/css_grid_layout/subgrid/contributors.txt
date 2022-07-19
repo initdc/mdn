@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_grid_layout/subgrid/index.md
+
+# Original Wiki contributors
+rachelandrew
+mfuji09
+wbamberg
+inwardmovement
+bershanskiy
+chrisdavidmills
+SphinxKnight

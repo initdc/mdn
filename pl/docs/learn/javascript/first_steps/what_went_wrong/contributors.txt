@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/javascript/first_steps/what_went_wrong/index.html
+
+# Original Wiki contributors
+mat-bi

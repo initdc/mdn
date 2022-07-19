@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/glossary/ajax/index.html
+
+# Original Wiki contributors
+StuNNixX
+SebinNyshkim
+Johann150
+amelzer
+Tyrandus
+Siphalor
+PeterMader

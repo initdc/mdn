@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/css_properties_and_values_api/index.md
+
+# Original Wiki contributors
+ramiy
+Wind1808
+estelle
+Snugug

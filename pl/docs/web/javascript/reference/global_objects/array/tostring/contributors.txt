@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/array/tostring/index.html
+
+# Original Wiki contributors
+kwarpechowski
+teoli
+Mgjbot
+Diablownik
+Internauta1024A
+Ptak82

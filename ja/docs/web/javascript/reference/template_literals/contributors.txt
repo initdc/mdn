@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/template_literals/index.md
+
+# Original Wiki contributors
+mfuji09
+UndyingSugimoto
+dskmori
+akiko-pusu
+shuuji3
+isdh
+toris-birds
+ginpei
+ambi
+dynamis
+mushahiroyuki
+YuichiNukiyama
+lv7777
+kyanny
+hinaloe

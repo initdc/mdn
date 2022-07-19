@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/forms/basic_form_hints/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+leosantacruz
+Jason0
+david_ross
+tiffany-taylor
+Marsf
+caio.rrs
+jonscottclark
+Sheppy
+alispivak
+ethertank
+Jeremie
+Aaronlev
+anastasia

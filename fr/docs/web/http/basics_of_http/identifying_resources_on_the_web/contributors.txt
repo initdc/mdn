@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/basics_of_http/identifying_resources_on_the_web/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Alpha

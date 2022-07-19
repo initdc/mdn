@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/index.md
+
+# Original Wiki contributors
+peterbe
+mfuji09
+SphinxKnight
+wbamberg
+Uemmra3
+x2357
+teoli
+kohei.yoshino
+Shimono
+Okome
+Taken

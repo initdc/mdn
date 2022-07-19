@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/trim/index.md
+
+# Original Wiki contributors
+wbamberg
+Zearin_Galaurum
+fscholz
+Bezoo
+ngtritham
+rwaldron
+Frantic1048
+jameshkramer
+kdex
+eduardoboucas
+alexlur
+madarche
+cliffordfajardo
+Mingun
+spender
+stevemao
+john.watts
+siberiawolf0307
+George
+mitar
+Brettz9
+Sheppy
+ethertank
+Ruakh
+ziyunfei
+Nesk
+evilpie
+Potappo
+Midnightaz
+Chris Chittleborough

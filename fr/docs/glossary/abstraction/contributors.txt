@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/abstraction/index.md
+
+# Original Wiki contributors
+loella16
+AlemFarid
+Porkepix
+Jeremie
+Goofy
+htindon

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/getelementbyid/index.md
+
+# Original Wiki contributors
+tristantheb
+loella16
+db0sch
+genstor
+fscholz
+teoli
+khalid32
+BenoitL
+Mgjbot
+Takenbot

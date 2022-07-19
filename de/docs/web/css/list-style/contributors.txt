@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/list-style/index.html
+
+# Original Wiki contributors
+hansspiess
+SphinxKnight
+Aryx
+teoli
+screeny05
+fscholz
+SJW
+ethertank
+Jürgen Jeka
+Michael2402

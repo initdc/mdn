@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/errors/missing_parenthesis_after_argument_list/index.md
+
+# Original Wiki contributors
+fscholz
+PatrickKettner
+chrisdavidmills
+luisvallejomohl
+nmve

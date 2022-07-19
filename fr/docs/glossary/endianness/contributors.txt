@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/endianness/index.md
+
+# Original Wiki contributors
+warpdesign
+loella16
+xdelatour

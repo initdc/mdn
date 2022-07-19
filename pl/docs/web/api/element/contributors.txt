@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/element/index.html
+
+# Original Wiki contributors
+pablovsky
+fscholz
+teoli
+jsx
+zarat
+Spawnm
+Artstk
+Internauta1024A
+Mgjbot
+Ptak82
+Jan Dudek
+Takenbot

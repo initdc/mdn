@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/string/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+brasmon8351
+alattalatta
+An-Error94
+mfuji09
+ExE-Boss
+mupple
+estelle
+mfluehr
+fscholz
+Sebastianz
+teoli
+kscarfone
+FredB
+Sheppy
+McGurk
+BijuGC

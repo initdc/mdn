@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/svg/tutorial/paths/index.html
+
+# Original Wiki contributors
+michelgotta
+ringostarr80
+Wombosvideo

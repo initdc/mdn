@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/window/postmessage/index.html
+
+# Original Wiki contributors
+olga_ant
+Gusland
+vilka-vk
+Dannaz
+kernerrus
+sivashev
+HerrMazik

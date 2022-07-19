@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audiocontext/resume/index.md
+
+# Original Wiki contributors
+wolfpilot
+Sheppy
+fscholz
+Jedipedia
+chrisdavidmills
+jpmedley
+maruhiro

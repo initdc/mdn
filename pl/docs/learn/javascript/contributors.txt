@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/javascript/index.html
+
+# Original Wiki contributors
+Sławek
+Iwanek08
+Errorino
+robertgrzonka
+Karol_Zixofred_Kowalewski

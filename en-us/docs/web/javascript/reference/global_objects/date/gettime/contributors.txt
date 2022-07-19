@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/gettime/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+antimatter96
+roy-vanegas
+gunar
+schalkneethling
+royalrex
+crobinson42
+mfluehr
+jameshkramer
+PhilTheAir
+eduardoboucas
+Tsahi
+josiah47
+SphinxKnight
+cdosborn
+Mingun
+bdhowe
+kscarfone
+Sheppy
+ethertank
+ziyunfei
+evilpie
+mattflaschen
+Mgjbot
+Ptak82
+Maian
+Dria

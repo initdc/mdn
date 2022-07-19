@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/text-overflow/index.html
+
+# Original Wiki contributors
+SJW
+Glogau
+Guillaume-Heras
+Sebastianz
+DavidArndt

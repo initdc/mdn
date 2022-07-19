@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediastreamtrack/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+sideshowbarker
+Sheppy
+fscholz
+jpmedley
+libbymc
+KaptenJansson
+Sole
+teoli
+AbrahamT
+kscarfone
+Jeremie
+ethertank

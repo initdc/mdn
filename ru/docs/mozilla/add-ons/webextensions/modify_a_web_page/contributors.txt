@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mozilla/add-ons/webextensions/modify_a_web_page/index.html
+
+# Original Wiki contributors
+sergserg213
+Vorteri
+klavatron

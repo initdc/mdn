@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/statements/class/index.md
+
+# Original Wiki contributors
+mfuji09
+jinbeomhong
+wbamberg
+dcompcoder
+fscholz
+Zearin_Galaurum
+ajinkyashukla29
+schalkneethling
+saintstarrow
+adcar
+indiamos
+kdex
+KiltedViking
+jameshkramer
+oksana-khristenko
+deveedutta
+jpmedley

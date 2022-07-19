@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/css_layout/practical_positioning_examples/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+xiaohanyu
+2alin
+jruota
+bheckmann
+kalch
+stephaniehobson
+Thomas_Yang
+potmpark
+clintonyeb
+teoli
+defilerc
+richardzacur

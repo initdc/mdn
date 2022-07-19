@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediadevices/index.md
+
+# Original Wiki contributors
+IgorBorshchenkov
+mfuji09
+fscholz
+Sheppy
+jwhitlock
+jpmedley
+octavn
+ayonet
+SphinxKnight
+Bodo1445
+SOCSIELEARNING
+libbymc
+Victorystick
+Sebastianz
+teoli
+Jib

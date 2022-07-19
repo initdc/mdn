@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performancetiming/navigationstart/index.md
+
+# Original Wiki contributors
+nomaed
+estelle
+fscholz
+wenjiaz
+abbycar
+kscarfone
+dispareil
+teoli

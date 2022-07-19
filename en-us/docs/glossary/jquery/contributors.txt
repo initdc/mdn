@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/jquery/index.md
+
+# Original Wiki contributors
+sideshowbarker
+RainSlide
+vecr25
+wbamberg
+acediallo
+xfq
+iigmir
+faroukcharkas
+Sparks
+6stringbeliever

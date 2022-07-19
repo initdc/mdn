@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/offlineaudiocontext/offlineaudiocontext/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mcjlnrtwcz
+xys1836
+Jedipedia
+fscholz
+jpmedley
+Sheppy
+chrisdavidmills

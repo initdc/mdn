@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltableelement/cellpadding/index.md
+
+# Original Wiki contributors
+mfluehr
+connorshea
+fscholz
+vnctdj
+teoli
+kscarfone
+Sheppy
+ethertank
+RobG
+Dria
+JesseW

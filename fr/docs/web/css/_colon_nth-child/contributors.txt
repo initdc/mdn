@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/_colon_nth-child/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Jeremie
+clementpolito
+Dexter_Deter
+teoli
+tregagnon
+FredB
+DavidWalsh
+ThePrisoner

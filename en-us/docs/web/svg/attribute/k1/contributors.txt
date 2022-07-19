@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/k1/index.md
+
+# Original Wiki contributors
+Sebastianz
+Jeremie

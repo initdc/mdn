@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/inline_elements/index.md
+
+# Original Wiki contributors
+SphinxKnight
+KhalilSnaake
+numahell
+wakka27

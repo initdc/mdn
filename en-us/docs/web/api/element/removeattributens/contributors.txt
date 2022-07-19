@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/removeattributens/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+connorshea
+fscholz
+teoli
+kscarfone
+nairakhil13
+Sheppy
+mattbasta
+Mgjbot
+Jabez
+Nickolay
+Dria
+JesseW

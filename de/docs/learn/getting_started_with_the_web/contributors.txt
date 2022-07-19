@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/learn/getting_started_with_the_web/index.html
+
+# Original Wiki contributors
+FrederikWeitz
+GiovanniHD201E
+DavidBarke
+PercyGitarrist
+Dschubba
+cookiekoenig
+sigoa
+Aryx
+Shidigital
+sbruder
+greasan
+d_jan

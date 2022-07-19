@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/ligature/index.md
+
+# Original Wiki contributors
+mfuji09
+z0aiyx
+Jeremie
+lpiot
+klez
+Andrew_Pfeiffer

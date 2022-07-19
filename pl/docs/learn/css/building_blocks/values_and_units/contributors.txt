@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/css/building_blocks/values_and_units/index.html
+
+# Original Wiki contributors
+teoli
+Mgjbot
+Verruckt
+Ptak82
+gandalf
+Takenbot
+Ruby
+Anonymous
+Mikolaj

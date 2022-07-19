@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/operators/object_initializer/index.html
+
+# Original Wiki contributors
+Callirius
+fmeyertoens
+schlagi123
+JohannesDienst
+nnmrts
+kdex
+siggi-heltau

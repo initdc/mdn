@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/css_layout/floats_skills/index.md
+
+# Original Wiki contributors
+ohaver
+mjibrower
+jpfkd
+MelchiorIm3Tal
+chrisdavidmills
+kyonlee
+rachelandrew

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            html {
+  font-family: sans-serif;
+  font-size: 150%;
+}
+
+:is(section.is-styling, aside.is-styling, footer.is-styling) a {
+  color: red;
+}
+
+:where(section.where-styling, aside.where-styling, footer.where-styling) a {
+  color: orange;
+}
+
+footer a {
+  color: blue;
+}
+
+        </style>
+        
+        <title>:where() - examples - code sample</title>
+    </head>
+    <body>
+        
+            <article>
+  <h2>:is() でスタイル付けしたリンク</h2>
+  <section class="is-styling">
+    <p>こちらがメインコンテンツです。これは<a href="https://mozilla.org">リンクを含んでいます</a>。
+  </section>
+
+  <aside class="is-styling">
+    <p>こちらが脇コンテンツです。これも<a href="https://developer.mozilla.org">リンクを含んでいます</a>。
+  </aside>
+
+  <footer class="is-styling">
+    <p>こちらがフッターです。これも<a href="https://github.com/mdn">リンク</a>を含んでいます。
+  </footer>
+</article>
+
+<article>
+  <h2>:where() でスタイル付けしたリンク</h2>
+  <section class="where-styling">
+    <p>こちらがメインコンテンツです。これは<a href="https://mozilla.org">リンクを含んでいます</a>.
+  </section>
+
+  <aside class="where-styling">
+    <p>こちらが脇コンテンツです。これは<a href="https://developer.mozilla.org">also リンクを含んでいます</a>.
+  </aside>
+
+  <footer class="where-styling">
+    <p>こちらがフッターです。これも<a href="https://github.com/mdn">リンク</a>を含んでいます。
+  </footer>
+</article>
+
+        
+        
+    </body>
+</html>

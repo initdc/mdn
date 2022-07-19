@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/filter-function/opacity/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ramiy
+rachelandrew
+mfuji09
+wbamberg
+estelle
+mfluehr

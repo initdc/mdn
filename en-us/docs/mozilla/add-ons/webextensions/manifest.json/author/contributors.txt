@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/manifest.json/author/index.md
+
+# Original Wiki contributors
+wbamberg
+0711kps
+Leif-AMO

@@ -1,0 +1,47 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/text-shadow/index.md
+
+# Original Wiki contributors
+mfuji09
+ddbeck
+fscholz
+sideshowbarker
+stephenmcgruer
+jalbertbowden
+wbamberg
+GiS91
+chandanch
+NemoNobobyPersonne
+mfluehr
+Sheppy
+Jeremie
+chrisdavidmills
+jswisher
+llkk
+roanongh
+erikadoyle
+LouisLazaris
+Prinz_Rana
+Siilwyn
+Sebastianz
+tregagnon
+Martyr2
+Jargnik
+teoli
+kscarfone
+torbasow
+ethertank
+myf
+elysdir
+leaverou
+sebmozilla
+Jürgen Jeka
+Marsf
+riven
+CHaoSlayeR
+glen-84
+Mvent2
+Etan Wexler
+Mgjbot
+BijuGC
+Jmb

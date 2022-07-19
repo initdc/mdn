@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/text-decoration-line/index.md
+
+# Original Wiki contributors
+mfuji09
+teoli
+Sebastianz
+mitsuba-clover
+ethertank
+sosleepy
+yyss

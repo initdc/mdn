@@ -1,0 +1,46 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/menu/index.md
+
+# Original Wiki contributors
+JamesCatt
+mfuji09
+Konrud
+chrisdavidmills
+sideshowbarker
+ExE-Boss
+mscdex
+zapalagrzegorz
+equinusocio
+Sheppy
+jakubfiala
+teoli
+arronei
+libbymc
+Ende93
+Derron15
+Sebastianz
+ifantom
+jsx
+Praveen92
+slimsag
+cassiodoroVicinetti
+crazytonyi
+Siddharth0892
+kumarshikhardeep
+Syle91
+maybe
+ebogucka
+kscarfone
+ChrisL
+dhodder
+jmdyck
+SteveFaulkner
+fbender
+medicdude
+ethertank
+Huan
+cers
+fscholz
+McGurk
+jswisher
+Yann Dìnendal

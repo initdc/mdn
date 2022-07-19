@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/xslt/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+lukasz.jezierski
+Verruckt
+Ptak82
+Mgjbot
+gandalf
+Jan Dudek
+Anonymous
+Dria

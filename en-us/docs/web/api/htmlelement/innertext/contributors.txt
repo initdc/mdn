@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/innertext/index.md
+
+# Original Wiki contributors
+hoang4
+mfuji09
+alattalatta
+weary-adventurer
+mfluehr
+chrisdavidmills
+Sheppy
+fscholz
+Rob W
+myakura
+cvrebert
+mrenty
+evilpie

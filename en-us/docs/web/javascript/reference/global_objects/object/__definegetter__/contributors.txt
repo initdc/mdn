@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/__definegetter__/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+jameshkramer
+eduardoboucas
+SphinxKnight
+alexlur
+Ms2ger
+arai
+dmin
+Mingun
+ziyunfei
+Sheppy
+ethertank
+nobuoka
+evilpie
+Sevenspade
+Mgjbot

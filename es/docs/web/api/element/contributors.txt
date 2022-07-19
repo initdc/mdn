@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/element/index.html
+
+# Original Wiki contributors
+carllewisc
+JuanMacias
+SphinxKnight
+fscholz
+teoli
+webmaster
+AshfaqHossain
+MARCASTELEON
+Markens
+Mgjbot
+Nathymig

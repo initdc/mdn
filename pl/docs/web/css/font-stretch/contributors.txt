@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/font-stretch/index.html
+
+# Original Wiki contributors
+wbamberg
+fscholz
+teoli
+Gompka
+Witia

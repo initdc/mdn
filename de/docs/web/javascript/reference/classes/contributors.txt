@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/classes/index.html
+
+# Original Wiki contributors
+schlagi123
+Daniel_Sixl
+Husi012
+dehenne
+DPangerl
+jaller94
+chiborg
+akumagamo
+neutr0nis
+LevitatingOrange

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/guide/regular_expressions/unicode_property_escapes/index.html
+
+# Original Wiki contributors
+Nachec

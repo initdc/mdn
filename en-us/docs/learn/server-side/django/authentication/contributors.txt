@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/django/authentication/index.md
+
+# Original Wiki contributors
+hamishwillee
+hsiaocy
+qq4010118
+EdBockelman
+kruschk
+Vaiaro
+lonewolf3739
+chrisdavidmills
+mertsatilmaz
+christopherwilson1
+zhuzhangliang
+estelle
+jdblischak
+spookyUnknownUser
+RafeyIqbalRahman
+ArchAng31
+pineapplebug
+0matko0
+hackernewslibrary
+bad-joke
+stephaniehobson
+ecssiah
+aarondev8917
+Bogdancev
+caspianstrider
+deSagaz
+glasswalk3r
+Arshdeep
+tridc
+towerrounder
+mtdoyle
+kalch
+devosnw

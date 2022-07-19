@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/webassembly/reference/numeric/truncate_float_to_float/index.md
+
+# Original Wiki contributors
+

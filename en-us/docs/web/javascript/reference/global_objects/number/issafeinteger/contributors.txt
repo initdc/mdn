@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/number/issafeinteger/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+mgthomas99
+indolering
+jameshkramer
+kdex
+ocxers
+eduardoboucas
+dcondrey
+SphinxKnight
+Jeremie
+Mingun
+realityking
+Waldo
+ziyunfei

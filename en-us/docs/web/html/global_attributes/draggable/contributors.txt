@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/global_attributes/draggable/index.md
+
+# Original Wiki contributors
+alattalatta
+Tigt
+mfuji09
+wbamberg
+sideshowbarker
+ExE-Boss
+JamesCatt
+zhuangyin
+mfluehr
+ScottBeeson
+schlagi123
+AFBarstow
+teoli

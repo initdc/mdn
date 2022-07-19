@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/fetchevent/fetchevent/index.md
+
+# Original Wiki contributors
+Wind1808
+Sheppy
+sideshowbarker
+jpmedley
+connorshea
+chrisdavidmills
+dgashmdn
+teoli
+kscarfone

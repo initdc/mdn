@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/function/index.html
+
+# Original Wiki contributors
+YozhEzhi
+4rontender
+KTatyana
+forestbird
+BychekRU

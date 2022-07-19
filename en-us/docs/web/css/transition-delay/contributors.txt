@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transition-delay/index.md
+
+# Original Wiki contributors
+rachelandrew
+ddbeck
+fscholz
+mfluehr
+jamesdhurd
+wbamberg
+dima74
+utkarshbhatt12
+jswisher
+DailyAlice
+potterbm
+erikadoyle
+Sebastianz
+mrstork
+teoli
+tregagnon
+kscarfone
+Sheppy
+ethertank
+CutenessOverload
+yyss
+Bzbarsky

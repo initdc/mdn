@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/closures/index.html
+
+# Original Wiki contributors
+chmsv
+0NotNull
+SamTLT
+Nikitazharkij
+aprinciple
+OlegMingaleev
+demid088
+wbamberg
+stranger777
+borisqua
+Stejok
+sersalex
+meecrobe
+Megabyteceer
+TaKo13
+Saviloff
+Witadol
+thetekst
+fscholz
+iGanzai
+khorpyakov
+ivan.p
+AlekseyGoryansky
+AlexKucher
+mcmimik
+teoli
+CJohn

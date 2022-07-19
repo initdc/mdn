@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/number/index.html
+
+# Original Wiki contributors
+Piterunihongo
+teoli
+fscholz
+Diablownik
+Chrisraven
+Mgjbot
+Ptak82
+Marcoos
+VooEak

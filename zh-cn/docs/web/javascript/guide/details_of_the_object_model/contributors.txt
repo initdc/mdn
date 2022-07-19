@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/details_of_the_object_model/index.html
+
+# Original Wiki contributors
+suvyme
+johnao
+tzmf
+zjffun
+wbamberg
+AlphaGo88
+ThomasWhyne
+yokiyang
+zhangchen
+MiRinZhang
+Ende93
+michelia
+ywang1724
+ReyCG
+teoli
+key
+ziyunfei
+zsytssk
+rogersuen

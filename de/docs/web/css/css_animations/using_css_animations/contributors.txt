@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/css_animations/using_css_animations/index.html
+
+# Original Wiki contributors
+Ryuno-Ki
+hamvocke
+hudri
+JorisGutjahr
+awaigand
+Honig
+connexo
+SphinxKnight
+teoli
+Simu

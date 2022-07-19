@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/manifest.json/offline_enabled/index.md
+
+# Original Wiki contributors
+sideshowbarker
+room.booking7788
+apselivi
+Alling
+wbamberg
+hellosct1
+ExE-Boss
+vitaly-zdanevich

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mdn/structures/macros/commonly-used_macros/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+teoli
+fscholz
+jmh

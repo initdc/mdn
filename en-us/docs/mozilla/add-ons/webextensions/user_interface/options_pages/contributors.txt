@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/user_interface/options_pages/index.md
+
+# Original Wiki contributors
+ExE-Boss
+wbamberg
+rebloor
+e-motiv
+andrewtruongmoz
+hellosct1

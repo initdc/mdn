@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pannernode/positionx/index.md
+
+# Original Wiki contributors
+sideshowbarker
+MzMzEckotimez
+jakubfiala
+fscholz
+Sheppy

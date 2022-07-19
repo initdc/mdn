@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/writers-homepage/viewed-documents.scss"],"names":[],"mappings":"AACE,mCACE,UAAA,CAEF,8BACE,WAAA","file":"13.ae3501c1.chunk.css","sourcesContent":["#recently-viewed-documents {\n  a small {\n    color: grey;\n  }\n  td {\n    padding: 6px;\n  }\n}\n"]}

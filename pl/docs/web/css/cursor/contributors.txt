@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/cursor/index.html
+
+# Original Wiki contributors
+wbamberg
+teoli
+Ptak82
+Witia
+Mgjbot
+Rev

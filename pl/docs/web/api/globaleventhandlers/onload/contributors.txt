@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/globaleventhandlers/onload/index.html
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+AshfaqHossain
+wojciech.fornal
+Ptak82

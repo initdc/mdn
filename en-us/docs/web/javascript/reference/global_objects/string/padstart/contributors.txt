@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/padstart/index.md
+
+# Original Wiki contributors
+mfuji09
+Zearin_Galaurum
+fscholz
+SphinxKnight
+Andrew-Cottrell
+Vipul
+Yialo
+nakhodkiin
+AlirezaInGitHub
+TriMoon
+Tigt
+meowwwls
+Tikoati
+behnammodi
+ryanmurakami
+jameshkramer
+regiskuckaertz
+wkillerud
+wildtron
+AtomicNoggin
+arai
+Loadmaster
+David_Gilbertson
+bsara
+YoruNoHikage
+Sebastianz

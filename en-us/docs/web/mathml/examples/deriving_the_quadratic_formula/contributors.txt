@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/mathml/examples/deriving_the_quadratic_formula/index.md
+
+# Original Wiki contributors
+NewtSalamander
+maryannetpdx
+SphinxKnight
+aseijo1
+fred.wang
+Darbicus
+jonny_dedpahn
+kscarfone
+fscholz
+Paul_Mollomo

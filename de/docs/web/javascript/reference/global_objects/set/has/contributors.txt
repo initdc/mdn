@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/set/has/index.html
+
+# Original Wiki contributors
+mdnde2
+psychotammi

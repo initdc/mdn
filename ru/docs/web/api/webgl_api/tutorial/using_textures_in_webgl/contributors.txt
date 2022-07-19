@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/webgl_api/tutorial/using_textures_in_webgl/index.html
+
+# Original Wiki contributors
+Oppositus
+VLDSLW
+karmich
+KTatyana
+mrBizik
+Kran440

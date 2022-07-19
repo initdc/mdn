@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/customelementregistry/define/index.md
+
+# Original Wiki contributors
+SphinxKnight
+katlyn-edwards
+jpmedley
+fscholz
+chrisdavidmills
+web-devel
+Jedipedia
+Brettz9
+kgreen
+snuggs
+vp2177
+cPhost
+arthurevans

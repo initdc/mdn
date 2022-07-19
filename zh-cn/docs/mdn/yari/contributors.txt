@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mdn/yari/index.md
+
+# Original Wiki contributors
+SphinxKnight
+RainSlide
+yuan81777
+Chor
+wbamberg
+myshell1983
+popcorner
+Jack-Q
+xgqfrms

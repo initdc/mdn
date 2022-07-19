@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltableelement/thead/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+libbymc
+teoli
+kscarfone
+jswisher
+MTonly
+Sheppy
+ethertank
+Ptak82
+RobG
+Dria
+JesseW

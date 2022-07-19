@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/common_questions/upload_files_to_a_web_server/index.md
+
+# Original Wiki contributors
+bingxl
+xiwusheng
+PokimLee
+summerstarlee
+ArcherGrey

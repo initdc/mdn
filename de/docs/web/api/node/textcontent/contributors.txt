@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/node/textcontent/index.html
+
+# Original Wiki contributors
+kaljak
+tordans
+user-4
+Tar-Minyatur
+fscholz
+wepunkt_empunkt

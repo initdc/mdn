@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/contribute/index.html
+
+# Original Wiki contributors
+Ivan961
+lesha.boklag
+seliverstova
+wbamberg
+scrum
+lavr1986uxa
+BychekRU
+dstereo
+Daniil
+Unregistered45
+Aleksej
+0leg
+teoli
+mitabuba
+ilya
+Mars

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audionode/disconnect/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+arronei
+TrevorBurnham
+erikadoyle
+Sheppy
+1j01
+Yukulele.
+Jeremie
+jpmedley
+padenot
+chrisdavidmills

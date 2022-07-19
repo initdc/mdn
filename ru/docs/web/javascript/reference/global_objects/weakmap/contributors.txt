@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/weakmap/index.html
+
+# Original Wiki contributors
+oleksandrstarov
+altpoint
+lexxl
+YozhEzhi
+kan.a
+icw82
+zamuka
+RumyantsevMichael
+casfcitizen
+restrry
+shvaikalesh
+hellboy81

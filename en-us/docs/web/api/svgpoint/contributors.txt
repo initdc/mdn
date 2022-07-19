@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svgpoint/index.md
+
+# Original Wiki contributors
+synchronos-t
+Zearin_Galaurum
+connorshea
+Tonyshih
+Sebastianz
+fscholz
+Navin_Jadhav
+chitra_lakhotia
+kscarfone
+Sheppy
+highselina

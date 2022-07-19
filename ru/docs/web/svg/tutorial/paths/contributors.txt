@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/svg/tutorial/paths/index.html
+
+# Original Wiki contributors
+hellvesper
+red5tart
+devfedorenko
+komuroe
+tavira
+sonnenhaft
+reflash
+riseremi
+mboris1
+scaint

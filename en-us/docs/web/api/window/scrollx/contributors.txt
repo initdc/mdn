@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/scrollx/index.md
+
+# Original Wiki contributors
+connorshea
+tshinnic
+erikadoyle
+Sheppy
+sarafec
+alexandrudima
+jpmedley
+mrenty
+44px
+cvrebert
+tearwyx
+fscholz
+AlexChao
+teoli
+rileyjshaw
+iamanupmenon
+ethertank
+nobuoka
+Shelby
+Waldo
+Mgjbot
+Dria
+JesseW

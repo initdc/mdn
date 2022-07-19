@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/css/howto/css_faq/index.html
+
+# Original Wiki contributors
+teoli
+Mgjbot
+Ptak82
+Witia
+Ruby
+gandalf
+Listek
+Zen

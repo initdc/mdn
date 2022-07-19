@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/screenx/index.md
+
+# Original Wiki contributors
+hinell
+chrisdavidmills
+connorshea
+erikadoyle
+sarafec
+fscholz
+teoli
+Np
+iamanupmenon
+ethertank
+Sheppy
+Mgjbot
+Dria
+JesseW

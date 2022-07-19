@@ -1,0 +1,40 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/queryselectorall/index.md
+
+# Original Wiki contributors
+xgqfrms
+frozenfrank
+fscholz
+VincentSim
+lishiyun
+Sheppy
+wbamberg
+Robg1
+faxchan
+Sebastianz
+yurikhan
+lornlyturtle
+nilssolanki
+robtaussig
+Konrud
+MrDanielLewis
+Kevan
+SpaceMudge
+Jeremie
+teoli
+Havvy
+kscarfone
+iamanupmenon
+kimblim
+mattbasta
+ethertank
+ziyunfei
+Marcoos
+ebidel
+ernestd
+paul.irish
+MattBrubeck
+myakura
+Jürgen Jeka
+Brettz9
+Bzbarsky

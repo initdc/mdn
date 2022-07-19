@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/tutorials/2d_breakout_game_pure_javascript/index.md
+
+# Original Wiki contributors
+escattone
+JoeParrilla
+wbamberg
+jswisher
+jolosan
+cristianvnica
+chrisdavidmills
+Twoteka
+Jeremie
+end3r
+fscholz
+rabimba

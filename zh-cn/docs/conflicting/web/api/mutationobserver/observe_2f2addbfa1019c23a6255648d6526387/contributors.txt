@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/conflicting/web/api/mutationobserver/observe_2f2addbfa1019c23a6255648d6526387/index.html
+
+# Original Wiki contributors
+RainSlide
+Y____C

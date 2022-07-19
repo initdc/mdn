@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmediaelement/autoplay/index.md
+
+# Original Wiki contributors
+bershanskiy
+Pengfei
+Sheppy
+kingleo713
+BrianARuff
+fscholz
+erikadoyle
+neaumusic
+markg

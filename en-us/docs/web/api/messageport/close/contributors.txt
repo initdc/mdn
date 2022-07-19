@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/messageport/close/index.md
+
+# Original Wiki contributors
+fscholz
+DomenicDenicola
+stevenwdv
+nmve
+libbymc
+Sebastianz
+chrisdavidmills
+kscarfone

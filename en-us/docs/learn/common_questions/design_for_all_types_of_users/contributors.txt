@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/common_questions/design_for_all_types_of_users/index.md
+
+# Original Wiki contributors
+MelchiorIm3Tal
+chrisdavidmills
+SphinxKnight
+Jeremie
+Andrew_Pfeiffer
+notabene

@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/building_blocks/functions/index.md
+
+# Original Wiki contributors
+bhushangoel
+JohnnyMu-Cn
+chrisdavidmills
+ahmaazouzi
+gerfolder
+choudh70
+tayyabalishan
+cadorej
+karlhorky
+loretta-arineva
+mariusmucenicu
+riyaz
+dan-nix
+MachineShot
+thenoelman
+redrambles
+jruota
+stephaniehobson
+FishinginaSombrero8
+gabiaad
+Anonymous
+GKilyar
+stockcj
+nmve
+Jeremie
+Cameron-Riecan
+husain100b
+fscholz

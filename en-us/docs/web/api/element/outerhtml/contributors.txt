@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/outerhtml/index.md
+
+# Original Wiki contributors
+Itazulay
+georapbox
+sideshowbarker
+mfluehr
+Robg1
+fscholz
+Sheppy
+appelgran
+YusongLiu
+cvrebert
+wbamberg
+webmaster
+armukul
+teoli
+stevemao
+pitbull2446
+jswisher
+lojo
+kscarfone
+nairakhil13
+ziyunfei
+Hsivonen
+Marcoos
+zef

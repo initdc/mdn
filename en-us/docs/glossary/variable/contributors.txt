@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/variable/index.md
+
+# Original Wiki contributors
+sideshowbarker
+backbencher.dev
+namedots
+ahmadnourallah
+BPiVcarD
+hbloomer
+klez
+Andrew_Pfeiffer
+Jeremie
+kscarfone
+JohnsonCheungHK06
+panaggio

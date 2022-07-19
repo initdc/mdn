@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/if-match/index.md
+
+# Original Wiki contributors
+dwabece
+delego-wlritchi
+WolfgangBai
+Alexis Wilke1
+mfuji09
+ExE-Boss
+fscholz
+teoli

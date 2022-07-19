@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/fullscreenchange_event/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+irenesmith
+wbamberg
+jeremiahlee
+Sheppy
+monking
+bent0b0x
+fscholz
+pingyen
+jayphelps
+redzin
+teoli
+ethertank
+louisremi

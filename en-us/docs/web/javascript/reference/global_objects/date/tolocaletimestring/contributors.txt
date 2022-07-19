@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/tolocaletimestring/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisbruford
+wbamberg
+fscholz
+sideshowbarker
+mika76
+leothorp
+SphinxKnight
+Robg1
+schalkneethling
+jameshkramer
+thetalecrafter
+eduardoboucas
+Mingun
+Norbert
+Sheppy
+ethertank
+evilpie
+pwalton
+Dikrib
+Bold
+Ptak82
+Maian
+Dria

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/batterymanager/chargingtime/index.md
+
+# Original Wiki contributors
+MelchiorIm3Tal
+fscholz
+chrisdavidmills
+teoli
+Hugues-Antoine
+Fernando_Bernal_Marin
+Sebastianz
+franciov
+Jeremie
+Sheppy

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/status/451/index.md
+
+# Original Wiki contributors
+mfuji09
+hongshaoyang
+RayannTedds
+haroldfredshort
+cbb
+dkg
+fscholz
+Sheppy
+Jeremie

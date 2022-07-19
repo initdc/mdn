@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/inline_elements/index.md
+
+# Original Wiki contributors
+gerfolder
+therefromhere
+gonfalons
+FranklinYu
+calamityAdam
+SelenIT
+mfuji09
+dolorismachina
+PamPierce
+CITguy
+sideshowbarker
+zhuangyin
+nkas17
+Sheppy
+gminovska
+rudijuri
+JDurston
+teoli
+jswisher
+MHLut
+maddy49
+thedigitalman
+rogerxas
+asharpe
+gnumanth
+Jeremie
+AndreLDM
+keoki.zee
+Mgjbot
+Gilchris
+PablO

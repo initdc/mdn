@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/a_re-introduction_to_javascript/index.html
+
+# Original Wiki contributors
+AlexanderLaska
+Timbuktu1982
+Dusty4848
+Meiqian
+Nikolai_Kucksdorf
+kisjoke91
+Space42
+Univream
+tomscholz
+schlagi123
+PinheadLarry
+sigoa
+acetous
+martinhoffmann
+Coke_and_Pepsi
+ibafluss
+creitiv
+fscholz
+eminor

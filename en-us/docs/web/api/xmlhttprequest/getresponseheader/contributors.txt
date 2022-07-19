@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlhttprequest/getresponseheader/index.md
+
+# Original Wiki contributors
+udyansharma
+mfuji09
+ExE-Boss
+Sheppy
+Makyen
+erikadoyle
+claym
+mindplay-dk
+Sebastianz
+chrisdavidmills
+MashKao
+jsx

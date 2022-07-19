@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlformcontrolscollection/index.md
+
+# Original Wiki contributors
+mfuji09
+JonathanPool
+fscholz
+Sheppy
+Sebastianz
+teoli
+yanakey
+Rob W
+kscarfone
+jswisher

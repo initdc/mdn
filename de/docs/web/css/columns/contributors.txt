@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/columns/index.html
+
+# Original Wiki contributors
+Johuspect
+SJW
+Sebastianz
+Prinz_Rana
+fscholz

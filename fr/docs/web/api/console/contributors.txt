@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/console/index.md
+
+# Original Wiki contributors
+jcalixte
+loella16
+Ostefanini
+christophe.hurpeau
+P45QU10U
+fscholz

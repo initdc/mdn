@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/background-color/index.html
+
+# Original Wiki contributors
+Paulb-dev
+SJW
+Sebastianz
+SphinxKnight
+fscholz
+ethertank
+Yuichiro
+Michael2402

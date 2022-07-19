@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/browseraction/setbadgetext/index.md
+
+# Original Wiki contributors
+Loirooriol
+irenesmith
+wbamberg
+SphinxKnight
+lakeswang
+freaktechnik
+groovecoder
+Makyen

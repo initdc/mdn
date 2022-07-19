@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            #floatme {
+  float: left; width: 50%;
+}
+
+/* Um eine leere Spalte zu erhalten, einfach den hexadezimalen Wert für einen nicht umbrechenden Leerraum angeben: \a0 als Attributwert für content (verwende \0000a0 wenn weitere Zeichen folgen) */
+.example::before {
+  content: "Davor umflossen";
+  float: left;
+  width: 25%
+}
+.example::after {
+  content: "Danach umflossen";
+  float: right;
+  width:25%
+}
+
+/* For styling */
+.example::before, .example::after, .first {
+  background: yellow;
+  color: red;
+}
+        </style>
+        
+        <title>::before (:before) - hinweise - code sample</title>
+    </head>
+    <body>
+        
+            <div class="example">
+<span id="floatme">"Davor umflossen" sollte links vom Viewport erstellt werden
+und Umfluss in dieser Zeile nicht erlauben, sie unterhalb zu umfließen. Genauso sollte
+"Danach umflossen" rechts vom Viewport erscheinen und dieser Zeile nicht erlauben, es unterhalb zu umfließen.</span>
+</div>
+        
+        
+    </body>
+</html>

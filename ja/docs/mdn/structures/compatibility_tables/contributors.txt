@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/structures/compatibility_tables/index.md
+
+# Original Wiki contributors
+eltociear
+chrisdavidmills
+ryokohbato
+mfuji09
+yumetodo
+a01sa01to
+silverskyvicto
+wbamberg
+jswisher
+hamasaki
+Uemmra3

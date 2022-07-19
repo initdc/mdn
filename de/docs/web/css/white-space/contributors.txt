@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/white-space/index.html
+
+# Original Wiki contributors
+Johuspect
+SJW
+fscholz
+Sebastianz
+kelunik
+bee8bit
+Unity

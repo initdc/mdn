@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domtokenlist/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+chrisdavidmills
+nostalic
+mfuji09
+xfq
+fscholz
+jridgewell
+jpmedley
+Chealer
+stevenwdv
+adria
+teoli
+wido
+LouisLazaris
+cvrebert
+dstereo
+Alhadis
+Sebastianz
+bradleyflood
+kscarfone
+Sheppy
+trevorh
+MatrixFrog
+Crash

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            dl { margin-left: 6px; }
+dt { font-weight: bold; color: #217ac0; font-size: 110% }
+dt { font-family: Consolas, "Liberation Mono", Courier }
+dd { margin-left: 16px }
+
+body { margin-top: 47px }
+
+        </style>
+        
+        <title>Utiliser les éléments template et slot - un_exemple_plus_complexe - code sample</title>
+    </head>
+    <body>
+        
+            <template id="element-details-template">
+  <style>
+  details {font-family: "Open Sans Light",Helvetica,Arial}
+  .name {font-weight: bold; color: #217ac0; font-size: 120%}
+  h4 { margin: 10px 0 -8px 0; }
+  h4 span { background: #217ac0; padding: 2px 6px 2px 6px }
+  h4 span { border: 1px solid #cee9f9; border-radius: 4px }
+  h4 span { color: white }
+  .attributes { margin-left: 22px; font-size: 90% }
+  .attributes p { margin-left: 16px; font-style: italic }
+  </style>
+  <details>
+    <summary>
+      <span>
+        <code class="name">&lt;<slot name="element-name">BESOIN D'UN NOM</slot>&gt;</code>
+        <i class="desc"><slot name="description">BESOIN D'UNE DESCRIPTION</slot></i>
+      </span>
+    </summary>
+    <div class="attributes">
+      <h4><span>Attributs</span></h4>
+      <slot name="attributes"><p>Aucun</p></slot>
+    </div>
+  </details>
+  <hr>
+</template>
+
+<element-details>
+  <span slot="element-name">slot</span>
+  <span slot="description">Un emplacement dans un
+    composant web que les utilisateurs pourront remplir
+    avec leur propre contenu pour composer plusieurs
+    arbres DOM ensemble.</span>
+  <dl slot="attributes">
+    <dt>name</dt>
+    <dd>Le nom de l'emplacement.</dd>
+  </dl>
+</element-details>
+
+<element-details>
+  <span slot="element-name">template</span>
+  <span slot="description">Un mécanisme pour stocker
+    du contenu côté client qui n'est pas affiché lorsque la
+    page est chargée mais lors de l'exécution avec du code
+    JavaScript.</span>
+</element-details>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>slot example</title>
+    <style>
+
+      dl { margin-left: 6px; }
+      dt { font-weight: bold; color: #217ac0; font-size: 110% }
+      dt { font-family: Consolas, "Liberation Mono", Courier }
+      dd { margin-left: 16px }
+
+    </style>
+  </head>
+  <body>
+    <template id="element-details-template">
+      <style>
+      details {font-family: "Open Sans Light",Helvetica,Arial}
+      .name {font-weight: bold; color: #217ac0; font-size: 120%}
+      h4 { margin: 10px 0 -8px 0; }
+      h4 span { background: #217ac0; padding: 2px 6px 2px 6px }
+      h4 span { border: 1px solid #cee9f9; border-radius: 4px }
+      h4 span { color: white }
+      .attributes { margin-left: 22px; font-size: 90% }
+      .attributes p { margin-left: 16px; font-style: italic }
+      </style>
+      <details>
+        <summary>
+          <span>
+            <code class="name">&lt;<slot name="element-name">BESOIN D'UN NOM</slot>&gt;</code>
+            <i class="desc"><slot name="description">BESOIN D'UNE DESCRIPTION</slot></i>
+          </span>
+        </summary>
+        <div class="attributes">
+          <h4><span>Attributs</span></h4>
+          <slot name="attributes"><p>Aucun</p></slot>
+        </div>
+      </details>
+      <hr>
+    </template>
+
+    <element-details>
+      <span slot="element-name">slot</span>
+      <span slot="description">Un emplacement dans un
+        composant web que les utilisateurs pourront remplir
+        avec leur propre contenu pour composer plusieurs
+        arbres DOM ensemble.</span>
+      <dl slot="attributes">
+        <dt>name</dt>
+        <dd>Le nom de l'emplacement.</dd>
+      </dl>
+    </element-details>
+
+    <element-details>
+      <span slot="element-name">template</span>
+      <span slot="description">Un mécanisme pour stocker
+        du contenu côté client qui n'est pas affiché lorsque la
+        page est chargée mais lors de l'exécution avec du code
+        JavaScript.</span>
+    </element-details>
+
+    <script>
+    customElements.define('element-details',
+      class extends HTMLElement {
+        constructor() {
+          super();
+          const template = document
+            .getElementById('element-details-template')
+            .content;
+          const shadowRoot = this.attachShadow({mode: 'open'})
+            .appendChild(template.cloneNode(true));
+        }
+      })
+    </script>
+  </body>
+</html>
+
+        
+        
+            <script>
+                customElements.define('element-details',
+  class extends HTMLElement {
+    constructor() {
+      super();
+      const template = document
+        .getElementById('element-details-template')
+        .content;
+      const shadowRoot = this.attachShadow({mode: 'open'})
+        .appendChild(template.cloneNode(true));
+    }
+  }
+);
+
+            </script>
+        
+    </body>
+</html>

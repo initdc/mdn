@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/array/unshift/index.md
+
+# Original Wiki contributors
+fscholz
+Zearin_Galaurum
+HuseyinTurkmenoglu
+aetonsi
+wbamberg
+janderson215
+erikadoyle
+kaiyoma
+oksana-khristenko
+techmexdev
+bakotaco
+eduardoboucas
+Mingun
+denim2x
+netinept
+Sheppy
+ethertank
+zirak
+Anuarbek Safiyev
+evilpie
+Brettz9
+Sevenspade
+Mgjbot
+Yuichirou
+Maian
+Dria

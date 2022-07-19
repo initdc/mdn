@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cssrulelist/index.md
+
+# Original Wiki contributors
+sideshowbarker
+connorshea
+fscholz
+Chris Chittleborough
+mfluehr
+pcat
+teoli
+kscarfone
+Sheppy
+Sevenspade
+Brettz9
+kitchin
+Np
+Nickolay
+PGaries
+Mgjbot
+Igjav
+Tychon
+Dria
+JesseW

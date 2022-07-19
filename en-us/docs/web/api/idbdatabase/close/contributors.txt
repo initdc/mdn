@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbdatabase/close/index.md
+
+# Original Wiki contributors
+sideshowbarker
+alattalatta
+anonyco
+fscholz
+jpmedley
+arronei
+libbymc
+chrisdavidmills

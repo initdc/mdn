@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/webgl_api/index.html
+
+# Original Wiki contributors
+fscholz
+vaiil
+WalkInWay
+sputnik1986
+teoli
+hazestalker

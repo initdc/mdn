@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/navigator/index.html
+
+# Original Wiki contributors
+israel-munoz
+khalid32
+tpb

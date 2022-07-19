@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-webkit-mask-box-image/index.md
+
+# Original Wiki contributors
+ddbeck
+Sheppy
+kozichpolina
+fscholz
+mfluehr
+Prinz_Rana
+Sebastianz
+mrstork
+kscarfone
+teoli
+berkerpeksag
+grendel
+barlow

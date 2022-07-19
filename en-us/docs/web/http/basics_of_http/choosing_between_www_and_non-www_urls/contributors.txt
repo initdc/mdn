@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/basics_of_http/choosing_between_www_and_non-www_urls/index.md
+
+# Original Wiki contributors
+francoraphael
+ExE-Boss
+Alpha
+MechaLynx
+nckx
+xavdid
+david_ross
+fscholz
+teoli
+chrisdavidmills
+ethertank
+dbruant

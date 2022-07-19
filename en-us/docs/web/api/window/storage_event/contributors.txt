@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/storage_event/index.md
+
+# Original Wiki contributors
+mlcheng
+chrisdavidmills
+1j01
+ecancino
+irenesmith
+mfluehr
+fscholz
+Nickolay
+teoli
+Sheppy
+ethertank
+louisremi

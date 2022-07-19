@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mouseevent/movementx/index.md
+
+# Original Wiki contributors
+sideshowbarker
+ZaneHannanAU
+mfluehr
+fscholz
+haxiomic
+jpmedley
+libbymc
+cvrebert
+teoli
+nicofrand
+kscarfone
+Jeremie

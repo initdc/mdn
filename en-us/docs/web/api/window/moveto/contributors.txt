@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/moveto/index.md
+
+# Original Wiki contributors
+mfluehr
+lucian95
+cvrebert
+fscholz
+teoli
+cpigat
+libreGeekingKid
+Sheppy
+ethertank
+Mgjbot
+Dria
+JesseW

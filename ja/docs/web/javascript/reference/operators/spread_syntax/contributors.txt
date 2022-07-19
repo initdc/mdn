@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/spread_syntax/index.md
+
+# Original Wiki contributors
+mpcjazz
+TakuyaTaniguchi
+mfuji09
+hikarock
+segayuu
+kei-itof

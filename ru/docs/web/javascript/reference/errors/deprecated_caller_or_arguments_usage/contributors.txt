@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/errors/deprecated_caller_or_arguments_usage/index.html
+
+# Original Wiki contributors
+simonprod
+MakarovDs777
+Akh-rman

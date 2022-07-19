@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/transform/index.md
+
+# Original Wiki contributors
+bearyield
+mfuji09
+Marsf
+Sebastianz
+Prinz_Rana
+prayash
+fscholz
+ethertank
+sosleepy
+Yukoba
+Level

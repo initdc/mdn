@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/touch/force/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+rileym7
+RByers
+AFBarstow
+teoli
+Sheppy
+kosvrouvas
+kscarfone
+Khodaidad_Basharmand

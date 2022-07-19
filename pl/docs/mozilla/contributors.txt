@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/mozilla/index.html
+
+# Original Wiki contributors
+tauruss
+kubutekf
+teoli
+splewako
+ethertank
+ziyunfei

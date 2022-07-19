@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/array/splice/index.html
+
+# Original Wiki contributors
+emero
+Wayofthesin
+kaczor1984
+achwedyk
+teoli
+Mgjbot
+telendt
+Ptak82
+Internauta1024A
+Sheppy

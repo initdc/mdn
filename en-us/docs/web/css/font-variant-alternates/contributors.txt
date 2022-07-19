@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/font-variant-alternates/index.md
+
+# Original Wiki contributors
+wbamberg
+ddbeck
+Sheppy
+ChrisLilley
+sideshowbarker
+chrisdavidmills
+faceless
+mfluehr
+fscholz
+KadirTopal
+Tigt
+duncanmcdonald
+Sebastianz
+jsx
+teoli

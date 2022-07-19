@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/flex-wrap/index.md
+
+# Original Wiki contributors
+mark-langer
+wbamberg
+Sheppy
+xarrijorge
+ddbeck
+chrisdavidmills
+jmmarco
+rachelandrew
+fscholz
+Jeremie
+andavies
+stephaniehobson
+erikadoyle
+Sebastianz
+haoyuchen1992
+so_matt_basta
+duncanmcdonald
+jigs12
+tregusti
+teoli
+ziyunfei
+yisi
+SJW
+kscarfone
+ethertank
+FredB
+scottrowe

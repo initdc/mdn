@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/css_object_model/index.html
+
+# Original Wiki contributors
+wowill
+mcgradty
+teoli

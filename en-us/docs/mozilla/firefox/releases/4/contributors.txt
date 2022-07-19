@@ -1,0 +1,47 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/4/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+fitojb
+Sebastianz
+Prinz_Rana
+Wladimir_Palant
+Sheppy
+kscarfone
+janettest
+ethertank
+madarche
+trevorh
+kmaglione
+Potappo
+zhangpin04
+inma_610
+DBaron
+Jorge.villalobos
+Nickolay
+atte
+Hsivonen
+Ms2ger
+teoli
+khuey
+BenB
+Mossop
+Dikrib
+Jürgen Jeka
+user01
+Crash
+custom.firefox.lady
+jswisher
+Skierpage
+Dao
+BobChao
+mbiama
+Blizzard
+Brettz9
+Ehsan
+jockcc
+DaveG
+Jonathan_Watt
+Midnightaz

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/await/index.html
+
+# Original Wiki contributors
+Ignat
+nakhodkiin
+Vladimir-Vinogradov
+matvey-b
+XaveScor
+redishko

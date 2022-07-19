@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mozilla/add-ons/webextensions/manifest.json/content_security_policy/index.html
+
+# Original Wiki contributors
+ismorozs

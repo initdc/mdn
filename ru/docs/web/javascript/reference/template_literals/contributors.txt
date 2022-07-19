@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/template_literals/index.html
+
+# Original Wiki contributors
+DASenkiv
+sahmildzhakeev
+gendalf7771
+vaallery
+SphinxKnight
+Barss07
+AlexanderMikhnevich
+cawa-93
+dtretyakov

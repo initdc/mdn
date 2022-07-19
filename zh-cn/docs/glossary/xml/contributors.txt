@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/xml/index.md
+
+# Original Wiki contributors
+codeofjackie
+horizon
+pluwen
+eeeeeeeason
+xgqfrms-GitHub

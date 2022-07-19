@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/glossary/scope/index.html
+
+# Original Wiki contributors
+steevn
+jewuma

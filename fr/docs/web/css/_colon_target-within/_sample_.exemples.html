@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            article:target-within {
+  background-color: gold;
+}
+
+/* Ajout d'un pseudo élément à l'intérieur de l'élément cible */
+p:target::before {
+  font: 70% sans-serif;
+  content: "►";
+  color: limegreen;
+  margin-right: .25em;
+}
+
+/* Style des éléments en italique à l'intérieur de l'élément cible */
+p:target i {
+  color: red;
+}
+
+        </style>
+        
+        <title>:target-within - exemples - code sample</title>
+    </head>
+    <body>
+        
+            <h3>Table des matières</h3>
+<ol>
+ <li><a href="#p1">Aller au premier paragraphe&nbsp;!</a></li>
+ <li><a href="#p2">Aller au second paragraphe&nbsp;!</a></li>
+</ol>
+
+<article>
+  <h3>Mon bel article</h3>
+  <p id="p1">Vous pouvez cibler <i>ce paragraphe</i> en utilisant un fragment d'URL. Cliquez sur le lien ci-dessus pour essayer&nbsp;!</p>
+  <p id="p2">Ceci est <i>un autre paragraphe</i>, également accessible depuis les liens ci-dessus. N'est-ce pas savoureux&nbsp;?</p>
+</article>
+
+        
+        
+    </body>
+</html>

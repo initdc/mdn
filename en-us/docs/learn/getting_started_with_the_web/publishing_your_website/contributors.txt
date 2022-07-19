@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/getting_started_with_the_web/publishing_your_website/index.md
+
+# Original Wiki contributors
+Mori
+ohaver
+chrisdavidmills
+Iqbalh11
+kakwanisiddharth
+naser-baig
+Rick-Manarauskis
+SphinxKnight
+14122712
+iamsamwilson
+Greedsy
+hadleyel
+jk777
+Jeremie
+klez
+ifilin
+xfq
+samlaf
+markg
+Andrew_Pfeiffer
+manasmahodaya

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/cssrule/index.md
+
+# Original Wiki contributors
+Marsf
+YuichiNukiyama
+fscholz
+ethertank
+Sheppy

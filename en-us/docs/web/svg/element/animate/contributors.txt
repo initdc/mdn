@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/animate/index.md
+
+# Original Wiki contributors
+mfuji09
+Jeremie
+Jeansidharta
+chrisdavidmills
+ninjanails
+lleaff
+HTMLValidator
+fscholz
+Nomeh_Uchenna_Gabriel
+Sebastianz
+stenci
+VigneshwarViky
+kscarfone
+ethertank
+trevorh
+Manuel_Strehl
+Dholbert
+sebmozilla

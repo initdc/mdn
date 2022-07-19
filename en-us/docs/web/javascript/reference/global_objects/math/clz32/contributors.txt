@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/clz32/index.md
+
+# Original Wiki contributors
+mfuji09
+GreenJello
+wbamberg
+fscholz
+anonyco
+SphinxKnight
+zbjornson
+lynnv
+stripedpajamas
+mafintosh
+Peppesterest
+toxi
+jameshkramer
+kdex
+rwaldron
+DDunc
+eduardoboucas
+stevemao
+isiahmeadows
+Mingun
+realityking
+evilpie
+ziyunfei
+Havvy

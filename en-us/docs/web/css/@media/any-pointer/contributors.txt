@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/any-pointer/index.md
+
+# Original Wiki contributors
+wbamberg
+dd-pardal
+mfluehr
+ExE-Boss
+alberts+
+Druzion
+cvrebert
+Sebastianz
+dannyfritz
+kscarfone
+jpmedley

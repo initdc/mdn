@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/scrollbars/index.md
+
+# Original Wiki contributors
+mfluehr
+connorshea
+momdo
+fscholz
+daniran73
+teoli
+iamanupmenon
+Sheppy
+Bzbarsky
+Potappo
+Mgjbot
+Dria
+JesseW

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/presentationavailability/index.md
+
+# Original Wiki contributors
+bershanskiy
+lucian95
+MashKao
+rolfedh
+jpmedley

@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_audio_api/using_web_audio_api/index.md
+
+# Original Wiki contributors
+zachlysobey
+mfuji09
+vandijkstef
+preethamkamidi
+apalm
+Sheppy
+minimax
+jmstfv
+chrisdavidmills
+Rumyra
+nomad-mystic
+Powell-v2
+atomrc
+jeremy-french
+mdublin
+gmarty
+crashuniverse
+lite20
+tagawa
+ArgosOleg
+Luckycia
+ChrisL
+jmsmit66
+wbamberg
+teoli
+ScottMichaud

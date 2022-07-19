@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/array/length/index.md
+
+# Original Wiki contributors
+jeremymouzin
+SphinxKnight
+SBEN
+andrea11
+teoli
+greygjhart

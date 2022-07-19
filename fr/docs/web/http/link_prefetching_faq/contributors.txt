@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/link_prefetching_faq/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Goofy
+cdromain
+jigs12
+wakka27
+BenoitL
+Fredchat
+Kyodev
+Bellerophon

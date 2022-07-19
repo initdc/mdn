@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/getting_started_with_the_web/the_web_and_web_standards/index.md
+
+# Original Wiki contributors
+philou
+Nachec
+chrisdavidmills
+chaitanya
+onurbasturk
+dcompcoder
+DevForrestLyu

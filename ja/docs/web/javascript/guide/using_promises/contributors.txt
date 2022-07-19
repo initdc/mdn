@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/using_promises/index.md
+
+# Original Wiki contributors
+mpcjazz
+Lichit
+Uemmra3
+chrisdavidmills
+ecormaksin
+kenji-yamasaki
+karamarimo
+wafrelka
+dlwe
+smikitky
+munieru_jp
+woodmix
+sohopro
+tisanyan

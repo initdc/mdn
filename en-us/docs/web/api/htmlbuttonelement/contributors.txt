@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlbuttonelement/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+jswisher
+mfluehr
+ExE-Boss
+fscholz
+chrisdavidmills
+Sebastianz
+danmork
+trusktr
+arronei
+danielnixon
+erikadoyle
+jmsfwk
+slimsag
+linmx0130
+MHasan
+teoli
+kscarfone
+Sheppy
+ethertank
+timemachine3030
+volkmar

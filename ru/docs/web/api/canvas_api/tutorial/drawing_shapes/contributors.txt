@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/canvas_api/tutorial/drawing_shapes/index.html
+
+# Original Wiki contributors
+AVerutin
+warsan
+mi5ha6in
+mkarkachov
+artrudov
+mikomister
+dedotmoroz
+GaidaiAndrii
+DuckerMan
+hraboviyvadim
+jynweythek
+dyachenco
+fil7
+nakhodkiin
+gearmobile
+teoli
+fscholz
+Mirsait
+Neir

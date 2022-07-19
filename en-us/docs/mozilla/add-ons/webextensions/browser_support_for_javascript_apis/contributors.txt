@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/browser_support_for_javascript_apis/index.md
+
+# Original Wiki contributors
+SphinxKnight
+freddygovoni
+bershanskiy
+bripmccann
+Moda9plus
+JayDSiegal
+rahulwebgis
+ExE-Boss
+stephaniehobson
+wbamberg

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/history/length/index.html
+
+# Original Wiki contributors
+Guria
+vyushin

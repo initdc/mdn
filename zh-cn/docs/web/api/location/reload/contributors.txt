@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/location/reload/index.md
+
+# Original Wiki contributors
+Lori25
+jianzhou520
+ziyunfei

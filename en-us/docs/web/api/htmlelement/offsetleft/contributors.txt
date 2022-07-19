@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/offsetleft/index.md
+
+# Original Wiki contributors
+kramar
+Andrew-Cottrell
+mfuji09
+SphinxKnight
+fscholz
+erikadoyle
+Natalya_Surikova
+2is10
+jpmedley
+MexieAndCo
+depthdev
+linxd
+teoli
+alexeiTruhin
+saneyuki_s
+ajaybhat
+kscarfone
+Sheppy
+yonathan
+George3
+UriB
+Mgjbot
+Riboribo
+Nickolay
+Ptak82
+Dria
+Prodoc

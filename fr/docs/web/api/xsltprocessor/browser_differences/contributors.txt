@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/xsltprocessor/browser_differences/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+Mgjbot
+VincentN
+Fredchat

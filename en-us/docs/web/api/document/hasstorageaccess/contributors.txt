@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/hasstorageaccess/index.md
+
+# Original Wiki contributors
+Wind1808
+bershanskiy
+chrisdavidmills
+mfuji09
+DBaron
+Ehsan

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/forms/how_to_build_custom_form_controls/example_1/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+estelle
+kscarfone
+ethertank
+Sheppy
+Jeremie

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/fetch_api/cross-global_fetch_usage/index.md
+
+# Original Wiki contributors
+ralflang
+mfluehr
+piotrekwitek
+chrisdavidmills

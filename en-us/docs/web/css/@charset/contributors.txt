@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@charset/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+fscholz
+erikadoyle
+Alhadis
+Krenair
+Sebastianz
+jsx
+Sheppy
+caermalo
+cpigat
+sligocki
+kscarfone
+silverwind
+Jeremie
+FredB
+DavidWalsh
+ethertank
+teoli
+brianloveswords
+bigbossSNK
+Vdragon
+McGurk

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/imagecapture/grabframe/index.md
+
+# Original Wiki contributors
+alattalatta
+Wuzzel
+fscholz
+shaunlebron
+jpmedley

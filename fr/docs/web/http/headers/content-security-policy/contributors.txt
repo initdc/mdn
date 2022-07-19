@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/headers/content-security-policy/index.md
+
+# Original Wiki contributors
+JNa0
+bershanskiy
+Oliboy50
+SphinxKnight
+loella16

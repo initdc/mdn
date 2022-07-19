@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/exslt/math/min/index.md
+
+# Original Wiki contributors
+ExE-Boss
+Dralyab
+jackblack
+Mgjbot
+Fredchat

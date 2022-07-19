@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/for...of/index.html
+
+# Original Wiki contributors
+iacade
+alx-khramov
+rookhive
+AliaksandrZahorski
+becha
+SphinxKnight
+iomtt94
+babichss
+ZeroUnderscoreOu
+BychekRU
+dtretyakov

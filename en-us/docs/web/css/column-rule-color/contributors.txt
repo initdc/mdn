@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/column-rule-color/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+ddbeck
+connorshea
+mfluehr
+chrisdavidmills
+erikadoyle
+Sebastianz
+jpmedley
+fscholz
+jsx
+kscarfone
+teoli
+ethertank
+FredB
+brianloveswords
+kuvik3
+Marsf
+Jürgen Jeka

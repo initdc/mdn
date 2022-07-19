@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/server-side/django/index.html
+
+# Original Wiki contributors
+glauconeto
+victorruand
+caveman-0
+marcoxavier2005
+julianofischer
+rodrigowmendes
+joanasouza
+dougfeltrim
+jozadaquebatista

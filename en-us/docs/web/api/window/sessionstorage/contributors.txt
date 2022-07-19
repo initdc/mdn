@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/sessionstorage/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+alattalatta
+Tigt
+arihs
+irenesmith
+ExE-Boss
+mfluehr
+ankit90anand
+connorshea
+Audaciter
+fscholz
+erikadoyle
+sarafec
+torra
+islemaster
+SeanCox
+jwhitlock
+jccsbenjamin
+AlexChao
+zbycz
+ongardie
+jsx

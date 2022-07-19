@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/html/element/index.md
+
+# Original Wiki contributors
+mfuji09
+ishimasar1106
+fuyofuyopiroq
+yyss
+ethertank
+Marsf
+teoli
+Mgjbot
+Okome

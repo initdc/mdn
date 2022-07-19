@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/hr/index.md
+
+# Original Wiki contributors
+jakfils
+SphinxKnight
+PhilippeV
+louuis
+Fredchat
+tregagnon
+zizielmehdi

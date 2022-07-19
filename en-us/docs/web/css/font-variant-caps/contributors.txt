@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/font-variant-caps/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+sideshowbarker
+mfuji09
+j9t
+FredrikHemsen
+ddbeck
+ninjanails
+chrisdavidmills
+ericwbailey
+mfluehr
+fscholz
+chharvey
+andygongea
+jpmedley
+fcard
+Ruggero
+Sebastianz
+tomByrer
+teoli

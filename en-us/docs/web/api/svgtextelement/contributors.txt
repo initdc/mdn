@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svgtextelement/index.md
+
+# Original Wiki contributors
+warsan
+fscholz
+Sebastianz
+mattwojo
+kscarfone
+Sheppy
+ethertank
+Jeremie

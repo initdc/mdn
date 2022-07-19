@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/www-authenticate/index.md
+
+# Original Wiki contributors
+rwv
+Tigt
+remcohaszing
+formerandroider
+fscholz
+mfuji09
+rmdso
+callumgare
+teoli

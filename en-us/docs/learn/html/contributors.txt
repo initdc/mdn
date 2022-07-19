@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/index.md
+
+# Original Wiki contributors
+gdsimoes
+chrisdavidmills
+alhyrym05
+murphychen
+SphinxKnight
+www-wanglong
+mikeongor693
+RayPL
+RafeyIqbalRahman
+Sheppy
+stephaniehobson
+asger12345
+TornadoIDS
+hadleyel
+jdescottes
+dcondrey
+jsx
+hui
+Jeremie
+Andrew_Pfeiffer
+fscholz

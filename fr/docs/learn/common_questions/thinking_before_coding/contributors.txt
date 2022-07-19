@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/common_questions/thinking_before_coding/index.md
+
+# Original Wiki contributors
+SphinxKnight
+rtabusse

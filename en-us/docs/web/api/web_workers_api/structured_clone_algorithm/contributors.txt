@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_workers_api/structured_clone_algorithm/index.md
+
+# Original Wiki contributors
+Tigt
+chrisdavidmills
+mhollings
+dsanders11
+pong
+mtsgeneroso
+rambo-panda
+mfluehr
+zo
+kevin-albert
+liuqipeng417
+teoli
+abroz
+CBroe
+evilpie
+BlindWanderer
+rk17
+Jeremie
+Sheppy
+kscarfone
+kevmoo
+timoxley
+fusionchess

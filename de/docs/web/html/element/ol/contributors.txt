@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/html/element/ol/index.html
+
+# Original Wiki contributors
+somaGFX
+schlagi123
+dio
+teoli
+fscholz
+Crash

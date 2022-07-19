@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/rtcsessiondescription/index.md
+
+# Original Wiki contributors
+kimyounguk
+Jib
+mmckenziedev
+fscholz
+nils
+HyroVitalyProtago
+Sheppy
+abbycar
+mappum
+teoli
+wesj

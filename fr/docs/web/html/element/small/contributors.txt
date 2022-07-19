@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/small/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Tifloz
+nicoo
+thomas.g
+tregagnon

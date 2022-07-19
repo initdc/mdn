@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/mozilla/firefox/releases/2/index.html
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+teoli
+Diablownik
+Bedi
+Mgjbot
+Ptak82
+gandalf
+Filemon
+KrucaFuks

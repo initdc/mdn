@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/errors/cant_be_converted_to_bigint_because_it_isnt_an_integer/index.md
+
+# Original Wiki contributors
+

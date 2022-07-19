@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/globalthis/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+ddbeck
+ExE-Boss
+Sheppy
+sideshowbarker
+TerryRPatterson
+rwaldron
+LoliMay
+Robg1
+alattalatta
+LJHarb
+goodforenergy

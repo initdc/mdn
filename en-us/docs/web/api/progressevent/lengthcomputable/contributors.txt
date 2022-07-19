@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/progressevent/lengthcomputable/index.md
+
+# Original Wiki contributors
+ddbeck
+connorshea
+jpmedley
+SphinxKnight
+DomenicDenicola
+abbycar
+fscholz
+Reachmeatshivam
+teoli

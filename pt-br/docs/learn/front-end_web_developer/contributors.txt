@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/front-end_web_developer/index.html
+
+# Original Wiki contributors
+flaviomicheletti
+SphinxKnight
+marcus.simei
+vinidesign.web
+victorwvieira
+etc_william

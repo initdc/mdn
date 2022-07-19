@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/guide/grammar_and_types/index.html
+
+# Original Wiki contributors
+FFFutureflo
+Tionran
+schlagi123
+TomasRiker
+aldec-dv
+SaschaHeyer
+yampus
+FocusCookie
+Randomfinger
+NedNisW
+vetoCode
+didierCH
+baxstar
+fscholz
+siggi-heltau
+eminor
+NickRussler
+Hans_Mueller

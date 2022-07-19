@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/javascript/reference/global_objects/array/tostring/index.html
+
+# Original Wiki contributors
+mpcjazz
+hamasaki
+mfuji09
+segayuu
+teoli
+ethertank
+Yuichirou
+Potappo
+Mgjbot

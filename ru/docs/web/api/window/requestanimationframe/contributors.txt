@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/window/requestanimationframe/index.html
+
+# Original Wiki contributors
+BehemothOz
+S-inTheory
+Kiryhas
+ekirpichyov
+Yialo
+YozhEzhi
+RoBit
+alexsanqp
+Bargamut
+torbasow
+Beliarh
+nyk0r

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/math/max/index.html
+
+# Original Wiki contributors
+tzimmermann
+schlagi123
+screeny05
+Elytherion
+ptitmouton

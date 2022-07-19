@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/attributes/capture/index.md
+
+# Original Wiki contributors
+estelle
+pans9

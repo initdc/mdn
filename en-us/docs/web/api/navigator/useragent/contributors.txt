@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/useragent/index.md
+
+# Original Wiki contributors
+Tigt
+alattalatta
+mfuji09
+Sheppy
+fscholz
+Krinkle
+abbycar
+teoli
+chrisdavidmills
+jsx
+kscarfone
+ethertank
+ziyunfei
+shicker
+Jonathan.Sampson
+madarche
+Potappo
+Mgjbot
+Nickolay
+GT
+Jabez
+Dria
+JesseW

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/symbol/index.md
+
+# Original Wiki contributors
+mfuji09
+technohippy
+segayuu
+kenji-yamasaki
+chikoski
+YuichiNukiyama

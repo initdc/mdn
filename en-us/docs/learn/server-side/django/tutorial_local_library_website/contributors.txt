@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/django/tutorial_local_library_website/index.md
+
+# Original Wiki contributors
+hamishwillee
+FeruzOripov
+SphinxKnight
+maldanna
+jdblischak
+jtwilson0294
+chrisdavidmills
+stephaniehobson
+omideus

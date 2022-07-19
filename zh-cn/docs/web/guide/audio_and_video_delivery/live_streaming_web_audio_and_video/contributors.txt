@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/guide/audio_and_video_delivery/live_streaming_web_audio_and_video/index.md
+
+# Original Wiki contributors
+

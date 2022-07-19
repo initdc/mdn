@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/guide/grammar_and_types/index.md
+
+# Original Wiki contributors
+gksrlf2ek
+sujinlee0616
+alattalatta
+shj9432
+dsma73
+yhyim
+hohoonlee
+limkukhyun
+yangtaeho
+gudrl
+jadestern
+ddarkchu
+Netaras
+HyunSeob
+wikibook
+VBChunguk
+trazy
+Donghyun_Lee
+stephenjang
+Rudy-Ahn
+moolow
+teoli
+frog44

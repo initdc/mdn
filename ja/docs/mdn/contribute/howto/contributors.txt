@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/contribute/howto/index.md
+
+# Original Wiki contributors
+mfuji09
+silverskyvicto
+wbamberg
+hamasaki
+5ara5treamer
+mamodayo
+klez

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/border-style/index.html
+
+# Original Wiki contributors
+filip-rybczynski
+wbamberg
+teoli
+Yuichiro
+Ptak82
+Mgjbot
+Diablownik
+Witia

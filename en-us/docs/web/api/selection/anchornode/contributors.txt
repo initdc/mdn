@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/anchornode/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+ddbeck
+abbycar
+BenjamP
+fscholz
+teoli
+kosvrouvas
+Chesher
+kscarfone
+Prachi_Dighe
+Sheppy
+ethertank
+Federico
+DR
+Rev
+Jonnyq

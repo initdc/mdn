@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/publishing_games/game_distribution/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+aminekaddouri951
+dd-pardal
+vladoss
+MartySVK
+yvoschaap
+riceh3
+aboagyed
+msobanjo
+oyenirat
+smoothie1998
+wbamberg
+haydenvaniderstine
+mwuestner
+end3r
+jswisher
+junaid369

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cssrule/parentstylesheet/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+connorshea
+jpmedley
+fscholz
+teoli
+kscarfone
+Sheppy
+Dria
+JesseW

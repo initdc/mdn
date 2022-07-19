@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/_colon_only-child/index.md
+
+# Original Wiki contributors
+SphinxKnight
+tregagnon
+Fredchat
+louuis
+teoli
+FredB

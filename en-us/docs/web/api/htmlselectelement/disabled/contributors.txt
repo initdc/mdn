@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlselectelement/disabled/index.md
+
+# Original Wiki contributors
+LeonFrempong
+natevw
+MyNameIsBond
+bvpb
+sideshowbarker
+connorshea
+FloraFauna
+Konrud
+libbymc
+Druzion
+teoli
+Rakhisharma

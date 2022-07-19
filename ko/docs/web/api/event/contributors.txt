@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/event/index.md
+
+# Original Wiki contributors
+alattalatta
+cs09g
+fscholz
+jsx
+teoli
+pusanbear

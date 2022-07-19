@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/data_structures/index.html
+
+# Original Wiki contributors
+nikolasmelui
+wentout
+sashakrauzer
+faramozzayw
+Eugeno
+itsEffy
+meafmira
+artrudov
+miiixsc
+RomanBykov
+romannovikov
+pathliving
+rockad
+foobar42
+letry
+Megabyteceer
+kmetto
+TaKo13
+alfaslash
+markgraydev
+Leo240
+KANBY
+fscholz
+jaguardev
+teoli
+dunmaksim
+uleming

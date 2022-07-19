@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/fedisplacementmap/index.md
+
+# Original Wiki contributors
+fscholz
+Nomeh_Uchenna_Gabriel
+abbycar
+Sebastianz
+kscarfone
+Jeremie
+Manuel_Strehl

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/web_components/using_templates_and_slots/index.md
+
+# Original Wiki contributors
+powerlanguage
+falldowngoboone
+tlitookilakin
+usmanajmal
+chrisdavidmills
+elkurin
+newyork-anthonyng
+xfq
+jswisher

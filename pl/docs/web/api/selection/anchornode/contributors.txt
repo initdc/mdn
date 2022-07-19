@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/selection/anchornode/index.html
+
+# Original Wiki contributors
+teoli
+khalid32
+Gocio
+Mgjbot
+DR
+Rev

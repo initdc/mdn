@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/index.md
+
+# Original Wiki contributors
+jswisher
+chrisdavidmills
+kruschk
+monila23
+a4anandsingh
+sakthikanth
+rsidorov
+hamishwillee

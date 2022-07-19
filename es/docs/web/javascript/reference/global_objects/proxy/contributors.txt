@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/proxy/index.md
+
+# Original Wiki contributors
+Ramdhei-codes
+CristalT
+carloslfu
+pedro-otero
+eContento
+kdex
+pedropablomt95

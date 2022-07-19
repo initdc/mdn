@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/dom_觀察器/index.html
+
+# Original Wiki contributors
+273K

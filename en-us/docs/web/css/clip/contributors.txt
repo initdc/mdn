@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/clip/index.md
+
+# Original Wiki contributors
+HTMLValidator
+wbamberg
+Sheppy
+Tigt
+jswisher
+sideshowbarker
+Krinkle
+fscholz
+mfluehr
+llkk
+SphinxKnight
+meduzen
+erikadoyle
+mrstork
+Sebastianz
+jsx
+teoli
+chharvey
+y0ssar1an
+Martyr2
+kscarfone
+paul_daoust
+Dikrib
+ethertank
+grendel
+josiewern
+Jürgen Jeka
+Mgjbot
+Searlea
+Fredchat
+DBaron
+BijuGC

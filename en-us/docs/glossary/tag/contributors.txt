@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/tag/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+sideshowbarker
+boxa6
+ahmadnourallah
+Uemmra3
+hbloomer
+Andrew_Pfeiffer
+Zeba_Shah
+Afnank123
+Jeremie
+VALLIYILSAIKIRAN

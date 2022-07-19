@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/geolocation/watchposition/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+chrisdavidmills
+alattalatta
+connorshea
+Sheppy
+FranckGrosDubois
+tomayac
+erikadoyle
+mraguso2
+rolfedh
+yachiehwu
+aaco
+jbdemonte
+fscholz
+MetalOxdie
+StuartMorris
+abhishekp
+teoli
+kscarfone
+Croepha
+Jeremie

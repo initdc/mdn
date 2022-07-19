@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/array/filter/index.html
+
+# Original Wiki contributors
+Gismo1337
+caca123-nz
+SebinNyshkim
+michelgotta
+schlagi123
+xdevs23
+midnightmare
+oliver-j
+occcy

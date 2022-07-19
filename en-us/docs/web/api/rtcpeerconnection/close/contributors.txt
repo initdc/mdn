@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/rtcpeerconnection/close/index.md
+
+# Original Wiki contributors
+sideshowbarker
+connorshea
+Kacper_Ozieblowski
+jpmedley
+abbycar
+Sheppy
+teoli
+mikeg0

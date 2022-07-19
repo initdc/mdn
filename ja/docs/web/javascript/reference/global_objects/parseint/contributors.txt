@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/parseint/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+AkihikoTakeda
+roki
+YuichiNukiyama
+FumioNonaka
+teoli
+ethertank
+Potappo
+Mgjbot

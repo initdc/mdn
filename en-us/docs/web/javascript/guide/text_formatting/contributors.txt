@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/guide/text_formatting/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+bma
+alattalatta
+vriojtg
+sbfraser01
+chrisdavidmills
+JigneshMistry
+stephaniehobson
+SphinxKnight
+amir77ameri
+ThomasEugeneBishop
+nmve
+kdex
+Jeremie
+danielinux7
+gportioli
+xfq
+mahzaib
+kscarfone

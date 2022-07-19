@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/cookies/index.md
+
+# Original Wiki contributors
+Emmizzen
+wbamberg
+irenesmith
+Rob W
+andrewtruongmoz
+abbycar
+chrisdavidmills
+kmaglione
+jpmedley
+evilpie

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/guidelines/conventions_definitions/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+eltociear
+mfuji09
+jswisher
+Anonymous
+silverskyvicto
+wbamberg
+Uemmra3
+5ara5treamer

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/common_questions/how_does_the_internet_work/index.md
+
+# Original Wiki contributors
+MSabry809
+chrisdavidmills
+codewilling
+1653099
+imba-tjd
+SphinxKnight
+Tan_
+kjerinic
+alattalatta
+wattydev
+diogeneshamilton
+Jeremie
+Andrew_Pfeiffer
+kscarfone

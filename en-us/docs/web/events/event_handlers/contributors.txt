@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/events/event_handlers/index.md
+
+# Original Wiki contributors
+mfuji09
+EdgarBarrantes
+chrisdavidmills
+gliesefire
+zin445
+Nozomi3
+Sheppy
+HiEv
+Tigt
+jswisher
+nadieenespecial
+mvasin
+fscholz
+Onkar316
+wxdude225
+DailyAlice
+david_ross
+rolfedh
+Nickolay
+pcat
+majido
+markg
+chrisAnderson
+Jeremie
+Bzbarsky

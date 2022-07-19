@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/embeds/index.html
+
+# Original Wiki contributors
+teoli
+AshfaqHossain
+Bedi
+Ptak82
+Jan Dudek

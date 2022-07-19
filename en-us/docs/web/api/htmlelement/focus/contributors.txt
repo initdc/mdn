@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/focus/index.md
+
+# Original Wiki contributors
+ratley
+hinell
+ExE-Boss
+Sheppy
+mfluehr
+sideshowbarker
+fscholz
+EiraGe
+xrtariq2594
+jakobc
+rittmeyer
+swick7
+teoli
+saneyuki_s
+ajaybhat
+kscarfone
+tregagnon
+mattbasta
+ziyunfei
+Nickolay
+another_sam
+Bzbarsky
+Mgjbot
+Gopi
+Ptak82
+Dria
+Callek
+JesseW

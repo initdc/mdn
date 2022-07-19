@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/block/scripting/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+klez
+rolfedh
+Jeremie
+Andrew_Pfeiffer

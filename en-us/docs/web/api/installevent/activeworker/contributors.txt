@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/installevent/activeworker/index.md
+
+# Original Wiki contributors
+sideshowbarker
+jpmedley
+fscholz
+chrisdavidmills
+Sebastianz
+kscarfone

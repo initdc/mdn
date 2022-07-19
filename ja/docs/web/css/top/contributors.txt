@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/top/index.md
+
+# Original Wiki contributors
+mfuji09
+SphinxKnight
+YuichiNukiyama
+Simplexible
+Prinz_Rana
+fscholz
+teoli
+ethertank
+sosleepy

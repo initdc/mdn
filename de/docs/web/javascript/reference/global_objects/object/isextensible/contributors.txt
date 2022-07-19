@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/object/isextensible/index.html
+
+# Original Wiki contributors
+dthdyver

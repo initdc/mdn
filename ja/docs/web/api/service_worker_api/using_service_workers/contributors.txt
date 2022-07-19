@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/service_worker_api/using_service_workers/index.md
+
+# Original Wiki contributors
+mfuji09
+chikoski
+mononeco
+Knium
+hyamamoto
+kazu69
+yhorie
+asmsuechan
+technohippy
+kawakami
+YuichiNukiyama
+cosmology233

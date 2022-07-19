@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/bdo/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+JerryYoung
+wendko
+mfuji09
+JamesCatt
+wbamberg
+connorshea
+yuheiy
+Sheppy
+teoli
+Ende93
+sideshowbarker
+erikadoyle
+Zambonifofex
+nroose
+Sebastianz
+Jeremie
+kscarfone
+avsaro
+medicdude
+ethertank
+cstipkovic
+jkleinert
+cers
+McGurk
+hobophobe
+jswisher
+Mgjbot
+PablO
+DBaron
+Ptak82

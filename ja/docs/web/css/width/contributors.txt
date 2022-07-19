@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/width/index.md
+
+# Original Wiki contributors
+mfuji09
+hashedhyphen
+yyss
+Sebastianz
+Simplexible
+Prinz_Rana
+SphinxKnight
+ethertank

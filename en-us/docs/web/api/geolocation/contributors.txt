@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/geolocation/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+chrisdavidmills
+connorshea
+HeilKing
+northvanhooser
+erikadoyle
+fscholz
+Alhadis
+teoli
+FabioMagnoni

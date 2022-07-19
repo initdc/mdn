@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/gecko/index.md
+
+# Original Wiki contributors
+lpiot
+klez
+Andrew_Pfeiffer
+hbloomer
+chrisdavidmills
+Biraj
+tregagnon

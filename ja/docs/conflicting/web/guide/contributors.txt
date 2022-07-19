@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/guide/index.html
+
+# Original Wiki contributors
+peterbe
+mfuji09
+silverskyvicto

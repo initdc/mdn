@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/guidelines/code_guidelines/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+dvincent
+estelle
+Sheppy
+wbamberg
+spygi
+reddraggone9
+dbruant
+fscholz
+jswisher
+Sebastianz
+Jeremie

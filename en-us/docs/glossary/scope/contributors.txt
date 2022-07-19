@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/scope/index.md
+
+# Original Wiki contributors
+RainSlide
+bradley27783
+CharlesMoone
+fnfacun
+thekosiguy
+MohamedAlFahim
+irenesmith
+sideshowbarker
+welm
+hbloomer
+klez
+Andrew_Pfeiffer
+kscarfone
+panaggio

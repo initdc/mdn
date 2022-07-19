@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_animated_properties/index.md
+
+# Original Wiki contributors
+wbamberg
+huynhtrongnhan
+mfluehr
+teoli
+Sebastianz
+jpmedley
+tregagnon
+rebeccahauck
+ziyunfei
+FredB
+Marsf
+Sheppy

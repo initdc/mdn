@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/scrollwidth/index.md
+
+# Original Wiki contributors
+hinell
+mfuji09
+mfluehr
+connorshea
+abacabadabacaba
+m.karajohn
+cvrebert
+fscholz
+teoli
+kscarfone
+nairakhil13
+Sheppy
+vyv03354
+ethertank
+ozanonline
+Ms2ger
+George3
+Mgjbot
+Mw22
+Ptak82
+Nickolay
+RobG

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/border-color/index.html
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+fscholz
+teoli
+Yuichiro
+Ptak82
+Mgjbot
+Bedi
+Witia

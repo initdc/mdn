@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/symbol/hasinstance/index.md
+
+# Original Wiki contributors
+zombieleet
+fscholz
+mfuji09
+jinbeomhong
+Zearin_Galaurum
+wbamberg
+jameshkramer
+kdex
+GoToLoop
+ZeikJT

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/statements/async_function/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+coeurl
+aximov
+maechabin
+segayuu
+isdh
+96beniko
+jgs
+H1Gdev
+yoshioms1
+YuichiNukiyama

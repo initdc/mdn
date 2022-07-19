@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/basic-shape/index.html
+
+# Original Wiki contributors
+kleinesfilmroellchen
+SJW
+ExE-Boss
+Prinz_Rana
+Simplexible
+mrstork
+Sebastianz

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/share/index.md
+
+# Original Wiki contributors
+alattalatta
+Weslito
+HarishKarthick
+IPRIT
+dreamski21
+robotomize
+marcoscaceres
+chrisdavidmills
+arye-eidelman
+jpmedley
+mfuji09
+connorshea
+samthor
+jyasskin

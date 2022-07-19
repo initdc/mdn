@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/request_header/index.html
+
+# Original Wiki contributors
+fuggy
+andrewtk

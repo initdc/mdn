@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/tutorials/2d_breakout_game_phaser/initialize_the_framework/index.md
+
+# Original Wiki contributors
+escattone
+wbamberg
+end3r
+chrisdavidmills
+kitihounel
+megasan
+Onkar316
+brandtrock
+teoli
+delioliveandlive
+Jeremie

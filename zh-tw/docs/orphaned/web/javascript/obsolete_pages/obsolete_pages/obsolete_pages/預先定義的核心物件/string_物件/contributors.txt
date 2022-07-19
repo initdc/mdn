@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/web/javascript/obsolete_pages/obsolete_pages/obsolete_pages/預先定義的核心物件/string_物件/index.html
+
+# Original Wiki contributors
+teoli
+happysadman

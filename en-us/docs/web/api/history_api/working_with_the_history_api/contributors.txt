@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/history_api/working_with_the_history_api/index.md
+
+# Original Wiki contributors
+madmurphy
+Zearin_Galaurum
+mnoorenberghe
+irenesmith

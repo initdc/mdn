@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/event/stoppropagation/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Amoyensis
+zhuguibiao
+xgqfrms-GitHub
+e-cloud
+Ende93
+AlexChao
+teoli
+ziyunfei

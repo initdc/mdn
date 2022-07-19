@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/lastmodified/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Hell_Carlito
+DaweedM

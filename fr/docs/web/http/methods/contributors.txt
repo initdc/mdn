@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/methods/index.md
+
+# Original Wiki contributors
+tristantheb
+SphinxKnight
+MandelV
+mercuryseries
+dattaz

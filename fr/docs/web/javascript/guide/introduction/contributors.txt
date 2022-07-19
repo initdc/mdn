@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/guide/introduction/index.md
+
+# Original Wiki contributors
+CmdCourgette
+SphinxKnight
+tonybengue
+Nopias
+Arnaudettes
+tregagnon

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/_colon_scope/index.html
+
+# Original Wiki contributors
+cuixiping
+saifeiLee
+zhaoqize

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/angle/index.html
+
+# Original Wiki contributors
+kleinesfilmroellchen
+SJW
+JankingDE
+Sebastianz
+fscholz

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/guide/html/editable_content/rich-text_editing_in_mozilla/index.html
+
+# Original Wiki contributors
+gao5252
+SphinxKnight
+chrisdavidmills
+sijinglei
+doodlewind
+zezhou
+Cbgrape
+Teago

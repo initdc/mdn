@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltableelement/width/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+teoli
+kscarfone
+Sheppy
+ethertank
+RobG
+Nickolay
+Dria
+JesseW

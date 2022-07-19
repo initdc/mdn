@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/udp/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+locos17
+hbloomer
+klez
+Andrew_Pfeiffer

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_animations_api/keyframe_formats/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+apasov
+fscholz
+birtles
+delete12345
+PushpitaPikuDey
+rachelnabors

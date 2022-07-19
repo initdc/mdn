@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/structures/quicklinks/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+silverskyvicto
+Wind1808
+wbamberg
+Uemmra3

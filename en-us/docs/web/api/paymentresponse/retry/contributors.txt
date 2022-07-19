@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/paymentresponse/retry/index.md
+
+# Original Wiki contributors
+krosylight
+SphinxKnight
+Sheppy
+marcoscaceres
+akansha2608
+sideshowbarker
+mnoorenberghe
+chrisdavidmills

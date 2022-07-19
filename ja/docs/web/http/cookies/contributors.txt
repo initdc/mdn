@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/cookies/index.md
+
+# Original Wiki contributors
+silverskyvicto
+pcw
+kebhr
+mfuji09
+nao0x2c6
+dlwe
+dskmori
+__ku
+yyss

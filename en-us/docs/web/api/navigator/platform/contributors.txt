@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/platform/index.md
+
+# Original Wiki contributors
+alattalatta
+mfuji09
+Sheppy
+fscholz
+abbycar
+teoli
+chrisdavidmills
+0xdeadcafe
+kscarfone
+Rob W
+ziyunfei
+Marcoos
+Mgjbot
+Diablownik
+Nickolay
+Jabez
+Dria
+JesseW

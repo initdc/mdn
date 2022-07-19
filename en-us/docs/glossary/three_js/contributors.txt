@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/three_js/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Melissa0107
+hbloomer
+Andrew_Pfeiffer
+klez
+Navneetk

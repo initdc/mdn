@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/ol/index.html
+
+# Original Wiki contributors
+kevinar53
+duduindo
+teoli
+Jorolo

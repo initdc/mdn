@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/input/email/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+estelle
+wbamberg
+Sheppy
+zevisert
+seanpoulter
+fscholz
+shivg7706
+SphinxKnight
+JamesCatt
+mihai.fantana
+chrisdavidmills
+chrisxiong
+crazytonyi
+rolfedh

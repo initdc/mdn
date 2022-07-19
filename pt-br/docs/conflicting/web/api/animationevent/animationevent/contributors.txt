@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/conflicting/web/api/animationevent/animationevent/index.html
+
+# Original Wiki contributors
+teoli
+takahan

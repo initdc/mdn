@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/classes/index.html
+
+# Original Wiki contributors
+michalmarchewczyk
+Ojdana11
+freszyk
+MichalKarbownik
+artmiron
+labs4apps
+gavinhungry

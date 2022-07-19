@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mdn/structures/live_samples/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+emanuelvega
+LUISTGMDN
+elihro

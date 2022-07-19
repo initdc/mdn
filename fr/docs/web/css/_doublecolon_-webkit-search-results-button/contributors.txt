@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/_doublecolon_-webkit-search-results-button/index.md
+
+# Original Wiki contributors
+SphinxKnight

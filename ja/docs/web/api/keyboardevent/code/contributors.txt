@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/keyboardevent/code/index.md
+
+# Original Wiki contributors
+ddg171
+mfuji09
+opost

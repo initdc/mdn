@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/webgl_api/tutorial/index.html
+
+# Original Wiki contributors
+Uemmra3
+yyss
+fscholz

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/function/bind/index.md
+
+# Original Wiki contributors
+tristantheb
+SphinxKnight
+mfcochauxlaberge
+P45QU10U
+jacomyal
+darul75
+tykayn
+dirakkk
+tregagnon
+teoli
+flo5589

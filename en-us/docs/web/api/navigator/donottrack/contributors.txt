@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/donottrack/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+alattalatta
+connorshea
+blq
+foxbunny
+Krinkle
+Sebastianz
+ChristianSiegert
+teoli
+scott.s.mccoy
+Standard8
+MHasan
+mitar
+kscarfone
+Sheppy
+ziyunfei
+vipsoft
+jlebar
+Marcoos
+jswisher

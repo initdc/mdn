@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/hanging-punctuation/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+rachelandrew
+connorshea
+ExE-Boss
+mfuji09
+wilmaedd
+Siilwyn
+mfluehr
+6stringbeliever
+chharvey

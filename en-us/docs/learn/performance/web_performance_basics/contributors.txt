@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/performance/web_performance_basics/index.md
+
+# Original Wiki contributors
+Sheppy
+estelle
+jdmerriman
+verde79
+PickensC
+santoshjoseph99

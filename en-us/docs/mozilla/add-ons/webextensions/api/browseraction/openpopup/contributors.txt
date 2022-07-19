@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/browseraction/openpopup/index.md
+
+# Original Wiki contributors
+ariasuni
+wbamberg
+arantius
+andrewtruongmoz
+Makyen
+kmaglione

@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/tutorials/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ppayet304
+Maxi-MenuBestOfPlus
+W1773ND
+tmpbci
+xvw
+rjeannot
+CarlosAvim
+CarterMason4
+marecord
+JeffD
+badgohan
+teoli
+dayenu
+Oliviermoz
+Bat
+Wlad-Hawaii
+nelsonkam
+Antwan_Did
+PageotD
+Mutijima
+hs0ucy
+Shaker
+Asaphus
+tomsihap
+anthonybt
+laurent-thuy
+Info
+chris.bourdieu
+AnthonyMaton
+naar
+Nesseria

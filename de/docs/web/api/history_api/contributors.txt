@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/history_api/index.html
+
+# Original Wiki contributors
+wanst
+NiklasMerz
+daniel-evers
+Adowrath
+serv-inc
+Oliver_Schafeld
+BugHunter2k
+christian314159
+darksider3

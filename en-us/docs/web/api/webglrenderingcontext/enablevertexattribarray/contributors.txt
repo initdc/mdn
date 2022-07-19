@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglrenderingcontext/enablevertexattribarray/index.md
+
+# Original Wiki contributors
+WallyYang
+Jedipedia
+NemoNobobyPersonne
+Sheppy
+fscholz
+teoli

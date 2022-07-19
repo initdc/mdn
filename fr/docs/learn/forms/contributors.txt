@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/forms/index.md
+
+# Original Wiki contributors
+BAHLOUL_Farouk
+Dralyab
+klenzo
+Porkepix
+Orkrum
+diomabb
+SphinxKnight
+Goofy
+tregagnon
+FredB

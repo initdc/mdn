@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webrtc_api/signaling_and_video_calling/index.md
+
+# Original Wiki contributors
+matiasgali
+enzoaguado
+Jib
+Sheppy
+noambonnie
+HolgerJeromin
+soominkimu
+GenjoMoz
+nunomsantos
+mattkrick
+ashucg
+MzMzEckotimez
+zetc0de
+AzazelN28
+betimer
+yuriybash
+startgeek
+fscholz
+drewbard
+egeapak
+Spidey
+hamersun
+codedread
+SphinxKnight
+Move
+gustnxodjs
+david_ross
+denar90
+chrisdavidmills
+teoli
+AFBarstow
+ccampbell1723
+wrksprfct

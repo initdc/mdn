@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pointer_events/pinch_zoom_gestures/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+nicho110
+sebdesign
+jakopo87
+fscholz
+rolfedh
+AFBarstow

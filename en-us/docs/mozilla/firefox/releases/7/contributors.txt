@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/7/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+Nickolay
+ethertank
+Sheppy
+klondike24
+fscholz
+Jürgen Jeka
+BobChao
+dbruant
+jreschke
+dynamis
+myakura
+louisremi
+trevorh
+evilpie
+Potappo
+fred.wang
+Jon972
+darktrojan

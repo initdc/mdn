@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/pointercancel_event/index.md
+
+# Original Wiki contributors
+Clarkkkk
+mfuji09
+wbamberg
+mfluehr
+chrisdavidmills
+fscholz
+Sheppy
+aimergenge
+MrITzhongzi
+erikadoyle
+RByers
+jpmedley
+rolfedh
+AFBarstow

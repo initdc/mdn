@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/certificate_authority/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+hamishwillee
+jswisher
+kscarfone
+marumari
+klez
+hbloomer

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/accessibility/wai-aria_basics/index.md
+
+# Original Wiki contributors
+JNa0
+dragon38800

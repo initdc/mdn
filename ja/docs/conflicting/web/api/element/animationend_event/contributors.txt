@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/element/animationend_event/index.md
+
+# Original Wiki contributors
+windchime-yk
+mfuji09
+Wind1808

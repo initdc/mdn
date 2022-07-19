@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/rotate/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mMerlin
+y6nH

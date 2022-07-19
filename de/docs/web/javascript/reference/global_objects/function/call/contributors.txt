@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/function/call/index.html
+
+# Original Wiki contributors
+ffriedl89
+alexander-heimbuch
+schlagi123
+Oekel
+Abro
+haryl
+loki
+nelf

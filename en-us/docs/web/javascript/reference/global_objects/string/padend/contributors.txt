@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/padend/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+Zearin_Galaurum
+SphinxKnight
+killroy
+Yialo
+AlirezaInGitHub
+meowwwls
+behnammodi
+vegeta897
+ryanmurakami
+jameshkramer
+wkillerud
+AtomicNoggin
+arai
+David_Gilbertson
+bsara
+YoruNoHikage
+torazaburo
+Sebastianz
+1j01

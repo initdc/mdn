@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/data_structures/index.md
+
+# Original Wiki contributors
+GDFtj
+jpcote
+SphinxKnight
+Titome
+michelc
+BEHOUBA
+Palisanka
+Havano
+tym
+Fredchat
+teoli
+ferncoder
+bfn

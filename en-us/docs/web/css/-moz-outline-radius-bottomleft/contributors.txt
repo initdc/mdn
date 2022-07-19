@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-moz-outline-radius-bottomleft/index.md
+
+# Original Wiki contributors
+mfuji09
+Sheppy
+ddbeck
+chrisdavidmills
+Davesjoshin
+MNizam0802
+mfluehr
+wbamberg
+Sebastianz
+teoli
+Yann Dìnendal
+Fredchat
+Mgjbot
+Spanglerco

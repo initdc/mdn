@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/transform-function/translate/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+AlePerez92
+hectoraldairah
+Esteban26
+murielsan
+ShakMR

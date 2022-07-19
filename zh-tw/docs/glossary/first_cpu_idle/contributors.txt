@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/glossary/first_cpu_idle/index.md
+
+# Original Wiki contributors
+afutseng

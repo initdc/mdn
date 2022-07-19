@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/setinterval/index.html
+
+# Original Wiki contributors
+Bajdzis
+teoli
+khalid32
+qfel13
+Mgjbot
+Jan Dudek

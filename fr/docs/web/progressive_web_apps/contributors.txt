@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/progressive_web_apps/index.md
+
+# Original Wiki contributors
+Mozinet
+hellosct1
+brandonlazarre
+chrisdavidmills
+tonybengue
+enguerran
+loella16
+Hell_Carlito
+JeffD

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/browsing_context/index.md
+
+# Original Wiki contributors
+tomderudder
+loella16
+xdelatour

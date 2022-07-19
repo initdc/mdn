@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/openssl/index.md
+
+# Original Wiki contributors
+darby
+hbloomer
+klez
+Andrew_Pfeiffer
+trevorh
+xfq
+Jeremie
+thornet

@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/a/index.md
+
+# Original Wiki contributors
+CCR-G
+arkhi
+mathildebuenerd
+SphinxKnight
+Miraty
+NerOcrO
+Banban
+marie-ototoi
+teoli
+msherefel
+tregagnon
+Goofy
+ethertank
+DavidWalsh
+FredB
+autodidactie
+BenoitL

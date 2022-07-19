@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/language_resources/index.md
+
+# Original Wiki contributors
+JonDevOps
+fscholz
+TejasC1990
+walonge
+Robg1
+seeplusplus
+AliMD
+ple103
+rwaldron
+LJHarb
+Annevk
+kdex
+MichelAlonso
+xfq
+Jeremie
+Priyanka13
+Timmi
+Sheppy
+ethertank
+Norbert
+F1Com
+Sroucheray
+Nickolay
+user01
+LiteralKa
+DavidCary
+Graydon
+Dan Smith
+Mgjbot
+Ptak82
+Waldo
+Pmash

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/building_blocks/conditionals/index.html
+
+# Original Wiki contributors
+tetragidrohlorid
+BulavkinNN
+chergav
+ConstantineZz
+Chugou9
+ohnoitsdasha
+space-rider
+Dmitrytbp
+hasiev-elchin
+fuckingRedBastard
+evgor80
+easydeads
+mspunk
+evgeniypotseluev

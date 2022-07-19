@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/flex-flow/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+Sheppy
+iansvo
+alattalatta
+mfuji09
+ddbeck
+rachelandrew
+mfluehr
+fscholz
+zhuangyin
+ericwilligers
+Arty-chan
+erikadoyle
+Sebastianz
+jsx
+Jeremie
+hexalys
+krosylight
+SJW
+kscarfone
+teoli
+ethertank
+FredB
+scottrowe

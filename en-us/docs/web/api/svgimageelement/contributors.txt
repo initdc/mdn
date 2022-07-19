@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svgimageelement/index.md
+
+# Original Wiki contributors
+jpmedley
+Sheppy
+fscholz
+Sebastianz
+abbycar
+kscarfone
+pa7
+Jeremie

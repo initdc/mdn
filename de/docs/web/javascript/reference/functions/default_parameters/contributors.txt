@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/functions/default_parameters/index.html
+
+# Original Wiki contributors
+schlagi123
+Eiknheimer
+serv-inc
+StevenS77
+kdex
+leonschwanitz

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/border-top/index.html
+
+# Original Wiki contributors
+fscholz
+teoli
+Yuichiro
+Witia
+Mgjbot

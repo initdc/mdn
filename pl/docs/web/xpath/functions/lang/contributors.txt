@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/xpath/functions/lang/index.html
+
+# Original Wiki contributors
+ExE-Boss
+Mgjbot
+Diablownik
+Ptak82
+Bedi

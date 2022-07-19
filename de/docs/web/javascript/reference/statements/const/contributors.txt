@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/statements/const/index.html
+
+# Original Wiki contributors
+zuzuzu
+evayde
+timlg07
+SphinxKnight
+kdex
+marcelglaeser
+andreashofer123
+fscholz
+schlagi123

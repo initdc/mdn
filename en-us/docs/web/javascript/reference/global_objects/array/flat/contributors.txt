@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/array/flat/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+fscholz
+UICodes89
+alattalatta
+Elethom
+sideshowbarker
+Baptistou
+sadikr
+ithinkandicode
+trungk18
+SphinxKnight
+ScottRudiger
+gmal1
+michaelficarra
+GreenJello
+behnammodi
+mikesherov
+davo99
+michaelsanford
+romain.bohdanowicz
+Konrud
+zhuangyin
+artyil
+LJHarb
+schlagi123
+wmsbill
+carrola7
+mkumary
+rwaldron
+evilpie

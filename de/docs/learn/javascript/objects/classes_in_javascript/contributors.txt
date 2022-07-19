@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/learn/javascript/objects/classes_in_javascript/index.html
+
+# Original Wiki contributors
+Timbuktu1982
+bluefor2

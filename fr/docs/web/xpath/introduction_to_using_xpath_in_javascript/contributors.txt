@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/xpath/introduction_to_using_xpath_in_javascript/index.md
+
+# Original Wiki contributors
+SphinxKnight
+loella16
+chrisdavidmills
+v-Stein
+Laurent_Lyaudet
+joseph2rs
+Jeremie
+Julien.stuby
+Mgjbot
+BenoitL
+Celelibi
+Fredchat

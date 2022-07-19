@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/guidelines/code_guidelines/css/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+sideshowbarker
+mikemorr
+estelle

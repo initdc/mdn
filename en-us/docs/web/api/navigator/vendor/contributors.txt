@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/vendor/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+teoli
+kscarfone
+iamanupmenon
+Sheppy
+ziyunfei
+Mgjbot
+Dria
+JesseW

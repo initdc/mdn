@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/gradients/index.md
+
+# Original Wiki contributors
+r-i-c-h
+stephaniehobson
+Sheppy
+trevorh
+chrisdavidmills
+davefearon
+gsuresh92
+liammonahan
+Sipmann
+Jeremie
+regjo
+Manuel_Strehl

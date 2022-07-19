@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/popstate_event/index.md
+
+# Original Wiki contributors
+Whimboo
+mfuji09
+bgpark82
+Sheppy
+SetTrend
+SlaughterDog
+armujahid
+ItamarGronich
+Marc.2377
+chrisdavidmills
+irenesmith
+DeTeam
+DRSAgile
+AaronAsAChimp
+mfluehr
+fscholz
+tiberiumaxim
+erikadoyle
+wenshin
+Flaburgan
+laughinghan
+Sebastianz
+andrewpmckenzie
+teoli
+ethertank
+louisremi

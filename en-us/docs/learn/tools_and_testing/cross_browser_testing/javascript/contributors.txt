@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/tools_and_testing/cross_browser_testing/javascript/index.md
+
+# Original Wiki contributors
+hamishwillee
+chrisdavidmills
+ckashby
+kruschk
+stephaniehobson
+EdwardB
+qdirks
+Juggernaughtt

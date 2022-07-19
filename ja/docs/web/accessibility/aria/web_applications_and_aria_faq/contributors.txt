@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/accessibility/aria/web_applications_and_aria_faq/index.html
+
+# Original Wiki contributors
+yyss
+teoli

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mozilla/index.md
+
+# Original Wiki contributors
+ice-kylin
+iigmir
+Yannis
+ziyunfei
+ethertank

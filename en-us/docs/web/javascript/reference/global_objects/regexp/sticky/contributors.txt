@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/regexp/sticky/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+schalkneethling
+jameshkramer
+pygy
+nmve
+kdex
+valtlai
+tjcrowder
+m_gol
+ustccjw
+yisibl
+x2357
+Mingun
+ziyunfei
+stevemao
+kscarfone
+Sheppy
+ostorj

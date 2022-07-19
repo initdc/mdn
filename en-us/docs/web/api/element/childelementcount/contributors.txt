@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/childelementcount/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+adyouri
+ExE-Boss
+K-Gun
+jszhou
+uxfed
+Alhadis
+fscholz
+jsx
+411911.ca
+Kartik_Chadha
+teoli
+ethertank
+Sheppy
+trevorh
+ziyunfei
+Jürgen Jeka

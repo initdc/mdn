@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/htmltableelement/insertrow/index.html
+
+# Original Wiki contributors
+Rolf_B

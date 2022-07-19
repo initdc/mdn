@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/hgroup/index.md
+
+# Original Wiki contributors
+JamesCatt
+sideshowbarker
+mfuji09
+SphinxKnight
+wbamberg
+Patrick_Dark
+teoli
+erikadoyle
+mfluehr
+TallysHenrike
+slimsag
+Sebastianz
+SteveFaulkner
+jwhitlock
+Hixie_
+kscarfone
+jswisher
+tregagnon
+Sheppy
+ethertank
+medicdude
+cers
+pryomancer
+dhodder
+fscholz
+McGurk

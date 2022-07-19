@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/element/classname/index.html
+
+# Original Wiki contributors
+teoli
+arunpandianp
+ethertank
+dextra
+Mgjbot
+Jan Dudek
+Ptak82

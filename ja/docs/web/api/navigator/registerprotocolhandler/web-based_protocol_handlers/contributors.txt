@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/navigator/registerprotocolhandler/web-based_protocol_handlers/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+ethertank
+Mgjbot
+Potappo

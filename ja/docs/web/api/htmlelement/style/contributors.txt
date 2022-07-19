@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlelement/style/index.md
+
+# Original Wiki contributors
+mfuji09
+mikimhk
+Uemmra3
+momdo
+fscholz
+jsx
+Shoot
+Marsf
+Okome

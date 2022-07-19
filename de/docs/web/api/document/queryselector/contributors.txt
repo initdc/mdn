@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/document/queryselector/index.html
+
+# Original Wiki contributors
+SebinNyshkim
+StevenS77
+Xan2063
+rillig
+cqcumber

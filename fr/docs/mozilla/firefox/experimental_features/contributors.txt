@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/firefox/experimental_features/index.md
+
+# Original Wiki contributors
+Mttwt9
+olivierdupon
+wbamberg
+GuiBret
+Lululion
+DTSSE

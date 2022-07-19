@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/_doublecolon_after/index.md
+
+# Original Wiki contributors
+AbdelElMansari
+SphinxKnight
+alegout
+NemoNobobyPersonne
+Ryanfarrah25
+P45QU10U
+tregagnon
+teoli
+wakka27
+FredB
+Delapouite
+pixelastic
+BenoitL
+Nathymig
+Mgjbot
+Elethiomel
+Fredchat

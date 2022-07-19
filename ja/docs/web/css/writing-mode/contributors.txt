@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/writing-mode/index.md
+
+# Original Wiki contributors
+mfuji09
+momdo
+yyss
+Sebastianz
+Marsf
+mkato
+KitaitiMakoto
+ethertank
+sosleepy

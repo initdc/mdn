@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/user-modify/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+ExE-Boss
+teoli
+mfluehr
+phistuck
+erikadoyle
+lioman
+Sebastianz
+Jeremie
+kscarfone
+Sheppy
+pauljay
+DBaron

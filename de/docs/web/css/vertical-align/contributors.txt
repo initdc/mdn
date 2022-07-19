@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/vertical-align/index.html
+
+# Original Wiki contributors
+Johuspect
+nw520
+iGadget
+Artjom
+fscholz
+SJW
+patpir
+Michael2402

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webgl_api/tutorial/creating_3d_objects_using_webgl/index.md
+
+# Original Wiki contributors
+Sheppy
+smoothie1998
+stephaniehobson
+MathieuDebit
+nicwolf
+gmanpersona
+nmve
+fscholz
+brt
+gregtatum
+Shriken
+Jeremie
+qbolec
+AllenZ
+yyss

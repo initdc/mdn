@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/common_questions/what_software_do_i_need/index.md
+
+# Original Wiki contributors
+What-username-will-make-you-feel-cute
+GHLgh

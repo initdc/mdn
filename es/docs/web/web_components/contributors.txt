@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/web_components/index.html
+
+# Original Wiki contributors
+aguilerajl
+Ktoxcon
+IsraelFloresDGA
+mboo
+Rodmore
+maybe

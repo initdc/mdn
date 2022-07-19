@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/stroke-miterlimit/index.md
+
+# Original Wiki contributors
+Neil_Haskins
+Jeremie
+a-mt
+connorshea
+caesarsol
+Hakim_Syafiq
+ratcliffe_mike

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/array/slice/index.html
+
+# Original Wiki contributors
+chmsv
+rulevadim
+nikolai-shabalin
+GraceAredel
+Ollemesh
+kdex
+xaosxaos
+Mol4ok
+BychekRU
+kroleg
+Mingun

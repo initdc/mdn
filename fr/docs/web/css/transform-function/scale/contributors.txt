@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/transform-function/scale/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+SphinxKnight
+Halkeand
+Loliwe
+Sebastianz

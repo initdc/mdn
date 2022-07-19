@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/animationtimeline/currenttime/index.md
+
+# Original Wiki contributors
+birtles
+jamesdhurd
+ExE-Boss
+fscholz
+Jedipedia
+yuj25
+jpmedley
+iamakidilam
+Sheppy
+rachelnabors
+PushpitaPikuDey
+chrisdavidmills

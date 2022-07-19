@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mdn/contribute/markdown_in_mdn/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+Jeremie
+LeoHirsch

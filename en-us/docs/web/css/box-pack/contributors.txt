@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/box-pack/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+Sheppy
+mfuji09
+ExE-Boss
+fscholz
+mfluehr
+erikadoyle
+Sebastianz
+stan3
+kscarfone
+sabernhardt
+sawrubh
+ethertank
+scottrowe
+Bzbarsky
+gadget
+trevorh
+ernestd
+kurrik
+BijuGC
+Fredchat
+Ptak82
+Rod Whiteley
+DBaron

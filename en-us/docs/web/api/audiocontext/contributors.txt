@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audiocontext/index.md
+
+# Original Wiki contributors
+vecio
+chrisdavidmills
+Sheppy
+Rumyra
+Biiinggg
+Jedipedia
+Progoogler
+fscholz
+jpmedley
+ffxsam
+trusktr
+arronei
+erikadoyle
+teoli
+maybe
+Jeremie
+pioug
+AmySueW
+padenot
+mienaikoe
+TWebs
+wolfstevent
+tbranyen
+Btipling
+tregagnon
+rick_carlino
+ethertank

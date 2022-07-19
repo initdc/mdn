@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/subtlecrypto/verify/index.md
+
+# Original Wiki contributors
+Sheppy
+mcmonkey
+wbamberg
+chrisdavidmills
+fscholz
+Dans24
+abbycar
+jyasskin
+teoli
+GreatCall-KayeK

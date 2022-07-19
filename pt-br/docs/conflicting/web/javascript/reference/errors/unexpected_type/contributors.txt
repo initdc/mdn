@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/conflicting/web/javascript/reference/errors/unexpected_type/index.html
+
+# Original Wiki contributors
+igormmatos

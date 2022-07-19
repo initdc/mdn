@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/xsltprocessor/generating_html/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+Sheppy
+Ultrafil
+Mgjbot
+VincentN
+Fredchat

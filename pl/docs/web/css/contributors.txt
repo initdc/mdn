@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/index.html
+
+# Original Wiki contributors
+SphinxKnight
+mitelak
+teoli
+Rokuzo
+splewako
+mirekczechxmm
+ethertank
+yecril71pl
+Bedi
+Mgjbot
+Ptak82
+Takenbot
+gandalf
+Zwierz
+Jan Dudek
+Anonymous
+Dria
+Justdave

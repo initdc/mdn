@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/server-side/django/skeleton_website/index.html
+
+# Original Wiki contributors
+Bogomazof
+Palladiumm
+NickSalander
+sepulenie
+EfimovSergeiV
+aPenkov
+dimaviolinist
+ArthurKud
+Costonied
+DIAMONDinc
+Flygrounder

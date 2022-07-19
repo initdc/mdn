@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/federatedcredential/index.md
+
+# Original Wiki contributors
+mfuji09
+SphinxKnight
+connorshea
+chrisdavidmills
+jpmedley
+jeremy-french
+azoorob3

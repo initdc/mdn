@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/performance/how_browsers_work/index.html
+
+# Original Wiki contributors
+SamTLT
+vlad-vorontsov
+D.Lesnik

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_bluetooth_api/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+shaedrich
+ExE-Boss
+fscholz
+beaufortfrancois
+poshaughnessy
+David_Gilbertson
+jpmedley
+rolfedh
+jyasskin

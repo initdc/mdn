@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/status/504/index.md
+
+# Original Wiki contributors
+sideshowbarker
+pavel.jakovlevski
+mfuji09
+bobo.debila
+davywsr
+intgr
+slivenred
+irbisz
+michaelmcandrew
+Llamaless
+On-Yug
+RayannTedds
+haroldfredshort
+fscholz

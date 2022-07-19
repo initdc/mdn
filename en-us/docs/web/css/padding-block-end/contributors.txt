@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/padding-block-end/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+wbamberg
+fscholz
+rachelandrew
+mfluehr
+teoli
+HTMLValidator
+Sebastianz
+kscarfone

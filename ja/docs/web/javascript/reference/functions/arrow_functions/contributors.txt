@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/functions/arrow_functions/index.md
+
+# Original Wiki contributors
+eltociear
+Uemmra3
+segayuu
+mfuji09
+shootaroo
+AkihikoTakeda
+superyusuke
+TNKSoftware
+WhiteHawk-taka
+k-kuwahara
+ambi
+shinsa82
+Marsf
+lv7777
+YuichiNukiyama
+u_7cc
+tkdezapii
+jungjoo
+teoli
+uu59
+yuxxxx

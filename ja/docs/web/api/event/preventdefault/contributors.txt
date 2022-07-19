@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/event/preventdefault/index.md
+
+# Original Wiki contributors
+mpcjazz
+jz4o
+mfuji09
+silverskyvicto
+SphinxKnight
+fscholz
+AshfaqHossain
+ethertank
+Kohei

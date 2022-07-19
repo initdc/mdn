@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/web/guide/events/creating_and_triggering_events/index.html
+
+# Original Wiki contributors
+jackblackevo
+Shiyou

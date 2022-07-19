@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/forms/index.html
+
+# Original Wiki contributors
+teoli
+basemnassar11
+Mgjbot
+Ptak82
+Jan Dudek

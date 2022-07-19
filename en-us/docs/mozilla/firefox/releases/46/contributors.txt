@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/46/index.md
+
+# Original Wiki contributors
+Sheppy
+wbamberg
+Sebastianz
+kdex
+teoli
+Dholbert
+evilpie
+fscholz
+chrisdavidmills
+mattbrundage
+cvrebert
+yisibl
+lth
+arai

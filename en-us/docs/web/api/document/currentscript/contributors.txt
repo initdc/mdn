@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/currentscript/index.md
+
+# Original Wiki contributors
+ExE-Boss
+mfluehr
+lucaswerkmeister
+laukstein
+mfuji09
+wbamberg
+fscholz
+erikadoyle
+adamhepton
+JamesGreene
+teoli
+Sebastianz
+MHasan
+anselmh
+kscarfone
+ziyunfei
+paul.irish
+Sheppy
+ethertank
+Midnightaz
+sicking

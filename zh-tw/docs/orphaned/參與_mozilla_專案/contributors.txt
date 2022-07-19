@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/參與_mozilla_專案/index.html
+
+# Original Wiki contributors
+happysadman

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/first_steps/useful_string_methods/index.md
+
+# Original Wiki contributors
+junnapark
+jivasangcript
+EvanKim
+hnuh
+deltakor1234
+miyunim
+limong
+daesD
+DrOhjho
+ChanghwaLee

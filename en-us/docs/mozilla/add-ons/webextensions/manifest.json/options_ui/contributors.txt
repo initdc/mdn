@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/manifest.json/options_ui/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+user9123
+wbamberg
+ExE-Boss
+0711kps
+JeffersonScher
+e-motiv
+Makyen
+andrewtruongmoz
+Sheppy

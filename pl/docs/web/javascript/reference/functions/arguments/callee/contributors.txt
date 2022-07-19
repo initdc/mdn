@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/functions/arguments/callee/index.html
+
+# Original Wiki contributors
+teoli
+Mgjbot
+Diablownik
+Ptak82
+Marcoos
+gandalf

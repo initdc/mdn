@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/validitystate/stepmismatch/index.md
+
+# Original Wiki contributors
+majeed
+Xenos
+estelle

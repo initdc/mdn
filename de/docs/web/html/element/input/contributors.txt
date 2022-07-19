@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/html/element/input/index.html
+
+# Original Wiki contributors
+Ryuno-Ki
+evayde
+accessabilly
+Skasi
+JorisGutjahr
+chrillek
+yannick_versley
+Sebastianz
+dio
+teoli
+thaddeus

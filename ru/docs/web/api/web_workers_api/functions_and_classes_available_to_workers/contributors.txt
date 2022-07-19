@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/web_workers_api/functions_and_classes_available_to_workers/index.html
+
+# Original Wiki contributors
+bionicle12

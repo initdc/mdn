@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/methods/patch/index.md
+
+# Original Wiki contributors
+hamishwillee
+mfuji09
+BenzaitenS
+AL-X-dev
+ioggstream
+mokkabonna
+zbjornson
+divyanshu013
+teoli
+fscholz

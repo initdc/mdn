@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/global_attributes/autocapitalize/index.md
+
+# Original Wiki contributors
+mfuji09
+jpreuss
+sideshowbarker
+PushpitaPikuDey
+jamesdhurd
+DragMeToProgramming
+Creasick
+fscholz

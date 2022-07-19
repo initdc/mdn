@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/promise/allsettled/index.md
+
+# Original Wiki contributors
+mfuji09
+m-sterspace
+fscholz
+lewislbr
+jinbeomhong
+rwaldron
+ettoredn
+sideshowbarker
+haalogen
+chrisdavidmills
+hagemt
+TsubasaKawajiri
+Sheppy
+Fxedel
+wbamberg
+MarkBennett
+Krinkle

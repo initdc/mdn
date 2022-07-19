@@ -1,0 +1,55 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/box-sizing/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Sheppy
+kathbot
+AL-X-dev
+Nick-Rivera
+estelle
+chrisdavidmills
+bassment
+ddbeck
+Rob_Belics
+mfluehr
+S-Dey
+CodyCahoon
+SphinxKnight
+ZeroUnderscoreOu
+fscholz
+Artoria2e5
+Sebastianz
+pabvid
+erikadoyle
+HongxuWei
+bjacobel
+danlevine
+pldz
+teoli
+yisibl
+WartClaes
+mrenty
+RaaVijay
+TylerH
+m_gol
+jsx
+BrianDiPalma
+dwarburt
+georgebatalinski
+jsilvestre
+Majr
+kscarfone
+venkateshchenna
+sergiocerrutti
+ethertank
+Rob W
+odg
+juergen jeka
+skybound
+myakura
+paul.irish
+grendel
+neilerdwien
+Jürgen Jeka

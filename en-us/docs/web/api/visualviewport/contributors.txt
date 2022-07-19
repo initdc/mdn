@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/visualviewport/index.md
+
+# Original Wiki contributors
+dd-pardal
+sideshowbarker
+244462375
+madebyfabian
+sebastianwitthus
+chrisdavidmills
+connorshea
+jpmedley
+bokand
+deltab.

@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_doublecolon_first-letter/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+wbamberg
+sideshowbarker
+jsartelle
+fscholz
+mfluehr
+erikadoyle
+Sebastianz
+yisibl
+HTMLValidator
+floEdelmann
+LouisLazaris
+bradleyflood
+MusikAnimal
+teoli
+NosCandidats
+kscarfone
+awendland
+Matt_Coughlin
+Sheppy
+syoichi
+FredB
+brianloveswords
+Jürgen Jeka
+BijuGC

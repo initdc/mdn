@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/express_nodejs/development_environment/index.md
+
+# Original Wiki contributors
+hamishwillee
+chrisdavidmills
+kruschk
+sivicencio
+photoelectriceffect
+mattwojo
+andrewlamyw
+th7nder
+Zamy97
+shields42
+kalch
+stephaniekyyip
+coolshaurya
+ogwurujohnson
+smoqadam
+cr8onski
+mpmaan
+VoloshchenkoAl
+stephaniehobson
+eezis
+uafrazier
+2JN
+JonathanPool

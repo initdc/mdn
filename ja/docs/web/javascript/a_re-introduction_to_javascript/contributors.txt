@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/a_re-introduction_to_javascript/index.html
+
+# Original Wiki contributors
+pcw
+mellun
+negibouze
+SphinxKnight
+Uemmra3
+taketaku
+yyss
+ethertank
+Potappo
+Yuichirou
+hokuto
+Mgjbot

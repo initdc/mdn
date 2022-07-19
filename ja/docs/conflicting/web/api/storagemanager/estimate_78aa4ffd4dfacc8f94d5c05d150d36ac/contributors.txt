@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/storagemanager/estimate_78aa4ffd4dfacc8f94d5c05d150d36ac/index.html
+
+# Original Wiki contributors
+Uemmra3
+Wind1808

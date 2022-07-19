@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/console/table/index.md
+
+# Original Wiki contributors
+fscholz
+arronei
+valtlai
+erikadoyle
+poiru
+TheJaredWilcurt
+Sebastianz
+chrisdavidmills
+denschub
+teoli
+wbamberg
+fitzgen

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/statements/return/index.html
+
+# Original Wiki contributors
+christophfriedrich
+schlagi123

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/apache_configuration_htaccess/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+caraya
+wbamberg
+hmrk12
+teoli
+VldSh
+anushbmx
+kscarfone
+sqimps
+ethertank
+amberphotobug
+tito
+Nickolay
+Schapel

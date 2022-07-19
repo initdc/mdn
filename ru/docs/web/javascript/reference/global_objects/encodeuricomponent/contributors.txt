@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/encodeuricomponent/index.html
+
+# Original Wiki contributors
+ivanson
+SlavaJan
+alx-khramov
+redveronika
+BychekRU

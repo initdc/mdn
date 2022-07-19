@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/biquadfilternode/type/index.md
+
+# Original Wiki contributors
+cuadra
+sideshowbarker
+fscholz
+erikadoyle
+chrisdavidmills

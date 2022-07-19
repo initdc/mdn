@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/accessibility/accessibility_troubleshooting/index.md
+
+# Original Wiki contributors
+wsj0124
+kuldahar
+zeng-zhi-yong

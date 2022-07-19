@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/opendialog/index.md
+
+# Original Wiki contributors
+velkro
+fscholz
+teoli
+jsx
+tregagnon
+damien.flament

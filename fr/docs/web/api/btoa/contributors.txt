@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/btoa/index.md
+
+# Original Wiki contributors
+PamProg
+NemoNobobyPersonne
+teoli
+lovasoa
+fscholz
+jsx
+e7d
+Mgjbot
+BenoitL
+Celelibi

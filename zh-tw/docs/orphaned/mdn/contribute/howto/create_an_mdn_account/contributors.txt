@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/mdn/contribute/howto/create_an_mdn_account/index.html
+
+# Original Wiki contributors
+wbamberg
+iigmir
+f19857466

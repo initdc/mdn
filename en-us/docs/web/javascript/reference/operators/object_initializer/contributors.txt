@@ -1,0 +1,38 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/object_initializer/index.md
+
+# Original Wiki contributors
+sharq
+Muhammad_Ali
+Anonymous
+fscholz
+wbamberg
+jinbeomhong
+Zearin_Galaurum
+muhammadghazali
+sideshowbarker
+MadaraUchiha
+lmcarreiro
+JonathanPool
+torazaburo
+jameshkramer
+martinczerwi
+bergus
+zbjornson
+nmve
+chrisjimallen
+kdex
+roryokane
+rwaldron
+stevemasta34
+kayellpeee
+bouzlibop
+hovosanoyan
+stevemao
+Olson.dev
+Llbe
+jpmedley
+Robg1
+Philip Chee
+Waldo
+tschneidereit

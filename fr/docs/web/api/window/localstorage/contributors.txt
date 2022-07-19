@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/localstorage/index.md
+
+# Original Wiki contributors
+tristantheb
+begmans
+Bpruneau
+Axnyff
+EmmanuelBeziat
+Nolwennig
+goofy_bz
+mfrederic

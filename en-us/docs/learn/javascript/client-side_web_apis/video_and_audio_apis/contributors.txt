@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/client-side_web_apis/video_and_audio_apis/index.md
+
+# Original Wiki contributors
+wlt
+Rafael_Green
+nigelbpeck
+chrisdavidmills
+kruschk
+Sheppy
+roy-vanegas
+kenjwho
+2alin
+dreamerll
+stephaniehobson
+david_ross
+BrunkBeard

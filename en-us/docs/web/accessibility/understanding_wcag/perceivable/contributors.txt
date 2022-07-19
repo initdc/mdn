@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/understanding_wcag/perceivable/index.md
+
+# Original Wiki contributors
+trebuchet
+garrettbsettles
+chrisdavidmills
+estelle
+goodwitch

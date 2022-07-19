@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/apple_safari/index.md
+
+# Original Wiki contributors
+mfuji09
+darby
+Sheppy
+klez
+Andrew_Pfeiffer
+Jeremie
+trevorh
+xfq
+ajinkya_p

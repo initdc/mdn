@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/classes/index.md
+
+# Original Wiki contributors
+rachid.chihabi
+SphinxKnight
+GregMorel
+unflores
+rgranger
+blackholegalaxy
+Yukulele.

@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/forms/advanced_form_styling/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+rpxs
+edchasw
+Uemmra3
+Lisadot
+A.Faturechi
+sjud
+estelle
+Aubrays
+Tigt
+ferrysdayoff
+missmatsuko
+soonoo
+coderjerk
+stephaniehobson
+david_ross
+toraritte
+samford
+Jeremie
+kscarfone
+teoli
+FredB
+notabene
+Brettz9
+Sheppy

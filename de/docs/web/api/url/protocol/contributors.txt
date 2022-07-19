@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/url/protocol/index.html
+
+# Original Wiki contributors
+atopion

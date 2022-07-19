@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/enumerability_and_ownership_of_properties/index.html
+
+# Original Wiki contributors
+Saviloff

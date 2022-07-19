@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/access-control-allow-headers/index.md
+
+# Original Wiki contributors
+sideshowbarker
+hamishwillee
+LeonMelis
+mfuji09
+AliMirlou
+fscholz
+wbamberg
+Sheppy
+othree
+smaximov
+teoli

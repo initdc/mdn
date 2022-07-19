@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/mozilla/add-ons/index.html
+
+# Original Wiki contributors
+hellerdave1983
+SphinxKnight
+schlagi123
+DeniseHenni
+icarus1966
+survivalluc
+Trollderim
+schenja885
+Denise.
+PaddyKfg
+Croydon
+antiphp
+Basu8179
+Luccie
+ata.sah
+Tinchen977
+Sven2405
+thorstochter1488
+fscholz
+aleks607
+Angel
+astoriaedde

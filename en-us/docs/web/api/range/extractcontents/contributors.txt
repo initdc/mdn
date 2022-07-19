@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/extractcontents/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+abbycar
+rolfedh
+teoli
+attilab
+Brettz9
+kollishivagangadhar
+Khodaidad_Basharmand
+Sheppy
+SkyLined
+kriks
+Gor1

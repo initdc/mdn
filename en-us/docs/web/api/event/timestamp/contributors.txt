@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/timestamp/index.md
+
+# Original Wiki contributors
+mehulkar
+alattalatta
+mfluehr
+fscholz
+spicyj
+madhavchaturvedi12
+chrisdavidmills
+Sebastianz
+erikadoyle
+teoli
+jpmedley
+cvrebert
+dgashmdn
+kosvrouvas
+kscarfone
+rashidtherash
+Kartik_Chadha
+Sheppy
+ethertank
+ziyunfei
+Matej Lednar
+Dao
+Jabez
+Ptak82
+Nickolay
+Wampa
+Dria
+JesseW

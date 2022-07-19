@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/min-height/index.md
+
+# Original Wiki contributors
+Derek
+SphinxKnight
+Sebastianz
+teoli
+FredB
+Grsmto
+Delapouite
+tregagnon
+Mgjbot
+Fredchat

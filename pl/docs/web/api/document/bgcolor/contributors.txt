@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/bgcolor/index.html
+
+# Original Wiki contributors
+teoli
+AshfaqHossain
+Internauta1024A
+Ptak82
+DR
+Jan Dudek

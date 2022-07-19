@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domstringmap/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+krosylight
+sidlojan
+wbamberg
+fscholz
+david_ross
+Konrud
+erikadoyle
+hideheader
+teoli
+kscarfone
+Sheppy

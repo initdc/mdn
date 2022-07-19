@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/specified_value/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+tregagnon
+FredB

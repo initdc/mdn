@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/object/create/index.html
+
+# Original Wiki contributors
+dmarkin
+Simaleon
+Akh-rman
+yedyharova
+workonika
+vinogradov
+Aleksej
+RinatMullayanov
+vvwind
+Mingun
+SnowLeo

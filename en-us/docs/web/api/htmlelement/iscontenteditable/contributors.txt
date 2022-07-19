@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/iscontenteditable/index.md
+
+# Original Wiki contributors
+mfuji09
+SammyIsA
+mfluehr
+fscholz
+xrtariq2594
+erikadoyle
+teoli
+mnoorenberghe
+kscarfone
+Sheppy
+ethertank
+vali29

@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/permissions_api/index.md
+
+# Original Wiki contributors
+hamishwillee
+Sheppy
+chrisdavidmills
+bershanskiy
+octavn
+fscholz
+mnoorenberghe
+poiru
+teoli
+jpmedley
+SpencerG
+freddyb
+Jeremie
+kscarfone
+SarahWalrus
+mounirlamouri

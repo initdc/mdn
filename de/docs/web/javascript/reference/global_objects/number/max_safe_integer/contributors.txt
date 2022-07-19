@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/number/max_safe_integer/index.html
+
+# Original Wiki contributors
+EpsilonBoo
+schlagi123

@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/language/index.md
+
+# Original Wiki contributors
+Sephr
+ftruter
+blairbodnar
+nickmccurdy
+kernp
+sideshowbarker
+fscholz
+ianjmacintosh
+Kornel
+jakub-g
+nmve
+abbycar
+teoli
+Sebastianz
+Jeremie
+hexalys
+chrisdavidmills
+ziyunfei
+ScottMichaud
+mounirlamouri
+kscarfone
+chitra_lakhotia
+Sheppy
+Pandark
+Skierpage
+Mgjbot
+BenoitL
+Fini
+Diablownik
+Dria
+JesseW

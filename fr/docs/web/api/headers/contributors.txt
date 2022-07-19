@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/headers/index.md
+
+# Original Wiki contributors
+robin850
+Torzivalds

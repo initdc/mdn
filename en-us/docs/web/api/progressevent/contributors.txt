@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/progressevent/index.md
+
+# Original Wiki contributors
+Sheppy
+mfluehr
+ddbeck
+connorshea
+jpmedley
+DomenicDenicola
+abbycar
+Sebastianz
+fscholz
+teoli

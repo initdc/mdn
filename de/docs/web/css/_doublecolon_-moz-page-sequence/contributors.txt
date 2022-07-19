@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/_doublecolon_-moz-page-sequence/index.html
+
+# Original Wiki contributors
+teoli
+Sebastianz

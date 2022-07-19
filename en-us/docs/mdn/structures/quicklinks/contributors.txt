@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/structures/quicklinks/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+ExE-Boss
+wbamberg
+jswisher
+Sheppy

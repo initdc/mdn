@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/boolean/index.html
+
+# Original Wiki contributors
+Thr0TT1e
+ekirpichyov
+Anna-Myzukina
+perioad
+Shankshel
+boxa6
+Sheppy
+jaguardev

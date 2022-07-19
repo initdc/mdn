@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/glossary/slug/index.html
+
+# Original Wiki contributors
+lukasz-otowski

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/svg/tutorial/index.html
+
+# Original Wiki contributors
+fqf
+Ivan961
+hisbvdis
+theykillimmortal
+dima74
+mboris1
+MaxManchak
+Eugene_Ishchenko

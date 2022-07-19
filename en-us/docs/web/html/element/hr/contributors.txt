@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/hr/index.md
+
+# Original Wiki contributors
+JamesCatt
+sideshowbarker
+feifeili18
+mfluehr
+mfuji09
+jpetto
+wbamberg
+SphinxKnight
+Sheppy
+teoli
+mauroporrasp
+erikadoyle
+Sebastianz
+cvrebert
+kscarfone
+justleroy
+medicdude
+ethertank
+DD0101
+grendel
+timemachine3030
+cers
+hobophobe
+osdm
+jswisher
+fscholz
+Sevenspade
+Nickolay
+PablO
+Ptak82
+Mjwilson
+alecananian

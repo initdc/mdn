@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/position/index.html
+
+# Original Wiki contributors
+MeiKatz
+SJW
+rimace
+Sebastianz
+lfuelling
+fscholz
+facial
+Michael2402

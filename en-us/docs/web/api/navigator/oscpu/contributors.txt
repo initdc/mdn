@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/oscpu/index.md
+
+# Original Wiki contributors
+alattalatta
+mfuji09
+AndrewJGregory
+Sheppy
+mfluehr
+sideshowbarker
+connorshea
+teoli
+MHasan
+kscarfone
+ziyunfei
+Neil
+Mgjbot
+Potappo
+Diablownik
+Nickolay
+Dria
+JesseW

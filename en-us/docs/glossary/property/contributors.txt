@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/property/index.md
+
+# Original Wiki contributors
+Jeremie
+Andrew_Pfeiffer
+alispivak
+klez
+kscarfone
+panaggio

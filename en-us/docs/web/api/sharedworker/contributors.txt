@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/sharedworker/index.md
+
+# Original Wiki contributors
+lord
+antigone2
+fscholz
+ubermensh
+chrisdavidmills
+thatsmiddi
+nmve
+David_Gilbertson
+Sebastianz
+adria
+KamBha
+freakypie
+Jeremie
+teoli
+Sheppy
+larpo
+gasolin
+PixievoltNo1
+kscarfone
+namolmes

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/javascript/first_steps/what_went_wrong/index.html
+
+# Original Wiki contributors
+Ramon9825
+lzhudson
+VictorGom3s
+MattBizzo
+rubenfaria
+francoforget
+ReinaldoLuna

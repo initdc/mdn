@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Path2D.addPath() - playable_code - code sample</title>
+    </head>
+    <body>
+        
+        
+            <script>
+                var canvas = document.getElementById("canvas");
+var ctx = canvas.getContext("2d");
+
+// rectで新しいパスを作成する
+var p1 = new Path2D();
+p1.rect(0,0,100,100);
+
+// rectで別のパスを作成する
+var p2 = new Path2D();
+p2.rect(0,0,100,100);
+
+// 右に縦300ポイント移動する変換マトリックスを作成する
+var m = document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGMatrix();
+m.a = 1; m.b = 0;
+m.c = 0; m.d = 1;
+m.e = 300; m.f = 0;
+
+// 2番目のパスを最初のパスに追加する
+p1.addPath(p2, m);
+
+// 最後に、1番目のパスをキャンバスに描画する
+ctx.fill(p1);
+
+            </script>
+        
+    </body>
+</html>

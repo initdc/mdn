@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/array/of/index.md
+
+# Original Wiki contributors
+Konrud
+wbamberg
+fscholz
+Zearin_Galaurum
+mfuji09
+fabiosantoscode
+Devorein
+estelle
+Azin
+GreenJello
+erikadoyle
+kdex
+getify
+David_Gilbertson
+eduardoboucas
+SphinxKnight
+varkor
+yan
+joelpalmer
+ConorOB
+Mingun
+phistuck
+franza
+rwaldron

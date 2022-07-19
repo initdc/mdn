@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/language_resources/index.html
+
+# Original Wiki contributors
+teoli
+Diablownik
+Ptak82
+Mgjbot

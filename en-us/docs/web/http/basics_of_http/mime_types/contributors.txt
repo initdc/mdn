@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/basics_of_http/mime_types/index.md
+
+# Original Wiki contributors
+mfuji09
+Sheppy
+Alhadis
+awwright
+sideshowbarker
+ExE-Boss
+Dzonny
+Tigt
+tribak
+amitgupta15
+nakkurt
+MicroJes
+snuggs
+d4nyll
+xgqfrms-GitHub
+dawsonbotsford
+g-patel
+strattadb
+david_ross
+DJ-Leith
+teoli
+fscholz

@@ -1,0 +1,38 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/outline/index.md
+
+# Original Wiki contributors
+alattalatta
+chrisdavidmills
+wbamberg
+fscholz
+mfuji09
+ericwbailey
+Malvoz
+jdc
+ddbeck
+mfluehr
+rwilson.or
+erikadoyle
+Sebastianz
+taryn_s
+tregagnon
+teoli
+bika
+HTMLValidator
+kscarfone
+ninad_ingole
+Sheppy
+ethertank
+Pbb
+FredB
+McGurk
+syssgx
+grendel
+asuth
+gregtyler
+Jürgen Jeka
+j.j.
+BijuGC
+EmmettPickerel
+Waldo

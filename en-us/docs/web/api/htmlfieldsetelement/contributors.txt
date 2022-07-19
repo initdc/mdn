@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlfieldsetelement/index.md
+
+# Original Wiki contributors
+manngo
+mfuji09
+jswisher
+mfluehr
+sideshowbarker
+AnatoliyVolkov
+JonathanPool
+fscholz
+Sebastianz
+jakubfiala
+jpmedley
+danielnixon
+erikadoyle
+Manuel_Strehl
+teoli
+markg
+Nexii
+MHasan
+kscarfone
+Sheppy
+ethertank
+Ms2ger

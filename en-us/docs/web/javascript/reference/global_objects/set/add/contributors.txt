@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/set/add/index.md
+
+# Original Wiki contributors
+vitaly-zdanevich
+mfuji09
+fscholz
+alattalatta
+wbamberg
+jameshkramer
+nmve
+kdex
+SphinxKnight
+kyliau
+Davidpsjunior
+realityking
+ziyunfei

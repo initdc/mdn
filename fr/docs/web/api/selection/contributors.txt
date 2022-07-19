@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/selection/index.md
+
+# Original Wiki contributors
+scientificware
+jeangab62
+thiberaw
+Hell_Carlito
+Goofy
+Watilin
+Nothus
+gaelb
+teoli
+jsx
+Mgjbot
+Chbok

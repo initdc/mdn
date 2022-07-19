@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/cache-control/index.md
+
+# Original Wiki contributors
+iwanaga
+hamishwillee
+dd-pardal
+jonathan-rosa
+Malvoz
+mfuji09
+srisuk19766
+lgirvin
+kohver
+Tigt
+mozdevcontrib
+fscholz
+ExE-Boss
+jpmedley
+Peppesterest
+chrisdavidmills
+stopsopa
+redders6600
+Psz
+andy-at-taurus
+markspolakovs
+FredGandt
+Jens.B
+dimitropoulos
+mcrampon
+jacekwasowski
+Ajedi32
+Life777

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/images_media_form_elements/index.md
+
+# Original Wiki contributors
+rachelandrew
+acnard
+chrisdavidmills
+choudh70
+xp44mm

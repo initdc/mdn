@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/geolocation_api/index.md
+
+# Original Wiki contributors
+mfuji09
+8tak4
+Uemmra3
+T.Ukegawa
+unarist
+hamasaki
+yyss
+ethertank
+dynamis
+Kohei
+RobinEgg

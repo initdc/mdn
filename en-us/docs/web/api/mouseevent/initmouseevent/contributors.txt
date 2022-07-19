@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mouseevent/initmouseevent/index.md
+
+# Original Wiki contributors
+Sheppy
+mfluehr
+fscholz
+libbymc
+chilipepper987
+teoli
+stan3
+inas404
+dzlabs
+joseph-onsip
+SphinxKnight
+miket
+jswisher
+Noitidart
+kscarfone
+Shraddha_Magdum
+tregagnon
+Page Notes
+Mgjbot
+Jabez
+Nickolay
+Ptak82
+Dria
+JesseW

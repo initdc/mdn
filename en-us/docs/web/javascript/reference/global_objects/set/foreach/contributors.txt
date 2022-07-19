@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/set/foreach/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+alattalatta
+qwertypants
+wbamberg
+sashak007
+Delapouite
+jameshkramer
+Sheppy
+dagolinuxoid
+kosson
+nmve
+kdex
+eduardoboucas
+sveneberth
+fatfisz
+realityking
+P0lip

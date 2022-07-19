@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/atomics/notify/index.html
+
+# Original Wiki contributors
+lizhongzhen11
+lifankohome

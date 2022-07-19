@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/symbol/split/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+fscholz
+wbamberg
+jameshkramer
+kdex
+ZeikJT
+h4writer

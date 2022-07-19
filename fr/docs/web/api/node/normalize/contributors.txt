@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/node/normalize/index.md
+
+# Original Wiki contributors
+Watilin
+fscholz
+teoli
+khalid32
+BenoitL
+Fredchat

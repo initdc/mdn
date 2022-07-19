@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/background-size/index.html
+
+# Original Wiki contributors
+SJW
+HolgerJeromin
+fscholz
+Simplexible
+Prinz_Rana
+Sebastianz
+mikoMK
+tyler

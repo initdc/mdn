@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/border-image-outset/index.html
+
+# Original Wiki contributors
+SJW
+Simplexible
+Sebastianz
+Prinz_Rana
+teoli

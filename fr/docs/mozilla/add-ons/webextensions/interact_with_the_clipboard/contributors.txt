@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/interact_with_the_clipboard/index.md
+
+# Original Wiki contributors
+hellosct1
+MyriamB

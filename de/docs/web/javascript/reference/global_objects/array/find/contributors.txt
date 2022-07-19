@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/array/find/index.html
+
+# Original Wiki contributors
+SebinNyshkim
+schlagi123
+mrkosim
+psychotammi
+mreu
+db6edr
+oliver-j
+MelanieVeigl

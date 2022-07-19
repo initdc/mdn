@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/child_combinator/index.md
+
+# Original Wiki contributors
+wbamberg
+mikkovedru
+mfuji09
+ExE-Boss
+fscholz
+mfluehr
+catchmyfame
+Sheppy
+erikadoyle
+waldir
+Sebastianz
+cvrebert
+MusikAnimal
+SphinxKnight
+FredB
+teoli
+tregagnon
+Pointy
+miken32
+Wjjohnst

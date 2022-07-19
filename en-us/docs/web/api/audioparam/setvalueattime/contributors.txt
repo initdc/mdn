@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audioparam/setvalueattime/index.md
+
+# Original Wiki contributors
+Jedipedia
+fscholz
+erikadoyle
+jpmedley
+chrisdavidmills

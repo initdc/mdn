@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/access-control-allow-credentials/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+hamzeh-sabbagh
+fscholz
+teoli
+alex-pollan

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/canvasrenderingcontext2d/measuretext/index.md
+
+# Original Wiki contributors
+woodmix
+yyss

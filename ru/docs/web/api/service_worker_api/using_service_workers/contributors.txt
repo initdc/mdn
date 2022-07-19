@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/service_worker_api/using_service_workers/index.html
+
+# Original Wiki contributors
+amshinski
+mcmimik
+3lvcz
+Akh-rman
+sscherbin
+GoliafRS
+thepocp
+Webbrother
+m-rybak
+WispProxy
+ymetalnikov
+skvigl
+zasipin
+iSokrat
+Victor_Homyakov
+SowingSadness
+vladislav251990
+sgrogov
+stepanmas
+rajdee
+gorlitsyn
+goncharov
+utking
+termosa
+franzy1709

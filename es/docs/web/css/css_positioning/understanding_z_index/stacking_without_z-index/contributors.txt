@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/css_positioning/understanding_z_index/stacking_without_z-index/index.html
+
+# Original Wiki contributors
+javichito

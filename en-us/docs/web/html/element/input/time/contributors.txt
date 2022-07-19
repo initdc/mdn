@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/input/time/index.md
+
+# Original Wiki contributors
+mfuji09
+k91191
+KartikSoneji
+Sheppy
+jarhar
+estelle
+chrisdavidmills
+TheSageMarmot
+Thw0rted
+fscholz
+irenesmith
+mariavilaro
+daraclare
+massic80
+zacharydenton

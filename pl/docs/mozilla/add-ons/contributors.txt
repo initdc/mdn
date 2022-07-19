@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/mozilla/add-ons/index.html
+
+# Original Wiki contributors
+SphinxKnight
+kogigogi
+katarzyna_oswald
+kubutekf
+hultaj909
+pedro221992
+Agaaaaa
+Dawidpilus2985
+Husaria
+misio1973
+mutaka
+teoli
+splewako
+wbamberg

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/selection/focusoffset/index.html
+
+# Original Wiki contributors
+teoli
+mimzi_fahia
+Mgjbot
+DR
+Ptak82
+Rev

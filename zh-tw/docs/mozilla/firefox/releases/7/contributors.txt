@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/firefox/releases/7/index.md
+
+# Original Wiki contributors
+jackblackevo
+wbamberg
+RJ_Hsiao
+ethertank
+Sheppy

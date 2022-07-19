@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/overview/index.html
+
+# Original Wiki contributors
+heowc
+daum7766
+JisooLee
+alattalatta
+leoinsight
+project42da
+dbwodlf3
+devcken

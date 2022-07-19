@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/http/overview/index.html
+
+# Original Wiki contributors
+viniciusfinger
+K4mek
+gustavoluchi
+bruno_scatena
+viniciusbds
+julio-elipse
+GPrimola
+SubaruSama
+CarlosAlbertoSzygalski
+renatodantas
+holdonmax

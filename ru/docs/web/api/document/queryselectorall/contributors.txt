@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/document/queryselectorall/index.html
+
+# Original Wiki contributors
+ekirpichyov
+niktariy
+ZeroGravity-82
+FeliciaJess
+Ryabikovalex
+vittorio-tortugo
+fscholz
+AlexyAV

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/glossary/specification/index.html
+
+# Original Wiki contributors
+christianheinrichs

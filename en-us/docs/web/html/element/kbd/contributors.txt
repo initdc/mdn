@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/kbd/index.md
+
+# Original Wiki contributors
+mfuji09
+yuheiy
+JamesCatt
+chrisdavidmills
+alattalatta
+codercanvas
+dguo
+wbamberg
+SphinxKnight
+fscholz
+crissdev
+Sheppy
+teoli
+sideshowbarker
+erikadoyle
+Sebastianz
+MarkBeleski
+maybe
+Jeremie
+pedromaltez
+Tyriar
+kscarfone
+justleroy
+tregagnon
+medicdude
+ethertank
+cers
+McGurk
+hobophobe
+Ms2ger
+Ptak82
+Jscher2000

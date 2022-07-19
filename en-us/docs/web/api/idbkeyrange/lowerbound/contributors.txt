@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbkeyrange/lowerbound/index.md
+
+# Original Wiki contributors
+inexorabletash
+sideshowbarker
+sarojsasmal
+fscholz
+jpmedley
+ahmadkarim
+arronei
+libbymc
+chrisdavidmills

@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/attachshadow/index.md
+
+# Original Wiki contributors
+Marijn
+sideshowbarker
+Zhang-Junzhi
+mfuji09
+chrisdavidmills
+dupontdenis
+raingerber
+ExE-Boss
+jpmedley
+GiS91
+iamashish
+DomenicDenicola
+RyanNerd
+valtlai
+theefer
+fleurdeswift
+jwhitlock
+tomfun
+rolfedh
+arthurevans

@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlformelement/elements/index.md
+
+# Original Wiki contributors
+mfluehr
+ewolfe
+connorshea
+maggyero
+ukor
+Sheppy
+cvrebert
+teoli
+kscarfone
+ajaybhat
+mikemaccana
+ethertank
+saneyuki_s
+jswisher
+Mgjbot
+George3
+RobG
+Mytto
+Dria
+JesseW

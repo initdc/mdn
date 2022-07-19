@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/operators/operator_precedence/index.md
+
+# Original Wiki contributors
+SphinxKnight
+edspeedy
+vaidd4
+kylekatarnls
+teoli
+Blackhole

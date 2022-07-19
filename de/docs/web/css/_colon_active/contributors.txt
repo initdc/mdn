@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/_colon_active/index.html
+
+# Original Wiki contributors
+SJW
+virtusmaior
+jwhitlock
+yckart
+Sebastianz
+webtobesocial

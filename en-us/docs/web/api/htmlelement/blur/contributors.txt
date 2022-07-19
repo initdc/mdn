@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/blur/index.md
+
+# Original Wiki contributors
+sideshowbarker
+ExE-Boss
+mfluehr
+fscholz
+xrtariq2594
+cvrebert
+teoli
+saneyuki_s
+ajaybhat
+kscarfone
+Sheppy
+tregagnon
+mattbasta
+ethertank
+ziyunfei
+another_sam
+Mgjbot
+Ptak82
+RobG
+Dria
+JesseW

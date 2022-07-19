@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/window/open/index.html
+
+# Original Wiki contributors
+SphinxKnight
+jigs12
+fscholz
+teoli
+khalid32
+Gompka
+GT
+Elwiz
+Mgjbot
+Ptak82
+Jan Dudek

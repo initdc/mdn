@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/globaleventhandlers/index.md
+
+# Original Wiki contributors
+sideshowbarker
+jashorekhabor
+mfuji09
+chrisdavidmills
+colinmorris
+Wind1808
+estelle
+fscholz
+jorgebucaran
+lucian95
+SphinxKnight
+Bodo1445
+jpmedley
+erikadoyle
+Sheppy
+jackblackevo
+teoli
+AFBarstow
+jwhitlock
+Nickolay
+Sebastianz
+yvanoers
+kscarfone

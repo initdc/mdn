@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/css/building_blocks/the_box_model/index.html
+
+# Original Wiki contributors
+RoPy73
+at940266
+AlexUS
+mvictorl
+velheor24
+yedyharova22
+matropsycat
+k0w4lk
+EmperorPeter3
+Ivan961

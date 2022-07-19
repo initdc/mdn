@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/events/index.html
+
+# Original Wiki contributors
+kosarev_va
+RuslanPro01
+ismailaga123
+injashkin
+Corba
+snowydad
+arthurg91
+wbamberg
+LbIdarka
+Dzhabarovm
+Kerminator1973
+kRaVeda
+teoli

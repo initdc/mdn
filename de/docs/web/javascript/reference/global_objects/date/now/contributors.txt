@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/date/now/index.html
+
+# Original Wiki contributors
+Khazl
+schlagi123
+J000S
+gurix
+fscholz
+LOK

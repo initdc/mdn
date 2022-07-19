@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/firefox/releases/2/index.md
+
+# Original Wiki contributors
+wbamberg
+tregagnon
+FredB
+fscholz
+Mgjbot
+BenoitL
+Fredchat
+Chbok
+Lefou
+Planche
+Mozinet

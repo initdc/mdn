@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/statements/const/index.html
+
+# Original Wiki contributors
+teoli
+Internauta1024A
+Mgjbot
+Ptak82
+Marcoos

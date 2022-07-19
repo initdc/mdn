@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pointerevent/getcoalescedevents/index.md
+
+# Original Wiki contributors
+krosylight
+jyasskin
+Wind1808
+chrisdavidmills
+NavidZ
+fscholz
+lpd-au
+jpmedley

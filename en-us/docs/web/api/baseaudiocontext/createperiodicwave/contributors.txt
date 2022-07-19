@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/baseaudiocontext/createperiodicwave/index.md
+
+# Original Wiki contributors
+tim-we
+fscholz
+lucian95
+chrisdavidmills
+jpmedley
+mcfun
+Sheppy
+arronei
+erikadoyle
+Yukulele.
+teoli
+JesseTG

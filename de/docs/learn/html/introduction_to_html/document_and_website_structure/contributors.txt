@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/learn/html/introduction_to_html/document_and_website_structure/index.html
+
+# Original Wiki contributors
+DiscW0rld
+fdeberle
+Shidigital
+Woehe2010
+fataly01

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/string/index.md
+
+# Original Wiki contributors
+hbloomer
+Andrew_Pfeiffer
+Sheppy
+klez
+fscholz

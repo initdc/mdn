@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pagetransitionevent/index.md
+
+# Original Wiki contributors
+neoncitylights
+chrisdavidmills
+mfluehr
+connorshea
+sideshowbarker
+fscholz
+Claas
+Chandler0415
+kscarfone
+teoli
+rabimba

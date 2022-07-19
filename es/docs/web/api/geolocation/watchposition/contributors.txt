@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/geolocation/watchposition/index.html
+
+# Original Wiki contributors
+AlePerez92
+fscholz
+AJMG

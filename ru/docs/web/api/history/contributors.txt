@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/history/index.html
+
+# Original Wiki contributors
+che7ovek
+teoli
+Dezeter
+AlexAlex
+lundgrenalex

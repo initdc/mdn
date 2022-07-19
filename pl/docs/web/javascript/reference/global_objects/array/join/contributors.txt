@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/array/join/index.html
+
+# Original Wiki contributors
+teoli
+Diablownik
+Mgjbot
+Internauta1024A
+Staszyna
+Ptak82

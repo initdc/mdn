@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/web_standards/index.md
+
+# Original Wiki contributors
+emlun
+marie-ototoi
+Andrew_Pfeiffer
+hbloomer
+Jeremie
+Sebastianz
+klez
+Dipak_kumar
+ajinkya_p

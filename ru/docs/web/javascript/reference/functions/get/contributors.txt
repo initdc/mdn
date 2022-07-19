@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/functions/get/index.html
+
+# Original Wiki contributors
+ankormoreankor
+WinterSilence
+YozhEzhi
+ipoluhin
+metelskiy
+kukuruznik04
+ArtyomGilevich
+andrey-gnl
+pierreneter
+etokareva

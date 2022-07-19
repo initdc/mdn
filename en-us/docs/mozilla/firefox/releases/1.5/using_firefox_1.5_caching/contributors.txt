@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/1.5/using_firefox_1.5_caching/index.md
+
+# Original Wiki contributors
+wbamberg
+teoli
+wilsonpage
+Pettay
+ethertank
+torbasow
+nicofrand
+groovecoder
+Nickolay
+erikvold
+Cacycle
+Sheppy
+sorinelpusti
+EXCEL ETA7
+Leofiore
+Mgjbot
+Doozer
+NickolayBot
+BenoitL
+Dria
+BrianRyner
+Vanessafox
+Callek

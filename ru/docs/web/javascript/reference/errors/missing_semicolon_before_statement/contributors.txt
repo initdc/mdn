@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/errors/missing_semicolon_before_statement/index.html
+
+# Original Wiki contributors
+KTatyana
+SedovDP
+Sparks

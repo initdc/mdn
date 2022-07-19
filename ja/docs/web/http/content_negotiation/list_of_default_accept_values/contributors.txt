@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/content_negotiation/list_of_default_accept_values/index.md
+
+# Original Wiki contributors
+mfuji09
+silverskyvicto

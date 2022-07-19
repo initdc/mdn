@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/first_steps/index.md
+
+# Original Wiki contributors
+SphinxKnight
+jadenkmj1219
+hahehohoo
+deltakor1234
+officialmansu
+alattalatta
+peacekimjapan
+sudokiz
+osori
+kidkkr
+galcyurio
+ChanghwaLee

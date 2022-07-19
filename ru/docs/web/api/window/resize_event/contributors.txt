@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/window/resize_event/index.html
+
+# Original Wiki contributors
+ellizii
+Rainbow_Spike
+chrisdavidmills
+irenesmith
+fscholz
+ValeriaAleksandrovna

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/_colon_-moz-locale-dir(rtl)/index.md
+
+# Original Wiki contributors
+mfuji09
+mitsuba-clover
+teoli
+ethertank
+Marsf

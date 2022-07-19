@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/canvasrenderingcontext2d/drawimage/index.md
+
+# Original Wiki contributors
+PeeWee2201
+Hell_Carlito
+JNa0

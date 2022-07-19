@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/server-side/django/admin_site/index.html
+
+# Original Wiki contributors
+Palladiumm
+aflyka
+dimaviolinist
+askras
+aimtbr
+Costonied
+Keiichii
+Santa388
+DIAMONDinc
+yuriy65
+Denizz

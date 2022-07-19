@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/getelementsbyclassname/index.md
+
+# Original Wiki contributors
+dilaradagdevirenn
+nerd_1.00
+fscholz
+70ray
+Sheppy
+chrisdavidmills
+rockawayz
+Krinkle
+DevelX
+Jeremie
+FWest98
+bergus
+teoli
+kscarfone
+nairakhil13
+fredy
+Brettz9

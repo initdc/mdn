@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/pointer_lock_api/index.md
+
+# Original Wiki contributors
+3xr
+a-mt
+fscholz
+polpoy
+aymericbeaumet
+nathsou
+kipcode66
+Delapouite

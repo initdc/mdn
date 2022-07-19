@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/background-position/index.html
+
+# Original Wiki contributors
+mrstork
+teoli
+Witia
+Mgjbot
+Ptak82

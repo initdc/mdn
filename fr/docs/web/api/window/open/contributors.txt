@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/open/index.md
+
+# Original Wiki contributors
+Sibian2019
+P45QU10U
+SphinxKnight
+trebly
+jigs12
+jnoelEFL
+fscholz
+khalid32
+teoli
+damien.flament
+GT
+Mgjbot
+BenoitL

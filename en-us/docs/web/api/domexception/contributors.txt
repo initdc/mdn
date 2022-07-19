@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domexception/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+SUM1
+alattalatta
+d1vanloon
+sideshowbarker
+fscholz
+Sheppy
+davidlehn
+david_ross
+jyasskin
+arronei
+erikadoyle
+cvrebert
+jpmedley
+teoli
+DomenicDenicola
+devinrhode2
+kscarfone
+user01
+Brettz9
+CHaoSlayeR

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/dragend_event/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+nosolosw
+DisorientedSpacePenguin
+naturallucky
+erikadoyle
+Sebastianz
+AFBarstow
+teoli
+mnoorenberghe
+Sheppy
+ethertank
+Jonathan_Watt
+louisremi

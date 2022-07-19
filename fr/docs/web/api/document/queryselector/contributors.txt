@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/queryselector/index.md
+
+# Original Wiki contributors
+khrys
+loella16
+juliend2
+NemoNobobyPersonne
+fscholz
+Torvast
+khalid32
+Fredchat
+lithrel
+Goofy
+Nek

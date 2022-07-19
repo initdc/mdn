@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/progressive_web_apps/loading/index.md
+
+# Original Wiki contributors
+mfuji09
+mayeedwin
+chrisdavidmills
+thomasweld
+end3r

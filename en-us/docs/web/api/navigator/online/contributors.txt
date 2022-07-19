@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/online/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+deanmarano
+zakius
+Equal
+sideshowbarker
+fscholz
+nmve
+lhanneman
+SaurabhRaje
+abbycar
+malyw
+Sebastianz
+teoli
+jsx
+jorgecasar
+kscarfone
+null---
+Cloudmonkeys
+Sheppy
+ethertank
+depy
+4esn0k
+ziyunfei
+Pavel.Zubkou
+thewoolleyman
+webinista
+grendel
+ebidel
+MarcDiethelm
+Mgjbot
+Nickolay
+Diablownik
+Jabez

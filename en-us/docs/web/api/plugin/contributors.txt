@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/plugin/index.md
+
+# Original Wiki contributors
+fscholz
+jpmedley
+chrisdavidmills
+Makyen
+teoli
+jsx
+sarasou
+bsmedberg
+namolmes
+Sheppy
+ethertank

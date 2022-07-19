@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/color-interpolation/index.md
+
+# Original Wiki contributors
+cdoublev
+Artoria2e5
+Sebastianz
+connorshea
+rolfedh
+douglas-j-bothwell
+JuliaM
+Jeremie
+vim-chhetri
+ratcliffe_mike

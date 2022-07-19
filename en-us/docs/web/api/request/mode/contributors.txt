@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/request/mode/index.md
+
+# Original Wiki contributors
+sideshowbarker
+theredpea
+michalvankodev
+spencerwilson-optimizely
+fscholz
+domfarolino
+Kaiido
+tkvw
+chrisdavidmills
+abbycar
+jsx
+jongmoon
+Rob W
+MashKao
+albertstill
+dgashmdn
+jpmedley
+Sebastianz
+kscarfone

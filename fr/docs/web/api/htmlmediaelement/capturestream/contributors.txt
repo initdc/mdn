@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/htmlmediaelement/capturestream/index.md
+
+# Original Wiki contributors
+o0sh4d0w0o

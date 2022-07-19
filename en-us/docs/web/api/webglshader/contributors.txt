@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglshader/index.md
+
+# Original Wiki contributors
+freaktechnik
+fscholz
+nmve
+teoli
+MrOpposite
+zalomea
+gregtatum

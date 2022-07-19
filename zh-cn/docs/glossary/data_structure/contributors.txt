@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/data_structure/index.md
+
+# Original Wiki contributors
+fs523577192

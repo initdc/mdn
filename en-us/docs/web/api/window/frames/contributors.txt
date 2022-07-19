@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/frames/index.md
+
+# Original Wiki contributors
+mfuji09
+mfluehr
+ExE-Boss
+fscholz
+sideshowbarker
+ivanson
+sarafec
+momdo
+mrenty
+pygy
+Ms2ger
+cvrebert
+sanjaygouri
+YaseenKhan
+jsx
+teoli
+kscarfone
+Sheppy
+dbruant
+jswisher
+Nickolay
+jorh
+Mgjbot
+Rvts
+Alkiredjian
+Rahul sheenu
+H2g2bob
+Dria
+Callek
+JesseW

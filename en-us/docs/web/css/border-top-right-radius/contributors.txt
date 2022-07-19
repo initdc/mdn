@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-top-right-radius/index.md
+
+# Original Wiki contributors
+rachelandrew
+alattalatta
+ddbeck
+Sheppy
+kabervasuki
+connorshea
+wbamberg
+chrisdavidmills
+erikadoyle
+Sebastianz
+teoli
+arai
+Simplexible
+Prinz_Rana
+fscholz
+jsx
+kscarfone
+FredB
+ethertank
+Yuichiro
+Jürgen Jeka

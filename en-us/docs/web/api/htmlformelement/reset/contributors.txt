@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlformelement/reset/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+connorshea
+teoli
+zachlysobey
+jpmedley
+AshfaqHossain
+basemnassar11
+kscarfone
+rashidtherash
+yorkxin
+Sheppy
+ziyunfei
+Mgjbot
+George3
+RobG
+Dria
+JesseW

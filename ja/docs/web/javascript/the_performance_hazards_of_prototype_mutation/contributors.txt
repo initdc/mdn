@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/the_performance_hazards_of_prototype_mutation/index.md
+
+# Original Wiki contributors
+

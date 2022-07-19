@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/btoa/index.html
+
+# Original Wiki contributors
+SerzN1
+uleming

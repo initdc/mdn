@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/font/index.html
+
+# Original Wiki contributors
+wbamberg
+emce
+teoli
+Mgjbot
+Witia
+Diablownik

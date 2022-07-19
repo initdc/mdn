@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/element/outerhtml/index.html
+
+# Original Wiki contributors
+l_MrBoom_l
+volter9

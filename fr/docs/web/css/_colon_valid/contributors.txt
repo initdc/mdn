@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/_colon_valid/index.md
+
+# Original Wiki contributors
+SphinxKnight
+viki53
+enogael
+FredB
+teoli
+tregagnon

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/proxy/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Remy_Juanes
+Watilin
+lotfire24
+noopole
+sd65
+jmpp
+jessmania

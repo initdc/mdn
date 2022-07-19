@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mdn/contribute/index.md
+
+# Original Wiki contributors
+wbamberg
+Terry.Qiao
+xhlsrj
+xgqfrms-GitHub
+maksyuki
+Ende93
+Moressette
+Feihei
+yfdyh000
+OlingCat
+nyan
+pixiu
+FredWe
+Yaty
+act262
+ziyunfei
+Kaworu
+Sheppy

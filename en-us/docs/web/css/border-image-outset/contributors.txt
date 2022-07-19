@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-image-outset/index.md
+
+# Original Wiki contributors
+rachelandrew
+ddbeck
+Sheppy
+Tigt
+wbamberg
+mfluehr
+elysdir1
+erikadoyle
+Sebastianz
+y0ssar1an
+Prinz_Rana
+teoli
+fscholz
+ttromey
+jsx
+signedandsealedinblood
+Kovu
+kscarfone
+chrisAnderson
+ishita
+MarkusStange
+LouisLazaris
+ethertank
+salagadoola
+hydrurga
+trevorh
+aHref

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/event/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+mfuji09
+alattalatta
+AshKyd
+sideshowbarker
+fscholz
+depthdev
+chrisdavidmills
+RayannTedds
+matthax
+mayank23
+Speich
+DomenicDenicola
+jpmedley
+svincent
+Dattaya
+romko391
+teoli

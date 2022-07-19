@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/xslt/index.md
+
+# Original Wiki contributors
+marie-ototoi
+klez
+Andrew_Pfeiffer
+hbloomer
+Jeremie
+Biraj
+ajinkya_p

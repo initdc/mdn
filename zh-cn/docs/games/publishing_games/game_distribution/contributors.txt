@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/publishing_games/game_distribution/index.md
+
+# Original Wiki contributors
+c03311

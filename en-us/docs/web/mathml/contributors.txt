@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/mathml/index.md
+
+# Original Wiki contributors
+darby
+Anonymous
+jswisher
+tobinmori
+SphinxKnight
+mago1990
+sanjeevbittu83
+mfluehr
+ExE-Boss
+fscholz
+konarkmodi
+zhuangyin
+johncol24
+nchelluri
+Tigt
+jsx
+willshion
+jwhitlock
+jumpball
+joemix
+SpencerG
+fred.wang
+JDB
+Dyvik
+Micky261
+sailplaneTW
+dknaack
+mirekczechxmm
+solarce
+kunal_dhir
+teoli
+ChaitanyaGSNR
+Sheppy

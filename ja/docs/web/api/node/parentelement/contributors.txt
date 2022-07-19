@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/node/parentelement/index.md
+
+# Original Wiki contributors
+naturallucky
+YuichiNukiyama
+fscholz
+jsx
+ethertank

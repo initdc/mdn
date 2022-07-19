@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            @keyframes spin {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(1turn);
+  }
+}
+
+.shape {
+  width: 8em;
+  height: 8em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: spin 18s linear infinite;
+  background: lightsalmon;
+  border-radius: 42%;
+  margin: 1em;
+}
+
+.paused {
+  background-color: #ddd;
+}
+
+.paused .shape {
+  animation-play-state: paused;
+}
+        </style>
+        
+        <title>GlobalEventHandlers.oncontextmenu - pausing_an_animation - code sample</title>
+    </head>
+    <body>
+        
+            <div class="shape">Spinning</div>
+<p class="note" hidden>Click to unpause.</p>
+        
+        
+            <script>
+                const body = document.querySelector('body');
+const note = document.querySelector('.note');
+
+function pause(e) {
+  body.classList.add('paused');
+  note.removeAttribute('hidden');
+}
+
+function play(e) {
+  body.classList.remove('paused');
+  note.setAttribute('hidden', '');
+}
+
+window.oncontextmenu = pause;
+window.onpointerdown = play;
+            </script>
+        
+    </body>
+</html>

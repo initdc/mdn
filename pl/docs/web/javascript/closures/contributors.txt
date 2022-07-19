@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/closures/index.html
+
+# Original Wiki contributors
+PaulinaLL
+iwonapiotrowska
+pawelk92
+dkarski
+JWPB
+kasiejro
+mat-bi
+Jakubem
+Bx.
+dodekx
+lboratynski
+ppuzio
+kosanr1
+ewape

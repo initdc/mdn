@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/input/date/index.md
+
+# Original Wiki contributors
+ANAIDJM1
+fitojb

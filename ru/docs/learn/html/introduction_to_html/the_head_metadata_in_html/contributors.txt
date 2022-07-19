@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/html/introduction_to_html/the_head_metadata_in_html/index.html
+
+# Original Wiki contributors
+valandis
+Ivan961
+streetsummit
+AlexKost700
+trman
+boxa6
+Bapen1k
+SoMuchEffort
+AlexeyIoffe
+DenisYaschenko
+hornuglan
+reksar
+AkulinaShark
+saniaky
+SergeyIrk
+SergeySM
+thoughtspile
+nikin93
+kolanski

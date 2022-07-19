@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/connection/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+jpmedley
+connorshea
+Sheppy
+GregRos
+anonyco
+teoli
+Sebastianz
+qcgm
+jakub-g
+andregarzia
+fscholz
+Rob W
+chrisdavidmills
+johnshih
+kscarfone
+Jeremie
+imonlhec22
+eikes

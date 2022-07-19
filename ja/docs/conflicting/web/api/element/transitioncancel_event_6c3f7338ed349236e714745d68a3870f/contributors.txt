@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/element/transitioncancel_event_6c3f7338ed349236e714745d68a3870f/index.html
+
+# Original Wiki contributors
+mfuji09

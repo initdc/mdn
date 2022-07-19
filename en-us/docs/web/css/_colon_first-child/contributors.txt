@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_first-child/index.md
+
+# Original Wiki contributors
+wbamberg
+estelle
+mfuji09
+ExE-Boss
+fscholz
+mfluehr
+chrisdavidmills
+goujing
+yisibl
+jpmedley
+erikadoyle
+Sebastianz
+KonstantinYegupov
+jsx
+MusikAnimal
+TylerH
+tregagnon
+kscarfone
+Tripad
+teoli
+Sheppy
+brianloveswords
+enderandpeter
+McGurk
+myakura
+miken32
+Wjjohnst
+Fredchat
+Mgjbot
+DBaron
+Nickolay
+Jethro

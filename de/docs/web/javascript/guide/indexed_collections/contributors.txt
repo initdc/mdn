@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/guide/indexed_collections/index.html
+
+# Original Wiki contributors
+G_hi3

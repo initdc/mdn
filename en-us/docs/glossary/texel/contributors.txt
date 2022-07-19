@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/texel/index.md
+
+# Original Wiki contributors
+sharma86hub
+Charles2020
+Sheppy

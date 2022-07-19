@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/guide/details_of_the_object_model/index.html
+
+# Original Wiki contributors
+c0dewalker
+wbamberg
+schlagi123
+sigoa
+DoctypeRosenthal
+Venhaus
+crasher666
+IngoB
+fscholz
+eminor

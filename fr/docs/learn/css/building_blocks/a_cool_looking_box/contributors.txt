@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/css/building_blocks/a_cool_looking_box/index.md
+
+# Original Wiki contributors
+Dralyab

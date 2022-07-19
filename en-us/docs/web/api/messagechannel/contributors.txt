@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/messagechannel/index.md
+
+# Original Wiki contributors
+BubuAnabelas
+ollelauribostrom
+fscholz
+DomenicDenicola
+MethodGrab
+libbymc
+jsx
+David_Gilbertson
+Sebastianz
+chrisdavidmills
+teoli
+Wladimir_Palant
+kscarfone

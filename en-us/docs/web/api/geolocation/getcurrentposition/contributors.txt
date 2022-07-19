@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/geolocation/getcurrentposition/index.md
+
+# Original Wiki contributors
+mfuji09
+bershanskiy
+chrisdavidmills
+alattalatta
+bivs06
+cathrin-will
+akshayjai1
+kinghat
+connorshea
+JCCR
+afrianjunior
+hua03
+furzeface
+zackharley
+erikadoyle
+stevemao
+jsx
+Andreass
+fscholz
+teoli
+kscarfone
+dbruant
+Sheppy
+aubergene
+Jeremie

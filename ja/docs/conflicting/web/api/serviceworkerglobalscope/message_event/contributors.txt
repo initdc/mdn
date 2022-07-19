@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/serviceworkerglobalscope/message_event/index.html
+
+# Original Wiki contributors
+Wind1808
+YuichiNukiyama

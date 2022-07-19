@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/html/element/iframe/index.html
+
+# Original Wiki contributors
+schlagi123
+teoli
+fscholz
+Crocki

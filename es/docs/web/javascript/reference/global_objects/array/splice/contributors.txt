@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/array/splice/index.html
+
+# Original Wiki contributors
+AlePerez92
+_cuco_
+FelixJMaxwell
+Joshuete1997
+NoTengoBattery
+pawer13
+Guitxo
+alvarouribe

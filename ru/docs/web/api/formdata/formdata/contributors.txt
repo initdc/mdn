@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/formdata/formdata/index.html
+
+# Original Wiki contributors
+YozhEzhi
+In4in
+antage

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/first_steps/styling_a_biography_page/index.md
+
+# Original Wiki contributors
+schalkneethling
+hakantr
+salutis
+chrisdavidmills
+rachelandrew

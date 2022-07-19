@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/null/index.html
+
+# Original Wiki contributors
+yar85
+YozhEzhi
+boxa6
+SphinxKnight
+Mingun

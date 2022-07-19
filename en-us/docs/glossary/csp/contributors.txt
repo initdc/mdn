@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/csp/index.md
+
+# Original Wiki contributors
+sideshowbarker
+almaceleste
+SphinxKnight
+anshul2398
+Sheppy
+Sebastianz

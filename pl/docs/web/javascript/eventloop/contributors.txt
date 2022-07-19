@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/eventloop/index.html
+
+# Original Wiki contributors
+Qba91
+przemdz
+mieszczans
+kpastuszka
+cocafin

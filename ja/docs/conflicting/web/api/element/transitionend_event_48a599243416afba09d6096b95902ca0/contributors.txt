@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/element/transitionend_event_48a599243416afba09d6096b95902ca0/index.md
+
+# Original Wiki contributors
+mfuji09
+takaneichinose

@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/unicode-bidi/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+Malvoz
+spencer523
+DiD92
+mfluehr
+DailyAlice
+xfq
+Sebastianz
+arronei
+erikadoyle
+teoli
+hartman
+jpmedley
+kscarfone
+Krinkle
+Sheppy
+ethertank
+McGurk

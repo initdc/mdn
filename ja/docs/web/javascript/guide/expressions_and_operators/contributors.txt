@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/expressions_and_operators/index.md
+
+# Original Wiki contributors
+mpcjazz
+tadasu
+xfq
+Uemmra3
+OldBigBuddha
+karamarimo
+kenji-yamasaki
+yuta0801
+Dar-Ishi
+SphinxKnight
+mfuji09
+mdmss37
+chikoski
+x2357
+tiny-studio
+teoli
+ethertank
+syar
+akiroom
+Potappo
+yyss
+electrolysis

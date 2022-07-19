@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/script/index.md
+
+# Original Wiki contributors
+Jeremie
+takenspc
+mattwojo
+Sebastianz
+kscarfone
+Sheppy
+rshetty
+Manuel_Strehl
+syssgx

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglrenderingcontext/uniformmatrix/index.md
+
+# Original Wiki contributors
+tim-we
+allan-bonadio
+CodeSmith32
+TNian145
+Sheppy
+jhf
+fscholz
+AzazelN28
+teoli

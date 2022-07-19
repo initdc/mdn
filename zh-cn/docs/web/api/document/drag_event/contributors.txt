@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/drag_event/index.html
+
+# Original Wiki contributors
+鑫花
+wbamberg
+fscholz
+towrabbit
+xiazhe
+tcatche
+Ende93

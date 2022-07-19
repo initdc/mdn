@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/border-spacing/index.md
+
+# Original Wiki contributors
+SphinxKnight
+edspeedy
+L2o
+teoli
+Chealer
+simonrenoult
+FredB
+Mgjbot
+Fredchat
+Kyodev

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/errors/not_defined/index.html
+
+# Original Wiki contributors
+saulgajda
+szopenkrk

@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webgl_api/tutorial/using_textures_in_webgl/index.md
+
+# Original Wiki contributors
+rfinkley
+Sheppy
+bhuvy2
+spencer523
+mmis1000
+homerhsing
+stephaniehobson
+gmanpersona
+pink.thereisnoif
+chrisdavidmills
+wesj2
+aaronolsen
+Song-Li
+msimmer
+aunzat
+nmve
+fscholz
+Jeremie
+Mason
+ScottMichaud
+Si+
+AllenZ
+Bananaoomarang
+yyss

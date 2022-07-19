@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/server-side/express_nodejs/deployment/index.html
+
+# Original Wiki contributors
+gabrielfdg10
+andersonse

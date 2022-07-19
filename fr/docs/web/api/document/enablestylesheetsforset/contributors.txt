@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/enablestylesheetsforset/index.md
+
+# Original Wiki contributors
+wbamberg
+loella16

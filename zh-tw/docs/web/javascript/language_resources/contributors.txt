@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/language_resources/index.html
+
+# Original Wiki contributors
+jackblackevo
+fscholz
+irvinfly
+sailplaneTW

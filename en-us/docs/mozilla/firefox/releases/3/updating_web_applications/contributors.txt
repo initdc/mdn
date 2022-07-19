@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/3/updating_web_applications/index.md
+
+# Original Wiki contributors
+wbamberg
+teoli
+Sheppy
+ethertank
+fscholz
+Perbois38
+Oschoett
+Mgjbot
+Potappo
+Ntc178
+BenoitL
+Sevenspade
+Jrocheman
+Bzbarsky
+The Hunter
+Kohei
+Jorend
+Rich Dougherty
+Openfre
+Mvent2
+clone00
+Sharpqu
+Nickolay

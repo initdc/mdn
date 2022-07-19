@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/storage/setitem/index.md
+
+# Original Wiki contributors
+KoalaMoala
+JNa0
+Axnyff
+rmNyro

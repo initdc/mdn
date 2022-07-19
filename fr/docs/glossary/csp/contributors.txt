@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/csp/index.md
+
+# Original Wiki contributors
+JNa0
+loella16
+xdelatour

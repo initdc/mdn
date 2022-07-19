@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/add-ons/webextensions/user_interface/index.md
+
+# Original Wiki contributors
+jackblackevo
+0711kps

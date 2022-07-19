@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/index.md
+
+# Original Wiki contributors
+mansurdoank0
+ARYAAB-rgb
+chrisdavidmills
+tayyabalishan
+kruschk
+frezier
+Koavf
+bestinterviewquestion
+svarlamov
+SphinxKnight
+jonasholbech
+rileym7
+wbamberg
+ts9111
+RayannTedds
+BrijeshWawdhane
+TornadoIDS
+mrmsoares
+rain1992
+rmateus
+OrthoLearner
+Jeremie
+Sebastianz
+bbstudio03
+atymchuk
+Andrew_Pfeiffer
+fscholz

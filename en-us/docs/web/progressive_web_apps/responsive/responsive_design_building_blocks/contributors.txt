@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/progressive_web_apps/responsive/responsive_design_building_blocks/index.md
+
+# Original Wiki contributors
+jswisher
+ribaricplusplus
+scs727c
+cartwr40
+chrisdavidmills
+mfluehr
+stephaniehobson
+kestutis
+gibranalnn
+Sheppy
+tregagnon

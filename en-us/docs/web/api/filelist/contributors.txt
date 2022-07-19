@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/filelist/index.md
+
+# Original Wiki contributors
+sideshowbarker
+flyingace
+MichaelEkoka
+zbjornson
+fscholz
+Yukichen
+i80and
+mmirman
+teoli
+rosemarymemclinic.co.ug
+Delapouite
+Josh59r@gmail.com
+kscarfone
+Cobra
+peb
+Sheppy
+ethertank
+trevorh
+a.t
+ziyunfei
+Dikrib
+Crash

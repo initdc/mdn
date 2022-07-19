@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transition-duration/index.md
+
+# Original Wiki contributors
+rachelandrew
+ddbeck
+fscholz
+sideshowbarker
+estelle
+mfuji09
+wbamberg
+basta-stripe
+mfluehr
+chrisdavidmills
+erikadoyle
+Sebastianz
+mrstork
+teoli
+kscarfone
+Sheppy
+julienw
+ethertank
+lmorchard
+tregagnon
+yyss
+Bzbarsky

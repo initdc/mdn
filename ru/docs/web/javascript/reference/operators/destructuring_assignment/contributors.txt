@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/destructuring_assignment/index.html
+
+# Original Wiki contributors
+zziger
+Beliarh
+InoY
+kdex
+shapkarin
+he11b0rn
+wa-Nadoo
+e-omo
+y.ivashchenko
+SphinxKnight
+dtretyakov

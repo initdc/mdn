@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediatracksettings/index.md
+
+# Original Wiki contributors
+shino
+sideshowbarker
+bagaffey
+Sheppy
+guidou
+fscholz
+ThorstenBux

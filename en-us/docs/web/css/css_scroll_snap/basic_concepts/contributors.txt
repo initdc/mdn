@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_scroll_snap/basic_concepts/index.md
+
+# Original Wiki contributors
+hisbvdis
+SlaughterDog
+chrisdavidmills
+rachelandrew
+EvanGenest

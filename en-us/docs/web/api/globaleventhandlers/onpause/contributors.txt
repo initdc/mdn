@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/globaleventhandlers/onpause/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+sideshowbarker
+wbamberg
+rolfedh
+Guillaume-Heras

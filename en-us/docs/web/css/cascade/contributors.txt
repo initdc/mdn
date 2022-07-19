@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/cascade/index.md
+
+# Original Wiki contributors
+wbamberg
+jswisher
+mfuji09
+fazl
+marcelobcortes
+birtles
+agarun
+ExE-Boss
+dashlee92
+oliverbaptiste
+01abhishekjain
+michaeljgut
+Sheppy
+Biiinggg
+mfluehr
+chrisdavidmills
+merelinguist
+verv0eren
+HarryPehkonen
+malozaibi
+Sebastianz
+mrevan
+rralian
+nasifmdtanjim
+velvel53
+teoli

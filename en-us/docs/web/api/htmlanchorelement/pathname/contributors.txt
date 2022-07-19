@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlanchorelement/pathname/index.md
+
+# Original Wiki contributors
+Rumyra
+Brettz9
+fscholz
+johnjacobkenny
+erikadoyle
+chrisdavidmills
+jpmedley
+libbymc
+teoli
+klusark
+fusionchess
+mturnwall
+Kartik_Chadha
+mikemcg

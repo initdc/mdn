@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/guide/indexed_collections/index.md
+
+# Original Wiki contributors
+GDFtj
+SphinxKnight
+bgondy
+JeffD
+ludwin
+QuentinPerez

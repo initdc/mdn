@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/guide/regular_expressions/index.md
+
+# Original Wiki contributors
+yanns1
+SphinxKnight
+fgeorges
+pastr
+pascallothar
+VincentGuinaudeau
+Gueusette
+teoli
+Goofy

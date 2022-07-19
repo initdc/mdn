@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/canvasrenderingcontext2d/strokerect/index.html
+
+# Original Wiki contributors
+MarceloBRN

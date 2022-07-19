@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/querycommandsupported/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+fscholz
+balrobz
+erikadoyle
+Potappo
+teoli
+hallvors
+Sebastianz
+Dan-Dascalescu
+znap026
+MHasan
+mnoorenberghe
+kscarfone
+gurdev_singh
+ethertank
+Sheppy

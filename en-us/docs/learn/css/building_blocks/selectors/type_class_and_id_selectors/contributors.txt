@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/selectors/type_class_and_id_selectors/index.md
+
+# Original Wiki contributors
+impossibleshadow
+ohaver
+chrisdavidmills
+revanthn
+cattofiq
+mabouguerra
+Saif-Shines
+jpfkd
+avry
+fazl
+xp44mm
+jlbuckner
+rachelandrew
+ExE-Boss

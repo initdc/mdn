@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/elementfrompoint/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+sideshowbarker
+Nickolay
+Sheppy
+ExE-Boss
+rsinohara
+fscholz
+chrisdavidmills
+HolgerJeromin
+david_ross
+jpmedley

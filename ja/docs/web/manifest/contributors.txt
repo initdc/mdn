@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/manifest/index.md
+
+# Original Wiki contributors
+mfuji09
+JohnTitor
+mottox2
+east-pmo
+sujiniku
+YuichiNukiyama

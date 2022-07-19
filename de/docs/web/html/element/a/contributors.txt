@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/html/element/a/index.html
+
+# Original Wiki contributors
+dio
+dhcgn
+Abro
+omicron81
+Type-Style
+Sebastianz
+skl
+Lucky42

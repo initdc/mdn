@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/initial/index.html
+
+# Original Wiki contributors
+ralfstx
+ansgar
+SJW

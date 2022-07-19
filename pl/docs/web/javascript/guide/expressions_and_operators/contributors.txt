@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/guide/expressions_and_operators/index.html
+
+# Original Wiki contributors
+teoli
+Ptak82
+Re set
+Internauta1024A
+Mgjbot

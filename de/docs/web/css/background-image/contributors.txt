@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/background-image/index.html
+
+# Original Wiki contributors
+Oliver_Schafeld
+splendid_twd
+SphinxKnight
+fscholz
+SJW
+Michael2402

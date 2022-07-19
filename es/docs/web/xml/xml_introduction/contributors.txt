@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/xml/xml_introduction/index.html
+
+# Original Wiki contributors
+jugonzalez40
+ExE-Boss
+npcsayfail
+israel-munoz
+Mgjbot
+Superruzafa
+Fedora-core
+Jorolo

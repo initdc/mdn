@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/idbobjectstore/keypath/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Alpha
+gadgino

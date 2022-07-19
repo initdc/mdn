@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/cookie/index.html
+
+# Original Wiki contributors
+kanapka94
+teoli
+AshfaqHossain
+DR
+Jan Dudek

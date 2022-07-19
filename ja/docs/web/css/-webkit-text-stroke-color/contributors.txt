@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/-webkit-text-stroke-color/index.md
+
+# Original Wiki contributors
+kyoya0819
+mfuji09

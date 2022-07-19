@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/defineproperties/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+qguv
+jonmarkprice
+SphinxKnight
+caokai8213
+jameshkramer
+nmve
+kdex
+eduardoboucas
+stevemao
+krzysztof.dziezyk
+JacksonGL
+joseph-onsip
+Natalya_Surikova
+wesj
+Mingun
+BrandonMintern
+adrian_cooney
+Sheppy
+ethertank
+Brettz9
+ziyunfei
+fusionchess
+Marcoos
+dbruant
+evilpie
+dsc
+Crash
+broofa
+Waldo

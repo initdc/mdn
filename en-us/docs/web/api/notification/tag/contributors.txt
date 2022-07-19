@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/notification/tag/index.md
+
+# Original Wiki contributors
+bershanskiy
+mfuji09
+chrisdavidmills
+mfluehr
+fscholz
+jpmedley
+abbycar
+MHasan
+kscarfone
+Jeremie

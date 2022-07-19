@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/17/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+HM100
+Sebastianz
+teoli
+jsx
+kohei.yoshino
+arai
+ziyunfei
+yisi
+ethertank
+Sheppy
+Havvy
+evilpie
+Gerv
+mattbrundage
+simonster
+trevorh
+myakura
+saneyuki_s
+GPHemsley
+Masayuki
+David-Sarah Hopwood
+mkato

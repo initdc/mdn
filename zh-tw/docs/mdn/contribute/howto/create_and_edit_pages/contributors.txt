@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mdn/contribute/howto/create_and_edit_pages/index.md
+
+# Original Wiki contributors
+jackblackevo
+wbamberg
+Shiyou
+Supaplex
+darksnidget
+SecondSpirit
+coby777

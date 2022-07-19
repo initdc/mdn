@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/conflicting/web/javascript/guide/control_flow_and_error_handling_74154e098f4b1e7026df3945ceb0fa4a/index.html
+
+# Original Wiki contributors
+teoli
+happysadman

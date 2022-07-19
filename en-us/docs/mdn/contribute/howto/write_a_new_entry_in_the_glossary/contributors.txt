@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/contribute/howto/write_a_new_entry_in_the_glossary/index.md
+
+# Original Wiki contributors
+mfuji09
+ohaver
+cadorej
+wbamberg
+Sheppy
+jswisher
+Aleksej
+fscholz
+Andrew_Pfeiffer
+Jeremie
+hbloomer
+nasifmdtanjim

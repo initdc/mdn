@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/operators/destructuring_assignment/index.html
+
+# Original Wiki contributors
+LukaszFormela
+Saalin
+danielrakoczy
+kdex
+grzim

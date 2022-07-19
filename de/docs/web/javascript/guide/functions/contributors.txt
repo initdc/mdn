@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/guide/functions/index.html
+
+# Original Wiki contributors
+dmho
+cami
+loicyondjeu
+stefboll
+woiddale
+schlagi123
+b-lack
+vetoCode
+fscholz
+eminor

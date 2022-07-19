@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/attributes/accept/index.md
+
+# Original Wiki contributors
+mfuji09
+mattd
+hardik-singhal
+estelle

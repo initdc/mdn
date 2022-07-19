@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/uievent/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+lucian95
+WavinFlag
+chrisdavidmills
+Sheppy
+erikadoyle
+Sebastianz
+jpmedley
+douglas-j-bothwell
+A.Perez
+teoli
+kscarfone
+KYSergey
+ziyunfei
+Masayuki

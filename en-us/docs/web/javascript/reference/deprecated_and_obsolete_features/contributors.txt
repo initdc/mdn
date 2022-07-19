@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/deprecated_and_obsolete_features/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+sanjula40
+TSlivede
+cdr
+arai
+ethertank
+Sheppy
+ziyunfei
+CacycleWP
+evilpie
+Nanto vi
+Mgjbot
+Ptak82
+Dria

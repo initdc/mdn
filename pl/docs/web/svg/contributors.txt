@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/svg/index.html
+
+# Original Wiki contributors
+KateSturmey
+teoli
+Bedi
+Ptak82
+Verruckt
+Mgjbot
+Takenbot
+gandalf
+Dria

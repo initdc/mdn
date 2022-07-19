@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/window/opener/index.html
+
+# Original Wiki contributors
+michal037
+kanapka94
+teoli
+khalid32
+Mgjbot
+Ptak82

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/headers/cache-control/index.md
+
+# Original Wiki contributors
+darahak
+hellosct1
+SphinxKnight
+LeoColomb
+arthurwhite
+David-5-1

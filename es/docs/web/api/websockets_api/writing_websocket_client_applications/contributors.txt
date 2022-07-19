@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/websockets_api/writing_websocket_client_applications/index.html
+
+# Original Wiki contributors
+SphinxKnight
+neopablix
+jevvilla
+jvilla8a
+AzazelN28
+Unbrained
+gabryk
+MauroEldritch
+frankzen

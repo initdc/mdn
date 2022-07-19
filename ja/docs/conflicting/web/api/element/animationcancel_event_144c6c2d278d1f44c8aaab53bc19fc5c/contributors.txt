@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/element/animationcancel_event_144c6c2d278d1f44c8aaab53bc19fc5c/index.html
+
+# Original Wiki contributors
+mfuji09

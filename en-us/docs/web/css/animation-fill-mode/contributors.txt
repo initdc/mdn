@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/animation-fill-mode/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+ddbeck
+connorshea
+ivanaugustobd
+fscholz
+mfluehr
+rwilson.or
+chrisdavidmills
+erikadoyle
+Sebastianz
+benbrowning
+teoli
+jpmedley
+SphinxKnight
+jsx
+codepo8
+kscarfone
+enderandpeter
+ethertank
+CutenessOverload
+tregagnon
+FredB
+yyss
+darktrojan
+myakura
+cers

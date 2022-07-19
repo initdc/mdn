@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/eventtarget/addeventlistener_380cb5f366307beb2c072f74e561ee98/index.md
+
+# Original Wiki contributors
+tyankatsu
+Marsf

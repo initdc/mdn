@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domstringlist/index.md
+
+# Original Wiki contributors
+sideshowbarker
+roemahbunga67
+mfluehr
+connorshea
+tocretpa
+chrisdavidmills
+Sebastianz
+teoli
+Bzbarsky
+kscarfone
+Sheppy
+BYK
+Brettz9

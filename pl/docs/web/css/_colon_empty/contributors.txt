@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/_colon_empty/index.html
+
+# Original Wiki contributors
+wbamberg
+teoli
+Mgjbot
+Abc
+Marcoos

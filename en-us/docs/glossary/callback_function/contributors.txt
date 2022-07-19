@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/callback_function/index.md
+
+# Original Wiki contributors
+mfuji09
+avtraino
+chrisdavidmills
+aijaz-ali-abro
+sideshowbarker
+Sheldon01
+qq184872515
+carmenica
+mehdi2237
+netpoetica
+PushpitaPikuDey
+johnwatsondev

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/html/multimedia_and_embedding/images_in_html/test_your_skills_colon__html_images/index.html
+
+# Original Wiki contributors
+valandis

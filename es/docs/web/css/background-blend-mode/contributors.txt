@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/background-blend-mode/index.html
+
+# Original Wiki contributors
+ExE-Boss
+israel-munoz
+mrstork
+teoli
+Sebastianz
+maiky

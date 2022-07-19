@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/console/warn/index.md
+
+# Original Wiki contributors
+SUM1
+ExE-Boss
+connorshea
+fscholz
+arronei
+valtlai
+erikadoyle
+Sebastianz
+chrisdavidmills
+cvrebert
+teoli
+kscarfone
+Khodaidad_Basharmand
+Sheppy
+myakura

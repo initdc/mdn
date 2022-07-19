@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/parsefloat/index.html
+
+# Original Wiki contributors
+teoli
+Mgjbot
+Internauta1024A
+Marcoos
+Staszyna
+Sheppy
+Ptak82
+VooEak

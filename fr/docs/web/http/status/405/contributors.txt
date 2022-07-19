@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/status/405/index.md
+
+# Original Wiki contributors
+newick
+lucien.bill
+tititou36
+SphinxKnight
+arthurwhite
+dattaz

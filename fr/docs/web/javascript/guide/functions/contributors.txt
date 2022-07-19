@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/guide/functions/index.md
+
+# Original Wiki contributors
+SphinxKnight
+codingk8
+fredrun14
+Wizhou
+Youssef-Belmeskine
+bxlxd
+Gueusette
+abe30
+tregagnon
+DeepFriedSeagull
+teoli
+Goofy

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/html5/index.html
+
+# Original Wiki contributors
+JCodeg
+oleg3280
+VEDigit

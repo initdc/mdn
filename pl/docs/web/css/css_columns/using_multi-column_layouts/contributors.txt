@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/css_columns/using_multi-column_layouts/index.html
+
+# Original Wiki contributors
+teoli
+Mgjbot
+Ptak82
+Takenbot
+Staszyna
+gandalf

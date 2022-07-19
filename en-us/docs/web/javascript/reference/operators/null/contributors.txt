@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/null/index.md
+
+# Original Wiki contributors
+sideshowbarker
+hinell
+backbencher.dev
+fscholz
+wbamberg
+ddbeck
+jinbeomhong
+neverRare
+saranshgupta1995
+schalkneethling
+levytskyi
+jameshkramer
+SphinxKnight
+chharvey
+bellentuck
+nmve
+snizh
+rmx
+vaniananthuni
+thejameskyle
+liammonahan
+tjcrowder
+x2357
+Sheppy
+dbruant
+teoli

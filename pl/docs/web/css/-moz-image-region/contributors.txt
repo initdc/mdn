@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/-moz-image-region/index.html
+
+# Original Wiki contributors
+teoli
+Filemon
+Ptak82
+Mgjbot
+Witia

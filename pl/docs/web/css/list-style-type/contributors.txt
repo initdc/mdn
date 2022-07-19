@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/list-style-type/index.html
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+Witia
+ethertank
+Mgjbot
+Ptak82
+Diablownik
+KrucaFuks
+PablO

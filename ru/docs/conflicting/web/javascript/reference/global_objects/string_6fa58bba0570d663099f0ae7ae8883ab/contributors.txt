@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/conflicting/web/javascript/reference/global_objects/string_6fa58bba0570d663099f0ae7ae8883ab/index.html
+
+# Original Wiki contributors
+WispProxy
+mxxn
+AlexAlex

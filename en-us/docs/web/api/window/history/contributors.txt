@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/history/index.md
+
+# Original Wiki contributors
+alattalatta
+TimothyGu
+connorshea
+jackblackevo
+momdo
+_6a68
+dozoisch
+teoli
+fscholz
+cpigat
+Nickolay
+kscarfone
+utkarsh_shah
+kohei.yoshino
+Sheppy
+Rik
+mjball
+jswisher
+myakura
+Ehsan
+jlebar
+Matej Lednar
+miken32
+George3
+Mgjbot
+Dria
+Callek
+JesseW

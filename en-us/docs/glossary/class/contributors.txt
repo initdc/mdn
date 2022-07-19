@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/class/index.md
+
+# Original Wiki contributors
+victor-borges
+Andrew_Pfeiffer
+Jeremie
+klez
+prox
+sushant1221

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xslt/element/stylesheet/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+Sebastianz
+ExE-Boss
+SphinxKnight
+Sheppy
+Fredchat
+Ptak82
+Nickolay
+CitizenK

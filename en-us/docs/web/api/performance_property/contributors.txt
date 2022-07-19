@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performance_property/index.md
+
+# Original Wiki contributors
+sideshowbarker
+connorshea
+Sheppy
+anonyco
+kmag
+sarafec
+smarts
+jsantell
+fscholz
+paul.irish
+teoli
+julienw
+iamanupmenon
+ethertank
+MattBrubeck

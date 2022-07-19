@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/navigator/index.html
+
+# Original Wiki contributors
+JS_Johny
+devrom
+ShantyHoz
+wbamberg
+trace_route
+AynurGalimov
+nik3402
+meteor91
+AlexAlex
+fscholz

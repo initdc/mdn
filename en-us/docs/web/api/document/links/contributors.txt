@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/links/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+fscholz
+erikadoyle
+cvrebert
+teoli
+Sebastianz
+Delapouite
+kscarfone
+Reachmeatshivam
+Sheppy
+Federico
+Mgjbot
+George3
+Ptak82
+Dria
+JesseW

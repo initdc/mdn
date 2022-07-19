@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/throw/index.html
+
+# Original Wiki contributors
+albrin
+Roovwhite
+ZavodPodushek
+Natalya_Surikova
+sergey.bakaev
+SphinxKnight
+hellboy81

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/headers/index.html
+
+# Original Wiki contributors
+OneLoneFox
+hamethassaf
+darianbenito
+MrcRjs
+Watermelonnable
+JurgenBlitz
+ampersand89
+fjuarez
+fscholz

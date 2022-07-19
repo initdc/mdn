@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/css_colors/color_picker_tool/index.html
+
+# Original Wiki contributors
+makabeus
+olkaboch

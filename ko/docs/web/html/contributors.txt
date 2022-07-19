@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/html/index.html
+
+# Original Wiki contributors
+alattalatta
+enfroze
+GunhoChoi
+SphinxKnight
+Oizys18
+frankradio
+wankyu
+seungha-kim
+Kaben
+hyeonseok
+Donghyun_Lee
+azunyan3
+moolow
+duke.L
+jongho

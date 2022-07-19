@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/letter-spacing/index.html
+
+# Original Wiki contributors
+wbamberg
+Jakubem
+mrstork
+fscholz
+teoli
+FredB
+Witia

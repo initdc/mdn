@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/storage/storagearea/get/index.md
+
+# Original Wiki contributors
+kernp
+Rob W
+Zearin_Galaurum
+wbamberg
+irenesmith
+oyenirat
+MPDSilva
+serv-inc
+alexnkorovin
+maybe
+bovine3dom
+zekrom-vale
+Makyen
+freaktechnik
+michael-zapata
+jonathanKingston
+fiveNinePlusR
+chrisdavidmills

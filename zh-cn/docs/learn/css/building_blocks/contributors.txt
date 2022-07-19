@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/building_blocks/index.html
+
+# Original Wiki contributors
+hex-puck
+SirnoChan
+ikomom
+dlnb526
+kuhnpku
+pacexy
+guangzhengyu
+chrisdavidmills

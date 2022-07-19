@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/textdecoder/index.md
+
+# Original Wiki contributors
+hamishwillee
+mfuji09
+bershanskiy
+Annevk
+mfluehr
+gfx2017
+waitingsong
+atesgoral
+ExE-Boss
+fscholz
+Houfeng
+jpmedley
+fgasper
+tz4678
+Noitidart
+realityking
+fusionchess
+past
+teoli

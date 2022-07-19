@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/canvas_api/index.html
+
+# Original Wiki contributors
+sigoa
+petacat
+Aloso
+barning
+andreas.remdt

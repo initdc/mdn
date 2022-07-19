@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/writing_modes_tasks/index.md
+
+# Original Wiki contributors
+blueblots
+rachelandrew

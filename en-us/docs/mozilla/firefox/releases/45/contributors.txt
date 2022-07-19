@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/45/index.md
+
+# Original Wiki contributors
+wbamberg
+adria
+Sebastianz
+kdex
+fscholz
+Sheppy
+DBaron
+cvrebert
+teoli
+Brettz9
+yisibl
+GijsKruitbosch
+chrisdavidmills
+arai
+mkato
+evilpie

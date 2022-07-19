@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/overflow-wrap/index.md
+
+# Original Wiki contributors
+SphinxKnight
+anisometropie
+patrickfournier
+fscholz
+Sebastianz
+PofMagicfingers
+teoli
+BiAiB
+philippe97
+FredB
+Delapouite

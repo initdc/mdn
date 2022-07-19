@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/css_transforms/using_css_transforms/index.md
+
+# Original Wiki contributors
+mfuji09
+SaekiTominaga
+SphinxKnight
+fscholz
+ethertank
+sosleepy
+teoli
+Level
+Jürgen Jeka
+Potappo
+Taken

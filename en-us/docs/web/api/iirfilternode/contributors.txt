@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/iirfilternode/index.md
+
+# Original Wiki contributors
+sideshowbarker
+chrisdavidmills
+Rumyra
+fscholz
+libbymc
+jpmedley
+Sheppy
+PushpitaPikuDey

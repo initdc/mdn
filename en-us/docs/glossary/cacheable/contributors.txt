@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/cacheable/index.md
+
+# Original Wiki contributors
+vkweb
+bradley27783
+mfuji09
+agarwalrounak
+zbjornson
+neeh
+yaypie
+fscholz
+teoli

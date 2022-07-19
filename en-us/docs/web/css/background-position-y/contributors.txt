@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/background-position-y/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+Sheppy
+ddbeck
+Myndex
+mfluehr
+fscholz
+captainbarbosa
+teoli
+erikadoyle
+Sebastianz
+DBaron

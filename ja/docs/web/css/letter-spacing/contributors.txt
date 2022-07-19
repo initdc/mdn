@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/letter-spacing/index.md
+
+# Original Wiki contributors
+mfuji09
+sutara79
+momdo
+Prinz_Rana
+mitsuba-clover
+Sebastianz
+ethertank
+sosleepy
+teoli

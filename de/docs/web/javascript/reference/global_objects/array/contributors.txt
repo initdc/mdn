@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/array/index.html
+
+# Original Wiki contributors
+grumpy-cat
+SebinNyshkim
+schlagi123
+henje
+JayEn84
+Eiknheimer
+StevenS77
+kdex
+antonharald
+fscholz
+Airblader

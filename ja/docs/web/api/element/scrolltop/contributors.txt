@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/element/scrolltop/index.md
+
+# Original Wiki contributors
+mfuji09
+M.Tada
+hota1024
+fscholz
+jsx
+AshfaqHossain
+Wladimir_Palant

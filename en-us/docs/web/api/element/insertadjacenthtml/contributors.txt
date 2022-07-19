@@ -1,0 +1,40 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/insertadjacenthtml/index.md
+
+# Original Wiki contributors
+TrevorKarjanis
+mfluehr
+sideshowbarker
+fscholz
+runny-yolk
+angel-luis
+Datdoan
+Sheppy
+ZaneHannanAU
+jonathanKingston
+mohitgarg
+chrisvogt
+Rob W
+xgqfrms-GitHub
+hibiya
+cvrebert
+Sheepy
+romain-lebesle
+upq
+marcel-burkhard
+chrisdavidmills
+lee_elenbaas
+teoli
+kscarfone
+vishu_gawli
+LouisLazaris
+dbruant
+mattbasta
+ethertank
+tehsis
+Marcoos
+berkerpeksag
+BYK
+Hsivonen
+myakura
+trevorh

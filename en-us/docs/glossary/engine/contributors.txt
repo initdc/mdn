@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/engine/index.md
+
+# Original Wiki contributors
+SphinxKnight
+shubham14
+hbloomer
+Andrew_Pfeiffer
+Jeremie
+klez
+kscarfone
+panaggio

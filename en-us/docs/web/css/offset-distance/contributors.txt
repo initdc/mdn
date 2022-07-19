@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/offset-distance/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+fscholz
+rachelandrew
+chrisdavidmills
+dancwilson
+ExE-Boss
+jpmedley
+jihyerish
+rolfedh
+SphinxKnight

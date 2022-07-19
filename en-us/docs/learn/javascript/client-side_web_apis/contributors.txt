@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/client-side_web_apis/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+xuxintao
+thenoelman
+chirag7145
+dvincent
+david_ross
+sideshowbarker
+utkarshbhatt12

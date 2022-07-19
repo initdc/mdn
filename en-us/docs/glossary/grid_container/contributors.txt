@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/grid_container/index.md
+
+# Original Wiki contributors
+ExE-Boss
+ctauchen
+chrisdavidmills
+leon-earl
+rachelandrew

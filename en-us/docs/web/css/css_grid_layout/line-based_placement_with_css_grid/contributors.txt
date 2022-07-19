@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_grid_layout/line-based_placement_with_css_grid/index.md
+
+# Original Wiki contributors
+rachelandrew
+cdoublev
+mfluehr
+chrisdavidmills
+neo01124
+NouranMahmoud
+bgates
+dmitry-zabolotny
+jarrodn
+AleshaOleg
+teoli
+imagentleman

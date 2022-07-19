@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/statements/for...of/index.html
+
+# Original Wiki contributors
+pastparty
+Xan2063
+SphinxKnight
+kdex
+Narigo

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/anchors/index.html
+
+# Original Wiki contributors
+jkosiaty
+teoli
+khalid32
+Ptak82
+DR
+Mgjbot
+Jan Dudek

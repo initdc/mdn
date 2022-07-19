@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/guide/css/block_formatting_context/index.html
+
+# Original Wiki contributors
+Radragon
+RomanBush
+NancyT33333
+SelenIT
+brolnickij
+I-O
+ViT09
+akhabibullina

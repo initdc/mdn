@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/working_with_the_tabs_api/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+lionelw
+bunsenmcdubbs
+zhaihm
+hellosct1
+rebloor

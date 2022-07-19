@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/isnan/index.html
+
+# Original Wiki contributors
+teoli
+Mgjbot
+Marcoos
+Sheppy
+Ptak82
+Internauta1024A
+Takenbot

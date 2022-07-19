@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/-moz-image-region/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+gudoy
+FredB
+Fredchat
+Kyodev

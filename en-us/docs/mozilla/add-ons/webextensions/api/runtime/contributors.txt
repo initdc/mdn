@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/runtime/index.md
+
+# Original Wiki contributors
+rebloor
+wbamberg
+ExE-Boss
+dlicois
+andrewtruongmoz
+abbycar
+chrisdavidmills

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/rtcpeerconnection/createanswer/index.md
+
+# Original Wiki contributors
+Sheppy
+fscholz
+adnauseum
+chrisdavidmills
+jpmedley
+abbycar

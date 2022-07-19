@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/objects/basics/index.html
+
+# Original Wiki contributors
+Tartalon
+alexpikuta
+wind-of
+jynweythek
+iwanttobealight
+ConstantineZz
+genesky
+boxa6
+injashkin
+NooNoo1337
+Dusmatoff
+KoS57
+slychai85
+Jony_e
+slowpokex
+DoRightt
+superpuper32

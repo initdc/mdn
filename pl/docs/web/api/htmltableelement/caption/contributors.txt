@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/htmltableelement/caption/index.html
+
+# Original Wiki contributors
+teoli
+khalid32
+Mgjbot
+WadimdD
+Ptak82

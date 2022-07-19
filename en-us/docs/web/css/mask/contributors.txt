@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/mask/index.md
+
+# Original Wiki contributors
+alexelash
+chrisdavidmills
+wbamberg
+fscholz
+alattalatta
+ddbeck
+mfluehr
+jswisher
+DailyAlice
+RyanNerd
+erikadoyle
+teoli
+Druzion
+Sebastianz
+SphinxKnight
+Siilwyn
+George8211
+ind1go
+JasonSnow-Mad
+kscarfone
+Sheppy
+ethertank
+Bzbarsky
+Marcoos
+Mook(as)
+grendel
+BijuGC

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/add-ons/webextensions/your_second_webextension/index.md
+
+# Original Wiki contributors
+LeonH
+eugene87222
+RishYang
+timmyshih
+Tamako

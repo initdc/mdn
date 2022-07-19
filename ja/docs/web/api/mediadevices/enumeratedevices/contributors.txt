@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/mediadevices/enumeratedevices/index.md
+
+# Original Wiki contributors
+kw-udon
+kyo-ago
+YuichiNukiyama

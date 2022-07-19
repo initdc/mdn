@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/index.html
+
+# Original Wiki contributors
+IsraelFloresDGA
+MarioECU
+locolauty97
+Sergio_Gonzalez_Collado
+Ferrmolina
+raecillacastellana
+migdonio1
+Erto
+teoli

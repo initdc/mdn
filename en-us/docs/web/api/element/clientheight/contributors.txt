@@ -1,0 +1,39 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/clientheight/index.md
+
+# Original Wiki contributors
+mfuji09
+KennethKinLum
+mfluehr
+fscholz
+tshinnic
+combizs
+erikadoyle
+lanzkron
+cvrebert
+pcat
+fvsch
+teoli
+saneyuki_s
+kscarfone
+Prachi_Dighe
+imdadvs
+Sheppy
+vyv03354
+chrisjshull
+Julien STUBY
+George3
+Ruakh
+Gsroka
+Riboribo
+Mgjbot
+Tmoody
+Dewang
+Nickolay
+Ptak82
+RobG
+BenoitL
+Peter1789
+GT
+Dria
+JesseW

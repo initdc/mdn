@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/svg/namespaces_crash_course/index.html
+
+# Original Wiki contributors
+bgueth
+Oliver_Schafeld

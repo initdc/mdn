@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            .container {
+  width: 320px;
+  height: 213px;
+  background: black;
+}
+
+.view {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: white;
+  border-radius: 50%;
+}
+
+img {
+  mix-blend-mode: darken;
+}
+        </style>
+        
+        <title>GlobalEventHandlers.onmousedown - example - code sample</title>
+    </head>
+    <body>
+        
+            <div class="container">
+  <div class="view" hidden></div>
+  <img src="https://interactive-examples.mdn.mozilla.net/media/examples/gecko-320-213.jpg">
+</div>
+        
+        
+            <script>
+                function showView(event) {
+  view.removeAttribute('hidden');
+  view.style.left = event.clientX - 50 + 'px';
+  view.style.top = event.clientY - 50 + 'px';
+  event.preventDefault();
+}
+
+function moveView(event) {
+  view.style.left = event.clientX - 50 + 'px';
+  view.style.top = event.clientY - 50 + 'px';
+}
+
+function hideView(event) {
+  view.setAttribute('hidden', '');
+}
+
+const container = document.querySelector('.container');
+const view = document.querySelector('.view');
+
+container.onmousedown = showView;
+container.onmousemove = moveView;
+document.onmouseup = hideView;
+            </script>
+        
+    </body>
+</html>

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/tutorial/svg_in_html_introduction/index.md
+
+# Original Wiki contributors
+AlainGourves
+chrisdavidmills
+benjaminabel
+BenoitL
+Chbok

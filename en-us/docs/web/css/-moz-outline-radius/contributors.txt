@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-moz-outline-radius/index.md
+
+# Original Wiki contributors
+Sheppy
+chrisdavidmills
+ddbeck
+wbamberg
+Davesjoshin
+mfuji09
+jhpratt
+lucaswerkmeister
+fscholz
+teoli
+mfluehr
+Simplexible
+Prinz_Rana
+duncanmcdonald
+Sebastianz
+ethertank
+Jürgen Jeka
+BijuGC
+Fredchat
+Mgjbot
+Spanglerco
+Nickolay

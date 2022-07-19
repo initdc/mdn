@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/shorthand_properties/index.md
+
+# Original Wiki contributors
+cdoublev
+gerfolder
+jalbertbowden
+billmei
+mfuji09
+stephaniehobson
+Sheppy
+mfluehr
+ericwilligers
+allen.dean
+gingur
+rubenmarcus
+BychekRU
+danielhickman
+fscholz
+sethdill
+xfq
+kscarfone
+basdirks
+ethertank
+teoli
+Ptak82
+Peng
+Np
+Dria
+DBaron
+alecananian

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvas_api/tutorial/hit_regions_and_accessibility/index.html
+
+# Original Wiki contributors
+fenyu
+bluelifeleer
+May
+luojia
+codingwangxiansen
+ziyunfei
+Sheppy
+fiona23
+jasonworg

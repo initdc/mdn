@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/_doublecolon_placeholder/index.html
+
+# Original Wiki contributors
+dusehrla6432

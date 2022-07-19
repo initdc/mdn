@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/security/secure_contexts/features_restricted_to_secure_contexts/index.md
+
+# Original Wiki contributors
+hamishwillee
+sideshowbarker
+mfuji09
+Sheppy
+darby
+chrisdavidmills
+fscholz
+Malvoz
+myakura
+cletusw
+jonathanKingston
+erikadoyle
+Annevk

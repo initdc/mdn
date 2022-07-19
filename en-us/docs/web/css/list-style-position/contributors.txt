@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/list-style-position/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+mfluehr
+ddbeck
+fscholz
+brianmacdonald
+Sebastianz
+erikadoyle
+asikora
+SphinxKnight
+HTMLValidator
+kscarfone
+teoli
+hydrurga
+ethertank
+mnoorenberghe
+kauffj
+grendel
+Alex Lakatos
+Jürgen Jeka
+Nathymig
+BijuGC
+DBaron
+Mgjbot
+PablO
+Ptak82
+alecananian

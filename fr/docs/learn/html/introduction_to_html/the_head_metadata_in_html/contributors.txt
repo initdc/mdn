@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/html/introduction_to_html/the_head_metadata_in_html/index.md
+
+# Original Wiki contributors
+gauthier.delaserraz
+lord128
+Chomchaum
+Dralyab
+tonybengue
+bastosh
+loella16
+Pethrow
+KhalilSnaake

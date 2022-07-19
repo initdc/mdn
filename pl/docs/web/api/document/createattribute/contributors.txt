@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/createattribute/index.html
+
+# Original Wiki contributors
+teoli
+jsx
+Jan Dudek
+Ptak82
+Takenbot
+Filemon

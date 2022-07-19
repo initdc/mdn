@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/storagemanager/persisted/index.md
+
+# Original Wiki contributors
+masoud-msk
+Wind1808
+ddbeck
+chrisdavidmills
+YourDoge
+shawn_huang
+david_ross
+jpmedley

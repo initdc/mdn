@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/guide/ajax/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+Zwierz
+Mgjbot
+Ptak82
+Staszyna
+gandalf
+Dria
+Anonymous

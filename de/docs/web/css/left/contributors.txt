@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/left/index.html
+
+# Original Wiki contributors
+SJW
+fscholz
+Simplexible
+Prinz_Rana
+Sebastianz
+The Witcher

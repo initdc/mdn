@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/firefox/releases/3/index.md
+
+# Original Wiki contributors
+jackblackevo
+wbamberg
+RJ_Hsiao
+teoli
+Mgjbot
+BobChao
+Coolcd

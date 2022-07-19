@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/cdn/index.html
+
+# Original Wiki contributors
+LesikTheCat

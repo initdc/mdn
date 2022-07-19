@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/asynchronous/introducing/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+SpartaSixZero
+ptk
+Rafael_Green
+Jmnsrg92
+mariusmucenicu
+tywmick
+mahrr
+ZhenWang-Jen
+pmurzin
+horstmannd
+Sheppy

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/channel_messaging_api/using_channel_messaging/index.md
+
+# Original Wiki contributors
+peterbe
+mcmimik
+vringar
+Wind1808
+fscholz
+sideshowbarker
+chrisdavidmills
+ollelauribostrom
+DomenicDenicola
+cs09g
+neb
+erikadoyle
+Sebastianz
+teoli
+kscarfone

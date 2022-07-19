@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/time/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+fscholz
+jpmedley
+mfluehr
+xfq
+Sebastianz
+moali1.
+Prinz_Rana
+Jeremie
+teoli
+kscarfone
+FredB
+Cust0dian
+Sheppy
+tregagnon
+Huan
+TabAtkins
+McGurk

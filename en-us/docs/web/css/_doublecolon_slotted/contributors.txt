@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_doublecolon_slotted/index.md
+
+# Original Wiki contributors
+wbamberg
+wise
+Halochkin
+pallxk
+jpmedley
+fscholz
+chrisdavidmills

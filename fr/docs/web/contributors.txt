@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/index.md
+
+# Original Wiki contributors
+inwardmovement
+SphinxKnight
+RolandGautier
+alexetgus
+ThreadElric
+tonybengue
+AvatarWeb
+Alpha
+eagleusb
+x2357
+udakpakembim
+teoli
+Fredchat
+wakka27
+Juju77
+tregagnon
+Sheppy

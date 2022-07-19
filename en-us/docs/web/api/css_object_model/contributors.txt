@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/css_object_model/index.md
+
+# Original Wiki contributors
+foolip
+mfuji09
+ExE-Boss
+estelle
+SphinxKnight
+faramozzayw
+lenticktocktheclock
+dettier
+teoli
+fscholz
+Brettz9

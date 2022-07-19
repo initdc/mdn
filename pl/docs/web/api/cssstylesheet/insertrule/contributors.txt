@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/cssstylesheet/insertrule/index.html
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+AshfaqHossain
+Gompka
+Ptak82
+Internauta1024A

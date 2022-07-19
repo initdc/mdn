@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/html/element/index.html
+
+# Original Wiki contributors
+miaumere
+xd1010
+SphinxKnight
+teoli
+Ptak82
+Mgjbot
+Chrisraven
+Witia
+PablO
+VooEak
+Sullei

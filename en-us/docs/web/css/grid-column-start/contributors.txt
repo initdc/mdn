@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/grid-column-start/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+Sheppy
+vinyldarkscratch
+mfuji09
+wise
+chrisdavidmills
+fscholz
+libbymc
+mfluehr
+sblotner
+danbovey
+jpmedley
+teoli
+Sebastianz
+rolfedh

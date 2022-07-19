@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/webgl_api/tutorial/getting_started_with_webgl/index.md
+
+# Original Wiki contributors
+Yukulele.
+Julien-prrs
+chrisdavidmills
+TimPrd
+BonoBX
+naneunga
+NemoNobobyPersonne
+museifu1
+nonatomiclabs
+teoli
+fscholz
+TimN
+ThePrisoner

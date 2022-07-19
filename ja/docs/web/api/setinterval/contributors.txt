@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/setinterval/index.md
+
+# Original Wiki contributors
+Potappo
+yyss
+mushahiroyuki
+teoli
+jsx
+ethertank
+Ceth
+Shoot
+Marsf
+Okome
+Taken
+Mgjbot
+Hfjapancom

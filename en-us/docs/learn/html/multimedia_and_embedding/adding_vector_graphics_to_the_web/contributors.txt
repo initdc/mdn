@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/multimedia_and_embedding/adding_vector_graphics_to_the_web/index.md
+
+# Original Wiki contributors
+gdsimoes
+ralaplines1988
+dd-pardal
+chrisdavidmills
+choudh70
+tayyabalishan
+Zectbumo
+danialtaherifar
+imba-tjd
+mfuji09
+bdeloeste
+deacon
+agnelvishal
+stephaniehobson
+potmpark
+richardzacur
+Andrew_Pfeiffer
+hbloomer

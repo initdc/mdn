@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/tutorials/2d_breakout_game_pure_javascript/create_the_canvas_and_draw_on_it/index.md
+
+# Original Wiki contributors
+Somehow
+wbamberg
+DHecarim
+ziyunfei
+jiii

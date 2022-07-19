@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/blob/index.md
+
+# Original Wiki contributors
+alattalatta
+hsl0
+parksb
+limkukhyun
+kuil09

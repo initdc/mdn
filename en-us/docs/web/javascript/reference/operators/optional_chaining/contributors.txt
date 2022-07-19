@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/optional_chaining/index.md
+
+# Original Wiki contributors
+prosovskyf
+eemeli
+icecream17
+graham_king
+claudepache
+sideshowbarker
+xgqfrms
+backbencher.dev
+fscholz
+snek
+mfuji09
+akshayjai1
+wbamberg
+Garnax
+djamshed
+lmmfranco
+DariaManko
+David_Gilbertson
+crissdev
+HolgerJeromin
+SphinxKnight
+ExE-Boss
+Jack.Works
+rwaldron
+Nux
+htmlandbacon
+milky2028
+smndhm
+Sheppy

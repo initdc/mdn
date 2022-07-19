@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/wbr/index.md
+
+# Original Wiki contributors
+wendko
+JamesCatt
+chrisdavidmills
+mfuji09
+bripmccann
+wbamberg
+SphinxKnight
+fscholz
+yuheiy
+crissdev
+teoli
+sideshowbarker
+erikadoyle
+Sebastianz
+dio
+marek-saji
+khs
+dbs
+kscarfone
+Sheppy
+medicdude
+ethertank
+cers
+PatrickKettner
+McGurk
+hobophobe
+Ms2ger
+jswisher

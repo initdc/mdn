@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/_colon_indeterminate/index.md
+
+# Original Wiki contributors
+artentica
+SphinxKnight
+jbuiquan
+edspeedy
+GeoffreyC.
+Goofy
+tregagnon
+louuis
+teoli
+FredB

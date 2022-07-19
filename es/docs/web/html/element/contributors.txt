@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/index.html
+
+# Original Wiki contributors
+Enesimus
+IsraelFloresDGA
+ivanhelo
+gabriel-ar
+raecillacastellana
+imangas
+jccancelo
+vltamara
+teoli
+LinoJaime
+Rkovac
+betoscopio
+semptrion
+StripTM
+deimidis
+Mgjbot
+Klosma
+Jorolo

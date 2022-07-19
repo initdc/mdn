@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/css_transforms/using_css_transforms/index.md
+
+# Original Wiki contributors
+Flaburgan
+SphinxKnight
+edspeedy
+fscholz
+teoli
+Delapouite
+FredB
+BenoitL

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/xslt/element/import/index.md
+
+# Original Wiki contributors
+SphinxKnight
+T1p0un3t
+chrisdavidmills
+VincentN
+Fredchat

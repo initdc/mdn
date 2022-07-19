@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlelement/innertext/index.md
+
+# Original Wiki contributors
+genzai
+mfuji09
+momdo
+j5a

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/objects/classes_in_javascript/index.md
+
+# Original Wiki contributors
+Damoness
+ZengYu
+wnor543
+meteorlxy
+zxsunrise
+lihaoyuan
+Tuoe
+Ray-Eldath
+finegao
+Zeng
+goat91
+liq297
+JX-Master
+_gebilaowang
+WavinFlag

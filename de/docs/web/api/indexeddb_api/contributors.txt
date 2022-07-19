@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/api/indexeddb_api/index.html
+
+# Original Wiki contributors
+SanQu
+chrisdavidmills
+Oliver_Schafeld
+jdoose
+syncopation
+braeutigamj
+senk
+tleilax
+NiklasMerz
+Patrick_St.
+Huan

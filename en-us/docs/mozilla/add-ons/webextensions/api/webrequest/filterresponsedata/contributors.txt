@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/webrequest/filterresponsedata/index.md
+
+# Original Wiki contributors
+rebloor
+kernp
+seanlinsley_
+hellosct1
+irenesmith
+Easy
+wbamberg

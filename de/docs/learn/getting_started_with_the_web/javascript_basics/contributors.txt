@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/learn/getting_started_with_the_web/javascript_basics/index.html
+
+# Original Wiki contributors
+jorgemontoyab
+urewig
+loicyondjeu
+ilonaherr
+SaschaHeyer
+fxmt
+Shidigital
+hapeit
+danielsimon1
+nuracubeTranslations
+QuaGS
+monja-schreppel
+Purple-Vampire

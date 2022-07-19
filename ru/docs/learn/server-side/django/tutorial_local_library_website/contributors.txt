@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/server-side/django/tutorial_local_library_website/index.html
+
+# Original Wiki contributors
+mmbl
+hexeh
+FeruzOripov
+Flygrounder

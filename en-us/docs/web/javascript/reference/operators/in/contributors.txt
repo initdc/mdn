@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/in/index.md
+
+# Original Wiki contributors
+HiEv
+bodaz
+fscholz
+Zearin_Galaurum
+Tigt
+zhuangyin
+wbamberg
+vitaliylag
+v-Stein
+jameshkramer
+nmve
+kdex
+kamoroso94
+lewisje
+Sebastianz
+Havvy
+mrienstra
+onlyofrajat
+Sheppy
+Brettz9
+ethertank
+moreati
+mattcg
+Sevenspade
+Mgjbot
+Nickolay
+Dria

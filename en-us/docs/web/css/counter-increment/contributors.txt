@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/counter-increment/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+rachelandrew
+estelle
+connorshea
+ddbeck
+mfluehr
+fscholz
+Perumal93
+elysdir1
+erikadoyle
+Sebastianz
+jsx
+teoli
+kscarfone
+yohohoho
+hydrurga
+ethertank
+grendel
+Zearin
+BijuGC
+DBaron
+Mgjbot
+Ptak82
+Spanglerco

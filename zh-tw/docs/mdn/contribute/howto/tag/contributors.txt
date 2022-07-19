@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mdn/contribute/howto/tag/index.md
+
+# Original Wiki contributors
+wbamberg
+yami

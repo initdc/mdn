@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/normalize/index.md
+
+# Original Wiki contributors
+em-te
+fscholz
+Zearin_Galaurum
+wbamberg
+chrisdavidmills
+jameshkramer
+arai
+kdex
+robertknight
+eduardoboucas
+RodEsp
+NetHaven
+leobalter
+getify
+Mingun
+trueorfalse
+realityking
+Waldo
+Havvy
+ziyunfei

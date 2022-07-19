@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/date/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Rigaudie
+necraidan
+JulienBertacco
+madarche
+jyloup
+noriam
+sebastienserre
+teoli
+Goofy
+tregagnon
+LaBoumerde
+daniel35310

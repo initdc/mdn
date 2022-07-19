@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/margin/index.md
+
+# Original Wiki contributors
+mfuji09
+mpcjazz
+taiyaki32lp64
+Simplexible
+Prinz_Rana
+fscholz
+Sebastianz
+ethertank
+sosleepy
+teoli
+Yuichiro

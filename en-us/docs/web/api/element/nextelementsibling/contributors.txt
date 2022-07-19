@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/nextelementsibling/index.md
+
+# Original Wiki contributors
+Krinkle
+fscholz
+freginold
+jszhou
+RobBelics
+birjolaxew
+Alhadis
+teoli
+awalGarg
+tregagnon
+Sheppy
+ziyunfei
+GavinSharp
+Jürgen Jeka

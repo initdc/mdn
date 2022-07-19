@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/controllers/index.html
+
+# Original Wiki contributors
+wbamberg
+fscholz
+khalid32
+ethertank
+Potappo

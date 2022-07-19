@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/manifest.json/optional_permissions/index.md
+
+# Original Wiki contributors
+caitmuenster
+bershanskiy
+rebloor
+Zearin_Galaurum
+wbamberg
+glacambre
+aswan
+stoically
+andrewtruongmoz

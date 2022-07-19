@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlcanvaselement/getcontext/index.md
+
+# Original Wiki contributors
+Thw0rted
+anonyco
+germain
+jpmedley
+mfluehr
+sideshowbarker
+fscholz
+K3N
+Jedipedia
+junov
+ceph3us
+chrisdavidmills
+DevTactix
+gmanpersona
+echeese
+nmve
+erikadoyle
+poiru
+markg
+Sebastianz
+Nexii
+teoli

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/subtlecrypto/exportkey/index.md
+
+# Original Wiki contributors
+Brettz9
+wbamberg
+Sheppy
+rwoll
+chrisdavidmills
+galehouse5
+fscholz
+fozi
+Dans24
+abbycar
+teoli

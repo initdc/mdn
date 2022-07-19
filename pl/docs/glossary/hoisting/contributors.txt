@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/glossary/hoisting/index.html
+
+# Original Wiki contributors
+Sousuke
+pkubowicz
+Miras

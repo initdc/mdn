@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+dcompcoder
+jswisher
+mfuji09
+SphinxKnight
+wbamberg
+Arijul420
+xfq
+Sheppy
+stephaniehobson
+fscholz
+dvincent
+Ongkang763
+groovecoder
+DavidWalsh
+ziyunfei

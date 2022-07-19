@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/element/getattributens/index.md
+
+# Original Wiki contributors
+SphinxKnight
+loella16
+fscholz
+teoli
+khalid32
+Mgjbot
+BenoitL
+Fredchat

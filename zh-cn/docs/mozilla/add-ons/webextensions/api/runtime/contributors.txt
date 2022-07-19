@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mozilla/add-ons/webextensions/api/runtime/index.md
+
+# Original Wiki contributors
+Landius
+wbamberg
+gogogoghost
+WEKEYSHIT

@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/function/caller/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+claudepache
+Yialo
+instantaphex
+Voile
+Souzooka
+saintstarrow
+jameshkramer
+BtM909
+steveworley
+Mingun
+Sheppy
+myf
+ziyunfei
+Konijn
+evilpie
+devongovett
+paul.irish
+Mgjbot
+Sevenspade
+Nickolay
+Maian

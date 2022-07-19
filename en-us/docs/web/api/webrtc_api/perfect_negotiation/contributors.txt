@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webrtc_api/perfect_negotiation/index.md
+
+# Original Wiki contributors
+PsychoLlama
+Sheppy
+fernandomrtnz
+Jib

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/documenttype/index.md
+
+# Original Wiki contributors
+connorshea
+stevenwdv
+arronei
+erikadoyle
+fscholz
+Sebastianz
+teoli
+ethertank
+Sheppy
+Brettz9
+samuelkato

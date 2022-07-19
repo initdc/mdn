@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/css_grid_layout/index.md
+
+# Original Wiki contributors
+mfuji09
+dynamis
+hamasaki
+8845musign
+momdo
+chuck0523

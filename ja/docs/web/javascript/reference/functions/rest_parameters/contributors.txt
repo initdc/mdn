@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/functions/rest_parameters/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+Uemmra3
+mdmss37
+hashedhyphen
+Marsf
+lv7777
+shide55

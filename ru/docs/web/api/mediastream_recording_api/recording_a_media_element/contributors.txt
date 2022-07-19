@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/mediastream_recording_api/recording_a_media_element/index.html
+
+# Original Wiki contributors
+mechtool

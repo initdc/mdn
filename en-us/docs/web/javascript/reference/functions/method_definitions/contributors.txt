@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/functions/method_definitions/index.md
+
+# Original Wiki contributors
+senocular
+jpaugh
+jinbeomhong
+fscholz
+Zearin_Galaurum
+webgene
+wbamberg
+doubleOrt
+SphinxKnight
+jameshkramer
+arai
+nmve
+kdex
+behnammodi
+CYBAI
+bergus
+jpmedley
+ysangkok

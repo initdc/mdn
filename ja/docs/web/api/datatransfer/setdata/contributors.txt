@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/datatransfer/setdata/index.md
+
+# Original Wiki contributors
+dlwe
+hamasaki
+Marsf

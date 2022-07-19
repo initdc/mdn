@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            html,body {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.grid {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background: #EEE;
+  font: 1em monospace;
+}
+
+.row {
+  display: flex;
+  flex: 1 auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.col {
+  display: flex;
+  flex: 1 auto;
+  flex-direction: column;
+}
+
+.cell {
+  box-sizing: border-box;
+  margin: .5em;
+  padding: .5em;
+  background-color: #FFF;
+  overflow: hidden;
+  text-align: center;
+}
+
+.note {
+  background: #fff3d4;
+  padding: 1em;
+  margin: 0 .5em .5em;
+  font: .8em sans-serif;
+  text-align: center;
+  flex: none;
+}
+
+input[type=number] {
+  width: 3rem;
+}
+
+.border {
+  width : 140px;
+  height: 140px;
+  border: 1px solid #E4F0F5;
+  margin: .5rem auto;
+  overflow: hidden;
+}
+
+.content {
+  width : 50px;
+  height: 50px;
+  margin: 44px;
+  border: 1px dotted hsla(0, 100%, 50%, .5);
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  width : 5px;
+  height: 5px;
+  border-radius: 100%;
+  background: red;
+  top : 50%;
+  left: 50%;
+  transform: translate(-3px, -3px);
+  z-index: 1;
+}
+
+.center:before {
+  content: '';
+  position: absolute;
+  left  : 2px;
+  right : 2px;
+  top   : -6px;
+  bottom: -6px;
+  background: red;
+}
+
+.center:after {
+  content: '';
+  position: absolute;
+  left  : -6px;
+  right : -6px;
+  top   : 2px;
+  bottom: 2px;
+  background: red;
+}
+
+.tr {
+  width : 50px;
+  height: 50px;
+  background: hsla(215, 100%, 50%, 0.3);
+  transition: transform 2s linear;
+}
+
+.tr.d2  { transform: rotate(-120deg);  }
+.tr.d3x { transform: rotatex(-120deg); }
+.tr.d3y { transform: rotatey(-120deg); }
+.tr.d3z { transform: rotatez(-120deg); }
+        </style>
+        
+        <title>transform-origin - transform-origin - code sample</title>
+    </head>
+    <body>
+        
+            <div class="grid">
+  <div class="col">
+    <div class="row">
+      <div class="cell">
+        rotate(<span class="angle">-120</span>deg);
+        <div class="border">
+          <div class="content">
+            <div class="center"></div>
+            <div class="tr d2"></div>
+          </div>
+        </div>
+      </div>
+      <div class="cell">
+        rotatex(<span class="angle">-120</span>deg);
+        <div class="border">
+          <div class="content">
+            <div class="center"></div>
+            <div class="tr d3x"></div>
+          </div>
+        </div>
+      </div>
+      <div class="cell">
+        rotatey(<span class="angle">-120</span>deg);
+        <div class="border">
+          <div class="content">
+            <div class="center"></div>
+            <div class="tr d3y"></div>
+          </div>
+        </div>
+      </div>
+      <div class="cell">
+        rotatez(<span class="angle">-120</span>deg);
+        <div class="border">
+          <div class="content">
+            <div class="center"></div>
+            <div class="tr d3z"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="cell note">
+      transform-origin: <input type="text" value="30% top -20px"> (<i>rotate by <input type="number" min="-360" max="360" value="-120"> deg</i>)
+    </div>
+  </div>
+</div>
+        
+        
+            <script>
+                window.addEventListener('load', function () {
+  var LENGTH = /^-?\d+(?:em|ex|cap|ch|ic|rem|lh|rlh|vh|vw|vi|vb|vmin|vmax|px|mm|q|cm|in|pt|pc$)/
+  var LENGTH_PERCENT = /^-?\d+(?:em|ex|cap|ch|ic|rem|lh|rlh|vh|vw|vi|vb|vmin|vmax|px|mm|q|cm|in|pt|pc|%$)/
+
+  var KEYX = /^left|center|right$/
+  var KEYY = /^top|center|bottom$/
+  var KEYALL = /^left|center|right|top|bottom$/
+
+  var INPUT = document.querySelector('input[type=text]')
+  var ANGLE = document.querySelector('input[type=number]')
+  var CENTER= Array.from(document.querySelectorAll('.center'))
+  var TR    = Array.from(document.querySelectorAll('.tr'))
+
+  function update () {
+    INPUT.style.boxShadow = 'none'
+    var val  = INPUT.value.trim()
+    var isValid = true
+    var v = val.split(/\s+/)
+
+    isValid = isValid && (v[2] === undefined || LENGTH.test(v[2]))
+    isValid = isValid && (v[1] === undefined || LENGTH_PERCENT.test(v[1]) || KEYALL.test(v[1]))
+    isValid = isValid && (LENGTH_PERCENT.test(v[0]) || KEYALL.test(v[0]))
+
+    if (v.length === 2) {
+      var double_key_words = KEYY.test(v[0]) && KEYX.test(v[1])
+      var ordinary_value = (LENGTH_PERCENT.test(v[0]) || KEYX.test(v[0])) && (LENGTH_PERCENT.test(v[1]) || KEYY.test(v[1]))
+
+      isValid = isValid && (double_key_words || ordinary_value)
+    }
+
+
+    if (!isValid) {
+      val = '50% 50%'
+
+      if (v[0] !== '') {
+        INPUT.style.boxShadow = '0 0 .5em red'
+      }
+    }
+
+    TR.forEach(function (tr, index) {
+      tr.style.transformOrigin = val;
+
+      setTimeout(function () {
+        var pos = window.getComputedStyle(tr).transformOrigin.split(/\s+/);
+
+        CENTER[index].style.left = pos[0]
+        CENTER[index].style.top  = pos[1]
+      }, 0)
+    })
+  }
+
+  function rotate() {
+    var value = Math.min(360, Math.max(-360, Number(ANGLE.value) || 0));
+
+    document.querySelector('.d2').style.transform = 'rotate(' + value + 'deg)'
+    document.querySelector('.d3x').style.transform = 'rotatex(' + value + 'deg)'
+    document.querySelector('.d3y').style.transform = 'rotatey(' + value + 'deg)'
+    document.querySelector('.d3z').style.transform = 'rotatez(' + value + 'deg)'
+    Array.from(document.querySelectorAll('.angle')).forEach(function (node){
+      node.innerText = value
+    })
+  }
+
+  function mouseenter() {
+    document.querySelector('.tr.d2' ).style.transform = 'rotate(0)'
+    document.querySelector('.tr.d3x').style.transform = 'rotatex(0)'
+    document.querySelector('.tr.d3y').style.transform = 'rotatey(0)'
+    document.querySelector('.tr.d3z').style.transform = 'rotatez(0)'
+  }
+
+  INPUT.addEventListener('input', update)
+  ANGLE.addEventListener('input', rotate)
+  update()
+  rotate()
+
+  document.querySelector('.row').addEventListener('mouseenter', mouseenter)
+  document.querySelector('.row').addEventListener('mouseleave', rotate)
+})
+            </script>
+        
+    </body>
+</html>

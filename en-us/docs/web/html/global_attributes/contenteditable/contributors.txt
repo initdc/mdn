@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/global_attributes/contenteditable/index.md
+
+# Original Wiki contributors
+lukkea
+mfuji09
+alattalatta
+sideshowbarker
+wbamberg
+SphinxKnight
+estelle
+Wryn
+jpreuss
+ExE-Boss
+genezx
+DragMeToProgramming
+jpmedley
+Sheppy
+mfluehr
+chrisdavidmills
+teoli

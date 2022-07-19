@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/grid-template-rows/index.md
+
+# Original Wiki contributors
+rachelandrew
+chrisdavidmills
+wbamberg
+Sheppy
+motine
+fscholz
+libbymc
+weslord
+mfluehr
+jwbrew
+foozle
+david_ross
+Sebastianz
+Konrud
+jpmedley
+teoli
+rolfedh

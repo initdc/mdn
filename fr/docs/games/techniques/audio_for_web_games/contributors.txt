@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/games/techniques/audio_for_web_games/index.md
+
+# Original Wiki contributors
+wbamberg
+loella16
+quentin.lamamy

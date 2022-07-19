@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/shadow_tree/index.md
+
+# Original Wiki contributors
+sideshowbarker
+gengOne
+msobanjo
+devinea2
+PanayiotisPaschalides
+venugopalms
+Sheppy

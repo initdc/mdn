@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/document/importnode/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Marsf
+lambdasawa
+fscholz
+khalid32
+ethertank
+Sheppy
+Shoot

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/filereader/readasarraybuffer/index.md
+
+# Original Wiki contributors
+thebrave
+roptch
+loella16
+notnope

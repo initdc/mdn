@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/function/index.md
+
+# Original Wiki contributors
+Pedestrian93
+RainSlide
+xgqfrms-GitHub

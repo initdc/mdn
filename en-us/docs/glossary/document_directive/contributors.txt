@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/document_directive/index.md
+
+# Original Wiki contributors
+jswisher
+bershanskiy
+mfuji09
+Sheppy
+Malvoz
+Rocker
+fscholz

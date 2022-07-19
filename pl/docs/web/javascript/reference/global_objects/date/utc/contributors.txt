@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/date/utc/index.html
+
+# Original Wiki contributors
+teoli
+Witia
+Mgjbot
+telendt
+Ptak82
+Diablownik

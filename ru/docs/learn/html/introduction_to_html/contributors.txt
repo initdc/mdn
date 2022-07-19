@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/html/introduction_to_html/index.html
+
+# Original Wiki contributors
+boxa6
+skapesec
+VAskel
+SedovDP
+SergeyIrk
+s1lver
+alekaru
+Denispok
+AKonia
+pk.prog
+Vosik
+Cyganov

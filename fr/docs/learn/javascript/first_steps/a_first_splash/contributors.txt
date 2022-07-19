@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/javascript/first_steps/a_first_splash/index.md
+
+# Original Wiki contributors
+smeden-lod
+Floles
+Eric-ciccotti
+clamb
+Dralyab
+tonybengue
+jumperparis
+Merkrynis
+withedouard
+moziyin76

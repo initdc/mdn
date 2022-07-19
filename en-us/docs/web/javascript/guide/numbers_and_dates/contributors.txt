@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/guide/numbers_and_dates/index.md
+
+# Original Wiki contributors
+mfuji09
+MaximYaskov
+techCarpenter
+sawyerrken
+fscholz
+Loadmaster
+Sheppy
+avinashdhinwa
+ThomasRedstone
+jamesray1
+omeid
+stephaniehobson
+zziccardi
+mehdiyev
+JonathanPool
+nmve
+kdex
+allan-bonadio
+crueschenberg
+Jeremie
+stevemao
+vieckys
+x2357
+nasifmdtanjim
+Alex.Wang
+gportioli
+xfq
+mahzaib
+kscarfone
+4of92000

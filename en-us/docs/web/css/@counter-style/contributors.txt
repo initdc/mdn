@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@counter-style/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+estelle
+chrisdavidmills
+mfluehr
+fscholz
+jsx
+cpplearner
+tmhrtwg
+Unihedron
+Sebastianz
+jamesbrown0
+teoli
+ziyunfei
+yisibl
+cpigat

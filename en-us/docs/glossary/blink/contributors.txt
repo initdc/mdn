@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/blink/index.md
+
+# Original Wiki contributors
+darby
+RafeyIqbalRahman
+mfuji09
+arrbaron
+jpmedley
+Andrew_Pfeiffer
+hbloomer
+klez
+kscarfone
+jsx

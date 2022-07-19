@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/css/building_blocks/selectors/index.html
+
+# Original Wiki contributors
+Miras
+teoli
+lukasz.jezierski
+Mgjbot
+Verruckt
+gandalf
+Takenbot
+Ptak82
+Ruby
+Cleriic
+Witia
+Anonymous

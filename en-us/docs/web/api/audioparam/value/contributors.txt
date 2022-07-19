@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audioparam/value/index.md
+
+# Original Wiki contributors
+Sheppy
+jakubfiala
+haywirez
+Jedipedia
+fscholz
+chrisdavidmills
+erikadoyle

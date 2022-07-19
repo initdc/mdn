@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/express_nodejs/displaying_data/genre_detail_page/index.md
+
+# Original Wiki contributors
+hamishwillee
+chrisdavidmills
+kruschk
+brianball
+Sheffler09
+IanR
+thekosiguy
+soij
+edgar-chen
+seneca
+gaurishg
+Tamenze
+david_ross

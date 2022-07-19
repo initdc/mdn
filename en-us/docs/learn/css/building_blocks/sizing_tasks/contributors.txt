@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/sizing_tasks/index.md
+
+# Original Wiki contributors
+jpfkd
+sakthivelsekar33
+blueblots
+rachelandrew

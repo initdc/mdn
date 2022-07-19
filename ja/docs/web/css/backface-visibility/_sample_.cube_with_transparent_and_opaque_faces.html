@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            /* 「立方体」の 3 つの背面を表示または非表示にするクラス */
+.showbf div {
+  backface-visibility: visible;
+}
+
+.hidebf div {
+  backface-visibility: hidden;
+}
+
+/* コンテナ div、立方体 div、面の一般的な設定 */
+.container {
+  width: 150px;
+  height: 150px;
+  margin: 75px 0 0 75px;
+  border: none;
+}
+
+.cube {
+  width: 100%;
+  height: 100%;
+  perspective: 550px;
+  perspective-origin: 150% 150%;
+  transform-style: preserve-3d;
+}
+
+.face {
+  display: block;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: none;
+  line-height: 100px;
+  font-family: sans-serif;
+  font-size: 60px;
+  color: white;
+  text-align: center;
+}
+
+/* 方向に基づいてそれぞれの面を設定 */
+.front {
+  background: rgba(0, 0, 0, 0.3);
+  transform: translateZ(50px);
+}
+
+.back {
+  background: rgba(0, 255, 0, 1);
+  color: black;
+  transform: rotateY(180deg) translateZ(50px);
+}
+
+.right {
+  background: rgba(196, 0, 0, 0.7);
+  transform: rotateY(90deg) translateZ(50px);
+}
+
+.left {
+  background: rgba(0, 0, 196, 0.7);
+  transform: rotateY(-90deg) translateZ(50px);
+}
+
+.top {
+  background: rgba(196, 196, 0, 0.7);
+  transform: rotateX(90deg) translateZ(50px);
+}
+
+.bottom {
+  background: rgba(196, 0, 196, 0.7);
+  transform: rotateX(-90deg) translateZ(50px);
+}
+
+/* テーブルの見栄えをよくする */
+th, p, td {
+  background-color: #EEEEEE;
+  margin: 0px;
+  padding: 6px;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+        </style>
+        
+        <title>backface-visibility - cube_with_transparent_and_opaque_faces - code sample</title>
+    </head>
+    <body>
+        
+            <table>
+  <tr>
+    <th><code>backface-visibility: visible;</code></th>
+    <th><code>backface-visibility: hidden;</code></th>
+  </tr>
+  <tr>
+    <td>
+      <div class="container">
+        <div class="cube showbf">
+          <div class="face front">1</div>
+          <div class="face back">2</div>
+          <div class="face right">3</div>
+          <div class="face left">4</div>
+          <div class="face top">5</div>
+          <div class="face bottom">6</div>
+        </div>
+      </div>
+      <p>
+        すべての面が透明であり、
+        裏面 (2, 4, 5) が 表面 (1, 3, 6) を通して表示されます。
+      </p>
+    </td>
+    <td>
+      <div class="container">
+        <div class="cube hidebf">
+          <div class="face front">1</div>
+          <div class="face back">2</div>
+          <div class="face right">3</div>
+          <div class="face left">4</div>
+          <div class="face top">5</div>
+          <div class="face bottom">6</div>
+        </div>
+      </div>
+      <p>
+        背後の3面 (2, 4, 5) は非表示です。
+      </p>
+    </td>
+  </tr>
+</table>
+
+        
+        
+    </body>
+</html>

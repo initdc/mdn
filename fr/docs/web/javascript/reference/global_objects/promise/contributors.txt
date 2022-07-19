@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/promise/index.md
+
+# Original Wiki contributors
+SphinxKnight
+jbdebiasio
+hellosct1
+bbouvier
+VivienZo
+sammy44nts
+Mr21
+toons3000
+teoli
+neveldo
+nicodel
+Goofy
+P45QU10U

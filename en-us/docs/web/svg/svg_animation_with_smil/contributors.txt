@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/svg_animation_with_smil/index.md
+
+# Original Wiki contributors
+hoang4
+a-mt
+fscholz
+myf
+SphinxKnight
+pipcet
+teropa
+Longsonr
+sanderd17
+jpmedley
+dbruenig
+shakyjake
+Jeremie
+Sheppy
+Nilam
+yyss
+Brettz9
+jswisher
+sebmozilla

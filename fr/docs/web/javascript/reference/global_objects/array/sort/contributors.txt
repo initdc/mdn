@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/array/sort/index.md
+
+# Original Wiki contributors
+Giildo
+SphinxKnight
+Belle85
+Halkeand
+toto-le-pirate
+Ltrlg
+P45QU10U
+bfn
+teoli
+Goofy
+tregagnon
+Jeremie
+BenoitL

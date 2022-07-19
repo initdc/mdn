@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/webgl_api/tutorial/animating_objects_with_webgl/index.html
+
+# Original Wiki contributors
+chrootsu
+ulmer-morozov
+bursty
+fscholz
+smeagol74

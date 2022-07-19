@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document_object_model/introduction/index.md
+
+# Original Wiki contributors
+Lolo
+diassynthesis
+loella16
+kekbait
+SphinxKnight
+yasakura_
+teoli
+khalid32
+BenoitL
+Mgjbot
+Takenbot
+Chbok

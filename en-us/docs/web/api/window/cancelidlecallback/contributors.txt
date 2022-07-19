@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/cancelidlecallback/index.md
+
+# Original Wiki contributors
+mfuji09
+lucian95
+jpmedley
+myakura
+Sheppy
+Permutator
+Jinva
+rolfedh

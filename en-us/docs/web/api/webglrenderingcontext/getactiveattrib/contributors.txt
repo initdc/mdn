@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglrenderingcontext/getactiveattrib/index.md
+
+# Original Wiki contributors
+aardgoose
+gmanpersona
+niedzielski
+fscholz
+teoli

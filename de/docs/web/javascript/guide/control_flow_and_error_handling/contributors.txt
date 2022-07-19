@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/guide/control_flow_and_error_handling/index.html
+
+# Original Wiki contributors
+cami
+deklesen
+woiddale
+schlagi123
+SaschaHeyer
+PreCodeEU
+StevenS77
+jwhitlock
+KarolineCat
+fscholz
+vsenol
+eminor

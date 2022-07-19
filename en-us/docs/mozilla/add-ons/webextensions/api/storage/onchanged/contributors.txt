@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/storage/onchanged/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+fscholz
+hellosct1
+bovine3dom
+Rob W
+wbamberg
+Makyen
+chrisdavidmills

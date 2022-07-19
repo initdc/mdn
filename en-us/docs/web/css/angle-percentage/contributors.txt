@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/angle-percentage/index.md
+
+# Original Wiki contributors
+Sheppy
+wbamberg
+mfuji09
+chrisdavidmills
+rachelandrew

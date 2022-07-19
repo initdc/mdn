@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/_doublecolon_before/index.html
+
+# Original Wiki contributors
+RudyPL
+teoli
+lukasz.jezierski
+Mgjbot
+Ptak82
+Abc

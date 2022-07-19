@@ -1,0 +1,46 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/1.5/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+Sheppy
+ethertank
+teoli
+fscholz
+Skierpage
+Nickolay
+Mgjbot
+JeremiahGriffin
+Federico
+Illustir
+Dria
+Ivise301
+Takenbot
+Leandro Mercês Xavier
+Shimono
+JhonnyX2003
+Nukeador
+Justdave
+Serginandr
+Adriannecurry
+Johnsonne
+Empoor
+Kynilyator
+Pizdorvan
+Unarmed
+Reed
+Mcaruso
+cbiesinger
+Chbok
+Sth
+Jabberwock
+Bzbarsky
+Maian
+gandalf
+Rebron@meer.net
+Jeff Schiller
+Cbeard
+Bc
+Jesse
+Roc

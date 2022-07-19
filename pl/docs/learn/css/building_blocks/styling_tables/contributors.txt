@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/css/building_blocks/styling_tables/index.html
+
+# Original Wiki contributors
+teoli
+ethertank
+Verruckt
+gandalf
+Takenbot
+Ptak82
+Ruby
+Anonymous
+Witia

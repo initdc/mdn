@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/broadcastchannel/message_event/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+wbamberg
+Sheppy
+mfluehr
+sideshowbarker
+leonardosnt
+zhang12c
+armandombi
+erikadoyle
+teoli

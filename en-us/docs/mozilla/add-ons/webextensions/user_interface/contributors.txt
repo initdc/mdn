@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/user_interface/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+2.HALLAÇ
+hellosct1
+rebloor
+grahamperrin
+andrewtruongmoz
+wbamberg

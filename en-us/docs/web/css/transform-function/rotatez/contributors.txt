@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transform-function/rotatez/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+rachelandrew
+ramiy
+wbamberg
+mfuji09
+komalbharadiya
+andrewkshim
+mfluehr
+Sebastianz
+Thr1ve
+prayash
+SphinxKnight

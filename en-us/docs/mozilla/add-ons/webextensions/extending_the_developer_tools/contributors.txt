@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/extending_the_developer_tools/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+rewin666
+9999472
+ExE-Boss
+Kwan
+lgreco
+Dietrich
+florianb
+wbamberg
+hellosct1
+andrewtruongmoz
+freaktechnik

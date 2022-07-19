@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/file/file/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Chemah
+Kaiido
+alattalatta
+mfuji09
+ddbeck
+adilsoncabral0
+fscholz
+galvakojis
+TrevorBurnham
+runarberg

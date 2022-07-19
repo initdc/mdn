@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/releasecapture/index.md
+
+# Original Wiki contributors
+SphinxKnight
+chrisdavidmills
+Dubai33
+mfuji09
+mfluehr
+fscholz
+teoli
+MHasan
+kscarfone
+Prachi_Dighe
+ethertank
+Sheppy

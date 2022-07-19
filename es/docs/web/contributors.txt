@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/index.html
+
+# Original Wiki contributors
+gabrielazambrano307
+Nachec
+Enesimus
+blanchart
+SoftwareRVG
+danieldelvillar
+raecillacastellana
+jcbp
+BubuAnabelas
+Jacqueline
+igualar.com
+atlas7jean
+luisgm76
+Sheppy

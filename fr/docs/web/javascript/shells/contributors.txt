@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/shells/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+Goofy
+wakka27
+ziyunfei
+julienw

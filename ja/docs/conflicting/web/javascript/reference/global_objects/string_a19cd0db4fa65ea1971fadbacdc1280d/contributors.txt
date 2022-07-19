@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/javascript/reference/global_objects/string_a19cd0db4fa65ea1971fadbacdc1280d/index.html
+
+# Original Wiki contributors
+mfuji09

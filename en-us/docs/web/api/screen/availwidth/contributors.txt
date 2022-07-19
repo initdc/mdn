@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/screen/availwidth/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+Sebastianz
+teoli
+paulmand3l
+namolmes
+Sheppy
+ethertank
+Mgjbot
+Gor1

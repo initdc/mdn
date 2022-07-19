@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/microsoft_edge/index.md
+
+# Original Wiki contributors
+darby
+mfuji09
+alattalatta
+boxa6
+klez
+Andrew_Pfeiffer

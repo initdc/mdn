@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/guidelines/code_guidelines/general/index.md
+
+# Original Wiki contributors
+chrisdavidmills

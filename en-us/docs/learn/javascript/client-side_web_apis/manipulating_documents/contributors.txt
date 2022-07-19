@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/client-side_web_apis/manipulating_documents/index.md
+
+# Original Wiki contributors
+wlt
+herrieii
+chrisdavidmills
+kruschk
+HARARCA
+Aternus
+ajhsu
+jlafica
+sourav2706
+francescm
+jwq1
+stephaniehobson
+Bogdan.G
+JideLambo
+lybrendan
+mientje

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/css_box_model/index.md
+
+# Original Wiki contributors
+mfuji09
+sii
+teoli

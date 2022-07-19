@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/html/multimedia_and_embedding/adding_vector_graphics_to_the_web/index.html
+
+# Original Wiki contributors
+Simkin
+Khaidarov-Dinar
+nepiravno
+AlexChebanenko
+shade0602
+Why-are-you-crying
+vedmibot

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/operators/yield/index.html
+
+# Original Wiki contributors
+Nachec
+nicoan
+Binariado
+hamfree
+juliandavidmr

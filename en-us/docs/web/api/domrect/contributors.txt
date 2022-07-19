@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domrect/index.md
+
+# Original Wiki contributors
+OtterOne
+Sheppy
+ExE-Boss
+jpmedley
+gregtatum
+sonicdoe
+alisabzevari
+stevenwdv
+julienq
+rolfedh
+chrisdavidmills

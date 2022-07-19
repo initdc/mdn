@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/intrinsic_size/index.md
+
+# Original Wiki contributors
+mfuji09
+j9t
+estelle
+RafeyIqbalRahman
+rachelandrew
+chrisdavidmills

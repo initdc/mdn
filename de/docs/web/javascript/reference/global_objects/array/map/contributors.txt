@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/array/map/index.html
+
+# Original Wiki contributors
+mwiehl
+felix_geenen
+SebinNyshkim
+MerlindlH
+schlagi123
+kdex
+FNGR2911
+annnoo
+StevenS77
+schellmax
+justb81
+mexn
+leMaik
+derhagen
+Arminmsg

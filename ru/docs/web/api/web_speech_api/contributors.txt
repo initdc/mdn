@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/web_speech_api/index.html
+
+# Original Wiki contributors
+mangl-auf
+kant2002
+WispProxy
+effus
+lazyexpert

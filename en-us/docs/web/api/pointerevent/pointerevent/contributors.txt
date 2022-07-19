@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pointerevent/pointerevent/index.md
+
+# Original Wiki contributors
+sideshowbarker
+lpd-au
+chrisdavidmills
+jpmedley
+teoli
+bethge
+AFBarstow

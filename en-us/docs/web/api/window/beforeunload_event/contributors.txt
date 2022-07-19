@@ -1,0 +1,40 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/beforeunload_event/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+krosylight
+Roubo
+mfuji09
+wbamberg
+ThomasMays
+sideshowbarker
+TrevorKarjanis
+vishalsehgal11
+phistuck
+slokhorst
+Tigt
+SphinxKnight
+DanJ210
+mdnde
+Rob W
+Sebastianz
+developeryashraj
+gwokae
+maslade
+fscholz
+cbiesinger
+hunan-rostomyan
+sstur
+bhofmann
+finalfantasia
+GijsKruitbosch
+Taken
+Yuan.Xulei
+teoli
+togakangaroo
+Sheppy
+ethertank
+eadlam
+oncletom
+louisremi

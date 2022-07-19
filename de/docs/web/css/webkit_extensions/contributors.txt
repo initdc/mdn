@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/webkit_extensions/index.html
+
+# Original Wiki contributors
+ExE-Boss
+jlnr
+SJW

@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/asin/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+jameshkramer
+eduardoboucas
+jalexanderfox
+Mingun
+fred.wang
+Sheppy
+ethertank
+evilpie
+Mgjbot
+Kyodev
+Maian
+Marcoos
+Dria

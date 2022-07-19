@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/clipping_and_masking/index.md
+
+# Original Wiki contributors
+jrmuizel
+johnnycupertino
+Dizzy
+luics
+stan3
+leftpeg
+reidab
+trevorh
+sbgandadu
+Jeremie
+PetiPandaRou
+Manuel_Strehl
+Sheppy

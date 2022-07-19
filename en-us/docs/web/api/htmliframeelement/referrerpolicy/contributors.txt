@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmliframeelement/referrerpolicy/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Malvoz
+sideshowbarker
+fscholz
+jpmedley
+Rob W
+teoli
+ziyunfei

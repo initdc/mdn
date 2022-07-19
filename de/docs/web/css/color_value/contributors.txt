@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/color_value/index.html
+
+# Original Wiki contributors
+Borgitowner
+SJW
+Sebastianz
+Simplexible
+fscholz
+Jürgen Jeka
+Michael2402

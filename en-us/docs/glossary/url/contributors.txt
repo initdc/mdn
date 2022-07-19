@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/url/index.md
+
+# Original Wiki contributors
+boneh4140
+SphinxKnight
+alattalatta
+Sheppy
+jswisher
+Jeremie
+hbloomer
+Andrew_Pfeiffer
+klez
+ajinkya_p
+LauraHilliger

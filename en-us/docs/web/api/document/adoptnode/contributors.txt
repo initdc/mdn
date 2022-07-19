@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/adoptnode/index.md
+
+# Original Wiki contributors
+mfuji09
+Zearin_Galaurum
+sideshowbarker
+mfluehr
+wbamberg
+Tigt
+fscholz
+MitalAshok
+Bzbarsky
+Konrud
+teoli
+MHasan
+kscarfone
+ethertank
+Sheppy
+staktrace
+Brettz9
+Mgjbot
+Ptak82
+Nickolay

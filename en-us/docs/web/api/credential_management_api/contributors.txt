@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/credential_management_api/index.md
+
+# Original Wiki contributors
+dd-pardal
+mfuji09
+wbamberg
+SphinxKnight
+fscholz
+ea1000
+BenLubar
+agektmr
+jpmedley
+apowers313
+nerdkid93
+rolfedh

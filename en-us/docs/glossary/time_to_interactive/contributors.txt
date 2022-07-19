@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/time_to_interactive/index.md
+
+# Original Wiki contributors
+estelle
+sareg0
+jordana
+ehoops
+greglockwood

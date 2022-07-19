@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            div {
+  margin: 0em;
+  padding: 2em;
+}
+
+#source {
+  color: blue;
+  border: 1px solid black;
+}
+
+#target {
+  border: 1px solid black;
+}
+
+        </style>
+        
+        <title>DataTransfer.dropEffect - example - code sample</title>
+    </head>
+    <body>
+        
+            <div>
+  <p id="source" ondragstart="dragstart_handler(event);" draggable="true">
+    この要素を選択し、ドロップゾーンにドラッグして放すと、要素が移動します。
+  </p>
+</div>
+<div id="target" ondrop="drop_handler(event);" ondragover="dragover_handler(event);">ドロップゾーン</div>
+
+        
+        
+            <script>
+                function dragstart_handler(ev) {
+  console.log("dragStart: dropEffect = " + ev.dataTransfer.dropEffect + " ; effectAllowed = " + ev.dataTransfer.effectAllowed);
+
+  // この要素の id をドラッグ ペイロードに追加し、ドロップ ハンドラーが
+  // どの要素をツリーに追加するかを知ることができるようにします。
+  ev.dataTransfer.setData("text", ev.target.id);
+  ev.dataTransfer.effectAllowed = "move";
+}
+
+function drop_handler(ev) {
+  console.log("drop: dropEffect = " + ev.dataTransfer.dropEffect + " ; effectAllowed = " + ev.dataTransfer.effectAllowed);
+  ev.preventDefault();
+
+  // ターゲットの ID を取得し、移動した要素をターゲットの DOM に追加します。
+  var data = ev.dataTransfer.getData("text");
+  ev.target.appendChild(document.getElementById(data));
+}
+
+function dragover_handler(ev) {
+  console.log("dragOver: dropEffect = " + ev.dataTransfer.dropEffect + " ; effectAllowed = " + ev.dataTransfer.effectAllowed);
+  ev.preventDefault();
+  // dropEffect を移動するように設定します。
+  ev.dataTransfer.dropEffect = "move"
+}
+
+            </script>
+        
+    </body>
+</html>

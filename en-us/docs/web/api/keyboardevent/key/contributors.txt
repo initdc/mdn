@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/keyboardevent/key/index.md
+
+# Original Wiki contributors
+brentonstrine
+mfuji09
+jecamilosevic899
+tkrotoff
+jash11
+chrisdavidmills
+hinell
+Sheppy
+dima74
+jens-duttke
+ksmith97
+buchanae
+harrison-ifeanyichukwu
+fscholz
+Jode
+libbymc
+Robg1
+stephaniehobson
+Masayuki
+cvrebert
+jpmedley
+kdex
+teoli
+Sebastianz
+kaycebasques
+jdoleary
+denilsonsa
+jwhitlock
+tim-we
+Hixhi
+jscape
+johndrinkwater
+ishita

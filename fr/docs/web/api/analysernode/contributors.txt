@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/analysernode/index.md
+
+# Original Wiki contributors
+jpcote
+SphinxKnight
+moussagigawatt
+marie-ototoi
+jmdelafont
+teoli
+fscholz
+Goofy
+tregagnon
+dexterneo

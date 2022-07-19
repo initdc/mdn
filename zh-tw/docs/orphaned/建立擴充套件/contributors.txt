@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/建立擴充套件/index.html
+
+# Original Wiki contributors
+Josesun
+Haka

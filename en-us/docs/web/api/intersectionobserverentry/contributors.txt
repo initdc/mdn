@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/intersectionobserverentry/index.md
+
+# Original Wiki contributors
+Sheppy
+fscholz
+stefanjudis
+erikadoyle
+jpmedley
+david_ross
+pyoor
+Sebastianz

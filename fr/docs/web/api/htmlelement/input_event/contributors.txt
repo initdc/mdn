@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/htmlelement/input_event/index.md
+
+# Original Wiki contributors
+SphinxKnight
+fscholz
+loella16
+Sebastianz
+LoicPuchaux

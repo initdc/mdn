@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/filter/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Beauvelop
+codingdudecom
+Tigt
+andrewkshim
+fscholz
+abbycar
+ledakis
+Sebastianz
+shamakry
+iwarui
+GKFX
+kscarfone
+Jeremie
+Manuel_Strehl

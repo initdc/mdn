@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            html {
+  font-family: sans-serif;
+}
+
+span, div em {
+  padding: 10px;
+  border: 1px solid green;
+  display: inline-block;
+  margin-bottom: 3px;
+}
+
+.first span:nth-child(2n+1),
+.second span:nth-child(2n+1),
+.third span:nth-of-type(2n+1) {
+  background-color: lime;
+}
+        </style>
+        
+        <title>:nth-child - gesamtbeispiel - code sample</title>
+    </head>
+    <body>
+        
+            <p><code>span:nth-child(2n+1)</code>, <em>ohne</em> ein <code>&lt;em&gt;</code>
+ unter den Kindelementen. Element 1, 3, 5, und 7 sind ausgewählt, wie erwartet.</p>
+
+<div class="first">
+      <span>Dieses span ist ausgewählt</span>
+      <span>Dieses span is nicht. :(</span>
+      <span>Wie sieht's mit diesem aus?</span>
+      <span>Und dieses?</span>
+      <span>Noch ein Beispiel</span>
+      <span>Und noch eins</span>
+      <span>Zu guter Letzt</span>
+</div>
+
+<p><code>span:nth-child(2n+1)</code>, <em>mit</em> einem <code>&lt;em&gt;</code>
+ unter den Kindelementen. Element 1, 5, und 7 sind ausgewählt. 3 wird beim Zählen berücksichtigt
+ weil es ein Kind ist, aber es ist nicht ausgewählt, weil es kein
+<code>&lt;span&gt;</code> ist.</p>
+
+<div class="second">
+      <span>Dieses span ist ausgewählt!</span>
+      <span>Dieses span nicht. :(</span>
+      <em>Dieses ist ein em.</em>
+      <span>Wie sieht's mit diesem aus?</span>
+      <span>Und dieses?</span>
+      <span>Noch ein Beispiel</span>
+      <span>Und noch eins</span>
+      <span>Zu guter Letzt</span>
+</div>
+
+<p><code>span:nth-of-type(2n+1)</code>, <em>mit</em> einem <code>&lt;em&gt;</code>
+ unter den Kindern. Element 1, 4, 6, und 8 sind ausgewählt. 3 ist
+ nicht bei der Zählung berücksichtigt oder ausgewählt, weil es ein <code>&lt;em&gt;</code> ist,
+und kein <code>&lt;span&gt;</code>, und <code>nth-of-type</code> selektiert nur
+ Kinder dieses Typs. Das <code>&lt;em&gt;</code> wird übersprungen und ignoriert.
+</p>
+
+<div class="third">
+      <span>Dieses span ist ausgewählt!</span>
+      <span>Dieses span nicht. :(</span>
+      <em>Dieses ist ein em.</em>
+      <span>Wie sieht's mit diesem aus?</span>
+      <span>Und dieses?</span>
+      <span>Noch ein Beispiel</span>
+      <span>Und noch eins</span>
+      <span>Zu guter Letzt</span>
+</div>
+        
+        
+    </body>
+</html>

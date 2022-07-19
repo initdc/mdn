@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mozilla/add-ons/webextensions/api/webrequest/index.md
+
+# Original Wiki contributors
+WangYuYe
+Yumingyuan
+wbamberg
+fkyq01
+h4ck2fun_xiaoshi
+abbycar

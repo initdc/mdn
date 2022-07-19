@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlstyleelement/index.md
+
+# Original Wiki contributors
+sideshowbarker
+ExE-Boss
+Sebastianz
+Sheppy
+arronei
+libbymc
+slimsag
+teoli
+Nexii
+kscarfone
+ethertank
+dextra
+Ms2ger
+Brettz9
+Jay I.
+Mgjbot
+Jabez
+Takenbot
+Chad.burrus
+PointedEars
+RobG
+DBaron
+Nickolay
+Dinosaurdarrell
+Dria
+Hao2lian
+JesseW
+Callek

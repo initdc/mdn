@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/methods/patch/index.md
+
+# Original Wiki contributors
+humantool
+PaulDuxblah
+SphinxKnight
+ThreadElric
+Hennek

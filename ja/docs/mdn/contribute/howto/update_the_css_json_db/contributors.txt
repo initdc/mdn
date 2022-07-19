@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/contribute/howto/update_the_css_json_db/index.md
+
+# Original Wiki contributors
+

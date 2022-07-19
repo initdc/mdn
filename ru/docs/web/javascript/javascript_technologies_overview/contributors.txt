@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/javascript_technologies_overview/index.html
+
+# Original Wiki contributors
+jynweythek
+chrisdavidmills
+miirinjej
+kulakowka
+curdwithraisins
+sersalex
+fscholz
+kichik
+askhat
+ixidor
+uleming

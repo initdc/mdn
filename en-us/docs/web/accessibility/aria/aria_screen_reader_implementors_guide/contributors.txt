@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/aria_screen_reader_implementors_guide/index.md
+
+# Original Wiki contributors
+Fredchat
+Sheppy
+yura.zen
+DavidBolter
+Aaronlev

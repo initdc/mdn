@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/storage/clear/index.md
+
+# Original Wiki contributors
+mfuji09
+jennyevans
+AbelG08
+mfluehr
+fscholz
+julienv3
+AlePerez92
+chrisdavidmills
+abbycar
+teoli
+scunliffe

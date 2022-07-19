@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/location/index.html
+
+# Original Wiki contributors
+wojtekmaj
+starsep
+teoli
+jsx
+Jan Dudek

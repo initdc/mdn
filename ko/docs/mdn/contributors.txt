@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/mdn/index.html
+
+# Original Wiki contributors
+SphinxKnight
+wbamberg
+zziuni
+Jeremie
+nacyot
+hoony
+devleoper
+jswisher

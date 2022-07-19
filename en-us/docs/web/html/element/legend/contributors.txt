@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/legend/index.md
+
+# Original Wiki contributors
+mfuji09
+jswisher
+indiamos
+JamesCatt
+chrisdavidmills
+alattalatta
+ericwbailey
+sideshowbarker
+SphinxKnight
+yuheiy
+BestGamer
+teoli
+erikadoyle
+Sebastianz
+cvrebert
+Delapouite
+kscarfone
+ethertank
+rufwork
+tregagnon
+Sheppy
+medicdude
+cers
+fscholz
+McGurk

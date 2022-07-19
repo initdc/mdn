@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/first_steps/website_security/index.md
+
+# Original Wiki contributors
+sideshowbarker
+vzhikness
+jdblischak
+tsvete28
+chrisdavidmills
+percy55
+sagaragarwal94
+CodeDotJS
+suterj
+stephaniehobson
+tedmarynicz
+scellef
+mnrowe
+thelartman
+JonathanPool
+kmtu
+hamishwillee

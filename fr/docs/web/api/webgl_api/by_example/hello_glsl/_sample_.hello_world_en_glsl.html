@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  text-align : center;
+}
+canvas {
+  width : 280px;
+  height : 210px;
+  margin : auto;
+  padding : 0;
+  border : none;
+  background-color : black;
+}
+
+button {
+  display : block;
+  font-size : inherit;
+  margin : auto;
+  padding : 0.6em;
+}
+
+        </style>
+        
+        <title>Hello GLSL - hello_world_en_glsl - code sample</title>
+    </head>
+    <body>
+        
+            <p>Hello World! Hello GLSL!</p>
+<canvas>Votre navigateur semble ne pas
+    supporter l'élément HTML5.</canvas>
+
+<script type="x-shader/x-vertex" id="vertex-shader">
+#version 100
+void main() {
+  gl_Position = vec4(0.0, 0.0, 0.0, 1.0);
+  gl_PointSize = 64.0;
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fragment-shader">
+#version 100
+void main() {
+  gl_FragColor = vec4(0.18, 0.54, 0.34, 1.0);
+}
+</script>
+
+        
+        
+            <script>
+                ;(function(){
+
+"use strict"
+window.addEventListener("load", setupWebGL, false);
+var gl,
+  program;
+function setupWebGL (evt) {
+  window.removeEventListener(evt.type, setupWebGL, false);
+  if (!(gl = getRenderingContext()))
+    return;
+
+  var source = document.querySelector("#vertex-shader").innerHTML;
+  var vertexShader = gl.createShader(gl.VERTEX_SHADER);
+  gl.shaderSource(vertexShader,source);
+  gl.compileShader(vertexShader);
+  source = document.querySelector("#fragment-shader").innerHTML
+  var fragmentShader = gl.createShader(gl.FRAGMENT_SHADER);
+  gl.shaderSource(fragmentShader,source);
+  gl.compileShader(fragmentShader);
+  program = gl.createProgram();
+  gl.attachShader(program, vertexShader);
+  gl.attachShader(program, fragmentShader);
+  gl.linkProgram(program);
+  gl.detachShader(program, vertexShader);
+  gl.detachShader(program, fragmentShader);
+  gl.deleteShader(vertexShader);
+  gl.deleteShader(fragmentShader);
+  if (!gl.getProgramParameter(program, gl.LINK_STATUS)) {
+    var linkErrLog = gl.getProgramInfoLog(program);
+    cleanup();
+    document.querySelector("p").innerHTML =
+      "La liaison du programme a échoué."
+      + "Journal d'erreur : " + linkErrLog;
+    return;
+  }
+
+  initializeAttributes();
+
+  gl.useProgram(program);
+  gl.drawArrays(gl.POINTS, 0, 1);
+
+  cleanup();
+}
+
+var buffer;
+function initializeAttributes() {
+  gl.enableVertexAttribArray(0);
+  buffer = gl.createBuffer();
+  gl.bindBuffer(gl.ARRAY_BUFFER, buffer);
+  gl.vertexAttribPointer(0, 1, gl.FLOAT, false, 0, 0);
+}
+
+function cleanup() {
+gl.useProgram(null);
+if (buffer)
+  gl.deleteBuffer(buffer);
+if (program)
+  gl.deleteProgram(program);
+}
+
+function getRenderingContext() {
+  var canvas = document.querySelector("canvas");
+  canvas.width = canvas.clientWidth;
+  canvas.height = canvas.clientHeight;
+  var gl = canvas.getContext("webgl")
+    || canvas.getContext("experimental-webgl");
+  if (!gl) {
+    var paragraph = document.querySelector("p");
+    paragraph.innerHTML = "Échec de l'obtention du contexte"
+      + " WebGL. Votre navigateur ne supporte peut-être"
+      + " pas WebGL.";
+    return null;
+  }
+  gl.viewport(0, 0,
+    gl.drawingBufferWidth, gl.drawingBufferHeight);
+  gl.clearColor(0.0, 0.0, 0.0, 1.0);
+  gl.clear(gl.COLOR_BUFFER_BIT);
+  return gl;
+}
+
+})();
+
+            </script>
+        
+    </body>
+</html>

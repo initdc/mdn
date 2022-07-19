@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-bottom-width/index.md
+
+# Original Wiki contributors
+alattalatta
+ddbeck
+Sheppy
+mfuji09
+wbamberg
+mfluehr
+rideron89
+jswisher
+elysdir1
+erikadoyle
+david_ross
+ChrisTM
+y0ssar1an
+Prinz_Rana
+Sebastianz
+fscholz
+jsx
+amitabha197
+SiddharthBhatt
+kscarfone
+teoli
+ethertank
+gordun
+Yuichiro
+grendel
+Nathymig
+BijuGC
+Mgjbot
+Ptak82
+DBaron
+Qazzian
+alecananian

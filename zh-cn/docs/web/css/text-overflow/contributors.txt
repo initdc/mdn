@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/text-overflow/index.md
+
+# Original Wiki contributors
+litmonw
+zjffun
+AC-greener
+xiaokk06
+Lynn0108
+xgqfrms-GitHub
+ws69
+Guillaume-Heras
+Sebastianz
+zilong-thu
+FredWe

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/events/index.html
+
+# Original Wiki contributors
+grumpy-cat
+wbamberg
+StevenS77
+teoli

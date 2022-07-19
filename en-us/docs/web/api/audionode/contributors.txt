@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audionode/index.md
+
+# Original Wiki contributors
+cpplearner
+sideshowbarker
+mfluehr
+sansb
+Jedipedia
+fscholz
+chrisdavidmills
+trusktr
+Sheppy
+arronei
+erikadoyle
+jpmedley
+chRyNaN
+JesseTG
+padenot
+Sebastianz
+kscarfone
+teoli
+ethertank

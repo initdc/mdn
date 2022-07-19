@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/element/mouseout_event/index.md
+
+# Original Wiki contributors
+nboisteault
+SphinxKnight
+wbamberg
+irenesmith
+T-Zahil
+areltfc

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/statements/try...catch/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+tscontenna
+segayuu
+YuichiNukiyama
+mizukyf
+yaoki
+lv7777
+ciffelia
+hashedhyphen
+teoli
+ethertank
+Nanto vi
+Mgjbot

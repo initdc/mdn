@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/index.md
+
+# Original Wiki contributors
+Dralyab
+Hell_Carlito
+PtitPou
+jmh
+ethertank

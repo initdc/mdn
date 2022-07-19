@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/element/setattributenodens/index.html
+
+# Original Wiki contributors
+teoli
+AshfaqHossain
+Mgjbot
+Diablownik
+Ptak82

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/server-side/django/authentication/index.html
+
+# Original Wiki contributors
+hustonCun
+i0tool5
+Andrey.Chichak
+SYSchel
+Maksimka101
+ivkainova
+VyacheslavLobanov
+DIAMONDinc
+warsan
+Flygrounder
+kivaschenko
+MariyaSka
+zet694
+al+chernin

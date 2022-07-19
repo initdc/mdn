@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/native_messaging/index.md
+
+# Original Wiki contributors
+hellosct1
+fbessou
+JNa0
+Drosos
+SphinxKnight
+peetcamron
+Baniway
+glacambre
+m4ucoder

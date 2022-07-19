@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/use/index.md
+
+# Original Wiki contributors
+mfuji09
+brennanyoung
+silverwind
+Tigt
+SelenIT
+vriojtg
+Jeremie
+fscholz
+JamesNimlos
+SamyCookie
+pepelsbey
+jfmm
+chrisdavidmills
+JD342
+yank7
+valtlai
+mattwojo
+hexalys
+Sebastianz
+jwhitlock
+decatur
+bfred-it
+kscarfone
+seth
+jswisher
+trevorh
+Waldo
+Wjjohnst

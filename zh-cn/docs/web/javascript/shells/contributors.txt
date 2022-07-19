@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/shells/index.html
+
+# Original Wiki contributors
+a1157116165
+StorytellerF
+pluwen
+sonymoon
+pelligit
+maicss

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/css_images/using_css_gradients/index.md
+
+# Original Wiki contributors
+mfuji09
+monmonmon
+takahashim
+Sebastianz
+ethertank
+sosleepy
+teoli
+floEdelmann
+Piro

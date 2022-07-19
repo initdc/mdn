@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/adjacent_sibling_combinator/index.md
+
+# Original Wiki contributors
+mfuji09
+uknmr
+sii
+lv7777
+ethertank

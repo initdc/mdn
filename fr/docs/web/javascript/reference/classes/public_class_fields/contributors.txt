@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/classes/public_class_fields/index.md
+
+# Original Wiki contributors
+NemoNobobyPersonne
+pwizla
+ati0ns
+SphinxKnight

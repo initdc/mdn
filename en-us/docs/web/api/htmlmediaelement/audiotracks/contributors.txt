@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmediaelement/audiotracks/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Sheppy
+fscholz
+DeanMarkTaylor
+chrisdavidmills
+dvincent
+david_ross
+erikadoyle
+GeraldNDA
+Bzbarsky
+markg

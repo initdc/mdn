@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/storageevent/index.md
+
+# Original Wiki contributors
+alattalatta
+ExE-Boss
+Konrud
+mfluehr
+fscholz
+chrisdavidmills
+mezod
+tickyd
+danielnixon
+runn1ng
+teoli
+kscarfone
+namolmes
+Sheppy
+Sephr

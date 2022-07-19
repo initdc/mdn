@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/javascript/first_steps/math/index.md
+
+# Original Wiki contributors
+chuck2kill
+Chomchaum
+Jim-Arby
+grandoc
+Dralyab
+tonybengue

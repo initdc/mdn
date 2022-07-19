@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/tools_and_testing/github/index.html
+
+# Original Wiki contributors
+TXCloud
+PPGAkril
+garanzha.s.a

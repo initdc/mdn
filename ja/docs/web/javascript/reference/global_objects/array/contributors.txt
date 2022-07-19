@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/array/index.md
+
+# Original Wiki contributors
+mfuji09
+segayuu
+unarist
+AkihikoTakeda
+96beniko
+woodmix
+kyohei_seo
+kdex
+Marsf
+taiyaki32lp64
+lv7777
+mamodayo
+phanect
+teoli
+Fajrovulpo
+yyss
+tekiton
+ethertank
+hateka
+coeurl
+Potappo
+kuboon
+Yuichirou
+Shoot
+Mgjbot
+Taken
+Hfjapancom

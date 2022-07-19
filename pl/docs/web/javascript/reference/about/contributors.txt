@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/about/index.html
+
+# Original Wiki contributors
+michalmarchewczyk
+asbud
+teoli
+Mgjbot
+Odder
+WalkerPL
+Ptak82
+Marcoos

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/conflicting/web/javascript/guide/grammar_and_types_e5a53691c318855e3342ad91feb78f2e/index.html
+
+# Original Wiki contributors
+teoli
+happysadman

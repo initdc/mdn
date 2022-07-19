@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/screen/left/index.md
+
+# Original Wiki contributors
+ExE-Boss
+fscholz
+cvrebert
+Sebastianz
+teoli
+MHasan
+namolmes
+Sheppy
+Mgjbot
+Nickolay
+Jabez
+Gor1

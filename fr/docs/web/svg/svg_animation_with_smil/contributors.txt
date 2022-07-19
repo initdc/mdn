@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/svg_animation_with_smil/index.md
+
+# Original Wiki contributors
+JNa0
+a-mt
+fscholz
+tonybengue

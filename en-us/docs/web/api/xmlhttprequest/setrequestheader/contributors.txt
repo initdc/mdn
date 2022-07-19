@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlhttprequest/setrequestheader/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+Sheppy
+mitchdraft
+ExE-Boss
+martin-martin
+userGitHub34535
+Makyen
+erikadoyle
+KeZhang
+teoli
+MashKao
+jsx

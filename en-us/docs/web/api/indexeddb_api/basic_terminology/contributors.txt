@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/indexeddb_api/basic_terminology/index.md
+
+# Original Wiki contributors
+leela52452
+wbamberg
+unziojack
+staceroni
+jgaehring
+chrisdavidmills
+einfallstoll
+jarrodn
+teoli
+MarkusStange
+fscholz
+Brettz9
+mattclaw
+freaktechnik
+fharper
+Jeremie
+madarche
+brion
+claudepache
+julienw
+scottrowe
+cgack
+Rob W
+grendel
+kathyw
+hansw

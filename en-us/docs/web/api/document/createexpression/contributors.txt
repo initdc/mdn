@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/createexpression/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+fscholz
+teoli
+MHasan
+kscarfone
+Navin_Jadhav
+Sheppy
+ziyunfei
+Brettz9
+Nickolay

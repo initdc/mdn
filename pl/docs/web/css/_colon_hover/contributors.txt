@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/css/_colon_hover/index.html
+
+# Original Wiki contributors
+darqoo

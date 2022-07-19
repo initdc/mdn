@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/array/map/index.md
+
+# Original Wiki contributors
+SphinxKnight
+IbrahimSassi
+edspeedy
+Ryanfarrah25
+said026
+nielk
+ZeSeb
+teoli
+shitsod
+Mgjbot
+BenoitL

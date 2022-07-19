@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/orphans/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+PaulNovitski
+rachelandrew
+ddbeck
+mfluehr
+rwilson.or
+erikadoyle
+Sebastianz
+teoli
+curtisj44
+cvrebert
+m_gol
+kscarfone
+Sheppy
+ethertank
+FredB
+nimbupani
+mmclark
+MatrixFrog

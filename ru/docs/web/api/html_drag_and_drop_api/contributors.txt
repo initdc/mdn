@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/html_drag_and_drop_api/index.html
+
+# Original Wiki contributors
+kkxley
+Akh-rman
+artalar
+miramax-88
+Morjodrom
+fess16
+MStark

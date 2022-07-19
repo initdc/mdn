@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/forms/basic_native_form_controls/index.md
+
+# Original Wiki contributors
+Idlus
+Rififia
+Dralyab
+efazenda
+tregagnon
+FredB

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_positioning/understanding_z_index/stacking_context_example_1/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+duncanmcdonald
+teoli
+dima716
+Jeremie
+ethertank
+Sheppy
+tregagnon
+Mgjbot
+Nickolay
+Rod Whiteley
+bradipao

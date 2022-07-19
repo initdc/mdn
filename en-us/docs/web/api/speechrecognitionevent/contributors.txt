@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/speechrecognitionevent/index.md
+
+# Original Wiki contributors
+Sheppy
+lucian95
+sgiles
+chrisdavidmills

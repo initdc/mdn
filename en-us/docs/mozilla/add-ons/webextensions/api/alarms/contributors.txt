@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/alarms/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+irenesmith
+jeremiahlee
+fscholz
+wbamberg
+ExE-Boss
+evilpie

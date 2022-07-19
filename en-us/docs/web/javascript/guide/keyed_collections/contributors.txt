@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/guide/keyed_collections/index.md
+
+# Original Wiki contributors
+kre
+vegerot
+mfluehr
+sploders101
+nakhodkiin
+Zearin_Galaurum
+jpmedley
+HTempleman
+jamesray1
+fscholz
+stephaniehobson
+nmve
+kdex
+Jeremie
+xfq
+ErythroME
+AviKav
+tzhg
+Vipul-Tehri
+SphinxKnight
+felipetesc
+x2357
+5aurabh

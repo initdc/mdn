@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/margin-top/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Sheppy
+Malvoz
+sideshowbarker
+ddbeck
+mfluehr
+fscholz
+Wliu
+erikadoyle
+Simplexible
+Sebastianz
+Prinz_Rana
+trevorh
+swinggraphics
+kscarfone
+teoli
+hydrurga
+ethertank
+McGurk
+grendel
+Yuichiro
+mmclark
+Jürgen Jeka
+BijuGC
+Waldo

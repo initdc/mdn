@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/index.html
+
+# Original Wiki contributors
+mat-bi
+wopolow
+wowka123
+marcind27
+teoli
+Rokuzo
+JuMuS
+manikus
+splewako
+Sheppy

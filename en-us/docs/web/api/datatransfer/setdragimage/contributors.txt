@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/datatransfer/setdragimage/index.md
+
+# Original Wiki contributors
+gjc9620
+johnjcamilleri
+najimammeri-innes
+fscholz
+Sheppy
+johan-N
+xgqfrms
+spadgos
+Sebastianz
+agupta1989
+rolfedh
+AFBarstow

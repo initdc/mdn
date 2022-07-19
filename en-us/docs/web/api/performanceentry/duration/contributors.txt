@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performanceentry/duration/index.md
+
+# Original Wiki contributors
+fscholz
+chrisdavidmills
+jpmedley
+abbycar
+rolfedh
+AFBarstow

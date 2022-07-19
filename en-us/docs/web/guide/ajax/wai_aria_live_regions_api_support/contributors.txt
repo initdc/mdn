@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/ajax/wai_aria_live_regions_api_support/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Fredchat
+yura.zen
+Aaronlev
+DavidBolter
+Kohei
+Thiessenp
+Sheppy

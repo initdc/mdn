@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_backgrounds_and_borders/index.md
+
+# Original Wiki contributors
+wbamberg
+fazl
+fscholz
+RainSlide
+Sheppy
+mfluehr

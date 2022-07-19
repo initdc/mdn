@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/classes/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+dojyorin
+MaySoMusician
+segayuu
+sutara79
+H1Gdev
+sii
+ambi
+YuichiNukiyama
+chikoski
+fand
+lv7777
+GoToLoop

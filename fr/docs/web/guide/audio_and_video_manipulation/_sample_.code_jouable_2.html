@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Manipulation Audio et Vidéo - code_jouable_2 - code sample</title>
+    </head>
+    <body>
+        
+            <video id="my-video" controls="true" width="480" height="270" crossorigin="anonymous">
+  <source src="http://jplayer.org/video/webm/Big_Buck_Bunny_Trailer.webm" type="video/webm">
+  <source src="http://jplayer.org/video/m4v/Big_Buck_Bunny_Trailer.m4v" type="video/mp4">
+</video>
+<div class="playable-buttons">
+  <input id="edit" type="button" value="Edit" />
+  <input id="reset" type="button" value="Reset" />
+</div>
+<textarea id="code" class="playable-code">
+filter.type = "lowshelf";
+filter.frequency.value = 1000;
+filter.gain.value = 25;</textarea>
+
+        
+        
+            <script>
+                var context     = new AudioContext(),
+    audioSource = context.createMediaElementSource(document.getElementById("my-video")),
+    filter      = context.createBiquadFilter();
+audioSource.connect(filter);
+filter.connect(context.destination);
+
+var textarea = document.getElementById('code');
+var reset = document.getElementById('reset');
+var edit = document.getElementById('edit');
+var code = textarea.value;
+
+function setFilter() {
+  eval(textarea.value);
+}
+
+reset.addEventListener('click', function() {
+  textarea.value = code;
+  setFilter();
+});
+
+edit.addEventListener('click', function() {
+  textarea.focus();
+})
+
+textarea.addEventListener('input', setFilter);
+window.addEventListener('load', setFilter);
+
+            </script>
+        
+    </body>
+</html>

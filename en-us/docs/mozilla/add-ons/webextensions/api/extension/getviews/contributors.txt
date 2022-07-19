@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/extension/getviews/index.md
+
+# Original Wiki contributors
+wbamberg
+danny0838
+chrisdavidmills
+Peuj
+andrewtruongmoz
+michael-zapata
+Leif-AMO
+Makyen

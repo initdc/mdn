@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/django/introduction/index.md
+
+# Original Wiki contributors
+hamishwillee
+kruschk
+ozgurturkiye
+chrisdavidmills
+taurus05
+ranganathan
+bobwhitelock
+vriojtg
+bgerrity
+jdblischak
+pineapplebug
+2alin
+chumaumenze
+warisali2
+ggarrickk
+Piyush1403
+stephaniehobson
+m-root
+dharanee86
+AdityaPareek
+omideus
+sravi4701
+chazkim
+RezaGhanbari

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/firefox/index.md
+
+# Original Wiki contributors
+leela52452
+SphinxKnight
+wbamberg
+wildsky
+RJ_Hsiao
+Flymok
+Prashanth

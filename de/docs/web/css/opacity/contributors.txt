@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/opacity/index.html
+
+# Original Wiki contributors
+SJW
+MaxValue
+Sebastianz
+fscholz
+FredB
+Jürgen Jeka
+j.j.
+Michael2402

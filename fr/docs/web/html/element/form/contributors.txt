@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/form/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Hirevo
+edspeedy
+Jack_Duthen
+msherefel
+Goofy
+wakooka
+tregagnon
+teoli
+jswisher

@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_nth-last-child/index.md
+
+# Original Wiki contributors
+wbamberg
+muhamadsobari198
+mfluehr
+delete12345
+thykka
+fscholz
+chrisdavidmills
+yisibl
+jpmedley
+PyroLagus
+erikadoyle
+Sebastianz
+psylar
+jonnyscholes
+MusikAnimal
+tregagnon
+kscarfone
+Sheppy
+DavidWalsh
+teoli
+McGurk

@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-image-slice/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ddbeck
+Sheppy
+mfuji09
+mfluehr
+wbamberg
+kyle.rb
+erikadoyle
+Sebastianz
+Simplexible
+Prinz_Rana
+blunderboy
+fscholz
+jsx
+LouisLazaris
+kscarfone
+teoli
+ethertank
+hecnatur
+trevorh
+OoOoOoOo

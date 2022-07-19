@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/transition/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ovaxio
+sztan
+fscholz
+Sebastianz
+J.DMB
+louuis
+teoli
+FredB

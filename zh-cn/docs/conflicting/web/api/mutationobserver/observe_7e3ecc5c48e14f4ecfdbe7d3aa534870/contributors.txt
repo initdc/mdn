@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/conflicting/web/api/mutationobserver/observe_7e3ecc5c48e14f4ecfdbe7d3aa534870/index.html
+
+# Original Wiki contributors
+kivazqy

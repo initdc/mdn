@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/date/index.md
+
+# Original Wiki contributors
+WangZimei
+mfuji09
+vitaly-zdanevich
+fscholz
+favalos989

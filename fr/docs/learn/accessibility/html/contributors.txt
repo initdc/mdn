@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/accessibility/html/index.md
+
+# Original Wiki contributors
+Mozinet
+smeden-lod
+JNa0
+dragon38800
+SphinxKnight
+Tartasprint
+n-chardon
+tonybengue

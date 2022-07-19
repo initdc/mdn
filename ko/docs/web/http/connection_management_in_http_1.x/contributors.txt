@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/connection_management_in_http_1.x/index.html
+
+# Original Wiki contributors
+jeonghoon_park
+chatoo2412
+devcken

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/firefox_3.5_技術文件/index.html
+
+# Original Wiki contributors
+irvinfly
+RJ_Hsiao
+teoli
+Littlebtc
+BobChao

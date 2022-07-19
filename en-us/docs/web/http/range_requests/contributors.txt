@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/range_requests/index.md
+
+# Original Wiki contributors
+tkutz
+Alexis Wilke1
+thierry.henrio
+momijimimiga
+BaderSur
+fscholz

@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/createevent/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+mfluehr
+fscholz
+chrisdavidmills
+K-Gun
+teoli
+Keysox
+MHasan
+guest0430
+peter.kehl
+kscarfone
+dbruant
+Navin_Jadhav
+electronicwhisper
+Sheppy
+Ms2ger
+ethertank
+ianbicking
+Wladimir_Palant
+Sephr
+Yukoba
+Cacycle
+Kohei
+Waldo
+Mgjbot
+Nickolay
+Jabez
+PointedEars
+NikolasC

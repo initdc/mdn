@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/reflect/ownkeys/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+Zearin_Galaurum
+alattalatta
+wbamberg
+jameshkramer
+DevelX
+nmve
+kdex
+bsara
+eduardoboucas
+gingerik
+ziyunfei

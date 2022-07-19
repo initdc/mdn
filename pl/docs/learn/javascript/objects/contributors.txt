@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/learn/javascript/objects/index.html
+
+# Original Wiki contributors
+Margo1212
+quart
+malu
+mat-bi

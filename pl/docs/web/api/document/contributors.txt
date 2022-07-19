@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/document/index.html
+
+# Original Wiki contributors
+Bartosz_Adamski
+teoli
+khalid32
+Crash
+Mgjbot
+Bedi
+Ptak82
+gandalf
+Jan Dudek
+Takenbot

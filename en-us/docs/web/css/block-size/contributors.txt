@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/block-size/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Sheppy
+sideshowbarker
+rachelandrew
+fscholz
+mfluehr
+elysdir1
+teoli
+HTMLValidator
+Sebastianz
+jsx
+hbloomer

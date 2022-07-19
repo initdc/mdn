@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/mozilla/firefox/releases/2/security_changes/index.html
+
+# Original Wiki contributors
+wbamberg
+Mgjbot
+Ptak82
+RafalRawicki

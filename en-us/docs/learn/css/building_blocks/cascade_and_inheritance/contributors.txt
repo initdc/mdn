@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/cascade_and_inheritance/index.md
+
+# Original Wiki contributors
+sourabhramsingh
+gdsimoes
+erictleung
+30nov88
+chrisdavidmills
+gerfolder
+rachelandrew
+flowfire
+snakada
+choudh70
+mikemorr
+sharma86hub
+bernardirfan
+j-sea
+SphinxKnight
+cybmdm
+gumchum
+ExE-Boss

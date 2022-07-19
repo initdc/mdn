@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/frameelement/index.md
+
+# Original Wiki contributors
+alattalatta
+silvasur
+sideshowbarker
+ivanson
+fscholz
+broAhmed
+libbymc
+Sheppy
+KshitijaKarkar
+Terry
+duncansmart
+teoli
+cpigat
+MHasan
+kscarfone
+leifwickland
+ethertank
+GijsKruitbosch
+thaddee.tyl@gmail.com
+Potappo
+Lenatis
+Mgjbot
+Nickolay
+Mw22

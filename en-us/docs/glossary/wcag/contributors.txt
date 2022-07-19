@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/wcag/index.md
+
+# Original Wiki contributors
+fakhar362
+Jeremie
+marie-ototoi
+Andrew_Pfeiffer
+hbloomer
+Sebastianz
+klez
+Dipak_kumar
+ajinkya_p

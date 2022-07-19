@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/removeallranges/index.md
+
+# Original Wiki contributors
+sideshowbarker
+ddbeck
+abbycar
+teoli
+Keysox
+BenjamP
+fscholz
+kosvrouvas
+kscarfone
+Sheppy
+Federico
+DR
+Rev
+Jonnyq

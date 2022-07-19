@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/operators/new/index.html
+
+# Original Wiki contributors
+szymonb
+michal100032
+SphinxKnight
+teoli
+splewako
+Mgjbot
+Diablownik
+Ptak82

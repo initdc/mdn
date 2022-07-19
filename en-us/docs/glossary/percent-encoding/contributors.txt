@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/percent-encoding/index.md
+
+# Original Wiki contributors
+sideshowbarker
+alex-thecoder
+boutahri0101
+fscholz
+teoli

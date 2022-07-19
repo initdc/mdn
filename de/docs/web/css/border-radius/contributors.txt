@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/css/border-radius/index.html
+
+# Original Wiki contributors
+SJW
+iGadget
+Sebastianz
+Prinz_Rana
+fscholz
+Matthias.Apsel
+Yuichiro
+Jürgen Jeka
+Michael2402

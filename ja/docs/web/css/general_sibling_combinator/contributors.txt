@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/general_sibling_combinator/index.md
+
+# Original Wiki contributors
+dlwe
+h-subaru
+mfuji09
+yassh
+SphinxKnight
+ethertank
+sosleepy

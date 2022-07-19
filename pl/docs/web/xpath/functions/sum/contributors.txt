@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/xpath/functions/sum/index.html
+
+# Original Wiki contributors
+ExE-Boss
+Mgjbot
+Diablownik
+Bedi
+Ptak82

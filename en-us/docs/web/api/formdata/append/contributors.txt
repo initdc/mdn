@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/formdata/append/index.md
+
+# Original Wiki contributors
+AndrzejSala
+ExE-Boss
+matthiasflor
+chrisdavidmills
+kramar
+Mems
+sheepgobeep
+tannermccoleman
+arronei
+erikadoyle
+Dorward
+samthor
+jaffathecake
+jim1496
+jswisher
+cbj4074
+Sebastianz
+kscarfone

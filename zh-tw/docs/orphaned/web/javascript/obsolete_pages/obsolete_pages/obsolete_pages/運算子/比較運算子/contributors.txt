@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/web/javascript/obsolete_pages/obsolete_pages/obsolete_pages/運算子/比較運算子/index.html
+
+# Original Wiki contributors
+teoli
+happysadman

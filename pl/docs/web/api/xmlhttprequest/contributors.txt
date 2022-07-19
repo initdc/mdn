@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/api/xmlhttprequest/index.html
+
+# Original Wiki contributors
+fnevgeny
+Flaneur
+Bedi
+Mgjbot
+Ptak82
+Ziombka
+gandalf

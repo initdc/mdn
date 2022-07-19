@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/javascript/first_steps/what_is_javascript/index.md
+
+# Original Wiki contributors
+smeden-lod
+ludivinepoussier
+chrisdavidmills
+SphinxKnight
+wkz3w59
+abvll
+Kinskikick
+Eric-ciccotti
+clamb
+Dralyab
+codingk8
+TheStarrK
+tonybengue
+Idlus

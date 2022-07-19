@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/conflicting/web/javascript/reference/global_objects/boolean/tostring/index.html
+
+# Original Wiki contributors
+teoli
+Witia
+Mgjbot
+Ptak82
+telendt
+Takenbot
+Marcoos

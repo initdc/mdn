@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/web/javascript/reference/global_objects/regexp/exec/index.html
+
+# Original Wiki contributors
+kowal.alek
+teoli
+Ptak82
+Mgjbot
+Bedi

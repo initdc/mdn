@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/scrollbar-width/index.md
+
+# Original Wiki contributors
+ddbeck
+gucci-on-fleek
+mfuji09
+wbamberg
+fscholz
+mfluehr
+chrisdavidmills
+rachelandrew
+kenrick95
+Malvoz
+estelle
+emilio_

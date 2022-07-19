@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/functions/index.html
+
+# Original Wiki contributors
+steevn
+ibiBgOR
+julianpollmann
+schlagi123
+P0lip

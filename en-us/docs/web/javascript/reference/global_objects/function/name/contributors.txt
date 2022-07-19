@@ -1,0 +1,45 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/function/name/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+benaston
+nakhodkiin
+ihanson
+vinyldarkscratch
+Yialo
+rkoeninger
+yg448
+snuggs
+pmdartus
+Sheppy
+christophe.hurpeau
+minstrel1977
+jameshkramer
+Velenir
+ZeroUnderscoreOu
+david_ross
+darrenburgess
+nmve
+kdex
+about-code
+xfq
+mata007
+jleedev
+jpmedley
+reecehudson
+bergus
+fastest963
+Mingun
+Qantas94Heavy
+ethertank
+ziyunfei
+fasttime
+evilpie
+Sevenspade
+Nickolay
+Andrea@3site.it
+Seant23
+Andreas Wuest

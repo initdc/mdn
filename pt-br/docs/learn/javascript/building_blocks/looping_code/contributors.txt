@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/javascript/building_blocks/looping_code/index.html
+
+# Original Wiki contributors
+gabriel_cadu
+lucas-av7
+jess-silvano
+recofka

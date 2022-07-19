@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/headers/last-modified/index.md
+
+# Original Wiki contributors
+lyrixx
+SphinxKnight
+NemoNobobyPersonne

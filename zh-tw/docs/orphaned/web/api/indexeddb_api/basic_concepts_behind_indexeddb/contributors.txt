@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/orphaned/web/api/indexeddb_api/basic_concepts_behind_indexeddb/index.html
+
+# Original Wiki contributors
+choznerol
+jackblackevo
+birdca
+foxbrush
+thomaschen

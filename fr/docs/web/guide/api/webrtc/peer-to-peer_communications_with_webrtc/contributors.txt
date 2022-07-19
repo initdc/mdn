@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/guide/api/webrtc/peer-to-peer_communications_with_webrtc/index.md
+
+# Original Wiki contributors
+AbrahamT

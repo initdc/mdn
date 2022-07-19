@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/dragover_event/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+DisorientedSpacePenguin
+aeromdn
+erikadoyle
+Sebastianz
+AFBarstow
+teoli
+Sheppy
+ethertank
+louisremi

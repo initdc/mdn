@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/array/find/index.html
+
+# Original Wiki contributors
+tcheburator
+drunk
+matveyson
+JorJeG
+Metotron
+sv-kozlov
+OksanaKaragicheva
+AlexeyMM
+burashka
+torbasow
+Mingun

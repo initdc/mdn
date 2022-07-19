@@ -1,0 +1,43 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-style/index.md
+
+# Original Wiki contributors
+rachelandrew
+chrisdavidmills
+wbamberg
+fscholz
+mfuji09
+ddbeck
+alattalatta
+teoli
+Jeremie
+Sheppy
+mfluehr
+stevenwdv
+begmans
+xfq
+kyle.rb
+erikadoyle
+Sebastianz
+jsx
+g4rce
+J-Mackerel
+Saluev
+BargaoRobalo
+kscarfone
+jswisher
+SiddharthBhatt
+ethertank
+MagMax
+trevorh
+Yuichiro
+Rowno
+MatrixFrog
+Jürgen Jeka
+Nathymig
+BijuGC
+Diablownik
+DBaron
+Backinblakk
+Mgjbot
+Qazzian

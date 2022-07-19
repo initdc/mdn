@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/speechsynthesis/getvoices/index.md
+
+# Original Wiki contributors
+CertainPerformance
+sideshowbarker
+Konrud
+lucian95
+abbycar
+Sebastianz
+chrisdavidmills

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mdn/guidelines/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+fscholz
+irvinfly
+Sheppy

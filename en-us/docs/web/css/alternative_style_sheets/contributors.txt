@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/alternative_style_sheets/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+sideshowbarker
+chrisdavidmills
+mfluehr
+Nickolay
+r-o-b
+Sebastianz
+teoli
+Sheppy
+justinpotts
+minitech
+Mgjbot
+Kohei
+Sevenspade
+DBaron

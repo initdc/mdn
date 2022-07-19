@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/margin-left/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Sheppy
+Malvoz
+sideshowbarker
+ddbeck
+mfluehr
+fscholz
+arronei
+erikadoyle
+Simplexible
+Lemondoge
+Prinz_Rana
+Sebastianz
+jsx
+trevorh
+kscarfone
+teoli
+ethertank
+McGurk
+grendel
+Yuichiro
+BijuGC

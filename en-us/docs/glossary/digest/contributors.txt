@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/digest/index.md
+
+# Original Wiki contributors
+joshuaptfan
+Sodan
+marumari
+Andrew_Pfeiffer
+hbloomer
+kscarfone
+teoli

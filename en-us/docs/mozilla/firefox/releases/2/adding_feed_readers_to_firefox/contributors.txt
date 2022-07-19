@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/2/adding_feed_readers_to_firefox/index.md
+
+# Original Wiki contributors
+GijsKruitbosch
+wbamberg
+teoli
+kmaglione
+trevorh
+Sheppy
+borismann
+Naesten
+Mgjbot
+Kohei
+Nukeador

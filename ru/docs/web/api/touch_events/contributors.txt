@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/touch_events/index.html
+
+# Original Wiki contributors
+hisbvdis
+YozhEzhi
+valeryvitkus
+AlexChebanenko
+Yerokhov
+nboldar
+vovchik-manko
+surrsoft

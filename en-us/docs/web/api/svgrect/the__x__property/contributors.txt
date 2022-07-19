@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svgrect/the__x__property/index.md
+
+# Original Wiki contributors
+rolfedh
+essymo

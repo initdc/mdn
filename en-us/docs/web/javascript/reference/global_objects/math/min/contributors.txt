@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/min/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+rwaldron
+isomorphismes
+Sheppy
+jameshkramer
+eduardoboucas
+Mingun
+ethertank
+trevorh
+Ole Laursen
+evilpie
+Mgjbot
+Kyodev
+Nickolay
+SylvainPasche
+Maian
+Marcoos
+Dria

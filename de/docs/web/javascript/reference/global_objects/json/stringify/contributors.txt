@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/de/web/javascript/reference/global_objects/json/stringify/index.html
+
+# Original Wiki contributors
+duckymirror
+powerpaul17
+schlagi123
+einfallstoll
+sahin
+DoctypeRosenthal
+HighTower79
+m3t4lukas
+blub0hr

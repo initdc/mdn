@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/getelementsbytagname/index.md
+
+# Original Wiki contributors
+loella16
+fscholz
+teoli
+arunpandianp
+n_g
+tregagnon
+fkhannouf
+Mgjbot
+BenoitL

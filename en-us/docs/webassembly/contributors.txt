@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/webassembly/index.md
+
+# Original Wiki contributors
+sharpist
+mfuji09
+Maxgy
+johnstevenson
+chrisdavidmills
+jpmedley
+lukewagner
+fscholz
+PushpitaPikuDey
+alien35
+AndrzejSala
+ringoz
+SphinxKnight
+pebsconsulting
+ukyo

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/basics_of_http/identifying_resources_on_the_web/index.md
+
+# Original Wiki contributors
+prajaraksh
+Sheppy
+evansdianga
+danielgormly
+neel-hektor
+david_ross
+teoli
+fscholz

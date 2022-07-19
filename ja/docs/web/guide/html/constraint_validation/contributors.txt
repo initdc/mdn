@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/guide/html/constraint_validation/index.md
+
+# Original Wiki contributors
+mfuji09
+Uemmra3

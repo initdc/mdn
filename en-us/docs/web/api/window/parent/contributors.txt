@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/parent/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+ExE-Boss
+connorshea
+01abhishekjain
+sarafec
+fscholz
+teoli
+iamanupmenon
+ethertank
+Sheppy
+dbruant
+ziyunfei
+Matej Lednar
+Mgjbot
+Nickolay
+BenoitL
+cbiesinger
+Maian
+Dria
+JesseW

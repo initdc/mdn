@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/__lookupsetter__/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+jameshkramer
+nmve
+eduardoboucas
+arai
+Mingun
+claudepache
+karth707
+ziyunfei
+teoli
+Sheppy
+ethertank
+evilpie
+Krzysiek6
+Sevenspade
+Mgjbot

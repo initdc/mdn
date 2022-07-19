@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/canvas_api/tutorial/compositing/index.html
+
+# Original Wiki contributors
+shortship
+Alex1995markson
+bad4iz

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pl/mozilla/firefox/releases/1.5/what_s_new_in_1.5_alpha/index.html
+
+# Original Wiki contributors
+wbamberg
+SphinxKnight
+pkubowicz
+Ptak82
+Staszyna
+gandalf

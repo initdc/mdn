@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/unicode-bidi/index.md
+
+# Original Wiki contributors
+SphinxKnight
+trouba
+Sebastianz
+teoli
+FredB
+ThePrisoner

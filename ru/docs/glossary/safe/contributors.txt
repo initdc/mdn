@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/safe/index.html
+
+# Original Wiki contributors
+dev4lex
+InfinityBuddha
+serhii73
+pk.prog

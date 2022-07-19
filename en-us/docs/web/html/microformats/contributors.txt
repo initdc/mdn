@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/microformats/index.md
+
+# Original Wiki contributors
+Tantek
+SphinxKnight
+sknebel
+schmarty
+jgmac1106
+mfluehr
+ExE-Boss
+PushpitaPikuDey
+jsx
+jenifferhomes
+Seta00
+codeforuk
+RenRen
+teoli
+marie-ototoi
+rogerxas
+mehmetaergun
+xfq
+Akilan_Arasu
+barnabywalters

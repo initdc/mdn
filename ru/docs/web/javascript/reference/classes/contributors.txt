@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/classes/index.html
+
+# Original Wiki contributors
+ITheCorgi
+blackbrain2009
+denys.marytchak
+PaulineNemchak
+SphinxKnight
+AnarhistMS
+YozhEzhi
+sahmildzhakeev
+jainashur
+CaptainCrocus
+domstrueboy
+Muffassa
+Sajag
+Gamesurf
+Piterden
+pathliving
+alienalien13
+DyckGerman
+animhotep
+feonit
+zasipin
+InsidiousClu
+KTatyana
+ViZhe
+sergeymakoveev
+PinkaminaDianePie
+RoM4iK
+sasd97
+seedofjoy
+torbasow
+krest88
+fscholz

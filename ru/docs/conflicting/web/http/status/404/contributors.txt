@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/conflicting/web/http/status/404/index.html
+
+# Original Wiki contributors
+cotolany
+nudaworks

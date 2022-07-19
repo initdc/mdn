@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mozilla/add-ons/webextensions/manifest.json/homepage_url/index.md
+
+# Original Wiki contributors
+RainSlide
+fscholz
+1010Tech
+Hypophrenia

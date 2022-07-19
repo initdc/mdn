@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/guide/graphics/index.md
+
+# Original Wiki contributors
+tonybengue
+Patrice-Koumar
+Goofy
+tregagnon
+darnuria

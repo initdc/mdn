@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/express_nodejs/forms/delete_author_form/index.md
+
+# Original Wiki contributors
+hamishwillee
+oskaroldorf
+SphinxKnight
+vladislavbender
+Halkeand
+VoloshchenkoAl
+chrisdavidmills
+david_ross

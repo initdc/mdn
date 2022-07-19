@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/syntax/index.md
+
+# Original Wiki contributors
+mfuji09
+keis94
+mpcjazz
+kei-itof
+ethertank
+sii
