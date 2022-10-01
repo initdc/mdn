@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/shadowroot/index.md
+
+# Original Wiki contributors
+michaelficarra
+mfuji09
+chrisdavidmills
+phenomeno
+ExE-Boss
+DomenicDenicola
+Sebastianz
+sideshowbarker
+jpmedley
+rolfedh
+Arebee88
+Dan-Dascalescu

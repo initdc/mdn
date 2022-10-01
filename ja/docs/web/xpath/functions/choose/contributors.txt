@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/xpath/functions/choose/index.md
+
+# Original Wiki contributors
+ExE-Boss
+silverskyvicto
+teoli
+yiwasaki

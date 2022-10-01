@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediametadata/album/index.md
+
+# Original Wiki contributors
+Rumyra
+fscholz
+arnellebalane
+david_ross
+jpmedley

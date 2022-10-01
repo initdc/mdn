@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmldocument/async/index.md
+
+# Original Wiki contributors
+ExE-Boss
+fscholz
+teoli
+georgialyle
+Havvy
+kscarfone
+Sheppy
+ethertank
+ziyunfei
+vali29
+rotten
+Brettz9

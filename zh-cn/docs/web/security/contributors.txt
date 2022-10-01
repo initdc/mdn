@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/security/index.md
+
+# Original Wiki contributors
+SphinxKnight
+cooldrivez
+zhangppbb
+RainSlide
+msforest
+Vivi-wu
+ziyunfei
+Breezewish
+Freeopen

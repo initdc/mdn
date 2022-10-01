@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/deprecated_and_obsolete_features/index.md
+
+# Original Wiki contributors
+Nachec
+arturotena
+teoli
+Mgjbot
+DSN XP

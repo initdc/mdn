@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/css/index.md
+
+# Original Wiki contributors
+tristantheb
+loella16
+tonybengue
+arlequin
+interfacteur
+ysabelm
+Porkepix
+marie-ototoi
+magikmanu
+Jeremie
+Goofy
+htindon

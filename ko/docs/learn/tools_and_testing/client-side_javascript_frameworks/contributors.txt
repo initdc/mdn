@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/tools_and_testing/client-side_javascript_frameworks/index.md
+
+# Original Wiki contributors
+DeadIntegral

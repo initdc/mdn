@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/pageshow_event/index.md
+
+# Original Wiki contributors
+BluesVN
+lalaemls
+WangShaoyu1
+fscholz
+shm

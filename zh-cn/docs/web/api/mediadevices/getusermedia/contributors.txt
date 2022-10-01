@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/mediadevices/getusermedia/index.md
+
+# Original Wiki contributors
+Ende93
+Xiaohantx
+luojia
+SolitudeRA
+xgqfrms-GitHub
+c1ngular

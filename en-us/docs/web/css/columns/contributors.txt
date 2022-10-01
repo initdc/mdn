@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/columns/index.md
+
+# Original Wiki contributors
+rachelandrew
+Johuspect
+chrisdavidmills
+wbamberg
+Sheppy
+mfluehr
+ddbeck
+stevenmg
+Sebastianz
+captainbarbosa
+arronei
+erikadoyle
+SphinxKnight
+brunopulis
+jpmedley
+Prinz_Rana
+fscholz
+jsx
+teoli
+estelle
+kscarfone
+ethertank
+brianloveswords

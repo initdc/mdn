@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/touch/index.md
+
+# Original Wiki contributors
+Carllllo
+HERMOO
+Lux.lu
+kenticny
+jsx
+ziyunfei
+hyspace

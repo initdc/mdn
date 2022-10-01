@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/grid_column/index.md
+
+# Original Wiki contributors
+biclope13
+amaiafilo

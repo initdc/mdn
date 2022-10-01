@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/guide/html/content_categories/index.md
+
+# Original Wiki contributors
+jojengman
+alattalatta
+chrisdavidmills
+dooglegh
+cs09g
+KlausLee
+lovefield
+Kaben
+azunyan3

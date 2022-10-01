@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlhrelement/index.md
+
+# Original Wiki contributors
+khalid32
+ethertank

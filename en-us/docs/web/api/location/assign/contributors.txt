@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/location/assign/index.md
+
+# Original Wiki contributors
+dd-pardal
+sideshowbarker
+bergus
+mfluehr
+fscholz
+nickdaugherty
+libbymc
+oridr22
+The-Quill
+LouisLazaris
+kscarfone
+teoli

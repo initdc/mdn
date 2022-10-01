@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/index.md
+
+# Original Wiki contributors
+xerviam
+Demi_Yu
+jackblackevo
+iigmir
+teoli
+zhangmingyu
+Shiyou
+saka6333
+ethertank

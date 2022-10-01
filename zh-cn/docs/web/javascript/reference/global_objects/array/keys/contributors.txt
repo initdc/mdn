@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/keys/index.md
+
+# Original Wiki contributors
+zhangchen
+fscholz
+futurefeeling
+LemonGirl
+micheal-death
+xgqfrms-GitHub
+ziyunfei
+200OK

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/cut_event/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+mfluehr
+Tigt
+jpmedley
+fscholz
+zbicin
+erikadoyle
+Nickolay
+teoli
+Dikrib
+evilpie
+Sheppy
+ethertank
+louisremi

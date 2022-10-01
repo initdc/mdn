@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/games/tools/asm.js/index.html
+
+# Original Wiki contributors
+jkulvich
+wbamberg
+Cyganov

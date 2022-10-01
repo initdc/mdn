@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/errors/called_on_incompatible_type/index.md
+
+# Original Wiki contributors
+mfuji09
+YuichiNukiyama

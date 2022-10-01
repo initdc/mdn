@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/date/getdate/index.md
+
+# Original Wiki contributors
+DanielFRB
+helmantika
+ycanales

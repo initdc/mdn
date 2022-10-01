@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/global_objects/string/indexof/index.md
+
+# Original Wiki contributors
+ricardo.passos.cr
+mateusvelleda
+Leokuma
+suyfranca
+badiale
+vspedr
+diegoarcega
+teoli
+nicholasess

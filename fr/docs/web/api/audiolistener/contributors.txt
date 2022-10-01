@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/audiolistener/index.md
+
+# Original Wiki contributors
+marie-ototoi
+fscholz
+tregagnon
+Delapouite
+Goofy
+SphinxKnight
+dexterneo

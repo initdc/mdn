@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/dos_attack/index.md
+
+# Original Wiki contributors
+Umryuan
+HardcorePhysician

@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_grid_layout/box_alignment_in_css_grid_layout/index.md
+
+# Original Wiki contributors
+rachelandrew
+applejam9029
+mehtapratik
+mklein
+kp2017
+waqarhussain
+estelle
+Jannaee
+VAggrippino
+juandesouza
+Sheppy
+cagross
+stephaniehobson
+comehope
+AlexN
+mfluehr
+tshinnic
+david_ross
+Konrud
+aermolaev
+teoli

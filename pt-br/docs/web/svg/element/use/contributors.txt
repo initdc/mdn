@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/svg/element/use/index.html
+
+# Original Wiki contributors
+ed1nh0
+Sebastianz
+caio

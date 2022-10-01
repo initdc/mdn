@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/multimedia_and_embedding/video_and_audio_content/index.md
+
+# Original Wiki contributors
+MmmmHeee
+DarkStory
+niuqv
+Clarkkkk
+Sichen-Wang
+luneshao
+monkey-king
+LALALA
+wi24rd
+WindLo
+Roy-Tian
+HolaForce
+phiwyc
+lihaoyuan
+getfile
+SheltonDong

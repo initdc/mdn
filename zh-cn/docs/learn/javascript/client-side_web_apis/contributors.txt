@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/client-side_web_apis/index.md
+
+# Original Wiki contributors
+Adrian-Yan
+qazsweet
+yinpeng123
+tossp
+kensz66
+Zheng7426
+winlans
+XuQuan-nikkkki
+xp44mm
+dandanbu3
+l987974
+Noly1990
+chrisdavidmills

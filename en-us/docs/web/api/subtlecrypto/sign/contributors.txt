@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/subtlecrypto/sign/index.md
+
+# Original Wiki contributors
+Sheppy
+wbamberg
+chrisdavidmills
+rugk
+jvmccarthy
+fscholz
+Dans24
+abbycar
+groovecoder
+dskloet
+teoli

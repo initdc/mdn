@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/function/apply/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Birssan
+Superdrac7
+saeraphin
+rbecheras
+darul75
+dirakkk
+adriens
+peb85
+teoli
+jmpp

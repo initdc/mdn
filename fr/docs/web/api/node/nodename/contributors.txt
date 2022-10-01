@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/node/nodename/index.md
+
+# Original Wiki contributors
+loella16
+mparisot
+fscholz
+teoli
+jsx
+AshfaqHossain
+Mgjbot
+BenoitL

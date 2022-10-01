@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvas_api/tutorial/applying_styles_and_colors/index.md
+
+# Original Wiki contributors
+BuluGuy
+lovefengruoqing
+rulanfenghua
+hhxxhg
+litmonw
+Miscol
+Silencesnow
+summerdb
+loraine
+codingwangxiansen
+Ende93
+fscholz
+summeryuan
+ziyunfei
+Uliyas_Fan
+zhongsheng
+吕辛未
+leegorous
+Chinese_XU
+Qq759

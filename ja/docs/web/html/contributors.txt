@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/html/index.md
+
+# Original Wiki contributors
+mfuji09
+Rifana
+fuyofuyopiroq
+SphinxKnight
+silverskyvicto
+tanaka0325
+cnt0705
+yyss
+marmot1123
+ethertank
+sii
+shirayuki
+saneyuki_s
+Marsf
+Potappo
+Mgjbot
+Kohei
+Okome
+Victory
+Taken Bot
+julionc
+Shimono

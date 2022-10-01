@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/classes/index.md
+
+# Original Wiki contributors
+henriquegeremia
+Danilo
+28Rasc
+crisleitaoguerra
+lesimoes
+stephanogiuseppe
+fscholz
+TiagoDanin
+rodrigocode4
+JhonnathaAndrade
+SphinxKnight
+brunozache
+danilosetubal
+thiagolimaa
+lucasclazer
+lmcarreiro
+flavio-jr
+shuminyang
+juloko
+lourencoccc
+Arashk
+deadkff01
+davidcorbetta
+ldoamaral
+ti.marcosdias
+ThiagoSchetini
+felipetesc
+haskellcamargo
+jonicas

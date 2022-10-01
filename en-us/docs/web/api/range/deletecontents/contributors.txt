@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/deletecontents/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+abbycar
+teoli
+jsx
+shubham.hatwar
+Sheppy
+SkyLined
+Gor1

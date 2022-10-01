@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            /* 奇数の段落 */
+p:nth-of-type(2n+1) {
+  color: red;
+}
+
+/* 偶数の段落 */
+p:nth-of-type(2n) {
+  color: blue;
+}
+
+/* 最初の段落 */
+p:nth-of-type(1) {
+  font-weight: bold;
+}
+
+/* これは 2n+1 であり、かつ fancy のクラスを持つ要素に一致するので、第 3 段落に一致します。
+2 番目の段落は fancy というクラスを持っていますが、 :nth-of-type(2n+1) ではないので一致しません。 */
+p.fancy:nth-of-type(2n+1) {
+  text-decoration: underline;
+}
+
+        </style>
+        
+        <title>:nth-of-type() - basic_example - code sample</title>
+    </head>
+    <body>
+        
+            <div>
+  <div>This element isn't counted.</div>
+  <p>1st paragraph.</p>
+  <p class="fancy">2nd paragraph.</p>
+  <div>This element isn't counted.</div>
+  <p class="fancy">3rd paragraph.</p>
+  <p>4th paragraph.</p>
+</div>
+
+        
+        
+    </body>
+</html>

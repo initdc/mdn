@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/media_capture_and_streams_api/taking_still_photos/index.html
+
+# Original Wiki contributors
+mechtool
+lolyanepizdi
+tifund

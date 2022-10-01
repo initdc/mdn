@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/script/index.md
+
+# Original Wiki contributors
+mitaosi
+michalska.lucyna88
+harryzcy
+namklaw
+heekei
+Soy
+unclesamnumberone
+Jackandjohn
+xhlsrj
+xgqfrms-GitHub
+Ende93
+ahwassa
+gqqnbig
+fskuok

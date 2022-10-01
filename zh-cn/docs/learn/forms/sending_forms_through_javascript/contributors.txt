@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/sending_forms_through_javascript/index.md
+
+# Original Wiki contributors
+RainSlide
+WoodCube
+xing2000
+Bayes
+codeofjackie
+littledust
+yydzxz
+Chenng
+chrisdavidmills
+ziyunfei
+sanxingming
+helloguangxue
+teoli

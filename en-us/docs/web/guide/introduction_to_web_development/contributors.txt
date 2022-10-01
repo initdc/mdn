@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/introduction_to_web_development/index.md
+
+# Original Wiki contributors
+gurdiga
+Sheppy
+davidshq
+teoli
+Jeremie
+openjck
+Martndemus
+jswisher
+addyosmani
+mmclark
+happysadman
+pauldefoe
+fantasticfears
+limomo

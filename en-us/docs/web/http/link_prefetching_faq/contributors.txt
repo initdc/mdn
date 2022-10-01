@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/link_prefetching_faq/index.md
+
+# Original Wiki contributors
+ivdekov
+Tantek
+Luke314
+serv-inc
+jswisher
+amirreza
+yts
+teoli
+trevorh
+ozonemattew
+gebura
+Cdolivei
+mnot
+Sheppy
+Potappo
+FreeKey
+Znerd
+Mumuhrj
+Elvey
+kohei.yoshino
+Mgjbot
+Nickolay
+Life sea
+Taken
+Leofiore
+Waldo
+Corycory
+Andreas Wuest
+Pmash

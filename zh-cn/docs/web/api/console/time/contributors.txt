@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/console/time/index.md
+
+# Original Wiki contributors
+zhangchen
+hhxxhg
+pixiu
+teoli
+khalid32
+freemen

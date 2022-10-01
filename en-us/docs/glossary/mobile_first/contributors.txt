@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/mobile_first/index.md
+
+# Original Wiki contributors
+sideshowbarker
+superwriter
+mak213k
+Jeremie
+klez
+Andrew_Pfeiffer

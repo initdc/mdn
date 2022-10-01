@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/tutorials/index.md
+
+# Original Wiki contributors
+silverskyvicto
+mfuji09
+hamasaki
+Uemmra3
+higechira
+takubokudori
+horichiyo
+t-cool
+karaage-kun
+taiyaki32lp64
+YuichiKamiki
+Mohawk

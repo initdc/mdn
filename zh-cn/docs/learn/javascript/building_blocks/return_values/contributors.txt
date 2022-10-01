@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/building_blocks/return_values/index.md
+
+# Original Wiki contributors
+Anser0111
+jsl1079322620
+Hermedius
+FantasqueX
+LuoYun
+larrychen
+Gloriazdh
+codeofjackie
+DaduCC
+BadRonmance
+yj21world
+minmino

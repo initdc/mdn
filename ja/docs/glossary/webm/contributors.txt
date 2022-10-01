@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/webm/index.md
+
+# Original Wiki contributors
+dskmori
+irimame256
+araigumaG

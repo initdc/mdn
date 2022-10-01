@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/xquery/index.md
+
+# Original Wiki contributors
+rolfedh
+marie-ototoi
+klez
+Andrew_Pfeiffer

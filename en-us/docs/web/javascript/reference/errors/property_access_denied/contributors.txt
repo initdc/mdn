@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/errors/property_access_denied/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+SphinxKnight
+runytry1
+ejzimmer
+truongha7762
+Bzbarsky

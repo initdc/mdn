@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/assign/index.md
+
+# Original Wiki contributors
+srq18211
+xgqfrms
+sjnho
+SphinxKnight
+YF05105814
+zac_ma
+shery
+shutong
+HJava
+Jiang-Xuan
+zhangchen
+xgqfrms-GitHub
+micheal-death
+kiyonlin
+Wayme
+glgjssy
+Ende93
+Y____C
+zhangking
+calmcarry
+iamchenxin
+ziyunfei
+rebornix

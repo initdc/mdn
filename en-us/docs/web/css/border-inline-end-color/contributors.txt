@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-inline-end-color/index.md
+
+# Original Wiki contributors
+wbamberg
+ddbeck
+Sheppy
+mfuji09
+rachelandrew
+teoli
+mfluehr
+elysdir1
+Sebastianz
+fscholz
+jsx
+kscarfone

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/sensor_apis/index.md
+
+# Original Wiki contributors
+franksvalli
+sideshowbarker
+fselcukcan
+jpmedley
+AlirezaShafiei
+huwcp
+Paradoxis

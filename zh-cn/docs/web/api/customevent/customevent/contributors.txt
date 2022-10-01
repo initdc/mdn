@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/customevent/customevent/index.md
+
+# Original Wiki contributors
+fscholz
+luyouxin84
+rambo-panda
+Sebastianz
+RIO-LI
+yulifu

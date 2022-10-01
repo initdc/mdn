@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/first_steps/what_went_wrong/index.md
+
+# Original Wiki contributors
+search5
+kode15333
+minjihee89
+eungbean
+ullalassong
+LoverKei
+hjs6877
+jswisher
+ChanghwaLee

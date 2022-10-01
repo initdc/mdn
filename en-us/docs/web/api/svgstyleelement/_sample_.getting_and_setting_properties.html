@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>SVGStyleElement - getting_and_setting_properties - code sample</title>
+    </head>
+    <body>
+        
+            <button>Disable</button>
+<textarea id="log" rows="6" cols="90"></textarea>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style id="circle_style_id" media="all and (min-width: 600px)">
+    circle {
+      fill: gold;
+      stroke: green;
+      stroke-width: 3px;
+    }
+  </style>
+  <circle cx="60" cy="60" r="50" />
+</svg>
+
+        
+        
+            <script>
+                const svg = document.querySelector("svg");
+const style = svg.getElementById("circle_style_id");
+
+// Get logging text area
+const log = document.getElementById("log")
+
+function setLogText() {
+  //Log current values of properties
+  log.value = `style.media: ${style.media} (frame width: ${window.innerWidth})\n`; // 'all' by default
+  log.value += `style.title: ${style.title}\n`; // no default value
+  log.value += `style.disabled: ${style.disabled}\n`;  // 'false' by default
+  log.value += `style.type: ${style.type}\n`;  // deprecated (do not use)
+  log.value += `style.sheet.rules[0].cssText: ${style.sheet.rules[0].cssText}\n`;
+}
+
+// Log initial property values
+setLogText();
+
+// Log when the frame resizes
+addEventListener('resize', () => {
+    setLogText();
+});
+
+const button = document.querySelector('button');
+
+button.addEventListener('click', () => {
+   style.disabled = !style.disabled;
+   button.textContent = style.disabled ? 'Enable' : 'Disable';
+
+   // Log after button presses
+   setLogText();
+   });
+
+            </script>
+        
+    </body>
+</html>

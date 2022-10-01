@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/websockets_api/index.html
+
+# Original Wiki contributors
+YozhEzhi
+Sajag
+RusinovAnton
+zarkone
+uleming
+LOVEBOYS

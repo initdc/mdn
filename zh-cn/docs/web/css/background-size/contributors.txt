@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/background-size/index.md
+
+# Original Wiki contributors
+leverglowh
+wolfdream080
+StaicCai
+maoyumaoxun
+xiayao
+DeadSoul
+RunhuaXue
+toldtoldcool
+Ende93
+fedwatch
+Sebastianz
+teoli
+yan

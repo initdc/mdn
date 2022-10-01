@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/htmlmediaelement/canplaythrough_event/index.md
+
+# Original Wiki contributors
+estelle
+ExE-Boss
+fscholz
+dragmove

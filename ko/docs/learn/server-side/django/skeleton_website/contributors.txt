@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/server-side/django/skeleton_website/index.md
+
+# Original Wiki contributors
+myanjini
+dryben
+yongtaekjun
+KSYong
+ChangYoonJai
+SYCHOI

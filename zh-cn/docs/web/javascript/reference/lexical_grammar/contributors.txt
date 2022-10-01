@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/lexical_grammar/index.md
+
+# Original Wiki contributors
+wwj402
+RainSlide
+jiangxin123
+mistoken
+DrndwX
+VdoG
+eforegist
+Hitomichan
+jiahui
+lunix01

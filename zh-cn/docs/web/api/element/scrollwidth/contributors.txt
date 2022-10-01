@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/scrollwidth/index.md
+
+# Original Wiki contributors
+Sinosaurus
+SageX
+SphinxKnight
+JobbyM
+silhouettesia
+ChanShuYi
+leeluolee
+teoli
+kuugua

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/service_worker_api/using_service_workers/index.md
+
+# Original Wiki contributors
+leegeunhyeok
+LeeJunyeol
+SemteulGaram
+joshua1988

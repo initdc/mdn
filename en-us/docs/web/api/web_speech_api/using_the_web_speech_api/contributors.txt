@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_speech_api/using_the_web_speech_api/index.md
+
+# Original Wiki contributors
+ibnesayeed
+DuncanMacWeb
+zmi
+chrisdavidmills
+HuangYuSan
+damoonrashidi
+Carradee
+mohananagavenkat
+davie-robertson
+sideshowbarker
+Meleksyzz
+dbolter

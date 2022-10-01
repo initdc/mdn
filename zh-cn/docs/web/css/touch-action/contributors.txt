@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/touch-action/index.md
+
+# Original Wiki contributors
+xgqfrms
+linxiaodong0538
+RoXoM
+Katherina-Miao
+Ende93
+teoli
+TooBug

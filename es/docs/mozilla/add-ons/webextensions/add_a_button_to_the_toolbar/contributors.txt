@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/add-ons/webextensions/add_a_button_to_the_toolbar/index.md
+
+# Original Wiki contributors
+roberbnd

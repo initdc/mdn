@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/border-style/index.md
+
+# Original Wiki contributors
+SphinxKnight
+begmans
+teoli
+FredB
+Yuichiro
+Mgjbot
+Fredchat
+Kyodev
+VincentN

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/viewport_concepts/index.md
+
+# Original Wiki contributors
+PerfectVirgo
+244462375
+Hew007
+delbertbeta
+kioyang

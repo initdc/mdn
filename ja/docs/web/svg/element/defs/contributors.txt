@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/element/defs/index.md
+
+# Original Wiki contributors
+takenspc
+Akihiro_0326
+Sebastianz
+eurocated
+Shunter1112

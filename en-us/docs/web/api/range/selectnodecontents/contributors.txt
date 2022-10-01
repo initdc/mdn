@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/selectnodecontents/index.md
+
+# Original Wiki contributors
+mfluehr
+alattalatta
+connorshea
+abbycar
+teoli
+fscholz
+kollishivagangadhar
+Khodaidad_Basharmand
+Sheppy
+SkyLined
+enaeseth
+Gor1

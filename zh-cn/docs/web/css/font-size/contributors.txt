@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/font-size/index.md
+
+# Original Wiki contributors
+ye125440
+eeewl1250
+xgqfrms-GitHub
+Sebastianz
+fscholz
+AlexChao
+fskuok

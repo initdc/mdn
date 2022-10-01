@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/chrome_incompatibilities/index.md
+
+# Original Wiki contributors
+hellosct1
+SphinxKnight
+lp177
+wtoscer
+Goofy
+Bat41

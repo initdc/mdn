@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediaquerylist/index.md
+
+# Original Wiki contributors
+foolip
+thnam
+mfuji09
+Sheppy
+ExE-Boss
+mfluehr
+fscholz
+chrisdavidmills
+petvas
+libbymc
+cvrebert
+Sebastianz
+teoli
+P0lip
+imdadvs
+kscarfone
+kohei.yoshino
+Marcoos
+ethertank
+caesarschinas

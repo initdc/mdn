@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/tan/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+jameshkramer
+eduardoboucas
+Mingun
+Sheppy
+ethertank
+evilpie
+Mgjbot
+Kyodev
+Lachlanhunt
+Maian
+Marcoos
+Dria

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/3.5/updating_extensions/index.md
+
+# Original Wiki contributors
+wbamberg
+teoli
+Brettz9
+stanton
+Nickolay
+Bzbarsky
+Sheppy
+Natch
+Ecmanaut
+Philip Chee
+Alfredkayser
+GavinSharp

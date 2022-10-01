@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cache/match/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Wind1808
+jpmedley
+fscholz
+erikadoyle
+tomayac
+chrisdavidmills
+remy
+Speculative
+kscarfone

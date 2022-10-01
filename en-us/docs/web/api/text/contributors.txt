@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/text/index.md
+
+# Original Wiki contributors
+alattalatta
+Zearin_Galaurum
+mfluehr
+fscholz
+chrisdavidmills
+Sebastianz
+Kanaye
+DomenicDenicola
+stevenwdv
+mattwojo
+jpmedley
+teoli
+maybe
+MHasan
+Sheppy
+Jürgen Jeka
+jswisher
+Ruakh
+Brettz9

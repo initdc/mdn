@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/ext_float_blend/index.md
+
+# Original Wiki contributors
+RainSlide
+rainliang65536

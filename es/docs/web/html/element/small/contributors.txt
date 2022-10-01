@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/small/index.md
+
+# Original Wiki contributors
+danieltacho
+drakzig
+SphinxKnight
+carloque
+teoli
+Jorolo

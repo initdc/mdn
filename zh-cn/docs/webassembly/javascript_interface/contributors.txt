@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/webassembly/javascript_interface/index.md
+
+# Original Wiki contributors
+wallena3
+Chesn
+Gaohaoyang
+zhangchen
+chyingp
+JianrongYu

@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/replacewith/index.md
+
+# Original Wiki contributors
+mauricio-sg
+stevenvachon
+mfluehr
+IlyaUpyackovich
+Sephr
+Peppesterest
+zhuangyin
+fscholz
+subhaze
+smukkekim
+ght
+ericyd
+anonyco
+stevenwdv
+jszhou
+jpmedley

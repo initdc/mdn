@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xml/xml_introduction/index.md
+
+# Original Wiki contributors
+bronsonavila
+daniel.dimitrov
+chrisdavidmills
+Sheppy
+boxa6
+nigelmegitt
+ExE-Boss
+johnnyagerard
+pluwen
+xgqfrms-GitHub
+teoli
+Scimonster
+fscholz
+Taken
+rotterdog
+Jinye1983
+Justin Shreve
+Mgjbot
+Nickolay
+Lptarik
+Quidhala
+ReCover
+Dgonner
+BenoitL
+Ptak82
+Dbseti
+NickolayBot
+Dria

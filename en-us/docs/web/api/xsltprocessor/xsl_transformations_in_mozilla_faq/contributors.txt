@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xsltprocessor/xsl_transformations_in_mozilla_faq/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+kscarfone
+Jürgen Jeka
+Sheppy
+Sevenspade
+thelwyn
+Mgjbot
+Raymond wu
+Fredchat
+Spanglerco

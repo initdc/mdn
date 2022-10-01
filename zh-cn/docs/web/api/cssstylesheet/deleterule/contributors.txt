@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/cssstylesheet/deleterule/index.md
+
+# Original Wiki contributors
+teoli
+khalid32
+ziyunfei

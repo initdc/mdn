@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/defs/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Jeremie
+ExE-Boss
+Sheppy
+Infineight
+abbycar
+Sebastianz
+kscarfone
+Manuel_Strehl

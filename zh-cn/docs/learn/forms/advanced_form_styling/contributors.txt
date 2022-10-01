@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/advanced_form_styling/index.md
+
+# Original Wiki contributors
+rtxu
+Daniel313
+codeofjackie
+yydzxz
+tzigang

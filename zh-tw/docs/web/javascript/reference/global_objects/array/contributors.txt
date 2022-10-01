@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/global_objects/array/index.md
+
+# Original Wiki contributors
+hua-123
+kyob1010
+Aries0d0f
+KevinHuang
+k940545
+jackblackevo
+tswenja
+kdex
+petercpg
+Kaiyeh
+cwlin0416
+oooooo
+m80126colin
+lizlux

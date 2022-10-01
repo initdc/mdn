@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/visibilitystate/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+HolgerJeromin
+krosylight
+fscholz
+Tigt
+adyouri
+MarcusJTW
+teoli

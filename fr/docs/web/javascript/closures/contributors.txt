@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/closures/index.md
+
+# Original Wiki contributors
+smeden-lod
+PhilippePerret
+SphinxKnight
+Lamri
+mbeaudru
+Mongenet
+opii93
+bassam
+DeepFriedSeagull
+cosmith
+teoli
+Florentsuc
+zanz

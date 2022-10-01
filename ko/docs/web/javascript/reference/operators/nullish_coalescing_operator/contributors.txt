@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/operators/nullish_coalescing_operator/index.md
+
+# Original Wiki contributors
+ssohymind
+Jung.Kyu-Hyun

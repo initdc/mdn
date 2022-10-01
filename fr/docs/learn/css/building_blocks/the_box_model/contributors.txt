@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/css/building_blocks/the_box_model/index.md
+
+# Original Wiki contributors
+Romain04
+devscipline
+cgz141413
+vvvaleee

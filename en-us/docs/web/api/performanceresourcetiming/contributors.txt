@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performanceresourcetiming/index.md
+
+# Original Wiki contributors
+xiaoranzife
+fscholz
+lgiraudel
+ExE-Boss
+chrisdavidmills
+jpmedley
+jieyanhuang
+abbycar
+rolfedh
+AFBarstow

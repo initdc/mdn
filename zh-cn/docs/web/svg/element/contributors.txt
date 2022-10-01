@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/element/index.md
+
+# Original Wiki contributors
+Dorence
+RainSlide
+fanxiaojie
+lunix01
+cungen
+teoli
+ethertank

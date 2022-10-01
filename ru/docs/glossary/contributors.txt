@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/index.html
+
+# Original Wiki contributors
+peterbe
+SphinxKnight
+wbamberg
+BychekRU
+abldi
+MuradAz
+Aleksej
+Sheppy
+teoli

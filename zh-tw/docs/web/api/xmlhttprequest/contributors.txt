@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/xmlhttprequest/index.md
+
+# Original Wiki contributors
+ginszme
+fscholz
+willynpi
+jackblackevo
+teoli
+foxbrush
+natevw

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/url/createobjecturl/index.md
+
+# Original Wiki contributors
+shimataro
+Wind1808
+cola119
+isdh
+mfuji09
+YuichiNukiyama
+fscholz
+ethertank
+chatarouxxx

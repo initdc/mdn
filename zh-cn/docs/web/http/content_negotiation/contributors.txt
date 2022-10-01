@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/content_negotiation/index.md
+
+# Original Wiki contributors
+mh47838704
+SunnyWind
+lhc0101
+WayneCui

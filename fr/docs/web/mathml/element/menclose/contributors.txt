@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/mathml/element/menclose/index.md
+
+# Original Wiki contributors
+fred.wang
+Delapouite
+SphinxKnight

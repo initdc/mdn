@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/node/insertbefore/index.md
+
+# Original Wiki contributors
+greysonf
+debone
+teoli
+khalid32
+reniesiqueira

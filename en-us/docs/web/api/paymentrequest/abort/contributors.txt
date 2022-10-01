@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/paymentrequest/abort/index.md
+
+# Original Wiki contributors
+sideshowbarker
+_v7
+fscholz
+jpmedley
+chrisdavidmills
+dgashmdn

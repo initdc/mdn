@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/orphaned/web/accessibility/aria/aria_techniques/using_the_aria-label_attribute/index.md
+
+# Original Wiki contributors
+dasom0801

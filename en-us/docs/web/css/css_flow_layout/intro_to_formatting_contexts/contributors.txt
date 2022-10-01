@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_flow_layout/intro_to_formatting_contexts/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+sanketj
+kvoncode
+Mats.Palmgren
+MerrickClark
+Sheppy
+BruceYuj
+estelle
+rachelandrew

@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/control_flow_and_error_handling/index.md
+
+# Original Wiki contributors
+mpcjazz
+xfq
+nao0x2c6
+masa
+fuyofuyopiroq
+mfuji09
+kaiji
+Uemmra3
+kenji-yamasaki
+ymizushi
+YuichiKamiki
+x2357
+teoli
+ethertank
+yyss
+electrolysis

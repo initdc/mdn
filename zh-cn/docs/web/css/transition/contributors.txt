@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/transition/index.md
+
+# Original Wiki contributors
+zjffun
+zhangchen
+parabolazz
+fengchunsgit
+lingziyu
+zhuangyin
+RoXoM
+codedrinker
+ucev
+xgqfrms-GitHub
+DrakeXiang
+kevinfszu
+fscholz
+Sebastianz
+teoli
+yan

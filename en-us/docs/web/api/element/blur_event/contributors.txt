@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/blur_event/index.md
+
+# Original Wiki contributors
+SUM1
+mfuji09
+wbamberg
+Sebastianz
+mfluehr
+bsotodo
+ExE-Boss
+vapier
+fscholz
+EliSnow
+erikadoyle
+vinyldarkscratch
+smasher164
+Nickolay
+samdroid
+cvrebert
+teoli
+kohei.yoshino
+Sheppy
+Jeremie
+ethertank
+louisremi

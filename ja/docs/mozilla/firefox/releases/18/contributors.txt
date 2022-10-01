@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/18/index.md
+
+# Original Wiki contributors
+kohei.yoshino
+ethertank
+yyss
+dynamis
+nodaguti

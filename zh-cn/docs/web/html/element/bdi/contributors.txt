@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/bdi/index.md
+
+# Original Wiki contributors
+yofine
+gafish
+ZackBee
+hoyt
+Ende93

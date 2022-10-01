@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/index.md
+
+# Original Wiki contributors
+ZouYj
+mokunshao
+RainSlide
+fscholz
+daxiazilong
+liunian1004
+szy0syz
+ZoomZhao
+ifredom
+Ende93
+MeCKodo
+FredWe
+teoli
+hjb2722404
+AlexChao
+ziyunfei
+Yl ls
+Mgjbot
+Bingdian3721
+Chaircat
+Dewang

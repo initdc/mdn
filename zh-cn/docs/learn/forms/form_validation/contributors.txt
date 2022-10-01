@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/form_validation/index.md
+
+# Original Wiki contributors
+dlnb526
+wavedanger
+WoodCube
+PYGC
+liudadadayu
+Amano_Sei
+kazimics
+codeofjackie
+tinyhare
+lihaoyuan
+dondevi
+littledust
+crper
+yydzxz
+pantao
+Froggy
+xianshenglu
+songbinghui
+monsterooo
+liu-xiao-cui
+jileieli

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/node/contains/index.md
+
+# Original Wiki contributors
+kaixuan1992
+frankfang1990
+helloguangxue
+teoli
+khalid32
+ziyunfei

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/element/getboundingclientrect/index.html
+
+# Original Wiki contributors
+AlePerez92
+slam
+cristianmartinez
+SphinxKnight
+joseanpg
+jzatarain
+fscholz
+jsx
+HenryGR
+Mgjbot

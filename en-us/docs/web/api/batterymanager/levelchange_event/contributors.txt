@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/batterymanager/levelchange_event/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+chrisdavidmills
+Hugues-Antoine
+Unihedron
+Fernando_Bernal_Marin
+Sebastianz
+franciov
+eliezerb
+teoli
+mounirlamouri
+Sheppy
+Jeremie

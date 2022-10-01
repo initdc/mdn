@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/box-decoration-break/index.md
+
+# Original Wiki contributors
+Oliverz
+阮若凡

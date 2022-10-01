@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/unescape/index.md
+
+# Original Wiki contributors
+stefango
+zhangchen
+ZivHe
+Jiang-Xuan
+Ende93

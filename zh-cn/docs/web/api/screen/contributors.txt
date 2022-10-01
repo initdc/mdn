@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/screen/index.md
+
+# Original Wiki contributors
+lizheming
+fenyu
+JingLMalan
+Bayes
+teoli

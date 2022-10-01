@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/about_javascript/index.md
+
+# Original Wiki contributors
+Poisonloc
+ziyunfei
+Breezewish
+gelin
+teoli
+Meteormatt
+ethertank
+undercooled

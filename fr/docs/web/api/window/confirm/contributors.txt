@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/confirm/index.md
+
+# Original Wiki contributors
+fffjacquier
+fscholz
+teoli
+icefire
+khalid32
+Mgjbot
+BenoitL

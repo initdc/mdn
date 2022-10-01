@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/introduction_to_html/html_text_fundamentals/index.md
+
+# Original Wiki contributors
+sinochen123
+Roy-Tian
+aaazz47
+ZeroAurora
+youngquan
+MorrisLi
+SirnoChan
+Sphish
+liangmuyang
+tryhard
+sf-think
+baijingfeng
+WindLo
+HolaForce
+web-xx
+CaTmmao
+shiyubo
+zhaoqize
+fengkx
+HashubWang
+skylakecore
+876843240
+DZW314
+danlanxiaohei
+c0ldian
+funnyChinese

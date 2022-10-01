@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/pseudo-classes/index.md
+
+# Original Wiki contributors
+H1Gdev
+mfuji09
+silverskyvicto
+yyss
+ethertank
+Marsf

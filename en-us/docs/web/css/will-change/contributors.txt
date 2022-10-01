@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/will-change/index.md
+
+# Original Wiki contributors
+mfuji09
+ddbeck
+fscholz
+chrisdavidmills
+bhatmand
+Douten
+dunxtand
+zekrom-vale
+MarcusJTW
+brianmacdonald
+MattDiMu
+bwr
+Sheppy
+zziccardi
+teoli
+Sebastianz
+jsx
+paul.irish
+ziyunfei
+bgirard_github

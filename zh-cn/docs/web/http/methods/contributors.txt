@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/methods/index.md
+
+# Original Wiki contributors
+yzb161114
+zhuangyin
+xgqfrms-GitHub
+fscholz
+cissoid

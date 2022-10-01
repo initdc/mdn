@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/text/wholetext/index.md
+
+# Original Wiki contributors
+ZiYang-Song
+beyondbycyx

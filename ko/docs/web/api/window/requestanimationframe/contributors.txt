@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/window/requestanimationframe/index.md
+
+# Original Wiki contributors
+cs09g
+Snark

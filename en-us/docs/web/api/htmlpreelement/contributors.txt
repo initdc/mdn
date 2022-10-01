@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlpreelement/index.md
+
+# Original Wiki contributors
+mfluehr
+sideshowbarker
+ExE-Boss
+Sebastianz
+libbymc
+teoli
+kscarfone

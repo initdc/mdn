@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/getselection/index.md
+
+# Original Wiki contributors
+julienc
+sudwebdesign
+fscholz
+jsx
+teoli
+Mgjbot
+BenoitL

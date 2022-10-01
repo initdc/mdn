@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/attributes/index.html
+
+# Original Wiki contributors
+raecillacastellana
+Cdam
+vltamara
+Shinigami-sama
+welm
+noografo
+Benito
+LeoHirsch
+sha

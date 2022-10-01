@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/response/type/index.md
+
+# Original Wiki contributors
+fsx950223
+Stevenzwzhai

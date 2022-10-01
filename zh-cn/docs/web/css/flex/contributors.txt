@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/flex/index.md
+
+# Original Wiki contributors
+KazooTTT
+xgqfrms
+webkb
+zjffun
+Soyaine
+sccdluochao
+weiqinl
+xianshenglu
+luckyYao
+yufengjue
+zhuangyin
+zcWSR
+SolitudeRA
+Joyee
+cizezsy
+dongyu_-_
+riversYeHaha
+Sebastianz
+fscholz
+ranwu
+lazurey
+fskuok

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/execcommand/index.md
+
+# Original Wiki contributors
+thibault
+loella16
+sylvainpolletvillard
+Fenchister
+DominiqueDevinci
+ebear
+fscholz
+teoli
+bfn

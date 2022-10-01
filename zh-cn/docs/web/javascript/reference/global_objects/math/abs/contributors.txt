@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/math/abs/index.md
+
+# Original Wiki contributors
+FlowingRiver
+tiansh
+AlexChao
+teoli
+ndon

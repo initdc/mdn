@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/common_questions/thinking_before_coding/index.md
+
+# Original Wiki contributors
+maishakins
+jamesdhurd
+chrisdavidmills
+surigangula
+SphinxKnight
+Jeremie
+Andrew_Pfeiffer
+teoli

@@ -1,0 +1,1048 @@
+<!DOCTYPE html><html lang="en-US" prefix="og: https://ogp.me/ns#"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/favicon-48x48.97046865.png"><link rel="apple-touch-icon" href="/apple-touch-icon.0ea0fa02.png"><meta name="theme-color" content="#ffffff"><link rel="manifest" href="/manifest.56b1cedc.json"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="MDN Web Docs"><script>Array.prototype.flat&&Array.prototype.includes||document.write('<script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.flat%2Ces6"><\/script>')</script><title>미디어 컨테이너 포맷 (파일 타입) - Web media technologies | MDN</title><link rel="preload" as="font" type="font/woff2" crossorigin="" href="/static/media/ZillaSlab-Bold.subset.0beac26b.woff2"><link rel="alternate" title="미디어 컨테이너 포맷 (파일 타입)" href="https://developer.mozilla.org/ko/docs/Web/Media/Formats/Containers" hreflang="ko"><link rel="alternate" title="Media container formats (file types)" href="https://developer.mozilla.org/zh-TW/docs/Web/Media/Formats/Containers" hreflang="zh-TW"><link rel="alternate" title="Media container formats (file types)" href="https://developer.mozilla.org/zh-CN/docs/Web/Media/Formats/Containers" hreflang="zh"><link rel="alternate" title="Media container formats (file types)" href="https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Containers" hreflang="en"><meta name="description" content="오디오와 비디오 파일 포맷은 두 파트에서 정의할 수 있습니다.(오디오 비디오가 한 파일에 있으면 물론 3 파트지요): 오디오/비디오 코덱와 미디어 컨테이너 포맷(도는 파일 타입)입니다. 이 가이드 문서는 웹에서 널리 쓰이는 컨테이너 포맷에 대해 알아보고 기본적인 스펙와 장단점 그리고 적절한 사용법을 설명하고 있습니다."><meta property="og:url" content="https://developer.mozilla.org/ko/docs/Web/Media/Formats/Containers"><meta property="og:title" content="미디어 컨테이너 포맷 (파일 타입) - Web media technologies | MDN"><meta property="og:description" content="오디오와 비디오 파일 포맷은 두 파트에서 정의할 수 있습니다.(오디오 비디오가 한 파일에 있으면 물론 3 파트지요): 오디오/비디오 코덱와 미디어 컨테이너 포맷(도는 파일 타입)입니다. 이 가이드 문서는 웹에서 널리 쓰이는 컨테이너 포맷에 대해 알아보고 기본적인 스펙와 장단점 그리고 적절한 사용법을 설명하고 있습니다."><meta property="og:locale" content="ko"><meta property="og:image" content="https://developer.mozilla.org/mdn-social-share.0ca9dbda.png"><meta property="twitter:card" content="summary_large_image"><meta name="robots" content="index, follow"><link rel="canonical" href="https://developer.mozilla.org/ko/docs/Web/Media/Formats/Containers"><style media="print">.breadcrumbs-container,.document-toc-container,.language-menu,.language-toggle,.on-github,.page-footer,.page-header-main,nav.sidebar,ul.prev-next{display:none!important}.main-page-content,.main-page-content pre{padding:2px}.main-page-content pre{border-left-width:2px}</style><link href="/static/css/main.55b68e13.chunk.css" rel="stylesheet"><script src="/static/js/runtime-main.4bb4c356.js" defer=""></script><script src="/static/js/4.a756dea3.chunk.js" defer=""></script><script src="/static/js/main.d4d565e0.chunk.js" defer=""></script></head><body><div id="root"><ul id="nav-access" class="a11y-nav"><li><a id="skip-main" href="#content">Skip to main content</a></li><li><a id="skip-search" href="#main-q">Skip to search</a></li><li><a id="skip-select-language" href="#select-language">Skip to select language</a></li></ul><div class="page-wrapper document-page"><header class="page-header"><a href="/ko/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a><button type="button" class="ghost main-menu-toggle" aria-haspopup="true" aria-label="Show Menu"></button><div class="page-header-main "><nav class="main-nav" aria-label="Main menu"><ul class="main-menu nojs"><li class="top-level-entry-container"><button id="technologies-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Technologies</button><ul class="technologies " role="menu" aria-labelledby="technologies-button"><li role="none"><a tabindex="-1" href="/ko/docs/Web" role="menuitem">Technologies Overview</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/HTML" role="menuitem">HTML</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/CSS" role="menuitem">CSS</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/JavaScript" role="menuitem">JavaScript</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/Guide/Graphics" role="menuitem">Graphics</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/HTTP" role="menuitem">HTTP</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/API" role="menuitem">APIs</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Mozilla/Add-ons/WebExtensions" role="menuitem">Browser Extensions</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/MathML" role="menuitem">MathML</a></li></ul></li><li class="top-level-entry-container"><button id="references-guides-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">References &amp; Guides</button><ul class="references-guides " role="menu" aria-labelledby="references-guides-button"><li role="none"><a tabindex="-1" href="/ko/docs/Learn" role="menuitem">Learn web development</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/Tutorials" role="menuitem">Tutorials</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/Reference" role="menuitem">References</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/Guide" role="menuitem">Developer Guides</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web/Accessibility" role="menuitem">Accessibility</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Games" role="menuitem">Game development</a></li><li role="none"><a tabindex="-1" href="/ko/docs/Web" role="menuitem">...more docs</a></li></ul></li><li class="top-level-entry-container"><button id="feedback-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Feedback</button><ul class="feedback " role="menu" aria-labelledby="feedback-button"><li role="none"><a tabindex="-1" href="/ko/docs/MDN/Contribute/Feedback" role="menuitem">Send Feedback</a></li><li role="none"><a tabindex="-1" href="/ko/docs/MDN/Contribute" role="menuitem">Contribute to MDN</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/content/issues/new" role="menuitem">Report a content issue<!-- --> 🌐</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/yari/issues/new" role="menuitem">Report a platform issue<!-- --> 🌐</a></li></ul></li></ul></nav><div class="header-search"><form action="/ko/search" class="search-form search-widget" role="search"><label for="main-q" class="visually-hidden">Search MDN</label><input type="search" name="q" id="main-q" class="search-input-field" placeholder="Site search... (Press &quot;/&quot; to focus)" pattern="(.|\s)*\S(.|\s)*" required="" value=""><input type="submit" class="ghost search-button" value="" aria-label="Search"></form></div><div class="auth-container"></div></div></header><div class="breadcrumb-locale-container"><nav class="breadcrumbs-container" aria-label="Breadcrumb navigation"><ol typeof="BreadcrumbList" vocab="https://schema.org/" aria-label="breadcrumbs"><li property="itemListElement" typeof="ListItem"><a class="breadcrumb" property="item" typeof="WebPage" href="/ko/docs/Web"><span property="name">개발자를 위한 웹 기술</span></a><meta property="position" content="1"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb" property="item" typeof="WebPage" href="/ko/docs/Web/Media"><span property="name">Web media technologies</span></a><meta property="position" content="2"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-penultimate" property="item" typeof="WebPage" href="/ko/docs/Web/Media/Formats"><span property="name">Guide to media types and formats on the web</span></a><meta property="position" content="3"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-current-page" property="item" typeof="WebPage" href="/ko/docs/Web/Media/Formats/Containers"><span property="name">미디어 컨테이너 포맷 (파일 타입)</span></a><meta property="position" content="4"></li></ol></nav><ul class="language-toggle"><li><a href="#select-language" class="language-icon"><span class="show-desktop">Change language</span></a></li><li><a class="view-in-english" href="/en-US/docs/Web/Media/Formats/Containers"><span class="show-desktop">View in</span> English</a></li></ul></div><div class="localized-content-note notecard inline neutral"><a href="/en-US/docs/MDN/Contribute/Localize#active_locales">이 페이지는 영어로부터 커뮤니티에 의하여 번역되었습니다. MDN Web Docs에서 한국 커뮤니티에 가입하여 자세히 알아보세요.</a></div><aside class="document-toc-container"><section class="document-toc"><header><h2>Table of contents</h2><button type="button" class="ghost toc-trigger-mobile" aria-controls="toc-entries" aria-expanded="false">Table of contents</button></header><ul id="toc-entries"><li><a href="#일반적인_컨테이너_포맷">일반적인 컨테이너 포맷</a></li><li><a href="#컨테이너_포맷파일_타입_인덱스">컨테이너 포맷(파일 타입) 인덱스</a></li><li><a href="#알맞은_컨테이너_선택하기">알맞은 컨테이너 선택하기</a></li><li><a href="#다양한_컨테이너간_호환성_극대화">다양한 컨테이너간 호환성 극대화</a></li><li><a href="#명세서">명세서</a></li><li><a href="#브라우저_호환성">브라우저 호환성</a></li><li><a href="#더_보기">더 보기</a></li></ul></section></aside><main id="content" class="main-content" role="main"><article class="main-page-content" lang="ko"><h1>미디어 컨테이너 포맷 (파일 타입)</h1><div><p>오디오와 비디오 파일 포맷은 두 파트에서 정의할 수 있습니다.(오디오 비디오가 한 파일에 있으면 물론 3 파트지요): 오디오/비디오 코덱와 미디어 컨테이너 포맷(도는 파일 타입)입니다. 이 가이드 문서는 웹에서 널리 쓰이는 컨테이너 포맷에 대해 알아보고 기본적인 스펙와 장단점 그리고 적절한 사용법을 설명하고 있습니다.</p>
+<p><a href="/ko/docs/Web/API/WebRTC_API">WebRTC</a> 는 컨테이너를 사용하지 않습니다. 대신에 각 트랙을 나타내는<a href="/ko/docs/Web/API/MediaStreamTrack"><code>MediaStreamTrack</code></a> 객체를 통해 인코딩 된 오디오/비디오 트랙을 한 곳에서 다른 곳으로 직접 스트리밍합니다. WebRTC에서 일반적으로 사용하는 코덱이나 브라우저 호환성을 알아보려면 <a href="/en-US/docs/Web/Media/Formats/WebRTC_codecs" class="only-in-en-us" title="Currently only available in English (US)">Codecs used by WebRTC (en-US)</a> 문서를 참고하세요.</p></div><h2 id="일반적인_컨테이너_포맷"><a href="#일반적인_컨테이너_포맷" title="Permalink to 일반적인 컨테이너 포맷">일반적인 컨테이너 포맷</a></h2><div><p>미디어 컨테이너 포맷에는 여러 종류가 있지만 여러분들은 보통 아래 나열된 목록의 포맷을 주로 만나게 될 겁니다. 일부는 오디오만 지원하는 것도 있고 오디오와 비디오 모두를 지원하는 포맷도 있죠. MIME 타입과 확장자도 나열되어 있습니다. 웹상에서 가장 많이 쓰이는 컨테이너 포맷은 아마도 MPEG-4 (MP4), Quicktime Movie (MOV), Wavefile Audio File Format (WAV)일겁니다. 또한 MP3, Ogg, WebM, AVI 등의 포맷도 볼 수 있지요. 하지만 모든 브라우저가 이 다양한 포맷들을 지원하는 것은 아닙니다. 사용하기 편하고 다른 조합과의 구분을 위해 특정한 컨테이너와 코덱의 조합은 독자적인 MIME type과 확장자를 가지기도 합니다. 예를들어 Opus 오디오 트랙만을 가진 Ogg파일은 가끔 Opus 파일이라 불리며 <code>.opus</code> 확장자를 가지는 경우도 있습니다. 하지만 실제로는 단순한 Ogg 파일일 뿐이죠.</p>
+<p>반대 케이스로 특정 코덱이 특정 컨테이너에 담긴 형태가 매우 보편적일 경우 독자적인 형식으로 취급하는 경우도 있습니다. MP3 오디오 파일이 대표적인 경우로, MPEG-1 컨테이너에 MPEG-1 Audio Layer III 코덱으로 인코딩 된 오디오 트랙 하나만이 담긴 케이스입니다. 컨테이너는 일반적인 MPEG지만 이 형식은 <code>audio/mp3</code> MIME 타입과 <code>.mp3</code> 확장자를 사용합니다.</p></div><h2 id="컨테이너_포맷파일_타입_인덱스"><a href="#컨테이너_포맷파일_타입_인덱스" title="Permalink to 컨테이너 포맷(파일 타입) 인덱스">컨테이너 포맷(파일 타입) 인덱스</a></h2><div><p>특정 컨테이너 포맷에 대해 더 알아보려면 아래 목록에서 찾아 클릭하세요. 컨테이너 사용법과 지원하는 코덱, 지원하는 브라우저 등을 알 수 있습니다.</p>
+<ul>
+  <li><a href="#3gp">3GP</a></li>
+  <li><a href="#adts">ADTS</a></li>
+  <li><a href="#flac">FLAC</a></li>
+  <li><a href="#mpeg">MPEG / MPEG-2</a></li>
+  <li><a href="#mp4">MPEG-4 (MP4)</a></li>
+  <li><a href="#ogg">Ogg</a></li>
+  <li><a href="#quicktime">QuickTime</a></li>
+  <li><a href="#wave">WAVE</a></li>
+  <li><a href="#webm">WebM</a></li>
+</ul></div><h3 id="3gp"><a href="#3gp" title="Permalink to 3GP">3GP</a></h3><div><p><strong>3GP</strong> 또는 <strong>3GPP</strong> 컨테이너는 셀룰러 네트워크를 통해 전송하고 모바일 장치에서 사용하기 위해 고안되었습니다. 원래 3G 모바일 폰을 위해 디자인하였지만 현대의 모바일 폰과 네트워크에서도 사용하고 있습니다. 하지만 네트워크 처리량이 늘어나면서 3GP 포맷의 필요성은 점차 줄어들고 있죠. 그러나 여전히 느린 네트워크나 저사양 폰에서는 유용한 컨테이너이기도 합니다.</p>
+<p>이 컨테이너는 ISO Base Media File Format과 MPEG-4 기반이지만 저대역폭 케이스에 최적화되어 있습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/3gpp</code></td>
+      <td><code>video/3gpp</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/3gpp2</code></td>
+      <td><code>video/3gpp2</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/3gp2</code></td>
+      <td><code>video/3gp2</code></td>
+    </tr>
+  </tbody>
+</table>
+<p>위는 3GP 컨테이너의 기본 MIME 타입입니다; 사용하는 코덱에 따라 다른 타입을 사용할 수도 있습니다; 또한 MIME 타입 문자열에 <a href="/ko/docs/Web/Media/Formats/codecs_parameter#iso-bmff"><code>codecs</code> 파라미터를 추가하여</a> 어떠한 오디오/비디오 코덱을 사용했는지 표시할 수 있으며 profile, level, 코덱 설정 값도 추가하여 전달할 수 있습니다.</p>
+<table class="standard-table">
+  <caption>3GP가 지원하는 비디오 코덱.</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AVC (H.264)</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-vid-footnote-1">1</a>,<a href="#3gp-vid-footnote-1">2</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">H.263</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-vid-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-4 Part 2 (MP4v-es)</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-vid-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP8</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-vid-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<p>[1] FIrefox only supports 3GP on <a href="https://www.khronos.org/openmax/" class="external" rel=" noopener">OpenMAX</a>-based devices, which currently means the Boot to Gecko (B2G) platform.</p>
+<p>[2] Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>
+<table class="standard-table">
+  <caption>3GP가 지원하는 오디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AMR-NB</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-aud-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">AMR-WB</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-aud-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">AMR-WB+</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-aud-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">AAC-LC</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-aud-footnote-1">1</a>,<a href="#av1-vid-footnote-2">2</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">HE-AAC v1</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-aud-footnote-1">1</a>,<a href="#av1-vid-footnote-2">2</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">HE-AAC v2</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-aud-footnote-1">1</a>,<a href="#av1-vid-footnote-2">2</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MP3</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#3gp-aud-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<p>[1] FIrefox only supports 3GP on <a href="https://www.khronos.org/openmax/" class="external" rel=" noopener">OpenMAX</a>-based devices, which currently means the Boot to Gecko (B2G) platform.</p>
+<p>[2] Firefox support for AAC relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p></div><h3 id="adts"><a href="#adts" title="Permalink to ADTS">ADTS</a></h3><div><p><strong>Audio Data Transport Stream</strong> (<strong>ADTS</strong>) 는 인터넷 라디오 같은 오디오 스트림을 사용하기 위해 MPEG-4 Part 3로 규정된 컨테이너 포맷입니다. 근본적으로 ACC 오디오 데이터에서 스트림만 깐 것과 거의 동일하며 최소한의 헤더만 담긴 ADTS 프레임으로 구성되어 있습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/aac</code><a href="#adts-foot-1">[1]</a></td>
+    </tr>
+    <tr>
+      <td><code>audio/mpeg</code><a href="#adts-foot-1">[1]</a></td>
+    </tr>
+  </tbody>
+</table>
+<p>[1] The MIME type used for ADTS depends on what kind of audio frames are contained within. If ADTS frames are used, the <code>audio/aac</code> MIME type should be used. If the audio frames are in MPEG-1/MPEG-2 Audio Layer I, II, or III format, the MIME type should be <code>audio/mpeg</code>.</p>
+<table class="standard-table">
+  <caption>ADTS가 지원하는 오디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AAC</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#adts-aud-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MP3</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<p>[1] Firefox support for AAC relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p></div><h3 id="flac"><a href="#flac" title="Permalink to FLAC">FLAC</a></h3><div><p><strong>Free Lossless Audio Codec</strong> (<strong>FLAC</strong>)은 무손실 오디오 코덱입니다; 이 코덱을 담을 수 있는 컨테이너 역시 FLAC이라 부릅니다. 이 포맷은 어느 특허에도 묶여있지 않아 자유롭게 사용할 수 있습니다. FLAC 파일은 FLAC 오디오 데이터만 담을 수 있습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/flac</code></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>FLAC이 지원하는 오디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">FLAC</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="mpegmpeg-2"><a href="#mpegmpeg-2" title="Permalink to MPEG/MPEG-2">MPEG/MPEG-2</a></h3><div><p><strong><a href="https://ko.wikipedia.org/wiki/MPEG-1" class="external" rel=" noopener">MPEG-1</a>과</strong> **<a href="https://ko.wikipedia.org/wiki/MPEG-2" class="external" rel=" noopener">MPEG-2</a>**은 근본적으로 동일합니다. the Moving Picture Experts Group (MPEG)에서 만들었으며 DVD 등의 물리적 매체에서 널리 쓰이고 있습니다.</p>
+<p>인터넷에서 아마 가장 많이 사용되는 MPEG 파일 포맷은 <a href="https://ko.wikipedia.org/wiki/MPEG-1" class="external" rel=" noopener">Layer_III/MP3</a> 일 겁니다; MP3 파일은 전 세계의 디지털 오디오 장치에서 널리 재생되고 있습니다. 반대로 MPEG-1, MPEG-2는 웹에서 별로 사용하고 있지 않죠.</p>
+<p>MPEG-1과 MPEG-2 간의 차이점은 컨테이너 포맷이 아니라 미디어 데이터 포맷에 있습니다. MPEG-1은 1992년 소개되었으며; MPEG-2는 1996년에 소개되었습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/mpeg</code></td>
+      <td><code>video/mpeg</code></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>MPEG-1과 MPEG-2가 지원하는 비디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">MPEG-1 Part 2</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-2 Part 2</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>MPEG-1과 MPEG-2가 지원하는 오디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer I</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer II</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer III (MP3)</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="mpeg-4_mp4"><a href="#mpeg-4_mp4" title="Permalink to MPEG-4 (MP4)">MPEG-4 (MP4)</a></h3><div><p><strong><a href="https://ko.wikipedia.org/wiki/MPEG-4" class="external" rel=" noopener">MPEG-4</a></strong> (<strong>MP4</strong>) 는 최신 MPEG 파일 포맷입니다. 파트 1과 14 스펙에서 정의된 두 가지 버전의 포맷이 있습니다. MP4는 오늘날 유명한 컨테이너 포맷으로 많이 쓰이는 코덱을 지원하며 널리 사용되고 있습니다.</p>
+<p>최초의 MPEG-4 Part 1 포맷은 1999년 발표되었습니다; Part 14에서 정의된 버전 2 포맷은 2003년 추가되었습니다. MP4 파일 포맷은 <a href="https://www.apple.com/" class="external" rel=" noopener">Apple</a>이 개발한 <a href="https://en.wikipedia.org/wiki/QuickTime_File_Format" class="external" rel=" noopener">QuickTime file format</a>에서 파생된 <a href="https://en.wikipedia.org/wiki/ISO_base_media_file_format" class="external" rel=" noopener">ISO base media file format</a>에서 다시 파생되었습니다.</p>
+<p>MPEG-4 미디어 타입을 표기할 때 (<code>audio/mp4</code> or <code>video/mp4</code>), MIME 타입에 <a href="/ko/docs/Web/Media/Formats/codecs_parameter#iso-bmff"><code>codecs</code> 파라미터를 추가하여</a> 사용하는 오디오/비디오 코덱을 명시할 수 있으며 추가적으로 profile, level, 코덱 설정 등을 명기할 수 있습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/mp4</code></td>
+      <td><code>video/mp4</code></td>
+    </tr>
+  </tbody>
+</table>
+<p>위는 MPEG-4 미디어 컨테이너의 기본 타입입니다; 어떤 코덱을 쓰느냐에 따라 MIME 타입도 달라질 수 있습니다. 또한 MIME 타입에 <a href="/ko/docs/Web/Media/Formats/codecs_parameter#iso-bmff"><code>codecs</code> 파라미터를 추가하여</a> 사용하는 오디오/비디오 코덱을 명시할 수 있으며 추가적으로 profile, level, 코덱 설정 등을 명기할 수 있습니다.</p>
+<table class="standard-table">
+  <caption>MPEG-4가 지원하는 비디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AVC (H.264)</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#mp4-vid-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">AV1</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#mp4-vid-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">H.263</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-4 Part 2 Visual</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP9</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<p>[1] Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>
+<p>[2] Firefox support for AV1 is currently disabled by default; it can be enabled by setting the preference <code>media.av1.enabled</code> to <code>true</code>.</p>
+<table class="standard-table">
+  <caption>MPEG-4가 지원하는 오디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AAC</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#mp4-aud-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">FLAC</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer III (MP3)</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Opus</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<p>[1] Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p></div><h3 id="ogg"><a href="#ogg" title="Permalink to Ogg">Ogg</a></h3><div><p><strong><a href="https://en.wikipedia.org/wiki/Ogg" class="external" rel=" noopener">Ogg</a>는</strong> <a href="https://www.xiph.org/" class="external" rel=" noopener">Xiph.org Foundation</a>이 운영하는 자유 오픈 컨테이너 포맷입니다. Theora, Vorbis, and Opus등의 Ogg 프레임워크는 특허에 얽매이지 않게 정의되었습니다. 재단 웹사이트에서 <a href="https://xiph.org/ogg/" class="external" rel=" noopener">Xiph.org documents about the Ogg format</a>를 확인할 수 있습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/ogg</code></td>
+      <td><code>video/ogg</code></td>
+    </tr>
+  </tbody>
+</table>
+<p>MIME 타입에 <a href="/ko/docs/Web/Media/Formats/codecs_parameter#ogg"><code>codecs</code> 파라미터를 추가하여</a> 사용하는 오디오/비디오 코덱을 명시할 수 있으며 트랙의 미디어 포맷에 대한 추가 정보도 기입할 수 있습니다.</p>
+<table class="standard-table">
+  <caption>Ogg가 지원하는 비디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Theora</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP8</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP9</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Ogg가 지원하는 오디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">FLAC</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Opus</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Vorbis</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="quicktime"><a href="#quicktime" title="Permalink to QuickTime">QuickTime</a></h3><div><p><strong>QuickTime</strong> 파일 포맷(<strong>QTFF</strong>, <strong>QT</strong>, <strong>MOV</strong>) 는 동일한 이름의 미디어 프레임워크에서 사용하기 위해 애플이 개발했습니다. 확장자 <code>.mov</code>는 최초 영화에서 쓰이기 위해 개발되었다는 의미에서 지어졌으며 보통 "QuickTime movie" 포맷이라 불립니다. QTFF가 MPEG-4 파일 포맷에 기반하였지만 두 포맷에는 분명한 차이점이 있으며 상호 호환되지 않습니다.</p>
+<p>QuickTime 파일은 오디오, 비디오 텍스트 트랙 등 시간축을 가지는 다수의 데이터 타입을 지원합니다. QuickTime 파일은 원래 macOS에서 사용하기 위해 개발되었지만 수 년이 지나면서 윈도우즈 환경에서는 QuickTime for Windows를 통해 사용할 수 있게 되었습니다. 그러나 2016년 초부터 애플은 더 이상 QuickTime for Windows를 유지 보수하지 않으며 알려진 보안 취약점으로 인해 <em>사용해선 안됩니다</em>. 하지만 Windows Media Player 가 현재 QuickTime version 2.0 및 이전 버전을 지원하며; 이후 버전의 QuickTime은 서드파티 플러그인을 통해 지원합니다.</p>
+<p>Mac OS에서 QuickTime 프레임워크는 QuickTime 포맷의 영상 파일 및 코덱 뿐만아니라 널리 쓰이는 오디오/비디오 코덱 상당 수를 지원합니다. 정지 화상 이미지 포맷도 포함해서요. (QuickTime 플러그인이 설치되었거나 QuickTime과 바로 연동된 브라우저를 포함 한)맥 애플리케이션은 QuickTime을 통해서 ACC, AIFF, MP#, PCM, Qualcomm PureVoice 등의 오디오 포맷과 AVI, DV, Pixlet, ProRes, FLAC, Cinepak, 3GP, H.261 through H.265, MJPEG, MPEG-1, MPEG-4 Part 2, Sorenson 등 수 많은 비디오 포맷을 읽고 쓸 수 있습니다.</p>
+<p>추가적인 코덱을 지원하기 위해 QuickTime에 다수의 서드파티 컴포넌트를 설치할 수도 있습니다.</p>
+<p>QuickTime은 처음부터 지금까지 근본적으로 애플 디바이스에서 사용하기 위해 만들어졌기 때문에 인터넷 환경에서 널리 쓰이고 있지는 않습니다. 애플 스스로도 현재는 MP4 비디오를 사용하고 있구요. 게다가 QuickTime 프레임워크마저 deprecated되면서 macOS 10.15 Catalina부터는 사용이 불가능해졌습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>video/quicktime</code></td>
+    </tr>
+  </tbody>
+</table>
+<p><code>video/quicktime</code> 은 QuickTime 미디어 컨테이너의 기본 MIME 타입입니다. QuickTime (Mac OS의 미디어 프레임워크)이 다양한 컨테이너와 코덱을 지원하므로 다른 많은 MIME 타입 역시 지원합니다.</p>
+<p>MIME 타입에 <a href="/ko/docs/Web/Media/Formats/codecs_parameter#iso-bmff"><code>codecs</code> 파라미터를 추가하여</a> 사용하는 오디오/비디오 코덱을 명시할 수 있으며 추가적으로 profile, level, 코덱 설정 등을 명기할 수 있습니다.</p>
+<table class="standard-table">
+  <caption>QuickTime이 지원하는 비디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AVC (H.264)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Cinepak</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Component Video</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">DV</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">H.261</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">H.263</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-2</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-4 Part 2 Visual</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Motion JPEG</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Sorenson Video 2</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Sorenson Video 3</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>QuickTime이 지원하는 오디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AAC</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">ALaw 2:1</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Apple Lossless (ALAC)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">HE-AAC</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer III (MP3)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Microsoft ADPCM</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">µ-Law 2:1 (u-Law)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="wave_wav"><a href="#wave_wav" title="Permalink to WAVE (WAV)">WAVE (WAV)</a></h3><div><p>Waveform Audio File Format (WAVE)는 보통 줄여서 WAV라 불리며 <code>.wav</code> 확장자를 갖습니다. 오디오 비트스트림 데이터를 담기 위해 Microsoft와 IBM이 개발했습니다. 대부분의 WAV 파일은 linear PCM 포맷의 오디오 데이터를 담고 있습니다.</p>
+<p>이 파일 포맷은 Resource Interchange File Format (RIFF)에서 파생되었으며 애플의 AIFF 같은 다른 파생 형식와 유사합니다..</p>
+<p>WAVE 포맷은 1991년 처음 발표되었습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/wave</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/wav</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/x-wav</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/x-pn-wav</code></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>WAVE가 지원하는 오디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">ADPCM (Adaptive Differential Pulse Code Modulation)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">GSM 06.10</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">LPCM (Linear Pulse Code Modulation)</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer III (MP3)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">µ-Law (u-Law)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="webm"><a href="#webm" title="Permalink to WebM">WebM</a></h3><div><p><strong><a href="https://en.wikipedia.org/wiki/WebM" class="external" rel=" noopener">WebM</a></strong> (Web Media)는 <a href="https://en.wikipedia.org/wiki/Matroska" class="external" rel=" noopener">Matroska</a>에 기반하여 현대 웹 환경에서 사용하기 위해 디자인되었습니다. 특정 제품들은 WebM 컨테이너에 다른 코덱을 사용하기도 하지만 기본적으로는 무료 오픈 코덱을 사용하여 완전한 자유-오픈 기술을 지향하고 있습니다.</p>
+<p>WebM은 2010년 처음 소개되었습니다..</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/webm</code></td>
+      <td><code>video/webm</code></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>WebM이 지원하는 비디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AV1</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#av1-vid-footnote-1">1</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">AVC (H.264)</th>
+      <td></td>
+      <td></td>
+      <td>Yes<sup><a href="#av1-vid-footnote-2">2</a></sup></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP8</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP:9</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<p>[1] Firefox support for AV1 is currently disabled by default; it can be enabled by setting the preference <code>media.av1.enabled</code> to <code>true</code>.</p>
+<p>[2] Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>
+<table class="standard-table">
+  <caption>WebM이 지원하는 오디오 코덱</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Opus</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Vorbis</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h2 id="알맞은_컨테이너_선택하기"><a href="#알맞은_컨테이너_선택하기" title="Permalink to 알맞은 컨테이너 선택하기">알맞은 컨테이너 선택하기</a></h2><div><p>여러분의 미디어 데이터에 알맞은 컨테이너를 선택하고 사용하기 위해서 몇 가지 고려해야 할 점들이 있습니다. 상대적으로 어떤 점이 더 중요한지는 요구사항이나 라이선스, 호환성, 타겟 고객 등에 따라 달라질 수 있습니다.</p></div><h3 id="가이드라인"><a href="#가이드라인" title="Permalink to 가이드라인">가이드라인</a></h3><div><p>최선책 역시 미디어 데이터로 무엇을 하느냐에 달렸습니다. 미디어를 녹화/편집하는 것은 재생과 전혀 다른 이야기입니다. 최소한 노이즈 축적이라도 방지하려고 무손실 압축을 사용하면 매번 재 압축할 때 마다 압축 데이터가 누적되므로 미디어 데이터를 처리할때는 압축하지 않은 데이터를 사용하는게 퍼포먼스가 좋습니다.</p>
+<ul>
+  <li>저사양 단말 또는 저속 네트워크를 사용하는 고객을 대상으로 하고 있다면 3GP 컨테이너와 적절한 압축 코덱을 고려해 볼 수 있습니다.</li>
+  <li>인코딩시 필수 사항이 있다면 컨테이너 선택 시 적절한 코덱을 지원하는 지 확인해야 합니다.</li>
+  <li>미디어가 상용이 아니며 오픈 포맷일 경우 FLAC(오디오), WebM(비디오) 등의 오픈 컨테이너 포맷을 고려해 보세요.</li>
+  <li>어떠한 이유로 미디어를 한가지 포맷으로 제공해야 한다면 많은 디바이스와 브라우저에 널리 쓰여지는 MP3(오디오), MP4(비디오, 오디오)등의 포맷을 선택하세요.</li>
+  <li>미디어가 오디오만 있다면 오디오 전용 컨테이너를 사용하는게 합당합니다. 현재는 특허가 모두 만료되어 널리 쓰여지는 MP3가 좋은 선택입니다. WAVE도 좋지만 비압축이므로 대용량 오디오 샘플의 경우에는 사용을 주의하세요. 모든 타겟 브라우저가 지원한다면 무손실 압축을 지원하는 FLAC이 최선입니다.</li>
+</ul>
+<p>슬픈 일이지만 주요 무손실 압축 포맷 (FLAC, ALAC) 모두 폭넓게 지원되고 있지 않습니다. 둘 중에 FLAC이 그나마 낫지만 macOS에서는 추가적인 소프트웨어 설치 없이는 지원을 안합니다. iOS에서는 아예 불가능하구요. 무손실 오디오를 플랫폼에 무관하게 제공하려면 FLAC과 ALAC 둘 다 지원해야 합니다.</p></div><h3 id="컨테이너_선택_가이드"><a href="#컨테이너_선택_가이드" title="Permalink to 컨테이너 선택 가이드">컨테이너 선택 가이드</a></h3><div><p>아래의 테이블은 다양한 시나리오에서 사용할 컨테이너에 대한 권고안입니다. 이는 추천일 뿐이며 컨테이너 포맷을 선택할 때에는 여러분의 제품이나 기관의 상황을 고려하여 선택하세요.</p>
+<h4 id="오디오_전용_파일">오디오 전용 파일</h4>
+<table>
+  <thead>
+    <tr>
+      <th>만약에...</th>
+      <th>추천 컨테이너 포맷</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>일반 재생 목적으로 압축 파일 사용</td>
+      <td>MP3 (MPEG-1 Audio Layer III)</td>
+    </tr>
+    <tr>
+      <td>무손실 압축 파일</td>
+      <td>FLAC with ALAC fallback</td>
+    </tr>
+    <tr>
+      <td>무압축 파일</td>
+      <td>WAV</td>
+    </tr>
+  </tbody>
+</table>
+<p>이제는 MP3 특허가 모두 만료되었으므로 오디오 파일 선택은 별로 어려운 문제가 아닙니다. 폭넓게 쓰이는 MP3를 사용하면서 특허료를 내야 하느냐에 대한 고민을 할 필요가 없죠.</p>
+<h4 id="비디오_파일">비디오 파일</h4>
+<table>
+  <thead>
+    <tr>
+      <th>만약에...</th>
+      <th>추천 컨테이너 포맷</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>가능한 오픈 포맷을 사용한 일반 비디오</td>
+      <td>WebM (MP4 호환 추가)</td>
+    </tr>
+    <tr>
+      <td>일반 비디오</td>
+      <td>MP4 (WebM, Ogg 호환 추가)</td>
+    </tr>
+    <tr>
+      <td>저속 네트워크상의 고효율 압축</td>
+      <td>3GP (MP4 호환 추가)</td>
+    </tr>
+    <tr>
+      <td>구형 단말/브라우저 지원</td>
+      <td>QuickTime (AVI, MPEG-2 호환 추가)</td>
+    </tr>
+  </tbody>
+</table>
+<p>몇 가지 가정 하의 권고입니다. 최종 결정 전에 여러가지를 따져보아야 하며 인코딩 해야 할 미디어가 많은 경우 특히나 심사숙고해야 합니다.</p></div><h2 id="다양한_컨테이너간_호환성_극대화"><a href="#다양한_컨테이너간_호환성_극대화" title="Permalink to 다양한 컨테이너간 호환성 극대화">다양한 컨테이너간 호환성 극대화</a></h2><div><p>호환성을 높이려면 한가지 버전 이상의 미디어 파일 제공을 고려해 볼 수 있습니다. <a href="/ko/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a>, <a href="/ko/docs/Web/HTML/Element/Video"><code>&lt;video&gt;</code></a> 엘리먼트 아래에 <a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/HTML/Element/source"><code>&lt;source&gt;</code> <small>(en-US)</small></a> 엘리먼트를 추가하여 구현할 수 있죠. 예를 들어 Ogg, WebM 비디오를 우선하되 호환성을 위해 MP4 포맷을 추가할 수 있습니다. 레트로하게 QuickTime이나 AVI 호환을 추가하는 것도 좋은 방법입니다.</p>
+<p>구현하려면 우선 <a href="/ko/docs/Web/HTML/Element/Video#attr-src"><code>src</code></a> 어트리뷰트 없이 <code>&lt;video&gt;</code> (또는 <code>&lt;audio&gt;</code>) 엘리먼트를 생성합니다. 그 후 <code>&lt;video&gt;</code> 엘리먼트 아래에 <a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/HTML/Element/source"><code>&lt;source&gt;</code> <small>(en-US)</small></a> 엘리먼트를 제공하려는 미디어 포맷별로 추가합니다. 이 방식은 대역폭 상황에 따라 소스를 선택하는 방식으로도 사용할 수 있지만 여기서는 포맷 옵션을 제공하기로 하죠.</p>
+<p>아래 예제에서는 두 포맷 타입의 비디오를 제공합니다: WebM and MP4.</p><iframe class="interactive" height="445" src="https://interactive-examples.mdn.mozilla.net/pages/tabbed/source.html" title="MDN Web Docs Interactive Example" loading="lazy"></iframe>
+<p class="hidden">The source for this interactive example is stored in a GitHub repository. If you'd like to contribute to the interactive examples project, please clone <a href="https://github.com/mdn/interactive-examples" class="external" rel=" noopener">https://github.com/mdn/interactive-examples </a>and send us a pull request.</p>
+<p>첫번째 비디오는 WebM 포맷입니다(<a href="/ko/docs/Web/HTML/Element/Video#attr-type"><code>type</code></a> 어트리뷰트가 <code>video/webm</code>). <a href="/ko/docs/Glossary/User_agent">user agent</a>는 재생이 불가능 한 경우 <code>type</code> 이 <code>video/mp4</code> 인 다음 옵션으로넘어갑니다. 둘 다 재생이 불가능 할 경우 "This browser does not support the HTML5 video element." 문구가 표시됩니다.</p></div><h2 id="명세서"><a href="#명세서" title="Permalink to 명세서">명세서</a></h2><div>{{Specifications}}</div><h2 id="브라우저_호환성"><a href="#브라우저_호환성" title="Permalink to 브라우저 호환성">브라우저 호환성</a></h2><div><table class="standard-table">
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">컨테이너 포맷 이름</th>
+      <th colspan="3" rowspan="1" scope="col" style="text-align: center; border-right: 2px solid #d4dde4">오디오</th>
+      <th colspan="3" rowspan="1" scope="col" style="text-align: center">비디오</th>
+    </tr>
+    <tr>
+      <th scope="col" style="vertical-align: bottom">MIME type</th>
+      <th scope="col" style="vertical-align: bottom">Extension(s)</th>
+      <th scope="col" style="vertical-align: bottom; border-right: 2px solid #d4dde4">Browser support</th>
+      <th scope="col" style="vertical-align: bottom">MIME type</th>
+      <th scope="col" style="vertical-align: bottom">Extension(s)</th>
+      <th scope="col" style="vertical-align: bottom; border-right: 2px solid #d4dde4">Browser support</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row" style="vertical-align: bottom">3GP</th>
+      <td style="vertical-align: top"><code>audio/3gpp</code></td>
+      <td style="vertical-align: top"><code>.3gp</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top"><code>video/3gpp</code></td>
+      <td style="vertical-align: top"><code>.3gp</code></td>
+      <td style="vertical-align: top">Firefox</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">ADTS (Audio Data Transport Stream)</th>
+      <td style="vertical-align: top"><code>audio/aac</code></td>
+      <td style="vertical-align: top"><code>.aac</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">FLAC</th>
+      <td style="vertical-align: top"><code>audio/flac</code></td>
+      <td style="vertical-align: top"><code>.flac</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+    </tr>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: top">MPEG-1 / MPEG-2 (MPG or MPEG)</th>
+      <td style="vertical-align: top"><code>audio/mpeg</code></td>
+      <td style="vertical-align: top"><code>.mpg</code><br><code>.mpeg</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td rowspan="2" style="vertical-align: top"><code>video/mpeg</code></td>
+      <td rowspan="2" style="vertical-align: top"><code>.mpg</code><br><code>.mpeg</code></td>
+      <td rowspan="2" style="vertical-align: top">Firefox</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top"><code>audio/mp3</code></td>
+      <td style="vertical-align: top"><code>.mp3</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">MPEG-4 (MP4)</th>
+      <td style="vertical-align: top"><code>audio/mp4</code></td>
+      <td style="vertical-align: top"><code>.mp4</code><br><code>.m4a</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top"><code>video/mp4</code></td>
+      <td style="vertical-align: top"><code>.mp4</code><br><code>.m4v</code><br><code>.m4p</code></td>
+      <td style="vertical-align: top">Firefox</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">Ogg</th>
+      <td style="vertical-align: top"><code>audio/ogg</code></td>
+      <td style="vertical-align: top"><code>.oga</code><br><code>.ogg</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top"><code>video/ogg</code></td>
+      <td style="vertical-align: top"><code>.ogv</code><br><code>.ogg</code></td>
+      <td style="vertical-align: top">Firefox</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">QuickTime Movie (MOV)</th>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">—</td>
+      <td style="vertical-align: top"><code>video/quicktime</code></td>
+      <td style="vertical-align: top"><code>.mov</code></td>
+      <td style="vertical-align: top"></td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">WAV (Waveform Audiofile)</th>
+      <td style="vertical-align: top"><code>audio/wav</code></td>
+      <td style="vertical-align: top"><code>.wav</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">WebM</th>
+      <td style="vertical-align: top"><code>audio/webm</code></td>
+      <td style="vertical-align: top"><code>.webm</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top"><code>video/webm</code></td>
+      <td style="vertical-align: top"><code>.webm</code></td>
+      <td style="vertical-align: top">Firefox</td>
+    </tr>
+  </tbody>
+</table></div><h2 id="더_보기"><a href="#더_보기" title="Permalink to 더 보기">더 보기</a></h2><div><ul>
+  <li><a href="/ko/docs/Web/API/WebRTC_API">WebRTC API</a></li>
+  <li><a href="/en-US/docs/Web/API/MediaStream_Recording_API" class="only-in-en-us" title="Currently only available in English (US)">MediaStream Recording API (en-US)</a></li>
+  <li><a href="/ko/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/ko/docs/Web/HTML/Element/Video"><code>&lt;video&gt;</code></a> elements</li>
+</ul></div></article><aside class="metadata"><div class="metadata-content-container"><div id="on-github" class="on-github"><h3>Found a problem with this page?</h3><ul><li><a href="https://github.com/mdn/translated-content/edit/main/files/ko/web/media/formats/containers/index.md" title="You're going to need to sign in to GitHub first (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Edit on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/translated-content/blob/main/files/ko/web/media/formats/containers/index.md" title="Folder: ko/web/media/formats/containers (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Source on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/translated-content/issues/new?body=MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fko%2Fdocs%2FWeb%2FMedia%2FFormats%2FContainers%0A%0A%23%23%23%23+What+information+was+incorrect%2C+unhelpful%2C+or+incomplete%3F%0A%0A%0A%23%23%23%23+Specific+section+or+headline%3F%0A%0A%0A%23%23%23%23+What+did+you+expect+to+see%3F%0A%0A%0A%23%23%23%23+Did+you+test+this%3F+If+so%2C+how%3F%0A%0A%0A%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+Content+page+report+details%3C%2Fsummary%3E%0A%0A*+Folder%3A+%60ko%2Fweb%2Fmedia%2Fformats%2Fcontainers%60%0A*+MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fko%2Fdocs%2FWeb%2FMedia%2FFormats%2FContainers%0A*+GitHub+URL%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Ftranslated-content%2Fblob%2Fmain%2Ffiles%2Fko%2Fweb%2Fmedia%2Fformats%2Fcontainers%2Findex.md%0A*+Last+commit%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Ftranslated-content%2Fcommit%2F921c46a374ab0a9f4cc809af0370f8c412e54701%0A*+Document+last+modified%3A+2022-10-01T03%3A41%3A16.000Z%0A%0A%3C%2Fdetails%3E&amp;title=Issue+with+%22%EB%AF%B8%EB%94%94%EC%96%B4+%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88+%ED%8F%AC%EB%A7%B7+%28%ED%8C%8C%EC%9D%BC+%ED%83%80%EC%9E%85%29%22%3A+%28short+summary+here+please%29&amp;labels=needs-triage%2Cl10n-ko" title="This will take you to https://github.com/mdn/content to file a new issue" target="_blank" rel="noopener noreferrer">Report a problem with this content on <b>GitHub</b></a></li><li>Want to fix the problem yourself? See<!-- --> <a href="https://github.com/mdn/content/blob/main/README.md" target="_blank" rel="noopener noreferrer">our Contribution guide</a>.</li></ul></div><p class="last-modified-date"><b>Last modified:</b> <time datetime="2022-10-01T03:41:16.000Z">Oct 1, 2022</time>,<!-- --> <a href="/ko/docs/Web/Media/Formats/Containers/contributors.txt">by MDN contributors</a></p><form class="language-menu"><fieldset id="select-language"><legend>Change your language</legend><label for="language-selector" class="visually-hidden">Select your preferred language</label> <select id="language-selector" name="language"><option selected="" value="ko">한국어</option><option value="en-US">English (US)</option><option value="zh-CN">中文 (简体)</option><option value="zh-TW">正體中文 (繁體)</option></select> <button type="submit" class="button minimal">Change language</button></fieldset></form></div></aside></main></div><footer id="nav-footer" class="page-footer"><div class="content-container"><div class="page-footer-logo"><a href="/ko/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135" fill="#fff"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a></div><ul class="link-list-mdn"><li><a href="/ko/docs/Web">Web Technologies</a></li><li><a href="/ko/docs/Learn">Learn Web Development</a></li><li><a href="/ko/docs/MDN/About">About MDN</a></li><li><a href="/ko/docs/MDN/Feedback">Feedback</a></li></ul><ul class="link-list-moz"><li><a href="https://www.mozilla.org/about/" target="_blank" rel="noopener noreferrer">About</a></li><li><a href="https://shop.spreadshirt.com/mdn-store/" target="_blank" rel="noopener noreferrer">MDN Web Docs Store</a></li><li><a href="https://www.mozilla.org/contact/" target="_blank" rel="noopener noreferrer">Contact Us</a></li><li><a href="https://www.mozilla.org/firefox/?utm_source=developer.mozilla.org&amp;utm_campaign=footer&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Firefox</a></li></ul><div class="social social-mdn"><h4>MDN</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozdevnet" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Twitter</span></a></li><li><a class="social-icon github" href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Github</span></a></li></ul></div><div class="social social-moz"><h4>Mozilla</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozilla" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Twitter</span></a></li><li><a class="social-icon instagram" href="https://www.instagram.com/mozillagram/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Instagram</span></a></li></ul></div><p id="license" class="footer-license">© 2005-<!-- -->2022<!-- --> Mozilla and individual contributors. Content is available under<!-- --> <a href="/docs/MDN/About#Copyrights_and_licenses">these licenses</a>.</p><ul class="footer-legal"><li><a href="https://www.mozilla.org/about/legal/terms/mozilla" target="_blank" rel="noopener noreferrer">Terms</a></li><li><a href="https://www.mozilla.org/privacy/websites/" target="_blank" rel="noopener noreferrer">Privacy</a></li><li><a href="https://www.mozilla.org/privacy/websites/#cookies" target="_blank" rel="noopener noreferrer">Cookies</a></li></ul></div></footer><div class="page-overlay hidden"></div></div><script type="application/json" id="hydration">{"doc":{"isMarkdown":true,"isTranslated":true,"isActive":true,"flaws":{},"title":"미디어 컨테이너 포맷 (파일 타입)","mdn_url":"/ko/docs/Web/Media/Formats/Containers","locale":"ko","native":"한국어","sidebarHTML":"","body":[{"type":"prose","value":{"id":null,"title":null,"isH3":false,"content":"<p>오디오와 비디오 파일 포맷은 두 파트에서 정의할 수 있습니다.(오디오 비디오가 한 파일에 있으면 물론 3 파트지요): 오디오/비디오 코덱와 미디어 컨테이너 포맷(도는 파일 타입)입니다. 이 가이드 문서는 웹에서 널리 쓰이는 컨테이너 포맷에 대해 알아보고 기본적인 스펙와 장단점 그리고 적절한 사용법을 설명하고 있습니다.</p>\n<p><a href=\"/ko/docs/Web/API/WebRTC_API\">WebRTC</a> 는 컨테이너를 사용하지 않습니다. 대신에 각 트랙을 나타내는<a href=\"/ko/docs/Web/API/MediaStreamTrack\"><code>MediaStreamTrack</code></a> 객체를 통해 인코딩 된 오디오/비디오 트랙을 한 곳에서 다른 곳으로 직접 스트리밍합니다. WebRTC에서 일반적으로 사용하는 코덱이나 브라우저 호환성을 알아보려면 <a href=\"/en-US/docs/Web/Media/Formats/WebRTC_codecs\" class=\"only-in-en-us\" title=\"Currently only available in English (US)\">Codecs used by WebRTC (en-US)</a> 문서를 참고하세요.</p>"}},{"type":"prose","value":{"id":"일반적인_컨테이너_포맷","title":"일반적인 컨테이너 포맷","isH3":false,"content":"<p>미디어 컨테이너 포맷에는 여러 종류가 있지만 여러분들은 보통 아래 나열된 목록의 포맷을 주로 만나게 될 겁니다. 일부는 오디오만 지원하는 것도 있고 오디오와 비디오 모두를 지원하는 포맷도 있죠. MIME 타입과 확장자도 나열되어 있습니다. 웹상에서 가장 많이 쓰이는 컨테이너 포맷은 아마도 MPEG-4 (MP4), Quicktime Movie (MOV), Wavefile Audio File Format (WAV)일겁니다. 또한 MP3, Ogg, WebM, AVI 등의 포맷도 볼 수 있지요. 하지만 모든 브라우저가 이 다양한 포맷들을 지원하는 것은 아닙니다. 사용하기 편하고 다른 조합과의 구분을 위해 특정한 컨테이너와 코덱의 조합은 독자적인 MIME type과 확장자를 가지기도 합니다. 예를들어 Opus 오디오 트랙만을 가진 Ogg파일은 가끔 Opus 파일이라 불리며 <code>.opus</code> 확장자를 가지는 경우도 있습니다. 하지만 실제로는 단순한 Ogg 파일일 뿐이죠.</p>\n<p>반대 케이스로 특정 코덱이 특정 컨테이너에 담긴 형태가 매우 보편적일 경우 독자적인 형식으로 취급하는 경우도 있습니다. MP3 오디오 파일이 대표적인 경우로, MPEG-1 컨테이너에 MPEG-1 Audio Layer III 코덱으로 인코딩 된 오디오 트랙 하나만이 담긴 케이스입니다. 컨테이너는 일반적인 MPEG지만 이 형식은 <code>audio/mp3</code> MIME 타입과 <code>.mp3</code> 확장자를 사용합니다.</p>"}},{"type":"prose","value":{"id":"컨테이너_포맷파일_타입_인덱스","title":"컨테이너 포맷(파일 타입) 인덱스","isH3":false,"content":"<p>특정 컨테이너 포맷에 대해 더 알아보려면 아래 목록에서 찾아 클릭하세요. 컨테이너 사용법과 지원하는 코덱, 지원하는 브라우저 등을 알 수 있습니다.</p>\n<ul>\n  <li><a href=\"#3gp\">3GP</a></li>\n  <li><a href=\"#adts\">ADTS</a></li>\n  <li><a href=\"#flac\">FLAC</a></li>\n  <li><a href=\"#mpeg\">MPEG / MPEG-2</a></li>\n  <li><a href=\"#mp4\">MPEG-4 (MP4)</a></li>\n  <li><a href=\"#ogg\">Ogg</a></li>\n  <li><a href=\"#quicktime\">QuickTime</a></li>\n  <li><a href=\"#wave\">WAVE</a></li>\n  <li><a href=\"#webm\">WebM</a></li>\n</ul>"}},{"type":"prose","value":{"id":"3gp","title":"3GP","isH3":true,"content":"<p><strong>3GP</strong> 또는 <strong>3GPP</strong> 컨테이너는 셀룰러 네트워크를 통해 전송하고 모바일 장치에서 사용하기 위해 고안되었습니다. 원래 3G 모바일 폰을 위해 디자인하였지만 현대의 모바일 폰과 네트워크에서도 사용하고 있습니다. 하지만 네트워크 처리량이 늘어나면서 3GP 포맷의 필요성은 점차 줄어들고 있죠. 그러나 여전히 느린 네트워크나 저사양 폰에서는 유용한 컨테이너이기도 합니다.</p>\n<p>이 컨테이너는 ISO Base Media File Format과 MPEG-4 기반이지만 저대역폭 케이스에 최적화되어 있습니다.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/3gpp</code></td>\n      <td><code>video/3gpp</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/3gpp2</code></td>\n      <td><code>video/3gpp2</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/3gp2</code></td>\n      <td><code>video/3gp2</code></td>\n    </tr>\n  </tbody>\n</table>\n<p>위는 3GP 컨테이너의 기본 MIME 타입입니다; 사용하는 코덱에 따라 다른 타입을 사용할 수도 있습니다; 또한 MIME 타입 문자열에 <a href=\"/ko/docs/Web/Media/Formats/codecs_parameter#iso-bmff\"><code>codecs</code> 파라미터를 추가하여</a> 어떠한 오디오/비디오 코덱을 사용했는지 표시할 수 있으며 profile, level, 코덱 설정 값도 추가하여 전달할 수 있습니다.</p>\n<table class=\"standard-table\">\n  <caption>3GP가 지원하는 비디오 코덱.</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AVC (H.264)</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-vid-footnote-1\">1</a>,<a href=\"#3gp-vid-footnote-1\">2</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">H.263</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-vid-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-4 Part 2 (MP4v-es)</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-vid-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP8</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-vid-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<p>[1] FIrefox only supports 3GP on <a href=\"https://www.khronos.org/openmax/\" class=\"external\" rel=\" noopener\">OpenMAX</a>-based devices, which currently means the Boot to Gecko (B2G) platform.</p>\n<p>[2] Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>\n<table class=\"standard-table\">\n  <caption>3GP가 지원하는 오디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AMR-NB</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-aud-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">AMR-WB</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-aud-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">AMR-WB+</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-aud-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">AAC-LC</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-aud-footnote-1\">1</a>,<a href=\"#av1-vid-footnote-2\">2</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">HE-AAC v1</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-aud-footnote-1\">1</a>,<a href=\"#av1-vid-footnote-2\">2</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">HE-AAC v2</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-aud-footnote-1\">1</a>,<a href=\"#av1-vid-footnote-2\">2</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MP3</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#3gp-aud-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<p>[1] FIrefox only supports 3GP on <a href=\"https://www.khronos.org/openmax/\" class=\"external\" rel=\" noopener\">OpenMAX</a>-based devices, which currently means the Boot to Gecko (B2G) platform.</p>\n<p>[2] Firefox support for AAC relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>"}},{"type":"prose","value":{"id":"adts","title":"ADTS","isH3":true,"content":"<p><strong>Audio Data Transport Stream</strong> (<strong>ADTS</strong>) 는 인터넷 라디오 같은 오디오 스트림을 사용하기 위해 MPEG-4 Part 3로 규정된 컨테이너 포맷입니다. 근본적으로 ACC 오디오 데이터에서 스트림만 깐 것과 거의 동일하며 최소한의 헤더만 담긴 ADTS 프레임으로 구성되어 있습니다.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/aac</code><a href=\"#adts-foot-1\">[1]</a></td>\n    </tr>\n    <tr>\n      <td><code>audio/mpeg</code><a href=\"#adts-foot-1\">[1]</a></td>\n    </tr>\n  </tbody>\n</table>\n<p>[1] The MIME type used for ADTS depends on what kind of audio frames are contained within. If ADTS frames are used, the <code>audio/aac</code> MIME type should be used. If the audio frames are in MPEG-1/MPEG-2 Audio Layer I, II, or III format, the MIME type should be <code>audio/mpeg</code>.</p>\n<table class=\"standard-table\">\n  <caption>ADTS가 지원하는 오디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AAC</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#adts-aud-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MP3</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<p>[1] Firefox support for AAC relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>"}},{"type":"prose","value":{"id":"flac","title":"FLAC","isH3":true,"content":"<p><strong>Free Lossless Audio Codec</strong> (<strong>FLAC</strong>)은 무손실 오디오 코덱입니다; 이 코덱을 담을 수 있는 컨테이너 역시 FLAC이라 부릅니다. 이 포맷은 어느 특허에도 묶여있지 않아 자유롭게 사용할 수 있습니다. FLAC 파일은 FLAC 오디오 데이터만 담을 수 있습니다.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/flac</code></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>FLAC이 지원하는 오디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">FLAC</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"mpegmpeg-2","title":"MPEG/MPEG-2","isH3":true,"content":"<p><strong><a href=\"https://ko.wikipedia.org/wiki/MPEG-1\" class=\"external\" rel=\" noopener\">MPEG-1</a>과</strong> **<a href=\"https://ko.wikipedia.org/wiki/MPEG-2\" class=\"external\" rel=\" noopener\">MPEG-2</a>**은 근본적으로 동일합니다. the Moving Picture Experts Group (MPEG)에서 만들었으며 DVD 등의 물리적 매체에서 널리 쓰이고 있습니다.</p>\n<p>인터넷에서 아마 가장 많이 사용되는 MPEG 파일 포맷은 <a href=\"https://ko.wikipedia.org/wiki/MPEG-1\" class=\"external\" rel=\" noopener\">Layer_III/MP3</a> 일 겁니다; MP3 파일은 전 세계의 디지털 오디오 장치에서 널리 재생되고 있습니다. 반대로 MPEG-1, MPEG-2는 웹에서 별로 사용하고 있지 않죠.</p>\n<p>MPEG-1과 MPEG-2 간의 차이점은 컨테이너 포맷이 아니라 미디어 데이터 포맷에 있습니다. MPEG-1은 1992년 소개되었으며; MPEG-2는 1996년에 소개되었습니다.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/mpeg</code></td>\n      <td><code>video/mpeg</code></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>MPEG-1과 MPEG-2가 지원하는 비디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">MPEG-1 Part 2</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-2 Part 2</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>MPEG-1과 MPEG-2가 지원하는 오디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer I</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer II</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer III (MP3)</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"mpeg-4_mp4","title":"MPEG-4 (MP4)","isH3":true,"content":"<p><strong><a href=\"https://ko.wikipedia.org/wiki/MPEG-4\" class=\"external\" rel=\" noopener\">MPEG-4</a></strong> (<strong>MP4</strong>) 는 최신 MPEG 파일 포맷입니다. 파트 1과 14 스펙에서 정의된 두 가지 버전의 포맷이 있습니다. MP4는 오늘날 유명한 컨테이너 포맷으로 많이 쓰이는 코덱을 지원하며 널리 사용되고 있습니다.</p>\n<p>최초의 MPEG-4 Part 1 포맷은 1999년 발표되었습니다; Part 14에서 정의된 버전 2 포맷은 2003년 추가되었습니다. MP4 파일 포맷은 <a href=\"https://www.apple.com/\" class=\"external\" rel=\" noopener\">Apple</a>이 개발한 <a href=\"https://en.wikipedia.org/wiki/QuickTime_File_Format\" class=\"external\" rel=\" noopener\">QuickTime file format</a>에서 파생된 <a href=\"https://en.wikipedia.org/wiki/ISO_base_media_file_format\" class=\"external\" rel=\" noopener\">ISO base media file format</a>에서 다시 파생되었습니다.</p>\n<p>MPEG-4 미디어 타입을 표기할 때 (<code>audio/mp4</code> or <code>video/mp4</code>), MIME 타입에 <a href=\"/ko/docs/Web/Media/Formats/codecs_parameter#iso-bmff\"><code>codecs</code> 파라미터를 추가하여</a> 사용하는 오디오/비디오 코덱을 명시할 수 있으며 추가적으로 profile, level, 코덱 설정 등을 명기할 수 있습니다.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/mp4</code></td>\n      <td><code>video/mp4</code></td>\n    </tr>\n  </tbody>\n</table>\n<p>위는 MPEG-4 미디어 컨테이너의 기본 타입입니다; 어떤 코덱을 쓰느냐에 따라 MIME 타입도 달라질 수 있습니다. 또한 MIME 타입에 <a href=\"/ko/docs/Web/Media/Formats/codecs_parameter#iso-bmff\"><code>codecs</code> 파라미터를 추가하여</a> 사용하는 오디오/비디오 코덱을 명시할 수 있으며 추가적으로 profile, level, 코덱 설정 등을 명기할 수 있습니다.</p>\n<table class=\"standard-table\">\n  <caption>MPEG-4가 지원하는 비디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AVC (H.264)</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#mp4-vid-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">AV1</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#mp4-vid-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">H.263</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-4 Part 2 Visual</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP9</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<p>[1] Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>\n<p>[2] Firefox support for AV1 is currently disabled by default; it can be enabled by setting the preference <code>media.av1.enabled</code> to <code>true</code>.</p>\n<table class=\"standard-table\">\n  <caption>MPEG-4가 지원하는 오디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AAC</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#mp4-aud-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">FLAC</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer III (MP3)</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Opus</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<p>[1] Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>"}},{"type":"prose","value":{"id":"ogg","title":"Ogg","isH3":true,"content":"<p><strong><a href=\"https://en.wikipedia.org/wiki/Ogg\" class=\"external\" rel=\" noopener\">Ogg</a>는</strong> <a href=\"https://www.xiph.org/\" class=\"external\" rel=\" noopener\">Xiph.org Foundation</a>이 운영하는 자유 오픈 컨테이너 포맷입니다. Theora, Vorbis, and Opus등의 Ogg 프레임워크는 특허에 얽매이지 않게 정의되었습니다. 재단 웹사이트에서 <a href=\"https://xiph.org/ogg/\" class=\"external\" rel=\" noopener\">Xiph.org documents about the Ogg format</a>를 확인할 수 있습니다.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/ogg</code></td>\n      <td><code>video/ogg</code></td>\n    </tr>\n  </tbody>\n</table>\n<p>MIME 타입에 <a href=\"/ko/docs/Web/Media/Formats/codecs_parameter#ogg\"><code>codecs</code> 파라미터를 추가하여</a> 사용하는 오디오/비디오 코덱을 명시할 수 있으며 트랙의 미디어 포맷에 대한 추가 정보도 기입할 수 있습니다.</p>\n<table class=\"standard-table\">\n  <caption>Ogg가 지원하는 비디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">Theora</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP8</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP9</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Ogg가 지원하는 오디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">FLAC</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Opus</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Vorbis</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"quicktime","title":"QuickTime","isH3":true,"content":"<p><strong>QuickTime</strong> 파일 포맷(<strong>QTFF</strong>, <strong>QT</strong>, <strong>MOV</strong>) 는 동일한 이름의 미디어 프레임워크에서 사용하기 위해 애플이 개발했습니다. 확장자 <code>.mov</code>는 최초 영화에서 쓰이기 위해 개발되었다는 의미에서 지어졌으며 보통 \"QuickTime movie\" 포맷이라 불립니다. QTFF가 MPEG-4 파일 포맷에 기반하였지만 두 포맷에는 분명한 차이점이 있으며 상호 호환되지 않습니다.</p>\n<p>QuickTime 파일은 오디오, 비디오 텍스트 트랙 등 시간축을 가지는 다수의 데이터 타입을 지원합니다. QuickTime 파일은 원래 macOS에서 사용하기 위해 개발되었지만 수 년이 지나면서 윈도우즈 환경에서는 QuickTime for Windows를 통해 사용할 수 있게 되었습니다. 그러나 2016년 초부터 애플은 더 이상 QuickTime for Windows를 유지 보수하지 않으며 알려진 보안 취약점으로 인해 <em>사용해선 안됩니다</em>. 하지만 Windows Media Player 가 현재 QuickTime version 2.0 및 이전 버전을 지원하며; 이후 버전의 QuickTime은 서드파티 플러그인을 통해 지원합니다.</p>\n<p>Mac OS에서 QuickTime 프레임워크는 QuickTime 포맷의 영상 파일 및 코덱 뿐만아니라 널리 쓰이는 오디오/비디오 코덱 상당 수를 지원합니다. 정지 화상 이미지 포맷도 포함해서요. (QuickTime 플러그인이 설치되었거나 QuickTime과 바로 연동된 브라우저를 포함 한)맥 애플리케이션은 QuickTime을 통해서 ACC, AIFF, MP#, PCM, Qualcomm PureVoice 등의 오디오 포맷과 AVI, DV, Pixlet, ProRes, FLAC, Cinepak, 3GP, H.261 through H.265, MJPEG, MPEG-1, MPEG-4 Part 2, Sorenson 등 수 많은 비디오 포맷을 읽고 쓸 수 있습니다.</p>\n<p>추가적인 코덱을 지원하기 위해 QuickTime에 다수의 서드파티 컴포넌트를 설치할 수도 있습니다.</p>\n<p>QuickTime은 처음부터 지금까지 근본적으로 애플 디바이스에서 사용하기 위해 만들어졌기 때문에 인터넷 환경에서 널리 쓰이고 있지는 않습니다. 애플 스스로도 현재는 MP4 비디오를 사용하고 있구요. 게다가 QuickTime 프레임워크마저 deprecated되면서 macOS 10.15 Catalina부터는 사용이 불가능해졌습니다.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>video/quicktime</code></td>\n    </tr>\n  </tbody>\n</table>\n<p><code>video/quicktime</code> 은 QuickTime 미디어 컨테이너의 기본 MIME 타입입니다. QuickTime (Mac OS의 미디어 프레임워크)이 다양한 컨테이너와 코덱을 지원하므로 다른 많은 MIME 타입 역시 지원합니다.</p>\n<p>MIME 타입에 <a href=\"/ko/docs/Web/Media/Formats/codecs_parameter#iso-bmff\"><code>codecs</code> 파라미터를 추가하여</a> 사용하는 오디오/비디오 코덱을 명시할 수 있으며 추가적으로 profile, level, 코덱 설정 등을 명기할 수 있습니다.</p>\n<table class=\"standard-table\">\n  <caption>QuickTime이 지원하는 비디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AVC (H.264)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Cinepak</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Component Video</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">DV</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">H.261</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">H.263</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-2</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-4 Part 2 Visual</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Motion JPEG</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Sorenson Video 2</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Sorenson Video 3</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>QuickTime이 지원하는 오디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AAC</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">ALaw 2:1</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Apple Lossless (ALAC)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">HE-AAC</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer III (MP3)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Microsoft ADPCM</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">µ-Law 2:1 (u-Law)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"wave_wav","title":"WAVE (WAV)","isH3":true,"content":"<p>Waveform Audio File Format (WAVE)는 보통 줄여서 WAV라 불리며 <code>.wav</code> 확장자를 갖습니다. 오디오 비트스트림 데이터를 담기 위해 Microsoft와 IBM이 개발했습니다. 대부분의 WAV 파일은 linear PCM 포맷의 오디오 데이터를 담고 있습니다.</p>\n<p>이 파일 포맷은 Resource Interchange File Format (RIFF)에서 파생되었으며 애플의 AIFF 같은 다른 파생 형식와 유사합니다..</p>\n<p>WAVE 포맷은 1991년 처음 발표되었습니다.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/wave</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/wav</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/x-wav</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/x-pn-wav</code></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>WAVE가 지원하는 오디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">ADPCM (Adaptive Differential Pulse Code Modulation)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">GSM 06.10</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">LPCM (Linear Pulse Code Modulation)</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer III (MP3)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">µ-Law (u-Law)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"webm","title":"WebM","isH3":true,"content":"<p><strong><a href=\"https://en.wikipedia.org/wiki/WebM\" class=\"external\" rel=\" noopener\">WebM</a></strong> (Web Media)는 <a href=\"https://en.wikipedia.org/wiki/Matroska\" class=\"external\" rel=\" noopener\">Matroska</a>에 기반하여 현대 웹 환경에서 사용하기 위해 디자인되었습니다. 특정 제품들은 WebM 컨테이너에 다른 코덱을 사용하기도 하지만 기본적으로는 무료 오픈 코덱을 사용하여 완전한 자유-오픈 기술을 지향하고 있습니다.</p>\n<p>WebM은 2010년 처음 소개되었습니다..</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/webm</code></td>\n      <td><code>video/webm</code></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>WebM이 지원하는 비디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AV1</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#av1-vid-footnote-1\">1</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">AVC (H.264)</th>\n      <td></td>\n      <td></td>\n      <td>Yes<sup><a href=\"#av1-vid-footnote-2\">2</a></sup></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP8</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP:9</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<p>[1] Firefox support for AV1 is currently disabled by default; it can be enabled by setting the preference <code>media.av1.enabled</code> to <code>true</code>.</p>\n<p>[2] Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>\n<table class=\"standard-table\">\n  <caption>WebM이 지원하는 오디오 코덱</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">Opus</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Vorbis</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"알맞은_컨테이너_선택하기","title":"알맞은 컨테이너 선택하기","isH3":false,"content":"<p>여러분의 미디어 데이터에 알맞은 컨테이너를 선택하고 사용하기 위해서 몇 가지 고려해야 할 점들이 있습니다. 상대적으로 어떤 점이 더 중요한지는 요구사항이나 라이선스, 호환성, 타겟 고객 등에 따라 달라질 수 있습니다.</p>"}},{"type":"prose","value":{"id":"가이드라인","title":"가이드라인","isH3":true,"content":"<p>최선책 역시 미디어 데이터로 무엇을 하느냐에 달렸습니다. 미디어를 녹화/편집하는 것은 재생과 전혀 다른 이야기입니다. 최소한 노이즈 축적이라도 방지하려고 무손실 압축을 사용하면 매번 재 압축할 때 마다 압축 데이터가 누적되므로 미디어 데이터를 처리할때는 압축하지 않은 데이터를 사용하는게 퍼포먼스가 좋습니다.</p>\n<ul>\n  <li>저사양 단말 또는 저속 네트워크를 사용하는 고객을 대상으로 하고 있다면 3GP 컨테이너와 적절한 압축 코덱을 고려해 볼 수 있습니다.</li>\n  <li>인코딩시 필수 사항이 있다면 컨테이너 선택 시 적절한 코덱을 지원하는 지 확인해야 합니다.</li>\n  <li>미디어가 상용이 아니며 오픈 포맷일 경우 FLAC(오디오), WebM(비디오) 등의 오픈 컨테이너 포맷을 고려해 보세요.</li>\n  <li>어떠한 이유로 미디어를 한가지 포맷으로 제공해야 한다면 많은 디바이스와 브라우저에 널리 쓰여지는 MP3(오디오), MP4(비디오, 오디오)등의 포맷을 선택하세요.</li>\n  <li>미디어가 오디오만 있다면 오디오 전용 컨테이너를 사용하는게 합당합니다. 현재는 특허가 모두 만료되어 널리 쓰여지는 MP3가 좋은 선택입니다. WAVE도 좋지만 비압축이므로 대용량 오디오 샘플의 경우에는 사용을 주의하세요. 모든 타겟 브라우저가 지원한다면 무손실 압축을 지원하는 FLAC이 최선입니다.</li>\n</ul>\n<p>슬픈 일이지만 주요 무손실 압축 포맷 (FLAC, ALAC) 모두 폭넓게 지원되고 있지 않습니다. 둘 중에 FLAC이 그나마 낫지만 macOS에서는 추가적인 소프트웨어 설치 없이는 지원을 안합니다. iOS에서는 아예 불가능하구요. 무손실 오디오를 플랫폼에 무관하게 제공하려면 FLAC과 ALAC 둘 다 지원해야 합니다.</p>"}},{"type":"prose","value":{"id":"컨테이너_선택_가이드","title":"컨테이너 선택 가이드","isH3":true,"content":"<p>아래의 테이블은 다양한 시나리오에서 사용할 컨테이너에 대한 권고안입니다. 이는 추천일 뿐이며 컨테이너 포맷을 선택할 때에는 여러분의 제품이나 기관의 상황을 고려하여 선택하세요.</p>\n<h4 id=\"오디오_전용_파일\">오디오 전용 파일</h4>\n<table>\n  <thead>\n    <tr>\n      <th>만약에...</th>\n      <th>추천 컨테이너 포맷</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>일반 재생 목적으로 압축 파일 사용</td>\n      <td>MP3 (MPEG-1 Audio Layer III)</td>\n    </tr>\n    <tr>\n      <td>무손실 압축 파일</td>\n      <td>FLAC with ALAC fallback</td>\n    </tr>\n    <tr>\n      <td>무압축 파일</td>\n      <td>WAV</td>\n    </tr>\n  </tbody>\n</table>\n<p>이제는 MP3 특허가 모두 만료되었으므로 오디오 파일 선택은 별로 어려운 문제가 아닙니다. 폭넓게 쓰이는 MP3를 사용하면서 특허료를 내야 하느냐에 대한 고민을 할 필요가 없죠.</p>\n<h4 id=\"비디오_파일\">비디오 파일</h4>\n<table>\n  <thead>\n    <tr>\n      <th>만약에...</th>\n      <th>추천 컨테이너 포맷</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>가능한 오픈 포맷을 사용한 일반 비디오</td>\n      <td>WebM (MP4 호환 추가)</td>\n    </tr>\n    <tr>\n      <td>일반 비디오</td>\n      <td>MP4 (WebM, Ogg 호환 추가)</td>\n    </tr>\n    <tr>\n      <td>저속 네트워크상의 고효율 압축</td>\n      <td>3GP (MP4 호환 추가)</td>\n    </tr>\n    <tr>\n      <td>구형 단말/브라우저 지원</td>\n      <td>QuickTime (AVI, MPEG-2 호환 추가)</td>\n    </tr>\n  </tbody>\n</table>\n<p>몇 가지 가정 하의 권고입니다. 최종 결정 전에 여러가지를 따져보아야 하며 인코딩 해야 할 미디어가 많은 경우 특히나 심사숙고해야 합니다.</p>"}},{"type":"prose","value":{"id":"다양한_컨테이너간_호환성_극대화","title":"다양한 컨테이너간 호환성 극대화","isH3":false,"content":"<p>호환성을 높이려면 한가지 버전 이상의 미디어 파일 제공을 고려해 볼 수 있습니다. <a href=\"/ko/docs/Web/HTML/Element/audio\"><code>&lt;audio&gt;</code></a>, <a href=\"/ko/docs/Web/HTML/Element/Video\"><code>&lt;video&gt;</code></a> 엘리먼트 아래에 <a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/HTML/Element/source\"><code>&lt;source&gt;</code> <small>(en-US)</small></a> 엘리먼트를 추가하여 구현할 수 있죠. 예를 들어 Ogg, WebM 비디오를 우선하되 호환성을 위해 MP4 포맷을 추가할 수 있습니다. 레트로하게 QuickTime이나 AVI 호환을 추가하는 것도 좋은 방법입니다.</p>\n<p>구현하려면 우선 <a href=\"/ko/docs/Web/HTML/Element/Video#attr-src\"><code>src</code></a> 어트리뷰트 없이 <code>&lt;video&gt;</code> (또는 <code>&lt;audio&gt;</code>) 엘리먼트를 생성합니다. 그 후 <code>&lt;video&gt;</code> 엘리먼트 아래에 <a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/HTML/Element/source\"><code>&lt;source&gt;</code> <small>(en-US)</small></a> 엘리먼트를 제공하려는 미디어 포맷별로 추가합니다. 이 방식은 대역폭 상황에 따라 소스를 선택하는 방식으로도 사용할 수 있지만 여기서는 포맷 옵션을 제공하기로 하죠.</p>\n<p>아래 예제에서는 두 포맷 타입의 비디오를 제공합니다: WebM and MP4.</p><iframe class=\"interactive\" height=\"445\" src=\"https://interactive-examples.mdn.mozilla.net/pages/tabbed/source.html\" title=\"MDN Web Docs Interactive Example\" loading=\"lazy\"></iframe>\n<p class=\"hidden\">The source for this interactive example is stored in a GitHub repository. If you'd like to contribute to the interactive examples project, please clone <a href=\"https://github.com/mdn/interactive-examples\" class=\"external\" rel=\" noopener\">https://github.com/mdn/interactive-examples </a>and send us a pull request.</p>\n<p>첫번째 비디오는 WebM 포맷입니다(<a href=\"/ko/docs/Web/HTML/Element/Video#attr-type\"><code>type</code></a> 어트리뷰트가 <code>video/webm</code>). <a href=\"/ko/docs/Glossary/User_agent\">user agent</a>는 재생이 불가능 한 경우 <code>type</code> 이 <code>video/mp4</code> 인 다음 옵션으로넘어갑니다. 둘 다 재생이 불가능 할 경우 \"This browser does not support the HTML5 video element.\" 문구가 표시됩니다.</p>"}},{"type":"prose","value":{"id":"명세서","title":"명세서","isH3":false,"content":"{{Specifications}}"}},{"type":"prose","value":{"id":"브라우저_호환성","title":"브라우저 호환성","isH3":false,"content":"<table class=\"standard-table\">\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">컨테이너 포맷 이름</th>\n      <th colspan=\"3\" rowspan=\"1\" scope=\"col\" style=\"text-align: center; border-right: 2px solid #d4dde4\">오디오</th>\n      <th colspan=\"3\" rowspan=\"1\" scope=\"col\" style=\"text-align: center\">비디오</th>\n    </tr>\n    <tr>\n      <th scope=\"col\" style=\"vertical-align: bottom\">MIME type</th>\n      <th scope=\"col\" style=\"vertical-align: bottom\">Extension(s)</th>\n      <th scope=\"col\" style=\"vertical-align: bottom; border-right: 2px solid #d4dde4\">Browser support</th>\n      <th scope=\"col\" style=\"vertical-align: bottom\">MIME type</th>\n      <th scope=\"col\" style=\"vertical-align: bottom\">Extension(s)</th>\n      <th scope=\"col\" style=\"vertical-align: bottom; border-right: 2px solid #d4dde4\">Browser support</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: bottom\">3GP</th>\n      <td style=\"vertical-align: top\"><code>audio/3gpp</code></td>\n      <td style=\"vertical-align: top\"><code>.3gp</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\"><code>video/3gpp</code></td>\n      <td style=\"vertical-align: top\"><code>.3gp</code></td>\n      <td style=\"vertical-align: top\">Firefox</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">ADTS (Audio Data Transport Stream)</th>\n      <td style=\"vertical-align: top\"><code>audio/aac</code></td>\n      <td style=\"vertical-align: top\"><code>.aac</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">FLAC</th>\n      <td style=\"vertical-align: top\"><code>audio/flac</code></td>\n      <td style=\"vertical-align: top\"><code>.flac</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n    </tr>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: top\">MPEG-1 / MPEG-2 (MPG or MPEG)</th>\n      <td style=\"vertical-align: top\"><code>audio/mpeg</code></td>\n      <td style=\"vertical-align: top\"><code>.mpg</code><br><code>.mpeg</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td rowspan=\"2\" style=\"vertical-align: top\"><code>video/mpeg</code></td>\n      <td rowspan=\"2\" style=\"vertical-align: top\"><code>.mpg</code><br><code>.mpeg</code></td>\n      <td rowspan=\"2\" style=\"vertical-align: top\">Firefox</td>\n    </tr>\n    <tr>\n      <td style=\"vertical-align: top\"><code>audio/mp3</code></td>\n      <td style=\"vertical-align: top\"><code>.mp3</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">MPEG-4 (MP4)</th>\n      <td style=\"vertical-align: top\"><code>audio/mp4</code></td>\n      <td style=\"vertical-align: top\"><code>.mp4</code><br><code>.m4a</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\"><code>video/mp4</code></td>\n      <td style=\"vertical-align: top\"><code>.mp4</code><br><code>.m4v</code><br><code>.m4p</code></td>\n      <td style=\"vertical-align: top\">Firefox</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">Ogg</th>\n      <td style=\"vertical-align: top\"><code>audio/ogg</code></td>\n      <td style=\"vertical-align: top\"><code>.oga</code><br><code>.ogg</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\"><code>video/ogg</code></td>\n      <td style=\"vertical-align: top\"><code>.ogv</code><br><code>.ogg</code></td>\n      <td style=\"vertical-align: top\">Firefox</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">QuickTime Movie (MOV)</th>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">—</td>\n      <td style=\"vertical-align: top\"><code>video/quicktime</code></td>\n      <td style=\"vertical-align: top\"><code>.mov</code></td>\n      <td style=\"vertical-align: top\"></td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">WAV (Waveform Audiofile)</th>\n      <td style=\"vertical-align: top\"><code>audio/wav</code></td>\n      <td style=\"vertical-align: top\"><code>.wav</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">WebM</th>\n      <td style=\"vertical-align: top\"><code>audio/webm</code></td>\n      <td style=\"vertical-align: top\"><code>.webm</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\"><code>video/webm</code></td>\n      <td style=\"vertical-align: top\"><code>.webm</code></td>\n      <td style=\"vertical-align: top\">Firefox</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"더_보기","title":"더 보기","isH3":false,"content":"<ul>\n  <li><a href=\"/ko/docs/Web/API/WebRTC_API\">WebRTC API</a></li>\n  <li><a href=\"/en-US/docs/Web/API/MediaStream_Recording_API\" class=\"only-in-en-us\" title=\"Currently only available in English (US)\">MediaStream Recording API (en-US)</a></li>\n  <li><a href=\"/ko/docs/Web/HTML/Element/audio\"><code>&lt;audio&gt;</code></a> and <a href=\"/ko/docs/Web/HTML/Element/Video\"><code>&lt;video&gt;</code></a> elements</li>\n</ul>"}}],"toc":[{"text":"일반적인 컨테이너 포맷","id":"일반적인_컨테이너_포맷"},{"text":"컨테이너 포맷(파일 타입) 인덱스","id":"컨테이너_포맷파일_타입_인덱스"},{"text":"알맞은 컨테이너 선택하기","id":"알맞은_컨테이너_선택하기"},{"text":"다양한 컨테이너간 호환성 극대화","id":"다양한_컨테이너간_호환성_극대화"},{"text":"명세서","id":"명세서"},{"text":"브라우저 호환성","id":"브라우저_호환성"},{"text":"더 보기","id":"더_보기"}],"summary":"오디오와 비디오 파일 포맷은 두 파트에서 정의할 수 있습니다.(오디오 비디오가 한 파일에 있으면 물론 3 파트지요): 오디오/비디오 코덱와 미디어 컨테이너 포맷(도는 파일 타입)입니다. 이 가이드 문서는 웹에서 널리 쓰이는 컨테이너 포맷에 대해 알아보고 기본적인 스펙와 장단점 그리고 적절한 사용법을 설명하고 있습니다.","popularity":0,"modified":"2022-10-01T03:41:16.000Z","other_translations":[{"title":"Media container formats (file types)","locale":"en-US","native":"English (US)"},{"title":"Media container formats (file types)","locale":"zh-CN","native":"中文 (简体)"},{"title":"Media container formats (file types)","locale":"zh-TW","native":"正體中文 (繁體)"}],"source":{"folder":"ko/web/media/formats/containers","github_url":"https://github.com/mdn/translated-content/blob/main/files/ko/web/media/formats/containers/index.md","last_commit_url":"https://github.com/mdn/translated-content/commit/921c46a374ab0a9f4cc809af0370f8c412e54701","filename":"index.md"},"parents":[{"uri":"/ko/docs/Web","title":"개발자를 위한 웹 기술"},{"uri":"/ko/docs/Web/Media","title":"Web media technologies"},{"uri":"/ko/docs/Web/Media/Formats","title":"Guide to media types and formats on the web"},{"uri":"/ko/docs/Web/Media/Formats/Containers","title":"미디어 컨테이너 포맷 (파일 타입)"}],"pageTitle":"미디어 컨테이너 포맷 (파일 타입) - Web media technologies | MDN","noIndexing":false}}</script></body></html>

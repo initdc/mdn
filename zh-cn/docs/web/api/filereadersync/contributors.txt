@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/filereadersync/index.md
+
+# Original Wiki contributors
+jason-grimm
+teoli
+ziyunfei

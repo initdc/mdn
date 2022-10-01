@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/error/filename/index.md
+
+# Original Wiki contributors
+mfuji09
+yumetodo
+teoli
+Marsf
+shide55

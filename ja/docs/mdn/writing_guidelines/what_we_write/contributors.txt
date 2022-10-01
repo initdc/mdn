@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/writing_guidelines/what_we_write/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+dskmori
+mfuji09
+wbamberg
+Uemmra3
+lv7777

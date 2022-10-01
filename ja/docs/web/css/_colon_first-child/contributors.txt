@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/_colon_first-child/index.md
+
+# Original Wiki contributors
+mfuji09
+ethertank

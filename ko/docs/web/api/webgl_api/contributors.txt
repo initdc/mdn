@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/webgl_api/index.md
+
+# Original Wiki contributors
+hyungsbi
+alattalatta
+fscholz
+hanmomhanda
+bassam
+JeongSeongDae
+jaejoonjung

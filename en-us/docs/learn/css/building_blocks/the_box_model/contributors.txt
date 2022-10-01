@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/the_box_model/index.md
+
+# Original Wiki contributors
+Seeeven7
+chrisdavidmills
+jameswatyeo
+Edsonoguera
+mattvagni
+uhoh-itsmaciek
+rachelandrew
+RicardsVeveris
+Iqbalh11
+Igor-Sangin
+xp44mm
+erictleung
+jlbuckner
+trondpet
+Mahdi_Karimi_Asl
+gumchum

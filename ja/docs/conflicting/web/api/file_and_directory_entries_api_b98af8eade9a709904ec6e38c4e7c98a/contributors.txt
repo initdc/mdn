@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/file_and_directory_entries_api_b98af8eade9a709904ec6e38c4e7c98a/index.md
+
+# Original Wiki contributors
+silverskyvicto

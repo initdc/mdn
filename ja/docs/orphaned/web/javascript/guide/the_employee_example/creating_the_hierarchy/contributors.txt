@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/javascript/guide/the_employee_example/creating_the_hierarchy/index.md
+
+# Original Wiki contributors
+teoli
+ethertank
+happysadman
+electrolysis
+Mgjbot

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/audio/index.md
+
+# Original Wiki contributors
+SphinxKnight
+MisterDaFunk
+Brah0um
+Goofy
+EnzDev
+marie-ototoi
+WSH
+louuis
+msherefel
+tregagnon

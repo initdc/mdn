@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/building_blocks/overflowing_content/index.md
+
+# Original Wiki contributors
+SirnoChan
+CharCat

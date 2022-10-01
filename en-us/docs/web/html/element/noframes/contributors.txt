@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/noframes/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Sheppy
+mfluehr
+1metronome
+kscarfone
+tregagnon
+teoli
+m_gol
+allergic
+ethertank
+avsaro

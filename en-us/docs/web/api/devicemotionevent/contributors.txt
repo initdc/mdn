@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/devicemotionevent/index.md
+
+# Original Wiki contributors
+ExE-Boss
+fscholz
+WIPocket
+jpmedley
+erikadoyle
+iain-logan
+kollishivagangadhar
+tregagnon
+teoli
+justinpotts
+Jeremie
+Sheppy

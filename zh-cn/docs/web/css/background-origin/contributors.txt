@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/background-origin/index.md
+
+# Original Wiki contributors
+zhuangshq
+hgy9473
+sss63232
+Soyaine
+fscholz
+Sebastianz
+FredWe
+xiaoho

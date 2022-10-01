@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/array/filter/index.html
+
+# Original Wiki contributors
+Adil_Casamayor_Silvar
+SphinxKnight
+tenthlive
+AlePerez92
+lajaso
+robe007
+AdrianSkar
+krthr
+joseluisq
+cesargtzyanez
+josegarciaclm95
+ezain
+dgrcode
+vltamara
+averdion
+li0t
+matajm

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-webkit-mask-composite/index.md
+
+# Original Wiki contributors
+ddbeck
+Sheppy
+ExE-Boss
+teoli
+mfluehr
+wbamberg
+david_ross
+Sebastianz
+Jeremie
+kscarfone
+velvel53
+berkerpeksag
+grendel
+barlow

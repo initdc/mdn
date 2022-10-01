@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/getting_started_with_the_web/the_web_and_web_standards/index.md
+
+# Original Wiki contributors
+YiberZ

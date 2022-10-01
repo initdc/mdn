@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/modules/index.md
+
+# Original Wiki contributors
+ran
+PPFei5Zhou
+bkuke
+StorytellerF
+Yayure
+narutojian
+RainSlide
+hotbaby

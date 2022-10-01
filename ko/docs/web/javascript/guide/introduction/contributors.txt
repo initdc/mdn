@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/guide/introduction/index.md
+
+# Original Wiki contributors
+FennecFoxSW
+ldss3sang
+limkukhyun
+bluerainmaker
+ahnzaz
+BG.Choi
+gudrl
+gnujoow
+stitchworkingonthecode
+ShihwanKim
+Netaras
+cs09g
+Jsfumato
+hwani163
+junoim
+ByeongGi
+stephenjang

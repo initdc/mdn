@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/@@iterator/index.md
+
+# Original Wiki contributors
+GlowMonster
+RainSlide
+ifredom
+Ende93
+OshotOkill

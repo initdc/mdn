@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/storage/removeitem/index.md
+
+# Original Wiki contributors
+jorgeCaster
+mfuji09
+heron--
+mfluehr
+chrisdavidmills
+ivangsosa
+fscholz
+SarenCurrie
+abbycar
+teoli
+scunliffe

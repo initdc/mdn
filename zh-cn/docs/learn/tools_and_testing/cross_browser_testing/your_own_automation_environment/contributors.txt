@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/tools_and_testing/cross_browser_testing/your_own_automation_environment/index.md
+
+# Original Wiki contributors
+yonghuizeng
+ziyunfei
+liminjun

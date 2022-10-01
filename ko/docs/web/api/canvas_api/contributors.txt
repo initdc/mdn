@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/canvas_api/index.md
+
+# Original Wiki contributors
+alattalatta
+chungheepark
+bluewings
+cs09g
+Netaras
+teoli
+ethertank
+dextra
+Suguni

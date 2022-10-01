@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/background/index.md
+
+# Original Wiki contributors
+Virss
+Sergio-Ka
+pefbrute
+genesky
+Akh-rman
+Roman-Kosov
+fscholz
+andreww2012

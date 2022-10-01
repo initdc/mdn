@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/personalbar/index.md
+
+# Original Wiki contributors
+sideshowbarker
+connorshea
+sarafec
+momdo
+fscholz
+teoli
+iamanupmenon
+ethertank
+Sheppy
+Hans.Hokke
+Ms2ger
+Potappo
+Mgjbot
+Nickolay
+Jabez
+Dria
+JesseW

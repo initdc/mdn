@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/proxy/index.md
+
+# Original Wiki contributors
+h-h
+sideshowbarker
+room.booking7788
+kernp
+rebloor
+irenesmith
+wbamberg
+ericjung
+vorwrath
+yfdyh000
+andrewtruongmoz
+mwein

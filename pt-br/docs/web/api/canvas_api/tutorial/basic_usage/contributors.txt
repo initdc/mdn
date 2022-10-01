@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/canvas_api/tutorial/basic_usage/index.md
+
+# Original Wiki contributors
+MarceloBRN
+RuanAragao
+FilipeSilva
+lucaspedroza

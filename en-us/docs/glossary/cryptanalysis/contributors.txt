@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/cryptanalysis/index.md
+
+# Original Wiki contributors
+hbloomer
+marumari
+Andrew_Pfeiffer
+kscarfone
+teoli

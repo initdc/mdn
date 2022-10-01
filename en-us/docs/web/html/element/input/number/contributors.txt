@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/input/number/index.md
+
+# Original Wiki contributors
+nfortuin
+mfuji09
+sideshowbarker
+kostasx
+chrisdavidmills
+Robg1
+estelle
+Zearin_Galaurum
+Runbing
+princemehta
+cesque
+wbamberg
+Sheppy
+fscholz
+schalkneethling
+cpxPratik
+vaindil

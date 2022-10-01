@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Selection.setBaseAndExtent() - examples - code sample</title>
+    </head>
+    <body>
+        
+            <h1>setBaseAndExtent example</h1>
+<div>
+  <p class="one">
+    <span>Fish</span><span>Dog</span><span>Cat</span><span>Bird</span>
+  </p>
+  <p>MIDDLE</p>
+  <p class="two">
+    <span>Car</span><span>Bike</span><span>Boat</span><span>Plane</span>
+  </p>
+</div>
+
+<div>
+  <p>
+    <label for="aOffset">Anchor offset</label>
+    <input id="aOffset" name="aOffset" type="number" value="0" />
+  </p>
+  <p>
+    <label for="fOffset">Focus offset</label>
+    <input id="fOffset" name="fOffset" type="number" value="0" />
+  </p>
+  <p><button>Capture selection</button></p>
+</div>
+
+<p><strong>Output</strong>: <span class="output"></span></p>
+
+        
+        
+            <script>
+                const one = document.querySelector('.one');
+const two = document.querySelector('.two');
+
+const aOffset = document.getElementById('aOffset');
+const fOffset = document.getElementById('fOffset');
+
+const button = document.querySelector('button');
+
+const output = document.querySelector('.output');
+
+let selection;
+
+button.onclick = () => {
+  try {
+    selection = document.getSelection();
+    selection.setBaseAndExtent(one, aOffset.value, two, fOffset.value);
+    const text = selection.toString();
+    output.textContent = text;
+  } catch (e) {
+    output.textContent = e.message;
+  }
+}
+
+            </script>
+        
+    </body>
+</html>

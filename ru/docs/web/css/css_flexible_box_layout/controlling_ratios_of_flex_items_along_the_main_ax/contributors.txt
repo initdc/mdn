@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/css_flexible_box_layout/controlling_ratios_of_flex_items_along_the_main_ax/index.md
+
+# Original Wiki contributors
+Radragon
+billlater

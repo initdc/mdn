@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/postmessage/index.md
+
+# Original Wiki contributors
+mfuji09
+unarist
+Pittan
+mandel59
+dlwe
+h34
+fscholz
+jsx
+akirakiron
+ethertank
+shirayuki
+Potappo

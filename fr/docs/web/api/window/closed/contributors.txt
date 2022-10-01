@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/closed/index.md
+
+# Original Wiki contributors
+fscholz
+teoli
+jsx
+Mgjbot
+BenoitL
+Gorrk

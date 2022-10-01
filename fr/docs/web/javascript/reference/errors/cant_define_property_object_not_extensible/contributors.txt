@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/errors/cant_define_property_object_not_extensible/index.md
+
+# Original Wiki contributors
+SphinxKnight
+litelite

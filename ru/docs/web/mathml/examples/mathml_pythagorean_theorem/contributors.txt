@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/mathml/examples/mathml_pythagorean_theorem/index.html
+
+# Original Wiki contributors
+d0rj
+bsergey
+humantom88

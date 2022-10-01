@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xpath/functions/boolean/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+robinmatthur
+Sheppy
+ethertank
+Mgjbot
+Fredchat
+Ptak82
+Jonnyq

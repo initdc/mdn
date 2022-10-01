@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/filter/index.md
+
+# Original Wiki contributors
+alexzedheng
+Martin-Shao
+RainSlide
+zhangchen
+badfl
+zhuangyin
+futurefeeling
+ywjco
+RGSS3
+yuyongjun123
+zhanglongdream
+xgqfrms-GitHub
+mooyxu
+Gauch
+Si-Monster
+sartrey
+AlexChao
+ziyunfei
+teoli
+Oatn

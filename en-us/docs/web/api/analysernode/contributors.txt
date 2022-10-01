@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/analysernode/index.md
+
+# Original Wiki contributors
+Anoesj
+sideshowbarker
+fiso
+fscholz
+chrisdavidmills
+aclavelle
+RuurdBijlsma
+Dylnuge
+laggingreflex
+jpmedley
+erikadoyle
+marie-ototoi
+Sebastianz
+Jeremie
+teoli
+seahorse48
+Delapouite
+JesseTG
+cwilso
+fbender
+0xABCDEF
+tregagnon
+leobalter
+Sheppy

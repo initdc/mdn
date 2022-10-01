@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/animation-duration/index.md
+
+# Original Wiki contributors
+rachelandrew
+mfuji09
+wbamberg
+Sheppy
+sideshowbarker
+chrisdavidmills
+TheFirsh
+ddbeck
+fscholz
+mfluehr
+scholachoi
+erikadoyle
+Sebastianz
+teoli
+jpmedley
+jsx
+kscarfone
+ethertank
+CutenessOverload
+FredB
+McGurk
+yyss
+myakura
+Marcoos

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/touchevent/index.md
+
+# Original Wiki contributors
+Carllllo
+1v9
+INCHMAN
+zhaosource
+kangmingxuan
+AshfaqHossain
+ziyunfei
+hyspace

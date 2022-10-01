@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/css/css_layout/legacy_layout_methods/index.md
+
+# Original Wiki contributors
+Hwan-Woong-Lee
+SphinxKnight

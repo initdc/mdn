@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mozilla/firefox/releases/3/index.md
+
+# Original Wiki contributors
+wbamberg
+ziyunfei
+ethertank
+alzhu
+jinyc
+Gnrcn
+Nnaabbcc
+Feelyang
+Starplex
+Y001
+Hiisee
+Meteormatt
+Andyyard
+Ianyang

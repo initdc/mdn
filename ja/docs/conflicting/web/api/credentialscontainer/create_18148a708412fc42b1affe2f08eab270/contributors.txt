@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/credentialscontainer/create_18148a708412fc42b1affe2f08eab270/index.md
+
+# Original Wiki contributors
+mfuji09

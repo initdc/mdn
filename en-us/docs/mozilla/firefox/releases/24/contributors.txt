@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/24/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+Sheppy
+fscholz
+teoli
+kohei.yoshino
+frankyan
+derobert
+Luke314
+hishamradwan29
+evilpie

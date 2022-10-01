@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/asynchronous/implementing_a_promise-based_api/index.md
+
+# Original Wiki contributors
+

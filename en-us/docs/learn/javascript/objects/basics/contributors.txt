@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/objects/basics/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+tayyabalishan
+jswisher
+FishinginaSombrero8
+nhsz
+gumbol
+rayrojas
+bripmccann
+Battlesquid
+Abhro
+FeruzOripov
+snakecase
+vcastrejont
+muhammadghazali
+MarckK
+RockyAZ
+rajasrijanakiraman
+stephaniehobson
+JonathanPool
+systematis
+dsujeeun
+nmve
+BaderSur
+Jeremie
+fscholz

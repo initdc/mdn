@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/instanceof/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+sutara79
+woodmix
+mandel59
+YuichiNukiyama
+teoli
+ethertank
+yyss

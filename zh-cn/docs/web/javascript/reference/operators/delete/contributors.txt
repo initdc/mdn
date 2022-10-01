@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/delete/index.md
+
+# Original Wiki contributors
+zcdll
+wallena3
+zhangchen
+wendy260310
+yaksha
+pyz1989
+Vincent-yz
+ucev
+jamesfancy
+ZackBee
+lazybusy
+Ende93
+xgqfrms-GitHub
+xwartz
+AlexChao
+ziyunfei
+teoli

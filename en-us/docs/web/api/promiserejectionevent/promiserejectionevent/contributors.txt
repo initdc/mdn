@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/promiserejectionevent/promiserejectionevent/index.md
+
+# Original Wiki contributors
+Sheppy
+sideshowbarker
+fscholz
+chrisdavidmills

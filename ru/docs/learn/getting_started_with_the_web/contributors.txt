@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/getting_started_with_the_web/index.html
+
+# Original Wiki contributors
+leiner
+Anonymous
+RickRep
+skapesec
+BychekRU
+dmitrytar
+Evgeny_Kurkin
+arbatskiy
+BlizzardCode
+Neir
+Jeremie

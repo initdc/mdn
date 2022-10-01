@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/games/techniques/3d_on_the_web/glsl_shaders/index.md
+
+# Original Wiki contributors
+Wind1808

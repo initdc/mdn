@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/array/every/index.md
+
+# Original Wiki contributors
+alattalatta
+KisukPark
+limkukhyun
+Netaras
+Kaben
+preco21

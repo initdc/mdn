@@ -1,0 +1,40 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document_object_model/traversing_an_html_table_with_javascript_and_dom_interfaces/index.md
+
+# Original Wiki contributors
+mfuji09
+irenesmith
+Zearin_Galaurum
+ExE-Boss
+dijonkitchen
+epan5
+jwhitlock
+vinay97
+teoli
+marcio
+rogerhc
+kscarfone
+Ichimonji10
+jvns
+trevorh
+Sheppy
+ethertank
+TelaSocial
+Nickolay
+Jmtroncos
+Huttarl
+Koder
+Mgjbot
+Carrie zhxj
+Waldo
+Ranga.tech
+Planche
+Sebuls
+Dria
+Sandesh
+NickolayBot
+Burnt1ce85
+Pslim
+Jakul
+Rvveelen
+Ruby

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/guide/html/content_categories/index.html
+
+# Original Wiki contributors
+Nachec
+BrayanAvian
+raecillacastellana
+eljonims
+eliasrodeloso

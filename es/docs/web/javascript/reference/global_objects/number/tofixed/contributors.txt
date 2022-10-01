@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/number/tofixed/index.md
+
+# Original Wiki contributors
+EtelS
+HarryzMoba_10
+BubuAnabelas
+Apkahym
+capgros
+isabido

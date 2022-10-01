@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/statements/async_function/index.md
+
+# Original Wiki contributors
+SphinxKnight
+AlmouattazT
+mathieuLrt
+Osilos
+JulienPradet
+v-Stein

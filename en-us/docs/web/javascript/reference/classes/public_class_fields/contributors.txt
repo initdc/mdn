@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/classes/public_class_fields/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+jinbeomhong
+sanderd17
+Zearin_Galaurum
+CodeDotJS
+sideshowbarker
+chrisdavidmills
+goodforenergy
+bagaffey
+neilkakkar

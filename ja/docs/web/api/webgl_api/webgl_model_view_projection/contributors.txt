@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/webgl_api/webgl_model_view_projection/index.md
+
+# Original Wiki contributors
+muko

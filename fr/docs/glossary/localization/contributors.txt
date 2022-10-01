@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/localization/index.md
+
+# Original Wiki contributors
+loella16
+ethertank
+DirkS
+Mgjbot
+Fredchat
+BenoitL
+Goofy
+Verruckt
+Takenbot
+Chbok

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/background-repeat/index.md
+
+# Original Wiki contributors
+Akh-rman
+Rammfall
+Roman-Kosov
+SphinxKnight
+teoli
+piar.tattoo@gmail.com

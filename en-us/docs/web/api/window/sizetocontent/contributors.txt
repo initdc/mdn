@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/sizetocontent/index.md
+
+# Original Wiki contributors
+foolip
+mfluehr
+lucian95
+fscholz
+teoli
+iamanupmenon
+ethertank
+Sheppy
+trevorh
+Mgjbot
+XFallenAngel
+Nickolay
+Cori
+Dria
+JesseW

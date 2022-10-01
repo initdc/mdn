@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/learn/javascript/first_steps/variables/index.md
+
+# Original Wiki contributors
+RocketSH
+docrob0t
+SiderealArt
+Playpaper
+jackblackevo
+cyanchu
+mubiesam

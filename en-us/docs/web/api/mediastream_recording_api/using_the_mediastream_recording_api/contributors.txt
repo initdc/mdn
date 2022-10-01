@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediastream_recording_api/using_the_mediastream_recording_api/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+Wind1808
+Sheppy
+huwcp
+fscholz
+johnjv
+threadmetal
+vatz88
+fippo
+skiarn
+miguelao
+Jib
+octavn
+lonekorean
+Sole
+jsx
+teoli
+Sebastianz
+tuxboy

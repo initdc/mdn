@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/audiobuffersourcenode/index.md
+
+# Original Wiki contributors
+mtoutside
+misonomi
+youpy
+SphinxKnight
+fscholz
+teoli
+maruhiro
+chikoski

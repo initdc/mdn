@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/conflicting/web/css/cursor/index.html
+
+# Original Wiki contributors
+SphinxKnight
+ExE-Boss
+Cheg

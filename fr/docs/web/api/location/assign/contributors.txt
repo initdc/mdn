@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/location/assign/index.md
+
+# Original Wiki contributors
+Arzak656
+fscholz
+Watilin

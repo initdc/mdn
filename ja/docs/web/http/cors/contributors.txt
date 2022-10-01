@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/cors/index.md
+
+# Original Wiki contributors
+Lichit
+shutooike
+mfuji09
+Uemmra3
+keiya01
+silverskyvicto
+ambi
+dlwe
+tetsuya.ohira
+sgryjp
+kenji-yamasaki
+demmys
+gitoshiaki
+SphinxKnight
+H-Yamagata
+cohei
+hamasaki
+unarist
+yyss
+RobinEgg

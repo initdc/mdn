@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/adjacent_sibling_combinator/index.md
+
+# Original Wiki contributors
+wbamberg
+cariad
+mfuji09
+ExE-Boss
+fscholz
+mfluehr
+KadirTopal
+erikadoyle
+jsx
+Jezer
+cvrebert
+Sebastianz
+teoli
+jlanus
+zacharytamas
+motoxer4533
+khs
+FredB
+Sheppy
+dhar
+tregagnon
+tw2113
+BYK
+miken32
+Wjjohnst

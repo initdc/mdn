@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/link_types/index.md
+
+# Original Wiki contributors
+chanvin
+Yayure
+gafish
+JuliusKingsley
+songlime
+liutongshuo
+idlefire
+hstarorg
+Ende93
+grtreexyz
+blue0125
+Breezewish

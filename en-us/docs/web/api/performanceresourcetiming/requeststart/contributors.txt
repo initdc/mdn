@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performanceresourcetiming/requeststart/index.md
+
+# Original Wiki contributors
+sideshowbarker
+stevenreddie
+fscholz
+chrisdavidmills
+abbycar
+rolfedh
+AFBarstow

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/status/303/index.md
+
+# Original Wiki contributors
+SphinxKnight
+samfortunato
+mfuji09
+ExE-Boss
+SergeyKurt
+ADTC
+RayannTedds
+Jedipedia
+haroldfredshort
+fscholz
+teoli

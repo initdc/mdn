@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/service_worker_api/index.md
+
+# Original Wiki contributors
+alattalatta
+MuhunKim
+Hou
+limkukhyun
+chrisdavidmills

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/manifest/index.md
+
+# Original Wiki contributors
+yannbertrand
+chrisspb
+Goofy
+mlcdf
+loella16
+Luwangel
+JeffD

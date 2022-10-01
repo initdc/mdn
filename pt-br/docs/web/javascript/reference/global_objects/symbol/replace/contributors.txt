@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/global_objects/symbol/replace/index.md
+
+# Original Wiki contributors
+fernanduandrade

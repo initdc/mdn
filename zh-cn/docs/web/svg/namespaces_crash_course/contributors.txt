@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/namespaces_crash_course/index.md
+
+# Original Wiki contributors
+pacexy
+cyemeng
+876843240
+RongMine
+Ljrou
+charlie

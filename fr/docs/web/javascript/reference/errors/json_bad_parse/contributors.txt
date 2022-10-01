@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/errors/json_bad_parse/index.md
+
+# Original Wiki contributors
+SphinxKnight

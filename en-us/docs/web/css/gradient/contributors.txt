@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/gradient/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+wbamberg
+mfluehr
+estelle
+alattalatta
+rachelandrew
+jonjohnjohnson
+Sebastianz
+fscholz
+phistuck
+teoli
+Sheppy
+jlin
+kscarfone
+ethertank
+Inkbug
+groovecoder
+brianloveswords

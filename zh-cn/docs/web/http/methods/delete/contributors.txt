@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/methods/delete/index.md
+
+# Original Wiki contributors
+fnjoe
+yzweb2018
+horsefaced
+Ende93
+WayneCui
+xgqfrms-GitHub

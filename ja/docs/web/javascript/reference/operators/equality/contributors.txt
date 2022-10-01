@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/equality/index.md
+
+# Original Wiki contributors
+uraway
+mfuji09

@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/closures/index.md
+
+# Original Wiki contributors
+chaewonkong
+songdoing
+RamiTae
+Violet-Bora-Lee
+alattalatta
+henry_hwang
+Seonghui
+guyeol
+limkukhyun
+zziuni
+Yoonjoo
+KSH-code
+afrontend
+AlexMin
+Jongmin
+MyHyuny
+joeunha
+Kaben
+noritersand
+kdnmih
+teoli
+JaehwanLee
+jaemin_jo

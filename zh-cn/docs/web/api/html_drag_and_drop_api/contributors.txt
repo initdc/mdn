@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/html_drag_and_drop_api/index.md
+
+# Original Wiki contributors
+jingkaimori
+Clarkkkk
+Carllllo
+ppphp
+RainSlide
+1056237661
+suvyme
+maxsize
+stevobm
+liujiajun1993
+xgqfrms-GitHub
+esc
+OhJerry
+zhuangyin
+shly
+hxl
+yola0316

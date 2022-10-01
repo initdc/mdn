@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/response/type/index.md
+
+# Original Wiki contributors
+zbjornson
+fscholz
+chrisdavidmills
+abbycar
+Sebastianz
+jpmedley
+kscarfone

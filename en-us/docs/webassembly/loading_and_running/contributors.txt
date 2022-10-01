@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/webassembly/loading_and_running/index.md
+
+# Original Wiki contributors
+MisterJ936
+MarkusStange
+kdex
+lukewagner
+chrisdavidmills
+AndyLnd
+sideshowbarker
+lyrra
+ukyo

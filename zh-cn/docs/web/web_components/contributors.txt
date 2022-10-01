@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/web_components/index.md
+
+# Original Wiki contributors
+lc15011977647
+RequireSun
+ujsxn
+zjffun
+YellowPure
+FlyingPig
+FarmerZhou
+siwei_null
+zilong-thu
+jscgq
+EliYao
+zhangchen
+xgqfrms-GitHub
+little-tomorrow
+chaosdog
+xiaokk06
+jchnxu
+Fantasy_shao

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/guide/introduction_to_web_development/index.md
+
+# Original Wiki contributors
+Uemmra3
+silverskyvicto
+mfuji09
+SphinxKnight
+nonki777
+Yuuki Takahashi

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/cipher_suite/index.md
+
+# Original Wiki contributors
+takubokudori

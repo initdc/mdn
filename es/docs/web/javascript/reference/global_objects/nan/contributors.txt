@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/nan/index.md
+
+# Original Wiki contributors
+jaomix1
+mjimcua
+SphinxKnight
+teoli
+Garf
+Mgjbot
+Sheppy

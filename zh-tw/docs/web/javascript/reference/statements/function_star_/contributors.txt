@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/statements/function_star_/index.md
+
+# Original Wiki contributors
+iendeavor
+jackblackevo
+DaomingC
+kdex
+ALiangLiang
+tom76kimo

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/ext_color_buffer_float/index.md
+
+# Original Wiki contributors
+gosticks
+fscholz
+nmve
+teoli
+jgilbert

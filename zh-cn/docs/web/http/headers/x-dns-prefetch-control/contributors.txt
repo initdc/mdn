@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/x-dns-prefetch-control/index.md
+
+# Original Wiki contributors
+RainSlide
+lsvih
+zhuangyin
+yyhaxx
+RequireSun
+yowangbin
+markyun
+Ende93
+hucz08

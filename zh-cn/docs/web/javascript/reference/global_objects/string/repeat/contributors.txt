@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/repeat/index.md
+
+# Original Wiki contributors
+laampui
+xgqfrms-GitHub
+git123hub
+Ende93
+OmniP
+teoli
+tiansh
+ziyunfei
+zhangyaochun1987

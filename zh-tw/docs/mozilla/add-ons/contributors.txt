@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/add-ons/index.md
+
+# Original Wiki contributors
+iigmir
+refrain4121
+a780201
+A520
+irvinfly
+softcup
+teoli
+petercpg
+wildsky
+Anomitro_Munshi

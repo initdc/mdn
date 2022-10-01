@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/regexp/sticky/index.md
+
+# Original Wiki contributors
+mfuji09
+segayuu
+woodmix
+YuichiNukiyama
+lv7777
+x2357
+shide55

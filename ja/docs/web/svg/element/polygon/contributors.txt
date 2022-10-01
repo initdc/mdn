@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/element/polygon/index.md
+
+# Original Wiki contributors
+FumioNonaka
+Sebastianz
+teoli
+manzyun

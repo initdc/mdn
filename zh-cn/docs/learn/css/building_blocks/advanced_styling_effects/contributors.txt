@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/building_blocks/advanced_styling_effects/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+rtxu
+zhuzhangliang
+codeofjackie
+allan_simon
+sputnikW
+Froggy

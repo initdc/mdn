@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/number/toprecision/index.html
+
+# Original Wiki contributors
+YozhEzhi
+Yialo
+while0pass
+nakhodkiin
+ZeroUnderscoreOu
+KiraGolub
+an2323
+Mingun

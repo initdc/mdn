@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/object/constructor/index.md
+
+# Original Wiki contributors
+alejandrochung
+hugoleon46
+teoli
+chebit
+carlosmantilla

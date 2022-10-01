@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/image/index.md
+
+# Original Wiki contributors
+BuluGuy
+familyuu
+mozhs
+Sebastianz
+mrstork
+fscholz
+ziyunfei
+MoYuLing
+vicvinc
+FredWe

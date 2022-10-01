@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_lists_and_counters/index.md
+
+# Original Wiki contributors
+wbamberg
+rachelandrew
+fscholz
+mfluehr
+TylerH
+Sebastianz
+teoli

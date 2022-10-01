@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmeterelement/index.md
+
+# Original Wiki contributors
+sideshowbarker
+connorshea
+ExE-Boss
+chharvey
+Sebastianz
+arronei
+libbymc
+cecchi
+fscholz
+Nexii
+teoli
+kscarfone
+Sheppy
+Jeremie

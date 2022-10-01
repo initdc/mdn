@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audiobuffer/getchanneldata/index.md
+
+# Original Wiki contributors
+mfluehr
+chrisdavidmills
+Rumyra
+gcbw
+fscholz
+erikadoyle

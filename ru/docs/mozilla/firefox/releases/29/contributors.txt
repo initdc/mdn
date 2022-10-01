@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mozilla/firefox/releases/29/index.html
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+Troynov
+Ladislas

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/common_questions/html_features_for_accessibility/index.md
+
+# Original Wiki contributors
+woojin.jo

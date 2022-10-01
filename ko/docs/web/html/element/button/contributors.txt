@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/html/element/button/index.html
+
+# Original Wiki contributors
+alattalatta
+sooyoung32
+azunyan3
+moolow

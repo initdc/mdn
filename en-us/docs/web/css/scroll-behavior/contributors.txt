@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/scroll-behavior/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+liuhao088
+Malvoz
+ddbeck
+sideshowbarker
+jonjohnjohnson
+mfluehr
+myakura
+jswisher
+jaynalocke
+kdex
+Druzion
+teoli
+Sebastianz
+cvrebert
+Jeremie
+Cust0dian
+phistuck

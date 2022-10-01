@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_doublecolon_-webkit-progress-inner-element/index.md
+
+# Original Wiki contributors
+Sheppy
+wbamberg
+teoli
+ExE-Boss
+mfluehr
+Sebastianz
+cvrebert

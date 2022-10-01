@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/getelementsbyclassname/index.md
+
+# Original Wiki contributors
+leplay
+birdway
+zxsunrise
+yoyo837
+nianxiaoge
+jahentao
+zieg
+iugo

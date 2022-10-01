@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/imagecapture/index.md
+
+# Original Wiki contributors
+codejockie
+alattalatta
+mfluehr
+Wuzzel
+Sheppy
+fscholz
+LauJi
+FloraFauna
+jpmedley

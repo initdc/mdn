@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/errors/not_defined/index.md
+
+# Original Wiki contributors
+oyyunttt
+Veneno
+yenshen
+Zappa451
+Hitomichan

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/css_layout/index.md
+
+# Original Wiki contributors
+mitaosi
+jeasion
+bkuke
+allan_simon
+xp44mm
+yydzxz
+zhuangyin
+keifergu
+xgqfrms-GitHub
+07akioni
+xuqisheng
+funnyChinese
+chrisdavidmills

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/getting_started_with_the_web/installing_basic_software/index.md
+
+# Original Wiki contributors
+Roy-Tian
+kidonng
+Cybercll
+tonyxu-io
+ozxo
+xmcgcg
+codeofjackie
+shuijingwan
+codertomns
+Bearies
+overcat
+fan19900404
+jian86392088
+troywith77

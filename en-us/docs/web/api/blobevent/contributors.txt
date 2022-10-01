@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/blobevent/index.md
+
+# Original Wiki contributors
+Wind1808
+fscholz
+Sheppy
+jpmedley
+miguelao
+teoli

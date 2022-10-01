@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbcursor/continueprimarykey/index.md
+
+# Original Wiki contributors
+julienw
+alattalatta
+sideshowbarker
+fscholz
+jpmedley
+sangwhan
+teoli

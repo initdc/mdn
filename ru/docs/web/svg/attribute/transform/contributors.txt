@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/svg/attribute/transform/index.html
+
+# Original Wiki contributors
+a1ip
+Solj
+Lexeii
+antisergey
+Aleksov

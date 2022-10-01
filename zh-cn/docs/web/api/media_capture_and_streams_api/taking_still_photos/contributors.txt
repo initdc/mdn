@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/media_capture_and_streams_api/taking_still_photos/index.md
+
+# Original Wiki contributors
+lxuewu
+崮生
+Move

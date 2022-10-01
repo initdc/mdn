@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/promise/then/index.md
+
+# Original Wiki contributors
+StripTM
+MichaelOrdaz
+PatoDeTuring
+FreakLevel
+snake77se
+Takyo
+smvilar
+Knskan3
+JurgenBlitz
+DaniLaguna
+MarkelCuesta
+manumora

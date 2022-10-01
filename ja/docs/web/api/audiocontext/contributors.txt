@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/audiocontext/index.md
+
+# Original Wiki contributors
+toyakun
+Juke-99
+woodmix
+maruhiro
+niusounds
+fscholz

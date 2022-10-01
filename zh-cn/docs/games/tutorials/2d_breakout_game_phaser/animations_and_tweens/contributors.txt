@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/tutorials/2d_breakout_game_phaser/animations_and_tweens/index.md
+
+# Original Wiki contributors
+kilohaty
+wbamberg
+j787701730

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/css_shapes/overview_of_css_shapes/index.md
+
+# Original Wiki contributors
+SphinxKnight

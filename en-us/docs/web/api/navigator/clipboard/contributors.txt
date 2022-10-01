@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/clipboard/index.md
+
+# Original Wiki contributors
+Magistern
+mfuji09
+Sheppy

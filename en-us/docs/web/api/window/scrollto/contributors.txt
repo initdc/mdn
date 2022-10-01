@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/scrollto/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+HIHIQY1
+mfluehr
+wp56610
+lucian95
+jamesdhurd
+cwadrupldijjit
+mbelsky
+cvrebert
+Maaaks
+bethge
+luqmaan
+fscholz
+teoli
+iamanupmenon
+Sheppy
+ethertank
+DavidWalsh
+Mgjbot
+Ptak82
+Indigonation
+Dria
+JesseW

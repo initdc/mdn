@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/align-items/index.md
+
+# Original Wiki contributors
+淡空醉花
+HayashiMei
+HuangXin
+XuShunyi
+zhuangyin
+eliseguilian
+Ende93
+jiahui
+nick-ChenZe
+fscholz
+Go7hic
+Sebastianz
+FredWe

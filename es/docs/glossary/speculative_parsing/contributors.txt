@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/speculative_parsing/index.md
+
+# Original Wiki contributors
+jsapiains
+joeljose
+vltamara
+manufosela
+Montherdez

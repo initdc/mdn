@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/getting_started_with_the_web/dealing_with_files/index.md
+
+# Original Wiki contributors
+anoncaco
+moseoridev
+alattalatta
+cs09g
+dolmoon
+limkukhyun
+YJLeeGinter
+galcyurio
+BK-Yoo

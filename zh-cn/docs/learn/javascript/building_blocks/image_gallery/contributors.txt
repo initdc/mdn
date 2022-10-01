@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/building_blocks/image_gallery/index.md
+
+# Original Wiki contributors
+lucida959595
+Roy-Tian
+LittleMang
+Park-ma
+codeofjackie
+lihaoyuan
+yeslogin2
+Zeng

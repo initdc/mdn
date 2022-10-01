@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/notification/notification/index.md
+
+# Original Wiki contributors
+mfuji09
+jhthompson
+sideshowbarker
+bathos
+daniel.z.tg
+jennyevans
+chrisdavidmills
+RajithaKumara
+fscholz
+vihanb
+jpmedley
+ShadyThGod
+freaktechnik
+mt-webdev
+ShakedAmar
+Sheppy
+glenwatson

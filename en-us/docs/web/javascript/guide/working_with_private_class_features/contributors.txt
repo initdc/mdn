@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/guide/working_with_private_class_features/index.md
+
+# Original Wiki contributors
+

@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/mouseleave_event/index.md
+
+# Original Wiki contributors
+mfuji09
+irenesmith
+Sheppy
+CarloMartini
+DisorientedSpacePenguin
+RichTeaTime
+vapier
+david_ross
+beyro
+sideshowbarker
+fscholz
+erikadoyle
+TrogloGeek
+rageandqq
+paul.irish
+Sebastianz
+justinmc
+Rob W
+teoli
+Masayuki
+ethertank
+louisremi

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/styling_text/styling_lists/index.md
+
+# Original Wiki contributors
+avivmu
+haond10adp
+chrisdavidmills
+massood
+ntutangyun
+irenesmith
+RafeyIqbalRahman
+thenoelman
+juandesouza
+angel-luis
+stephaniehobson
+pbarun
+jruota
+anthonyvallee
+richardzacur

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/length/index.md
+
+# Original Wiki contributors
+binarization
+fscholz
+fisker
+jeneser
+shaodahong
+The-End-Hero
+yenshen
+AlexChao
+ziyunfei
+teoli

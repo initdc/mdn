@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/first_steps/getting_started/index.md
+
+# Original Wiki contributors
+onurbasturk
+blueblots
+gsorto
+xp44mm
+smilevideo
+mbrasseau
+chrisdavidmills
+rachelandrew
+ExE-Boss
+MyNameIsBond

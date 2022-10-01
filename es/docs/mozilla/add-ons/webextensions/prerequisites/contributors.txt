@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/add-ons/webextensions/prerequisites/index.md
+
+# Original Wiki contributors
+yuniers

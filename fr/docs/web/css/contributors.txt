@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/index.md
+
+# Original Wiki contributors
+frmovies
+zephimir
+SphinxKnight
+adagioribbit
+goofy_mdn
+codingk8
+juliendargelos
+BenoitL
+eerrtrr
+tonybengue
+Mozinet
+romain.bohdanowicz
+Daniel005
+magikmanu
+Oliviermoz
+teoli
+wakka27
+Goofy
+FredB
+Delapouite
+tregagnon
+jackblack
+Mgjbot
+Fredchat
+VincentN
+Chbok
+Bpruneau
+Laurent Denis
+Jean-Yves Cronier
+Nickolay
+Cbeard
+TestUser

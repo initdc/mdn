@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/values/index.md
+
+# Original Wiki contributors
+Bayes
+RoXoM
+ywjco
+zhangchen
+spiritree
+percy507
+maicss
+xgqfrms-GitHub
+Hushabyme
+webery

@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_positioning/understanding_z_index/the_stacking_context/index.md
+
+# Original Wiki contributors
+Sl0v3C
+realstephenzhao
+hayahayao
+SakuraSnow
+zjffun
+gzponline
+kevinfszu
+Ende93
+huangcheng
+yisibl
+ziyunfei
+Dolphin_Wood
+davin107
+fake
+teoli
+ethertank
+tzyeah

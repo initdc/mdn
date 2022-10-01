@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/http/index.md
+
+# Original Wiki contributors
+Lekensteyn
+Porkepix
+cfwilson
+janpeuker
+sideshowbarker
+LeeClifordEluna
+Jeremie
+lpiot
+klez
+Andrew_Pfeiffer
+joyvolatile
+Biraj
+Radhakumari22

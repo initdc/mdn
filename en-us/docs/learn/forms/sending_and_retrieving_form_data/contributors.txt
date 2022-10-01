@@ -1,0 +1,39 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/forms/sending_and_retrieving_form_data/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+A.Faturechi
+estelle
+tayyabalishan
+choudh70
+karlhorky
+sideshowbarker
+Dzmitry_K
+vriojtg
+massood
+lvzndr
+gabcs07
+guacamoli
+mfuji09
+surigangula
+Sheppy
+juandesouza
+calrrox
+stephaniehobson
+SphinxKnight
+bartolocarrasco
+MegaMindAT
+douglas-j-bothwell
+Markus Prokott
+wrannaman
+etmoore
+AestheticArson
+sekularac
+Lexas
+iammattmurphy
+Jeremie
+kscarfone
+ben010783
+ckeschnat
+gtwhite

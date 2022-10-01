@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/paged_media/index.md
+
+# Original Wiki contributors
+wbamberg
+mfluehr
+Sheppy
+justingeeslin
+RAMilewski
+nimbupani

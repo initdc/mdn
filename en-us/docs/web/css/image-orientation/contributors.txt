@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/image-orientation/index.md
+
+# Original Wiki contributors
+idmadj
+wbamberg
+Sheppy
+mfuji09
+jswisher
+sideshowbarker
+vinyldarkscratch
+estelle
+isonic
+mfluehr
+fscholz
+pborenstein
+Sebastianz
+prayash
+kscarfone
+teoli
+0b10011
+ethertank

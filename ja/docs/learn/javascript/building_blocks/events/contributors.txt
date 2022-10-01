@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/building_blocks/events/index.md
+
+# Original Wiki contributors
+eldesh
+8845musign
+Uemmra3
+nuip
+dlwe
+silverskyvicto
+thinking-capybara
+hysryt
+mfuji09
+i12o
+kenji-yamasaki
+t-cool

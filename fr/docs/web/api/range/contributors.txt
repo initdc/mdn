@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/range/index.md
+
+# Original Wiki contributors
+Watilin
+stefmaster
+teoli
+jsx
+Mgjbot
+BenoitL
+Fredchat
+VincentN
+Learning

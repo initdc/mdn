@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/3/site_compatibility/index.md
+
+# Original Wiki contributors
+wbamberg
+SphinxKnight
+teoli
+kohei.yoshino
+Sheppy
+Leandro Mercês Xavier
+Taken
+Ptak82
+UggSnz
+Nickolay
+Hwasung
+cbiesinger
+BenoitL
+sicking
+Mgjbot
+Callek
+Victory
+Mw22

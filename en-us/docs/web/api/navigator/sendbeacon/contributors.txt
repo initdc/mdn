@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/sendbeacon/index.md
+
+# Original Wiki contributors
+dougdike
+sideshowbarker
+devinrhode2
+mfuji09
+xinganwang
+Tigt
+jpmedley
+roryokane
+kevinoid
+lol768
+mattto
+frobinsonj
+fscholz
+Annevk
+roopog
+RByers
+chrisdavidmills
+abbycar
+teoli
+Sheppy
+frosas
+BenMorel
+Sebastianz
+realityking
+acdha
+P0lip
+ziyunfei
+gnumanth

@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/cors/index.html
+
+# Original Wiki contributors
+DeadIntegral
+starrything
+alattalatta
+SphinxKnight
+dabitk
+young-do
+RamiTae
+limkukhyun
+hard_coder
+minijaypark
+gwonsungjun
+pineoc
+Curzy
+kw8799
+AngelaMIN
+gnujoow
+cjh5414
+JisuPark
+devcken
+zackery.lim
+sangwook-kim
+hoony

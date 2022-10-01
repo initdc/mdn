@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/browseraction/getbadgebackgroundcolor/index.md
+
+# Original Wiki contributors
+hellosct1
+Loirooriol
+irenesmith
+meandave
+michael-zapata
+Makyen
+chrisdavidmills
+wbamberg

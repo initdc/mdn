@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/strict_mode/index.html
+
+# Original Wiki contributors
+almaceleste
+Yialo
+alexbs
+coxdn
+randomnf
+ris58h
+spixe37
+Sheppy
+karmagood
+alexdarc
+egor-sorokin
+hatroman
+Megabyteceer
+dimitryony
+WispProxy
+Natalya_Surikova
+compsphere
+Grumvol
+torbasow
+fscholz
+zlumyo
+akudiyar
+fvtsfedu
+r00ger
+egml
+AntonBezrukov
+uleming

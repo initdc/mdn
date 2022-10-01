@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/replaced_element/index.md
+
+# Original Wiki contributors
+alattalatta
+Hwan-Woong-Lee
+wankyu
+nyxchung
+Netaras

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/batterymanager/level/index.md
+
+# Original Wiki contributors
+fscholz
+eliezerb
+maedca
+David_Marcos
+sinfallas
+voylinux

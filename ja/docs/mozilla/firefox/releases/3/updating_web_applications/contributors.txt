@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/3/updating_web_applications/index.md
+
+# Original Wiki contributors
+wbamberg
+ethertank
+Sheppy
+Potappo
+Mgjbot
+Kohei
+Channy
+Shoot
+Taken

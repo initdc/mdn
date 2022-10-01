@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/console/assert/index.md
+
+# Original Wiki contributors
+Fenn
+loella16
+christophe.hurpeau
+frederikdussault
+ElianWonhalf

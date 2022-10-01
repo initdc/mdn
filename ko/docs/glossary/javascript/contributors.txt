@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/glossary/javascript/index.md
+
+# Original Wiki contributors
+Party4Bread
+akic4op4
+stephenjang

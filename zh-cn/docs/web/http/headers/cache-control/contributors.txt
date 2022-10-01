@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/cache-control/index.md
+
+# Original Wiki contributors
+kidonng
+woshiqiang1
+DanielCui
+taoyouh
+tenghuanhe
+ngulee
+kaliExist
+wangtongchao
+marsorsun
+cnc233
+codevvvv9
+pearzl
+tianyuqingkong
+zliy
+NatureFeng
+schickal
+fscholz
+shaunsxj
+paranoidjk
+visten

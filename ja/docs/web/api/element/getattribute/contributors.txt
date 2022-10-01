@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/element/getattribute/index.md
+
+# Original Wiki contributors
+mfuji09
+YujiSoftware
+sounisi5011
+dskmori
+DriftwoodJP
+fscholz
+khalid32
+ethertank
+Mgjbot
+Ryotakano

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/canvas_api/tutorial/applying_styles_and_colors/index.md
+
+# Original Wiki contributors
+kbsbroad
+sujilee91
+donghyun
+Sebastianz
+AlwaysOnce

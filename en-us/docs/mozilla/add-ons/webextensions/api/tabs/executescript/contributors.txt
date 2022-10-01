@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/tabs/executescript/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ronsekaon
+Zearin_Galaurum
+irenesmith
+juraj
+fscholz
+kernp
+hellosct1
+ewwink
+YurkaninRyan
+wbamberg
+muffinresearch
+keineausweise
+andrewtruongmoz
+snoack
+Makyen
+kmaglione
+rolfedh

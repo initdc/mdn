@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/window/getselection/index.md
+
+# Original Wiki contributors
+AlePerez92
+LittleSanti
+fscholz
+Mgjbot
+DR

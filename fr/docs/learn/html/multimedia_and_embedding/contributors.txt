@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/html/multimedia_and_embedding/index.md
+
+# Original Wiki contributors
+tristantheb
+Dralyab
+AntoineJacquet
+zakaila
+Ilphrin

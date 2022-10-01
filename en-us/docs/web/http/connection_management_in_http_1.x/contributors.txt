@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/connection_management_in_http_1.x/index.md
+
+# Original Wiki contributors
+leela52452
+seedlinktech-william
+mfuji09
+chrisdavidmills
+toddtee
+stephaniehobson
+Sheppy
+keithalpichi
+insp3ctre
+david_ross
+DarrenLester
+fscholz
+teoli

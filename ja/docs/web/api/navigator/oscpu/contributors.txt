@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/navigator/oscpu/index.md
+
+# Original Wiki contributors
+mfuji09
+lv7777
+fscholz
+khalid32
+ethertank
+Potappo

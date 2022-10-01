@@ -1,0 +1,1292 @@
+<!DOCTYPE html><html lang="en-US" prefix="og: https://ogp.me/ns#"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/favicon-48x48.97046865.png"><link rel="apple-touch-icon" href="/apple-touch-icon.0ea0fa02.png"><meta name="theme-color" content="#ffffff"><link rel="manifest" href="/manifest.56b1cedc.json"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="MDN Web Docs"><script>Array.prototype.flat&&Array.prototype.includes||document.write('<script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.flat%2Ces6"><\/script>')</script><title>图像文件类型与格式指南 - Web 媒体技术 | MDN</title><link rel="preload" as="font" type="font/woff2" crossorigin="" href="/static/media/ZillaSlab-Bold.subset.0beac26b.woff2"><link rel="alternate" title="图像文件类型与格式指南" href="https://developer.mozilla.org/zh-CN/docs/Web/Media/Formats/Image_types" hreflang="zh"><link rel="alternate" title="画像ファイルの種類と形式ガイド" href="https://developer.mozilla.org/ja/docs/Web/Media/Formats/Image_types" hreflang="ja"><link rel="alternate" title="Guide des types et formats de fichiers d'images" href="https://developer.mozilla.org/fr/docs/Web/Media/Formats/Image_types" hreflang="fr"><link rel="alternate" title="Image file type and format guide" href="https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types" hreflang="en"><meta name="description" content="在本指南中，我们将介绍网页浏览器普遍支持的图像文件类型，并提供一些关于他们的信息与见解，帮助您为您的网站选择最合适的图像格式。"><meta property="og:url" content="https://developer.mozilla.org/zh-CN/docs/Web/Media/Formats/Image_types"><meta property="og:title" content="图像文件类型与格式指南 - Web 媒体技术 | MDN"><meta property="og:description" content="在本指南中，我们将介绍网页浏览器普遍支持的图像文件类型，并提供一些关于他们的信息与见解，帮助您为您的网站选择最合适的图像格式。"><meta property="og:locale" content="zh-CN"><meta property="og:image" content="https://developer.mozilla.org/mdn-social-share.0ca9dbda.png"><meta property="twitter:card" content="summary_large_image"><meta name="robots" content="index, follow"><link rel="canonical" href="https://developer.mozilla.org/zh-CN/docs/Web/Media/Formats/Image_types"><style media="print">.breadcrumbs-container,.document-toc-container,.language-menu,.language-toggle,.on-github,.page-footer,.page-header-main,nav.sidebar,ul.prev-next{display:none!important}.main-page-content,.main-page-content pre{padding:2px}.main-page-content pre{border-left-width:2px}</style><link href="/static/css/main.55b68e13.chunk.css" rel="stylesheet"><script src="/static/js/runtime-main.4bb4c356.js" defer=""></script><script src="/static/js/4.a756dea3.chunk.js" defer=""></script><script src="/static/js/main.d4d565e0.chunk.js" defer=""></script></head><body><div id="root"><ul id="nav-access" class="a11y-nav"><li><a id="skip-main" href="#content">Skip to main content</a></li><li><a id="skip-search" href="#main-q">Skip to search</a></li><li><a id="skip-select-language" href="#select-language">Skip to select language</a></li></ul><div class="page-wrapper document-page"><header class="page-header"><a href="/zh-CN/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a><button type="button" class="ghost main-menu-toggle" aria-haspopup="true" aria-label="Show Menu"></button><div class="page-header-main "><nav class="main-nav" aria-label="Main menu"><ul class="main-menu nojs"><li class="top-level-entry-container"><button id="technologies-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Technologies</button><ul class="technologies " role="menu" aria-labelledby="technologies-button"><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web" role="menuitem">Technologies Overview</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/HTML" role="menuitem">HTML</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/CSS" role="menuitem">CSS</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/JavaScript" role="menuitem">JavaScript</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/Guide/Graphics" role="menuitem">Graphics</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/HTTP" role="menuitem">HTTP</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/API" role="menuitem">APIs</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Mozilla/Add-ons/WebExtensions" role="menuitem">Browser Extensions</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/MathML" role="menuitem">MathML</a></li></ul></li><li class="top-level-entry-container"><button id="references-guides-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">References &amp; Guides</button><ul class="references-guides " role="menu" aria-labelledby="references-guides-button"><li role="none"><a tabindex="-1" href="/zh-CN/docs/Learn" role="menuitem">Learn web development</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/Tutorials" role="menuitem">Tutorials</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/Reference" role="menuitem">References</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/Guide" role="menuitem">Developer Guides</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web/Accessibility" role="menuitem">Accessibility</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Games" role="menuitem">Game development</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/Web" role="menuitem">...more docs</a></li></ul></li><li class="top-level-entry-container"><button id="feedback-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Feedback</button><ul class="feedback " role="menu" aria-labelledby="feedback-button"><li role="none"><a tabindex="-1" href="/zh-CN/docs/MDN/Contribute/Feedback" role="menuitem">Send Feedback</a></li><li role="none"><a tabindex="-1" href="/zh-CN/docs/MDN/Contribute" role="menuitem">Contribute to MDN</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/content/issues/new" role="menuitem">Report a content issue<!-- --> 🌐</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/yari/issues/new" role="menuitem">Report a platform issue<!-- --> 🌐</a></li></ul></li></ul></nav><div class="header-search"><form action="/zh-CN/search" class="search-form search-widget" role="search"><label for="main-q" class="visually-hidden">Search MDN</label><input type="search" name="q" id="main-q" class="search-input-field" placeholder="Site search... (Press &quot;/&quot; to focus)" pattern="(.|\s)*\S(.|\s)*" required="" value=""><input type="submit" class="ghost search-button" value="" aria-label="Search"></form></div><div class="auth-container"></div></div></header><div class="breadcrumb-locale-container"><nav class="breadcrumbs-container" aria-label="Breadcrumb navigation"><ol typeof="BreadcrumbList" vocab="https://schema.org/" aria-label="breadcrumbs"><li property="itemListElement" typeof="ListItem"><a class="breadcrumb" property="item" typeof="WebPage" href="/zh-CN/docs/Web"><span property="name">Web 开发技术</span></a><meta property="position" content="1"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb" property="item" typeof="WebPage" href="/zh-CN/docs/Web/Media"><span property="name">Web 媒体技术</span></a><meta property="position" content="2"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-penultimate" property="item" typeof="WebPage" href="/zh-CN/docs/Web/Media/Formats"><span property="name">Guide to media types and formats on the web</span></a><meta property="position" content="3"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-current-page" property="item" typeof="WebPage" href="/zh-CN/docs/Web/Media/Formats/Image_types"><span property="name">图像文件类型与格式指南</span></a><meta property="position" content="4"></li></ol></nav><ul class="language-toggle"><li><a href="#select-language" class="language-icon"><span class="show-desktop">Change language</span></a></li><li><a class="view-in-english" href="/en-US/docs/Web/Media/Formats/Image_types"><span class="show-desktop">View in</span> English</a></li></ul></div><div class="localized-content-note notecard inline neutral"><a href="/en-US/docs/MDN/Contribute/Localize#active_locales">This page was translated from English by the community. Learn more and join the MDN Web Docs community.</a></div><aside class="document-toc-container"><section class="document-toc"><header><h2>Table of contents</h2><button type="button" class="ghost toc-trigger-mobile" aria-controls="toc-entries" aria-expanded="false">Table of contents</button></header><ul id="toc-entries"><li><a href="#常见图像文件类型">常见图像文件类型</a></li><li><a href="#图像文件格式详介">图像文件格式详介</a></li><li><a href="#选择合适的图像格式">选择合适的图像格式</a></li><li><a href="#提供后备图像">提供后备图像</a></li><li><a href="#参见">参见</a></li></ul></section></aside><main id="content" class="main-content" role="main"><article class="main-page-content" lang="zh-CN"><h1>图像文件类型与格式指南</h1><div><p>在本指南中，我们将介绍网页浏览器普遍支持的图像文件类型，并提供一些关于他们的信息与见解，帮助您为您的网站选择最合适的图像格式。</p></div><h2 id="常见图像文件类型"><a href="#常见图像文件类型" title="Permalink to 常见图像文件类型">常见图像文件类型</a></h2><div><p>世界上有非常多的图像文件格式。下面列举了网页上常用的格式，其中 BMP 由于浏览器支持限制而不被推荐，通常应该避免在网页内容中使用。</p>
+<table>
+  <thead>
+    <tr>
+      <th>缩写</th>
+      <th>文件格式</th>
+      <th>MIME 类型</th>
+      <th>文件拓展名</th>
+      <th>浏览器兼容性</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#apng_animated_portable_network_graphics">APNG</a></td>
+      <td>Animated Portable Network Graphics <strong>动态便携式网络图像</strong></td>
+      <td><code>image/apng</code></td>
+      <td><code>.apng</code></td>
+      <td>Chrome, Edge, Firefox, Opera, Safari</td>
+    </tr>
+    <tr>
+      <td><a href="#avif">AVIF</a></td>
+      <td>AV1 Image File Format AV1 图像文件格式</td>
+      <td><code>image/avif</code></td>
+      <td><code>.avif</code></td>
+      <td>Chrome, Opera, Firefox (feature flag)</td>
+    </tr>
+    <tr>
+      <td><a href="#bmp_bitmap_file">BMP</a></td>
+      <td>Bitmap file <strong>位图</strong>文件</td>
+      <td><code>image/bmp</code></td>
+      <td><code>.bmp</code></td>
+      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>
+    </tr>
+    <tr>
+      <td><a href="#gif_graphics_interchange_format">GIF</a></td>
+      <td>Graphics Interchange Format 图像互换格式</td>
+      <td><code>image/gif</code></td>
+      <td><code>.gif</code></td>
+      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>
+    </tr>
+    <tr>
+      <td><a href="#ico_microsoft_windows_icon">ICO</a></td>
+      <td>Microsoft Icon 微软图标</td>
+      <td><code>image/x-icon</code></td>
+      <td><code>.ico</code>, <code>.cur</code></td>
+      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>
+    </tr>
+    <tr>
+      <td><a href="#jpeg_joint_photographic_experts_group_image">JPEG</a></td>
+      <td>Joint Photographic Expert Group image 联合影像专家小组图像</td>
+      <td><code>image/jpeg</code></td>
+      <td><code>.jpg</code>, <code>.jpeg</code>, <code>.jfif</code>, <code>.pjpeg</code>, <code>.pjp</code></td>
+      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>
+    </tr>
+    <tr>
+      <td><a href="#png_portable_network_graphics">PNG</a></td>
+      <td>Portable Network Graphics <strong>便携式网络图像</strong></td>
+      <td><code>image/png</code></td>
+      <td><code>.png</code></td>
+      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>
+    </tr>
+    <tr>
+      <td><a href="#svg_scalable_vector_graphics">SVG</a></td>
+      <td>Scalable Vector Graphics <strong>可缩放矢量图形</strong></td>
+      <td><code>image/svg+xml</code></td>
+      <td><code>.svg</code></td>
+      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>
+    </tr>
+    <tr>
+      <td><a href="#tiff_tagged_image_file_format">TIFF</a></td>
+      <td>Tagged Image File Format 标签图像文件格式</td>
+      <td><code>image/tiff</code></td>
+      <td><code>.tif</code>, <code>.tiff</code></td>
+      <td>Safari</td>
+    </tr>
+    <tr>
+      <td><a href="#webp_image">WebP</a></td>
+      <td>Web Picture format 万维网图像格式</td>
+      <td><code>image/webp</code></td>
+      <td><code>.webp</code></td>
+      <td>Chrome, Edge, Firefox, Opera, Safari</td>
+    </tr>
+  </tbody>
+</table>
+<p>每一种格式缩写都有一个详细说明，其功能以及详细的浏览器兼容信息，包括哪个版本引入支持以及以后可能会引入的特殊功能。</p></div><h2 id="图像文件格式详介"><a href="#图像文件格式详介" title="Permalink to 图像文件格式详介">图像文件格式详介</a></h2><div><p>The following sections provide a brief overview of each of the image file types supported by web browsers.</p>
+<p>In the tables below, the term <strong>bits per component</strong> refers to the number of bits used to represent each color component. For example, an RGB color depth of 8 indicates that each of the red, green, and blue components are represented by an 8-bit value. <strong>Bit depth</strong>, on the other hand, is the total number of bits used to represent each pixel in memory.</p></div><h3 id="apng_animated_portable_network_graphics"><a href="#apng_animated_portable_network_graphics" title="Permalink to APNG (Animated Portable Network Graphics)"></a><a id="APNG" name="APNG">APNG</a> (Animated Portable Network Graphics)</h3><div><p>APNG is a file format first introduced by Mozilla which extends the <a href="#png_portable_network_graphics">PNG</a> standard to add support for animated images. Conceptually similar to the animated GIF format which has been in use for decades, APNG is more capable in that it supports a variety of <a href="https://zh.wikipedia.org/wiki/color_depth" class="external" rel=" noopener">color depths</a>, whereas animated GIF supports only 8-bit <a href="https://zh.wikipedia.org/wiki/indexed_color" class="external" rel=" noopener">indexed color</a>.</p>
+<p>APNG is ideal for basic animations that do not need to synchronize to other activities or to a sound track, such as progress indicators, activity <a href="https://zh.wikipedia.org/wiki/throbber" class="external" rel=" noopener">throbbers</a>, and other animated sequences. For example, APNG is <a href="https://developer.apple.com/stickers/" class="external" rel=" noopener">one of the formats supported when creating animated stickers</a> for Apple's iMessage application (and the Messages application on iOS). They're also commonly used for the animated portions of web browsers' user interfaces.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td><code>image/apng</code></td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td><code>.apng</code></td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td><a href="https://wiki.mozilla.org/APNG_Specification" class="external" rel=" noopener">wiki.mozilla.org/APNG_Specification</a></td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>Chrome 59, Edge 12, Firefox 3, Opera 46, Safari 8</td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>2,147,483,647×2,147,483,647 pixels</td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        <table class="standard-table">
+          <thead>
+            <tr>
+              <th scope="row">颜色模式</th>
+              <th scope="col">Bits per component (<em>D</em>)</th>
+              <th scope="col">描述</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Greyscale</th>
+              <td>1, 2, 4, 8, and 16</td>
+              <td>
+                Each pixel consists of a single <em>D</em>-bit value indicating
+                the brightness of the greyscale pixel.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by three <em>D</em>-bit values
+                indicating the level of the red, green, and blue color
+                components.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Indexed color</th>
+              <td>1, 2, 4, and 8</td>
+              <td>
+                Each pixel is a <em>D</em>-bit value indicating an index into a
+                color palette which is contained within a
+                <code><a href="https://www.w3.org/TR/PNG/#11PLTE" class="external" rel=" noopener">PLTE</a></code>
+                chunk in the APNG file; the colors in the palette all use an
+                8-bit depth.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale with alpha</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by two <em>D</em>-bit values: the
+                intensity of the greyscale pixel and an alpha sample, indicating
+                how opaque the pixel is.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color with alpha</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is comprised of four <em>D</em>-pixel color
+                components: red, green, blue, and the alpha sample indicating
+                how opaque the pixel is.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>Lossless</td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>
+        Free and open under the
+        <a href="https://creativecommons.org/licenses/by-sa/3.0/" class="external" rel=" noopener">Creative Commons Attribution-ShareAlike license</a>
+        (<a href="https://creativecommons.org/licenses/by-sa/3.0/" class="external" rel=" noopener">CC-BY-SA</a>)
+        version 3.0 or later.
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="bmp_bitmap_file"><a href="#bmp_bitmap_file" title="Permalink to BMP (Bitmap file)"></a><a id="BMP" name="BMP">BMP</a> (Bitmap file)</h3><div><p>The <strong>BMP</strong> (<strong>Bitmap image</strong>) file type is most prevalent on Windows computers, and is generally used only for special cases in web apps and content.</p>
+<div class="notecard warning" id="sect1">
+  <p><strong>警告：</strong> You should typically avoid using BMP for web site content, as it's not a generally-accepted use of the format.</p>
+</div>
+<p>BMP theoretically supports a variety of internal data representations. The simplest, and most commonly used, form of BMP file is an uncompressed raster image, with each pixel occupying 3 bytes representing its red, green, and blue components, and each row padded with <code>0x00</code> bytes to a multiple of 4 bytes wide.</p>
+<p>While other data representations are defined in the specification, they are not widely used and often completely unimplemented. These features include: support for different bit depths, indexed color, alpha channels, and different pixel orders (by default, BMP is written from bottom-left corner toward the right and top, rather than from the top-left corner toward the right and bottom).</p>
+<p>Theoretically, several compression algorithms are supported, and the image data can also be stored in <a href="#jpeg_joint_photographic_experts_group_image">JPEG</a> or <a href="#png_portable_network_graphics">PNG</a> format within the BMP file.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td><code>image/bmp</code></td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td><code>.bmp</code></td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td>
+        No specification; however, Microsoft provides general documentation of
+        the format at
+        <a href="https://docs.microsoft.com/en-us/windows/desktop/gdi/bitmap-storage" class="external" rel=" noopener">docs.microsoft.com/en-us/windows/desktop/gdi/bitmap-storage</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>
+        All versions of Chrome, Edge, Firefox, Internet Explorer, Opera, and
+        Safari
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>
+        Either 32,767×32,767 or 2,147,483,647×2,147,483,647 pixels, depending on
+        the format version
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        <table class="standard-table">
+          <thead>
+            <tr>
+              <th scope="row">颜色模式</th>
+              <th scope="col">Bits per component (<em>D</em>)</th>
+              <th scope="col">描述</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Greyscale</th>
+              <td>1</td>
+              <td>
+                Each bit represents a single pixel, which can be either black or
+                white.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by three values representing the red,
+                green, and blue color components; each is <em>D</em> bits.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Indexed color</th>
+              <td>2, 4, and 8</td>
+              <td>
+                Each pixel is represented by a value which is one 2, 4, or 8
+                bits, serving as an index into the color table.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale with alpha</th>
+              <td><em>n/a</em></td>
+              <td>BMP has no distinct grayscale format.</td>
+            </tr>
+            <tr>
+              <th scope="row">True color with alpha</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by four values representing the red,
+                green, blue, and alpha color components; each is
+                <em>D</em> bits.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>
+        Several compression methods are supported, including lossy or lossless
+        algorithms
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>
+        Covered by the
+        <a href="https://docs.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/1c24c7c8-28b0-4ce1-a47d-95fe1ff504bc" class="external" rel=" noopener">Microsoft Open Specification Promise</a>; while Microsoft holds patents against BMP, they have published a
+        promise not to assert its patent rights as long as specific conditions
+        are met. This is not the same as a license, however. BMP is included
+        under the Windows Metafile Format (<code>.wmf</code>).
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="gif_graphics_interchange_format"><a href="#gif_graphics_interchange_format" title="Permalink to GIF (Graphics Interchange Format)"></a><a id="GIF" name="GIF">GIF</a> (Graphics Interchange Format)</h3><div><p>In 1987, the CompuServe online service provider introduced the <strong><a href="https://zh.wikipedia.org/wiki/GIF" class="external" rel=" noopener">GIF</a></strong> (<strong>Graphics Interchange Format</strong>) image file format to provide a compressed graphics format that all members of their service would be able to use. GIF uses the <a href="https://zh.wikipedia.org/wiki/Lempel-Ziv-Welch" class="external" rel=" noopener">Lempel-Ziv-Welch</a> (LZW) algorithm to losslessly compress 8-bit indexed color graphics. GIF was one of the first two graphics formats supported by <a href="/zh-CN/docs/Glossary/HTML">HTML</a>, along with <a href="#xbm_x_window_system_bitmap_file">XBM</a>.</p>
+<p>Each pixel in a GIF is represented by a single 8-bit value serving as an index into a palette of 24-bit colors (8 bits each of red, green, and blue). The length of a color table is always a power of 2 (that is, each palette has 2, 4, 8, 16, 32, 64, or 256 entries). To simulate more than 255 or 256 colors, <a href="https://zh.wikipedia.org/wiki/dithering" class="external" rel=" noopener">dithering</a> is generally used. It is <a href="https://gif.ski/" class="external" rel=" noopener">technically possible</a> to tile multiple image blocks, each with its own color palette, to create truecolor images, but in practice this is rarely done.</p>
+<p>Pixels are opaque, unless a specific color index is designated as transparent, in which case pixels colored that value are entirely transparent.</p>
+<p>GIF supports simple animation, in which following an initial full-size frame, a series of images reflecting the parts of the image that change with each frame are provided.</p>
+<p>GIF has been extremely popular for decades, due to its simplicity and compatibility. Its animation support caused a resurgence in its popularity in the social media era, when animated GIFs began to be widely used for short "videos", memes, and other simple animation sequences.</p>
+<p>Another popular feature of GIF is support for <a href="https://zh.wikipedia.org/wiki/Interlacing_(bitmaps)" class="external" rel=" noopener">interlacing</a>, where rows of pixels are stored out of order so that partially-received files can be displayed in lower quality. This is particularly useful when network connections are slow.</p>
+<p>GIF is a good choice for simple images and animations, although converting full color images to GIF can result in unsatisfactory dithering. Typically, modern content should use <a href="#png_portable_network_graphics">PNG</a> for lossless <em>and</em> indexed still images, and should consider using <a href="#apng_animated_portable_network_graphics">APNG</a> for lossless animation sequences.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td><code>image/gif</code></td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td><code>.gif</code></td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td><a href="https://www.w3.org/Graphics/GIF/spec-gif87.txt" class="external" rel=" noopener">GIF87a specification</a><br><a href="https://www.w3.org/Graphics/GIF/spec-gif89a.txt" class="external" rel=" noopener">GIF89a specification</a></td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>
+        All versions of Chrome, Edge, Firefox, Internet Explorer, Opera, and
+        Safari
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>65,536×65,536 pixels</td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        <table class="standard-table">
+          <thead>
+            <tr>
+              <th scope="row">颜色模式</th>
+              <th scope="col">Bits per component (<em>D</em>)</th>
+              <th scope="col">描述</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Greyscale</th>
+              <td><em>n/a</em></td>
+              <td>GIF does not include a dedicated greyscale format.</td>
+            </tr>
+            <tr>
+              <th scope="row">True color</th>
+              <td><em>n/a</em></td>
+              <td>GIF does not support true color pixels.</td>
+            </tr>
+            <tr>
+              <th scope="row">Indexed color</th>
+              <td>8</td>
+              <td>
+                Each color in a GIF palette is defined as 8 bits each of red,
+                green, and blue (24 total bits per pixel).
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale with alpha</th>
+              <td><em>n/a</em></td>
+              <td>GIF does not provide a dedicated greyscale format.</td>
+            </tr>
+            <tr>
+              <th scope="row">True color with alpha</th>
+              <td><em>n/a</em></td>
+              <td>GIF does not support true color pixels.</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>Lossless (LZW)</td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>
+        While the GIF format itself is open, the LZW compression algorithm was
+        covered by patents until the early 2000s. As of July 7, 2004, all
+        relevant patents have expired and the GIF format may be used freely
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="ico_microsoft_windows_icon"><a href="#ico_microsoft_windows_icon" title="Permalink to ICO (Microsoft Windows icon)"></a><a id="ICO" name="ICO">ICO</a> (Microsoft Windows icon)</h3><div><p>The ICO (Microsoft Windows icon) file format was designed by Microsoft for desktop icons of Windows systems. However, early versions of Internet Explorer introduced the ability for a web site to provide a ICO file named <code>favicon.ico</code> in a web site's root directory to specify a <strong><a href="/zh-CN/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_custom_icons_to_your_site">favicon</a></strong> — an icon to be displayed in the Favorites menu, and other places where an iconic representation of the site would be useful.</p>
+<p>An ICO file can contain multiple icons, and begins with a directory listing details about each. Following the directory comes the data for the icons. Each icon's data can be either a <a href="#bmp_bitmap_file">BMP</a> image without the file header, or a complete <a href="#png_portable_network_graphics">PNG</a> image (including the file header). If you use ICO files, you should use the BMP format, as support for PNG inside ICO files wasn't added until Windows Vista and may not be well supported.</p>
+<div class="notecard warning" id="sect2">
+  <p><strong>警告：</strong> ICO files <em>should not</em> be used in web content. Additionally, their use for favicons has subsided in favor of using a PNG file and the <a href="/zh-CN/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a> element, as described in <a href="/en-US/docs/Web/HTML/Element/link#providing_icons_for_different_usage_contexts">Providing icons for different usage contexts</a> in <a href="/en-US/docs/Web/HTML/Element/link">&lt;link&gt;: The External Resource Link element</a>.</p>
+</div>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td>
+        <code>image/vnd.microsoft.icon</code> (official),
+        <code>image/x-icon</code> (used by Microsoft)
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td><code>.ico</code></td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>
+        All versions of Chrome, Edge, Firefox, Internet Explorer, Opera, and
+        Safari
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>256×256 pixels</td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        <table class="standard-table">
+          <caption>Icons in BMP format</caption>
+          <tbody>
+            <tr>
+              <th scope="row">颜色模式</th>
+              <th scope="col">Bits per component (<em>D</em>)</th>
+              <th scope="col">描述</th>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale</th>
+              <td>1</td>
+              <td>
+                Each bit represents a single pixel, which can be either black or
+                white.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by three values representing the red,
+                green, and blue color components; each is <em>D</em> bits.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Indexed color</th>
+              <td>2, 4, and 8</td>
+              <td>
+                Each pixel is represented by a value which is one 2, 4, or 8
+                bits, serving as an index into the color table.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale with alpha</th>
+              <td><em>n/a</em></td>
+              <td>BMP has no distinct grayscale format.</td>
+            </tr>
+            <tr>
+              <th scope="row">True color with alpha</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by four values representing the red,
+                green, blue, and alpha color components; each is
+                <em>D</em> bits.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="standard-table">
+          <caption>Icons in PNG format</caption>
+          <tbody>
+            <tr>
+              <th scope="row">颜色模式</th>
+              <th scope="col">Bits per component (<em>D</em>)</th>
+              <th scope="col">描述</th>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale</th>
+              <td>1, 2, 4, 8, and 16</td>
+              <td>
+                Each pixel consists of a single <em>D</em>-bit value indicating
+                the brightness of the greyscale pixel.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by three <em>D</em>-bit values
+                indicating the level of the red, green, and blue color
+                components.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Indexed color</th>
+              <td>1, 2, 4, and 8</td>
+              <td>
+                Each pixel is a <em>D</em>-bit value indicating an index into a
+                color palette which is contained within a
+                <code><a href="https://www.w3.org/TR/PNG/#11PLTE" class="external" rel=" noopener">PLTE</a></code>
+                chunk in the APNG file; the colors in the palette all use an
+                8-bit depth.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale with alpha</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by two <em>D</em>-bit values: the
+                intensity of the greyscale pixel and an alpha sample, indicating
+                how opaque the pixel is.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color with alpha</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is comprised of four <em>D</em>-pixel color
+                components: red, green, blue, and the alpha sample indicating
+                how opaque the pixel is.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>
+        BMP-format icons nearly always use lossless compression, but lossy
+        methods are available. PNG icons are always compressed losslessly.
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="jpeg_joint_photographic_experts_group_image"><a href="#jpeg_joint_photographic_experts_group_image" title="Permalink to JPEG (Joint Photographic Experts Group image)"></a><a id="JPEG" name="JPEG">JPEG</a> (Joint Photographic Experts Group image)</h3><div><p>The <a href="/zh-CN/docs/Glossary/jpeg">JPEG</a> (typically pronounced "<strong>jay-peg</strong>") image format is currently the most widely used lossy compression format for still images. It's particulary useful for photographs; applying lossy compression to content requiring sharpness, like diagrams or charts, can produce unsatisfactory results.</p>
+<p>JPEG is actually a data format for compressed photos, rather than a file type. The JFIF (<strong>J</strong>PEG <strong>F</strong>ile <strong>I</strong>nterchange <strong>F</strong>ormat) specification describes the format of the files we think of as "JPEG" images.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td><code>image/jpeg</code></td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td>
+        <code>.jpg</code>, <code>.jpeg</code>, <code>.jpe</code>,
+        <code>.jif</code>, <code>.jfif</code>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td><a href="https://jpeg.org/jpeg/" class="external" rel=" noopener">jpeg.org/jpeg/</a></td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>
+        All versions of Chrome, Edge, Firefox, Internet Explorer, Opera, and
+        Safari
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>65,535×65,535 pixels</td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        <table class="standard-table">
+          <thead>
+            <tr>
+              <th scope="row">颜色模式</th>
+              <th scope="col">Bits per component (<em>D</em>)</th>
+              <th scope="col">描述</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Greyscale</th>
+              <td><em>n/a</em></td>
+              <td>JPEG has no distinct greyscale mode.</td>
+            </tr>
+            <tr>
+              <th scope="row">True color</th>
+              <td>8</td>
+              <td>
+                Each pixel is described by the red, blue, and green color
+                components, each of which is 8 bits.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Indexed color</th>
+              <td><em>n/a</em></td>
+              <td>JPEG does not offer an indexed color mode.</td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale with alpha</th>
+              <td><em>n/a</em></td>
+              <td>JPEG does not support an alpha channel.</td>
+            </tr>
+            <tr>
+              <th scope="row">True color with alpha</th>
+              <td><em>n/a</em></td>
+              <td>JPEG does not support an alpha channel.</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>
+        Lossy; based on the
+        <a href="https://zh.wikipedia.org/wiki/discrete_cosine_transform" class="external" rel=" noopener">discrete cosine transform</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>As of October 27, 2006, all United States patents have expired.</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="png_portable_network_graphics"><a href="#png_portable_network_graphics" title="Permalink to PNG (Portable Network Graphics)"></a><a id="PNG" name="PNG">PNG</a> (Portable Network Graphics)</h3><div><p>The <a href="/zh-CN/docs/Glossary/PNG">PNG</a> (pronounced "<strong>ping</strong>") image format uses lossless or lossy compression to provide more efficient compression, and supports higher color depths than <a href="#gif_graphics_interchange_format">GIF</a>, as well as full alpha transparency support.</p>
+<p>PNG is widely supported, with all major browsers offering full support for its features. Internet Explorer, which introduced PNG support in versions 4–5, did not fully support it until IE 9, and had many infamous bugs for many of the intervening years, including in the once-omnipresent Internet Explorer 6. This slowed PNG adoption, but it is now commonly used, especially when precise reproduction of the source image is needed.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td><code>image/png</code></td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td><code>.png</code></td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td><a href="https://www.w3.org/TR/PNG" class="external" rel=" noopener">w3.org/TR/PNG</a></td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>
+        <table class="standard-table">
+          <thead>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Basic support</th>
+              <td>1</td>
+              <td>12</td>
+              <td>1</td>
+              <td>5</td>
+              <td>3.5.1 (Presto)<br>15 (Blink)</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <th scope="row">Alpha channel</th>
+              <td>1</td>
+              <td>12</td>
+              <td>1</td>
+              <td>5</td>
+              <td>6 (Presto)<br>All (Blink)</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <th scope="row">Gamma correction</th>
+              <td>no</td>
+              <td>yes</td>
+              <td>1</td>
+              <td>8</td>
+              <td>1</td>
+              <td>broken</td>
+            </tr>
+            <tr>
+              <th scope="row">Color correction</th>
+              <td>no</td>
+              <td>yes</td>
+              <td>3</td>
+              <td>9</td>
+              <td>no</td>
+              <td>no</td>
+            </tr>
+            <tr>
+              <th scope="row">Interlacing</th>
+              <td>no</td>
+              <td>?</td>
+              <td>1</td>
+              <td>broken</td>
+              <td>3.5.1</td>
+              <td>no</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>2,147,483,647×2,147,483,647 pixels</td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        <table class="standard-table">
+          <thead>
+            <tr>
+              <th scope="row">颜色模式</th>
+              <th scope="col">Bits per component (<em>D</em>)</th>
+              <th scope="col">描述</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Greyscale</th>
+              <td>1, 2, 4, 8, and 16</td>
+              <td>
+                Each pixel consists of a single <em>D</em>-bit value indicating
+                the brightness of the greyscale pixel.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by three <em>D</em>-bit values
+                indicating the level of the red, green, and blue color
+                components.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Indexed color</th>
+              <td>1, 2, 4, and 8</td>
+              <td>
+                Each pixel is a <em>D</em>-bit value indicating an index into a
+                color palette which is contained within a
+                <code><a href="https://www.w3.org/TR/PNG/#11PLTE" class="external" rel=" noopener">PLTE</a></code>
+                chunk in the APNG file; the colors in the palette all use an
+                8-bit depth.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale with alpha</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is represented by two <em>D</em>-bit values: the
+                intensity of the greyscale pixel and an alpha sample, indicating
+                how opaque the pixel is.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color with alpha</th>
+              <td>8 and 16</td>
+              <td>
+                Each pixel is comprised of four <em>D</em>-pixel color
+                components: red, green, blue, and the alpha sample indicating
+                how opaque the pixel is.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>Lossless, optionally indexed color like GIF</td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>
+        ©2003 <a href="https://www.w3.org/" class="external" rel=" noopener">W3C</a><sup>®</sup> (<a href="http://www.lcs.mit.edu/" class="external" rel=" noopener">MIT</a>, <a href="http://www.ercim.org/" class="external" rel=" noopener">ERCIM</a>,
+        <a href="https://www.keio.ac.jp/" class="external" rel=" noopener">Keio</a>), All Rights Reserved. W3C
+        <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer" class="external" rel=" noopener">liability</a>,
+        <a href="https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks" class="external" rel=" noopener">trademark</a>,
+        <a href="https://www.w3.org/Consortium/Legal/copyright-documents" class="external" rel=" noopener">document use</a>
+        and
+        <a href="https://www.w3.org/Consortium/Legal/copyright-software" class="external" rel=" noopener">software licensing</a>
+        rules apply. No known royalty-bearing patents.
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="svg_scalable_vector_graphics"><a href="#svg_scalable_vector_graphics" title="Permalink to SVG (Scalable Vector Graphics)"></a><a id="SVG" name="SVG">SVG</a> (Scalable Vector Graphics)</h3><div><p>SVG is an <a href="/zh-CN/docs/Glossary/XML">XML</a>-based <a href="https://zh.wikipedia.org/wiki/vector_graphics" class="external" rel=" noopener">vector graphics</a> format that specifies the contents of an image as a set of drawing commands that create shapes, lines, apply colors, filters, and so forth. SVG files are ideal for diagrams, icons, and other images which can be accurately drawn at any size. As such, SVG is popular for user interface elements in modern Web design.</p>
+<p>SVG files are text files containing source code that, when interpreted, draws the desired image. For instance, this example defines an drawing area with initial size 100 by 100 units, containing a line drawn diagonally through the box:</p>
+<div class="code-example"><pre class="brush: html notranslate"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>svg</span> <span class="token attr-name">viewBox</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0 0 100 100<span class="token punctuation">"</span></span> <span class="token attr-name">xmlns</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>http://www.w3.org/2000/svg<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>line</span> <span class="token attr-name">x1</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">y1</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>80<span class="token punctuation">"</span></span> <span class="token attr-name">x2</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>100<span class="token punctuation">"</span></span> <span class="token attr-name">y2</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>20<span class="token punctuation">"</span></span> <span class="token attr-name">stroke</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>black<span class="token punctuation">"</span></span> <span class="token punctuation">/&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>svg</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div>
+<p>SVG can be used in web content in two ways:</p>
+<ol>
+  <li>You can directly write the <a class="page-not-created" title="此文档尚未被撰写，期待你的贡献!"><code>&lt;svg&gt;</code></a> element within the HTML, containing <a href="/zh-CN/docs/Web/SVG/Element">SVG elements</a> to draw the image.</li>
+  <li>You can display an SVG image anywhere you can use any of the other image types, including with the <a href="/zh-CN/docs/Web/HTML/Element/img"><code>&lt;img&gt;</code></a> and <a href="/zh-CN/docs/Web/HTML/Element/picture"><code>&lt;picture&gt;</code></a> elements, the <a href="/zh-CN/docs/Web/CSS/background-image"><code>background-image</code></a> CSS property, and so forth.</li>
+</ol>
+<p>SVG is an ideal choice for images which can be represented using a series of drawing commands, especially if the size at which the image will be rendered is unknown or may vary, since SVG will smoothly scale to the desired size. It's not generally useful for strictly bitmap or photographic images, although it is possible to include bitmap images within an SVG.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td><code>image/svg+xml</code></td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td><code>.svg</code></td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td><a href="https://www.w3.org/TR/SVG2" class="external" rel=" noopener">w3.org/TR/SVG2</a></td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>
+        <table class="standard-table">
+          <thead>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">SVG support</th>
+              <td>4</td>
+              <td>12</td>
+              <td>3</td>
+              <td>9</td>
+              <td>10 (Presto)<br>15 (Blink)</td>
+              <td>3.2</td>
+            </tr>
+            <tr>
+              <th scope="row">SVG as image (<a href="/zh-CN/docs/Web/HTML/Element/img"><code>&lt;img&gt;</code></a> etc)</th>
+              <td>28</td>
+              <td>12</td>
+              <td>4</td>
+              <td>9</td>
+              <td>10 (Presto)<br>15 (Blink)</td>
+              <td>9</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>无限制</td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        Colors in SVG are specified using
+        <a href="/zh-CN/docs/Web/CSS/color_value">CSS color syntax</a>.
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>
+        SVG source may be compressed during transit using
+        <a href="/zh-CN/docs/Web/HTTP/Compression">HTTP compression</a>
+        techniques, or on disk as an <code>.svgz</code> file.
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>
+        ©2018 <a href="https://www.w3.org/" class="external" rel=" noopener">W3C</a><sup>®</sup> (<a href="http://www.lcs.mit.edu/" class="external" rel=" noopener">MIT</a>, <a href="http://www.ercim.org/" class="external" rel=" noopener">ERCIM</a>,
+        <a href="https://www.keio.ac.jp/" class="external" rel=" noopener">Keio</a>,
+        <a href="https://ev.buaa.edu.cn/" class="external" rel=" noopener">Beihang</a>), All Rights Reserved. W3C
+        <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer" class="external" rel=" noopener">liability</a>,
+        <a href="https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks" class="external" rel=" noopener">trademark</a>,
+        <a href="https://www.w3.org/Consortium/Legal/copyright-documents" class="external" rel=" noopener">document use</a>
+        and
+        <a href="https://www.w3.org/Consortium/Legal/copyright-software" class="external" rel=" noopener">software licensing</a>
+        rules apply. No known royalty-bearing patents.
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="tiff_tagged_image_file_format"><a href="#tiff_tagged_image_file_format" title="Permalink to TIFF (Tagged Image File Format)"></a><a id="TIFF" name="TIFF">TIFF</a> (Tagged Image File Format)</h3><div><p><a href="https://zh.wikipedia.org/wiki/TIFF" class="external" rel=" noopener">TIFF</a> is a raster graphics file format which was created to store scanned photos, although it can be any kind of image. It is a somewhat "heavy" format, in that TIFF files have a tendency to be larger than images in other formats. This is because of the metadata often included, as well as the fact that most TIFF images are either uncompressed or use compression algorithms that still leave fairly large files after compression.</p>
+<p>TIFF supports a variety of compression methods, but the most commonly used are the CCITT Group 4 (and, for older fax systems, Group 3) compression systems used for by fax software, as well as LZW and lossy JPEG compression.</p>
+<p>Every value in a TIFF file is specified using its <strong>tag</strong> (indicating what kind of information it is, such as the width of the image) and its <strong>type</strong> (indicating the format the data is stored in), followed by the length of the array of values to assign to that tag (all properties are stored in arrays, even for single values). This allows different data types to be used for the same properties. For example, the width of an image, <code>ImageWidth</code>, is stored using tag <code>0x0100</code>, and is a one-entry array. By specifying type 3 (<code>SHORT</code>), the value of <code>ImageWidth</code> is stored as a 16-bit value:</p>
+<table>
+  <thead>
+    <tr>
+      <th>Tag</th>
+      <th>Type</th>
+      <th>Size</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>0x0100</code> (<code>ImageWidth</code>)</td>
+      <td><code>0x0003</code> (<code>SHORT</code>)</td>
+      <td><code>0x00000001</code> (1 entry)</td>
+      <td><code>0x0280</code> (640 pixels)</td>
+    </tr>
+  </tbody>
+</table>
+<p>Specifying type 4 (<code>LONG</code>) stores the width as a 32-bit value:</p>
+<table>
+  <thead>
+    <tr>
+      <th>Tag</th>
+      <th>Type</th>
+      <th>Size</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>0x0100</code> (<code>ImageWidth</code>)</td>
+      <td><code>0x0004</code> (<code>LONG</code>)</td>
+      <td><code>0x00000001</code> (1 entry)</td>
+      <td><code>0x00000280</code> (640 pixels)</td>
+    </tr>
+  </tbody>
+</table>
+<p>A single TIFF file can contain multiple images; this may be used to represent multi-page documents, for example (such as a multi-page scanned document, or a received fax). However, software reading TIFF files is only required to support the first image.</p>
+<p>TIFF supports a variety of color spaces, not just RGB. These include CMYK, YCbCr, and others, making TIFF a good choice for storing images intended for print, film, or television media.</p>
+<p>Long ago, some browsers supported TIFF images in web content; today, however, you need to use special libraries or browser add-ons to do so. As such, TIFF files are not useful within the context of web content, <em>but</em> it's common to provide downloadable TIFF files when distributing photos and other artwork intended for precision editing or printing.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td><code>image/tiff</code></td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td><code>.tif</code>, <code>.tiff</code></td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td><a href="https://www.adobe.io/open/standards/TIFF.html" class="external" rel=" noopener">adobe.io/open/standards/TIFF.html</a></td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>
+        No browsers integrate support for TIFF; its value is as a download
+        format
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>4,294,967,295×4,294,967,295 pixels (theoretical)</td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">颜色模式</th>
+              <th scope="col">Bits per component (<em>D</em>)</th>
+              <th scope="col">描述</th>
+            </tr>
+            <tr>
+              <th scope="row">Bilevel</th>
+              <td>1</td>
+              <td>
+                A bilevel TIFF stores 8 bits in each byte, one bit per pixel.
+                The <code>PhotometricInterpretation</code> field specifies which
+                of 0 and 1 are black and which is white.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale</th>
+              <td>4 and 8</td>
+              <td>
+                Each pixel consists of a single <em>D</em>-bit value indicating
+                the brightness of the greyscale pixel.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color</th>
+              <td>8</td>
+              <td>
+                All true color RGB images are stored using 8-bits each of red,
+                green, and blue.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Indexed color</th>
+              <td>4 and 8</td>
+              <td>
+                Each pixel is an index into a <code>ColorMap</code> record,
+                which defines the colors used in the image. The color map lists
+                all of the red values, then all of the green values, then all of
+                the blue values (rather than <code>rgb, rgb, rgb...</code>).
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale with alpha</th>
+              <td>4 and 8</td>
+              <td>
+                Alpha information is added by specifying that there are more
+                than 3 samples per pixel in the
+                <code>SamplesPerPixel</code> field, and indicating the type of
+                alpha (1 for an associated, pre-multiplied alpha component, and
+                2 for unassociated alpha (a separate matte); however, alpha
+                channels are rarely used in TIFF files and may be unsupported by
+                the user's software.
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">True color with alpha</th>
+              <td>8</td>
+              <td>
+                Alpha information is added by specifying that there are more
+                than 3 samples per pixel in the
+                <code>SamplesPerPixel</code> field, and indicating the type of
+                alpha (1 for an associated, pre-multiplied alpha component, and
+                2 for unassociated alpha (a separate matte); however, alpha
+                channels are rarely used in TIFF files and may be unsupported by
+                the user's software.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>
+        Most TIFF files are uncompressed, but lossless PackBits and LZW
+        compression are supported, as is lossy JPEG compression.
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>
+        No license required (aside from any associated with libraries you might
+        use); all known patents have expired.
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="webp_image"><a href="#webp_image" title="Permalink to WebP image"></a><a id="WebP" name="WebP">WebP image</a></h3><div><p>WebP supports lossy compression via predictive coding based on the VP8 video codec, and lossless compression that uses substitutions for repeating data. Lossy WebP images average 25–35% smaller than JPEG images of visually similar compression levels. Lossless WebP images are typically 26% smaller than the same images in PNG format.</p>
+<p>WebP also supports animation: in a lossy WebP file, the image data is represented by a VP8 bitstream, which may contain multiple frames. Lossless WebP holds the <code>ANIM</code> chunk, which describes the animation, and the <code>ANMF</code> chunk, which represents a frame of an animation sequence. Looping is supported.</p>
+<p>WebP now has broad support in the latest versions of major web browsers, although it does not have deep historical support. Provide a fallback in either <a href="#jpeg_joint_photographic_experts_group_image">JPEG</a> or <a href="#png_portable_network_graphics">PNG</a> format, such as with <a href="/zh-CN/docs/Web/HTML/Element/picture">the <code>&lt;picture&gt;</code> element</a>.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td><code>image/webp</code></td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td><code>.webp</code></td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td>
+        <p>
+          <a href="https://developers.google.com/speed/webp/docs/riff_container" class="external" rel=" noopener">RIFF Container Specification</a><br><a href="https://datatracker.ietf.org/doc/html/rfc6386" class="external" rel=" noopener">RFC 6386: VP8 Data Format and Decoding Guide</a>
+          (lossy encoding)<br><a href="https://developers.google.com/speed/webp/docs/webp_lossless_bitstream_specification" class="external" rel=" noopener">WebP Lossless Bitstream Specification</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">Lossy WebP support</th>
+              <td>17</td>
+              <td>18</td>
+              <td>65</td>
+              <td>no</td>
+              <td>11.10 (Presto)<br>15 (Blink)</td>
+              <td>no</td>
+            </tr>
+            <tr>
+              <th scope="row">Lossless WebP</th>
+              <td>23<br>25 on Android</td>
+              <td>18</td>
+              <td>65</td>
+              <td>no</td>
+              <td>12.10 (Presto)<br>15 (Blink)</td>
+              <td>no</td>
+            </tr>
+            <tr>
+              <th scope="row">动画</th>
+              <td>32</td>
+              <td>18</td>
+              <td>65</td>
+              <td>no</td>
+              <td>19 (Blink)</td>
+              <td>no</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>16,383×16,383 pixels</td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        Lossy WebP stores the image in 8-bit Y'CbCr 4:2:0 (YUV420) format.
+        Lossless WebP uses 8-bit ARGB color, with each component taking 8 bits
+        for a total of 32 bits per pixel.
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>Lossless (Huffman, LZ77, or color cache codes) or lossy (VP8).</td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>No license required; source code is openly available.</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="xbm_x_window_system_bitmap_file"><a href="#xbm_x_window_system_bitmap_file" title="Permalink to XBM (X Window System Bitmap file)"></a><a id="XBM" name="XBM">XBM</a> (X Window System Bitmap file)</h3><div><p>XBM (X Bitmap) files were the first to be supported on the Web, but are no longer used and should be avoided, as their format has potential security concerns. Modern browsers have not supported XBM files in many years, but when dealing with older content, you may find some still around.</p>
+<p>XBM uses a snippet of C code to represent the contents of the image as an array of bytes. Each image consists of 2 to 4 <code>#define</code> directives, providing the width and height of the bitmap (and optionally the hotspot, if the image is designed as a cursor), followed by an array of <code>unsigned char</code>, where each value contains 8 1-bit monochrome pixels.</p>
+<p>The image must be a multiple of 8 pixels wide. For example, the following code represents an XBM image which is 8 pixels by 8 pixels, with those pixels in a black-and-white checkerboard pattern:</p>
+<div class="code-example"><pre class="brush: cpp notranslate"><code><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">define</span> <span class="token macro-name">square8_width</span> <span class="token expression"><span class="token number">8</span></span></span>
+<span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">define</span> <span class="token macro-name">square8_height</span> <span class="token expression"><span class="token number">8</span></span></span>
+<span class="token keyword">static</span> <span class="token keyword">unsigned</span> <span class="token keyword">char</span> square8_bits<span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token punctuation">{</span>
+  <span class="token number">0xAA</span><span class="token punctuation">,</span> <span class="token number">0x55</span><span class="token punctuation">,</span> <span class="token number">0xAA</span><span class="token punctuation">,</span> <span class="token number">0x55</span><span class="token punctuation">,</span> <span class="token number">0xAA</span><span class="token punctuation">,</span> <span class="token number">0x55</span><span class="token punctuation">,</span> <span class="token number">0xAA</span><span class="token punctuation">,</span> <span class="token number">0x55</span>
+<span class="token punctuation">}</span><span class="token punctuation">;</span>
+</code></pre></div>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">MIME 类型</th>
+      <td><code>image/xbm</code>, <code>image-xbitmap</code></td>
+    </tr>
+    <tr>
+      <th scope="row">文件拓展名</th>
+      <td><code>.xbm</code></td>
+    </tr>
+    <tr>
+      <th scope="row">规范</th>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th scope="row">浏览器兼容性</th>
+      <td>Firefox 1–3.5, Internet Explorer 1–5</td>
+    </tr>
+    <tr>
+      <th scope="row">最高分辨率</th>
+      <td>无限制</td>
+    </tr>
+    <tr>
+      <th scope="row">支持的颜色模式</th>
+      <td>
+        <table class="standard-table">
+          <thead>
+            <tr>
+              <th scope="row">颜色模式</th>
+              <th scope="col">Bits per component</th>
+              <th scope="col">描述</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Greyscale</th>
+              <td>1</td>
+              <td>Each byte contains eight 1-bit pixels.</td>
+            </tr>
+            <tr>
+              <th scope="row">True color</th>
+              <td><em>n/a</em></td>
+              <td><em>n/a</em></td>
+            </tr>
+            <tr>
+              <th scope="row">Indexed color</th>
+              <td><em>n/a</em></td>
+              <td><em>n/a</em></td>
+            </tr>
+            <tr>
+              <th scope="row">Greyscale with alpha</th>
+              <td><em>n/a</em></td>
+              <td><em>n/a</em></td>
+            </tr>
+            <tr>
+              <th scope="row">True color with alpha</th>
+              <td><em>n/a</em></td>
+              <td><em>n/a</em></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">压缩</th>
+      <td>Lossless</td>
+    </tr>
+    <tr>
+      <th scope="row">授权</th>
+      <td>Open source</td>
+    </tr>
+  </tbody>
+</table></div><h2 id="选择合适的图像格式"><a href="#选择合适的图像格式" title="Permalink to 选择合适的图像格式">选择合适的图像格式</a></h2><div><p>Picking the best image format for your needs is likely easier than video formats, as there are fewer options with broad support, and each tends to have a specific set of use-cases.</p></div><h3 id="photographs"><a href="#photographs" title="Permalink to Photographs">Photographs</a></h3><div><p>Photographs typically fare well with lossy compression (depending on the encoder's configuration). This makes <a href="#jpeg_joint_photographic_experts_group_image">JPEG</a> and <a href="#webp_image">WebP</a> good choices for photographs, with JPEG being more compatible but WebP perhaps offering better compression. To maximize quality and minimize download time, consider providing both <a href="#%E6%8F%90%E4%BE%9B%E5%90%8E%E5%A4%87%E5%9B%BE%E5%83%8F">using a fallback</a> with WebP as the first choice and JPEG as the second. Otherwise, JPEG is the safe choice for compatibility.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Best choice</th>
+      <th>Fallback</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>WebP or JPEG</td>
+      <td>JPEG</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="icons"><a href="#icons" title="Permalink to Icons">Icons</a></h3><div><p>For smaller images such as icons, use a lossless format to avoid loss of detail in a size-constrained image. While lossless WebP is ideal for this purpose, support is not widespread yet, so PNG is a better choice unless you offer a <a href="#%E6%8F%90%E4%BE%9B%E5%90%8E%E5%A4%87%E5%9B%BE%E5%83%8F">fallback</a>. If your image contains fewer than 256 colors, GIF is an option, although PNG often compresses even smaller with its indexed compression option (PNG-8).</p>
+<p>If the icon can be represented using vector graphics, consider <a href="#svg_scalable_vector_graphics">SVG</a>, since it scales across various resolutions and sizes, so it's perfect for responsive design. Although SVG support is good, it may be worth offering a PNG fallback for older browsers.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Best choice</th>
+      <th>Fallback</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SVG, Lossless WebP, or PNG</td>
+      <td>PNG</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="screenshots"><a href="#screenshots" title="Permalink to Screenshots">Screenshots</a></h3><div><p>Unless you're willing to compromise on quality, you should use a lossless format for screenshots. This is particularly important if there's any text in your screenshot, as text easily becomes fuzzy and unclear under lossy compression.</p>
+<p>PNG is probably your best bet, but lossless WebP is arguably going to be better compressed.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Best choice</th>
+      <th>Fallback</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lossless WebP or PNG; JPEG if compression artifacts aren't a concern</td>
+      <td>PNG or JPEG; GIF for screenshots with low color counts</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="diagrams_drawings_and_charts"><a href="#diagrams_drawings_and_charts" title="Permalink to Diagrams, drawings, and charts">Diagrams, drawings, and charts</a></h3><div><p>For any image that can be represented using vector graphics, SVG is the best choice. Otherwise, you should use a lossless format like PNG. If you do choose a lossy format, such as JPEG or lossy WebP, carefully weigh the compression level to avoid causing text or other shapes to become fuzzy or unclear.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Best choice</th>
+      <th>Fallback</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#svg_scalable_vector_graphics">SVG</a></td>
+      <td><a href="#png_portable_network_graphics">PNG</a></td>
+    </tr>
+  </tbody>
+</table></div><h2 id="提供后备图像"><a href="#提供后备图像" title="Permalink to 提供后备图像">提供后备图像</a></h2><div><p>While the standard HTML <a href="/zh-CN/docs/Web/HTML/Element/img"><code>&lt;img&gt;</code></a> element doesn't support compatibility fallbacks for images, the <a href="/zh-CN/docs/Web/HTML/Element/picture"><code>&lt;picture&gt;</code></a> element does. <code>&lt;picture&gt;</code> is used as a wrapper for a number of <a href="/zh-CN/docs/Web/HTML/Element/source"><code>&lt;source&gt;</code></a> elements, each specifying a version of the image in a different format or under different <a href="/zh-CN/docs/Web/CSS/@media">media conditions</a>, as well as an <code>&lt;img&gt;</code> element which defines where to display the image and the fallback to the default or "most compatible" version.</p>
+<p>For example, if you're displaying a diagram best displayed with SVG, but wish to offer a fallback to a PNG or GIF of the diagram, you would do something like this:</p>
+<div class="code-example"><pre class="brush: html notranslate"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>picture</span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>source</span> <span class="token attr-name">srcset</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>diagram.svg<span class="token punctuation">"</span></span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>image/svg+xml<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>source</span> <span class="token attr-name">srcset</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>diagram.png<span class="token punctuation">"</span></span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>image/png<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>diagram.gif<span class="token punctuation">"</span></span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>620<span class="token punctuation">"</span></span> <span class="token attr-name">height</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>540<span class="token punctuation">"</span></span>
+       <span class="token attr-name">alt</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Diagram showing the data channels<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>picture</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div>
+<p>You can specify as many <code>&lt;source&gt;</code>s as you wish, though typically 2 or 3 is all you need.</p></div><h2 id="参见"><a href="#参见" title="Permalink to 参见">参见</a></h2><div><ul>
+  <li><a href="/zh-CN/docs/Web/Media/Formats">Guide to media types and formats</a></li>
+  <li><a href="/zh-CN/docs/Web/Media">Web media technologies</a></li>
+  <li><a href="/zh-CN/docs/Web/Media/Formats/Video_codecs">Guide to video codecs used on the web</a></li>
+  <li>The <a href="/zh-CN/docs/Glossary/HTML">HTML</a> <a href="/zh-CN/docs/Web/HTML/Element/img"><code>&lt;img&gt;</code></a> and <a href="/zh-CN/docs/Web/HTML/Element/picture"><code>&lt;picture&gt;</code></a> elements</li>
+  <li>The CSS <a href="/zh-CN/docs/Web/CSS/background-image"><code>background-image</code></a> property</li>
+  <li>The <a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/HTMLImageElement/Image"><code>Image()</code> <small>(en-US)</small></a> constructor and the <a href="/zh-CN/docs/Web/API/HTMLImageElement"><code>HTMLImageElement</code></a> interface</li>
+</ul></div></article><aside class="metadata"><div class="metadata-content-container"><div id="on-github" class="on-github"><h3>Found a problem with this page?</h3><ul><li><a href="https://github.com/mdn/translated-content/edit/main/files/zh-cn/web/media/formats/image_types/index.md" title="You're going to need to sign in to GitHub first (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Edit on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/translated-content/blob/main/files/zh-cn/web/media/formats/image_types/index.md" title="Folder: zh-cn/web/media/formats/image_types (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Source on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/translated-content/issues/new?body=MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fzh-CN%2Fdocs%2FWeb%2FMedia%2FFormats%2FImage_types%0A%0A%23%23%23%23+What+information+was+incorrect%2C+unhelpful%2C+or+incomplete%3F%0A%0A%0A%23%23%23%23+Specific+section+or+headline%3F%0A%0A%0A%23%23%23%23+What+did+you+expect+to+see%3F%0A%0A%0A%23%23%23%23+Did+you+test+this%3F+If+so%2C+how%3F%0A%0A%0A%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+Content+page+report+details%3C%2Fsummary%3E%0A%0A*+Folder%3A+%60zh-cn%2Fweb%2Fmedia%2Fformats%2Fimage_types%60%0A*+MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fzh-CN%2Fdocs%2FWeb%2FMedia%2FFormats%2FImage_types%0A*+GitHub+URL%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Ftranslated-content%2Fblob%2Fmain%2Ffiles%2Fzh-cn%2Fweb%2Fmedia%2Fformats%2Fimage_types%2Findex.md%0A*+Last+commit%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Ftranslated-content%2Fcommit%2F921c46a374ab0a9f4cc809af0370f8c412e54701%0A*+Document+last+modified%3A+2022-10-01T03%3A41%3A16.000Z%0A%0A%3C%2Fdetails%3E&amp;title=Issue+with+%22%E5%9B%BE%E5%83%8F%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B%E4%B8%8E%E6%A0%BC%E5%BC%8F%E6%8C%87%E5%8D%97%22%3A+%28short+summary+here+please%29&amp;labels=needs-triage%2Cl10n-zh" title="This will take you to https://github.com/mdn/content to file a new issue" target="_blank" rel="noopener noreferrer">Report a problem with this content on <b>GitHub</b></a></li><li>Want to fix the problem yourself? See<!-- --> <a href="https://github.com/mdn/content/blob/main/README.md" target="_blank" rel="noopener noreferrer">our Contribution guide</a>.</li></ul></div><p class="last-modified-date"><b>Last modified:</b> <time datetime="2022-10-01T03:41:16.000Z">Oct 1, 2022</time>,<!-- --> <a href="/zh-CN/docs/Web/Media/Formats/Image_types/contributors.txt">by MDN contributors</a></p><form class="language-menu"><fieldset id="select-language"><legend>Change your language</legend><label for="language-selector" class="visually-hidden">Select your preferred language</label> <select id="language-selector" name="language"><option selected="" value="zh-CN">中文 (简体)</option><option value="en-US">English (US)</option><option value="fr">Français</option><option value="ja">日本語</option></select> <button type="submit" class="button minimal">Change language</button></fieldset></form></div></aside></main><nav id="sidebar-quicklinks" class="sidebar"><h4>Related Topics</h4><div>
+<ol><li><a href="/zh-CN/docs/Web/Media/Autoplay_guide">Autoplay guide for media and Web Audio APIs</a></li><li><a href="/zh-CN/docs/Web/Media/Formats">Guide to media types and formats on the web</a><ol><li><a href="/zh-CN/docs/Web/Media/Formats">Guide to media types and formats on the web</a></li><li><a href="/zh-CN/docs/Web/Media/Formats/Containers">Media container formats (file types)</a></li><li><a href="/zh-CN/docs/Web/Media/Formats/Image_types">图像文件类型与格式指南</a></li><li><a href="/zh-CN/docs/Web/Media/Formats/Video_codecs">网页视频编码指南</a></li></ol></li><li><a href="/zh-CN/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video">为 HTML 5 视频提供的 DASH 自适应串流</a></li></ol>
+</div></nav></div><footer id="nav-footer" class="page-footer"><div class="content-container"><div class="page-footer-logo"><a href="/zh-CN/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135" fill="#fff"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a></div><ul class="link-list-mdn"><li><a href="/zh-CN/docs/Web">Web Technologies</a></li><li><a href="/zh-CN/docs/Learn">Learn Web Development</a></li><li><a href="/zh-CN/docs/MDN/About">About MDN</a></li><li><a href="/zh-CN/docs/MDN/Feedback">Feedback</a></li></ul><ul class="link-list-moz"><li><a href="https://www.mozilla.org/about/" target="_blank" rel="noopener noreferrer">About</a></li><li><a href="https://shop.spreadshirt.com/mdn-store/" target="_blank" rel="noopener noreferrer">MDN Web Docs Store</a></li><li><a href="https://www.mozilla.org/contact/" target="_blank" rel="noopener noreferrer">Contact Us</a></li><li><a href="https://www.mozilla.org/firefox/?utm_source=developer.mozilla.org&amp;utm_campaign=footer&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Firefox</a></li></ul><div class="social social-mdn"><h4>MDN</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozdevnet" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Twitter</span></a></li><li><a class="social-icon github" href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Github</span></a></li></ul></div><div class="social social-moz"><h4>Mozilla</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozilla" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Twitter</span></a></li><li><a class="social-icon instagram" href="https://www.instagram.com/mozillagram/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Instagram</span></a></li></ul></div><p id="license" class="footer-license">© 2005-<!-- -->2022<!-- --> Mozilla and individual contributors. Content is available under<!-- --> <a href="/docs/MDN/About#Copyrights_and_licenses">these licenses</a>.</p><ul class="footer-legal"><li><a href="https://www.mozilla.org/about/legal/terms/mozilla" target="_blank" rel="noopener noreferrer">Terms</a></li><li><a href="https://www.mozilla.org/privacy/websites/" target="_blank" rel="noopener noreferrer">Privacy</a></li><li><a href="https://www.mozilla.org/privacy/websites/#cookies" target="_blank" rel="noopener noreferrer">Cookies</a></li></ul></div></footer><div class="page-overlay hidden"></div></div><script type="application/json" id="hydration">{"doc":{"isMarkdown":true,"isTranslated":true,"isActive":true,"flaws":{},"title":"图像文件类型与格式指南","mdn_url":"/zh-CN/docs/Web/Media/Formats/Image_types","locale":"zh-CN","native":"中文 (简体)","sidebarHTML":"\n<ol><li><a href=\"/zh-CN/docs/Web/Media/Autoplay_guide\">Autoplay guide for media and Web Audio APIs</a></li><li><a href=\"/zh-CN/docs/Web/Media/Formats\">Guide to media types and formats on the web</a><ol><li><a href=\"/zh-CN/docs/Web/Media/Formats\">Guide to media types and formats on the web</a></li><li><a href=\"/zh-CN/docs/Web/Media/Formats/Containers\">Media container formats (file types)</a></li><li><a href=\"/zh-CN/docs/Web/Media/Formats/Image_types\">图像文件类型与格式指南</a></li><li><a href=\"/zh-CN/docs/Web/Media/Formats/Video_codecs\">网页视频编码指南</a></li></ol></li><li><a href=\"/zh-CN/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video\">为 HTML 5 视频提供的 DASH 自适应串流</a></li></ol>\n","body":[{"type":"prose","value":{"id":null,"title":null,"isH3":false,"content":"<p>在本指南中，我们将介绍网页浏览器普遍支持的图像文件类型，并提供一些关于他们的信息与见解，帮助您为您的网站选择最合适的图像格式。</p>"}},{"type":"prose","value":{"id":"常见图像文件类型","title":"常见图像文件类型","isH3":false,"content":"<p>世界上有非常多的图像文件格式。下面列举了网页上常用的格式，其中 BMP 由于浏览器支持限制而不被推荐，通常应该避免在网页内容中使用。</p>\n<table>\n  <thead>\n    <tr>\n      <th>缩写</th>\n      <th>文件格式</th>\n      <th>MIME 类型</th>\n      <th>文件拓展名</th>\n      <th>浏览器兼容性</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><a href=\"#apng_animated_portable_network_graphics\">APNG</a></td>\n      <td>Animated Portable Network Graphics <strong>动态便携式网络图像</strong></td>\n      <td><code>image/apng</code></td>\n      <td><code>.apng</code></td>\n      <td>Chrome, Edge, Firefox, Opera, Safari</td>\n    </tr>\n    <tr>\n      <td><a href=\"#avif\">AVIF</a></td>\n      <td>AV1 Image File Format AV1 图像文件格式</td>\n      <td><code>image/avif</code></td>\n      <td><code>.avif</code></td>\n      <td>Chrome, Opera, Firefox (feature flag)</td>\n    </tr>\n    <tr>\n      <td><a href=\"#bmp_bitmap_file\">BMP</a></td>\n      <td>Bitmap file <strong>位图</strong>文件</td>\n      <td><code>image/bmp</code></td>\n      <td><code>.bmp</code></td>\n      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>\n    </tr>\n    <tr>\n      <td><a href=\"#gif_graphics_interchange_format\">GIF</a></td>\n      <td>Graphics Interchange Format 图像互换格式</td>\n      <td><code>image/gif</code></td>\n      <td><code>.gif</code></td>\n      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>\n    </tr>\n    <tr>\n      <td><a href=\"#ico_microsoft_windows_icon\">ICO</a></td>\n      <td>Microsoft Icon 微软图标</td>\n      <td><code>image/x-icon</code></td>\n      <td><code>.ico</code>, <code>.cur</code></td>\n      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>\n    </tr>\n    <tr>\n      <td><a href=\"#jpeg_joint_photographic_experts_group_image\">JPEG</a></td>\n      <td>Joint Photographic Expert Group image 联合影像专家小组图像</td>\n      <td><code>image/jpeg</code></td>\n      <td><code>.jpg</code>, <code>.jpeg</code>, <code>.jfif</code>, <code>.pjpeg</code>, <code>.pjp</code></td>\n      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>\n    </tr>\n    <tr>\n      <td><a href=\"#png_portable_network_graphics\">PNG</a></td>\n      <td>Portable Network Graphics <strong>便携式网络图像</strong></td>\n      <td><code>image/png</code></td>\n      <td><code>.png</code></td>\n      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>\n    </tr>\n    <tr>\n      <td><a href=\"#svg_scalable_vector_graphics\">SVG</a></td>\n      <td>Scalable Vector Graphics <strong>可缩放矢量图形</strong></td>\n      <td><code>image/svg+xml</code></td>\n      <td><code>.svg</code></td>\n      <td>Chrome, Edge, Firefox, Internet Explorer, Opera, Safari</td>\n    </tr>\n    <tr>\n      <td><a href=\"#tiff_tagged_image_file_format\">TIFF</a></td>\n      <td>Tagged Image File Format 标签图像文件格式</td>\n      <td><code>image/tiff</code></td>\n      <td><code>.tif</code>, <code>.tiff</code></td>\n      <td>Safari</td>\n    </tr>\n    <tr>\n      <td><a href=\"#webp_image\">WebP</a></td>\n      <td>Web Picture format 万维网图像格式</td>\n      <td><code>image/webp</code></td>\n      <td><code>.webp</code></td>\n      <td>Chrome, Edge, Firefox, Opera, Safari</td>\n    </tr>\n  </tbody>\n</table>\n<p>每一种格式缩写都有一个详细说明，其功能以及详细的浏览器兼容信息，包括哪个版本引入支持以及以后可能会引入的特殊功能。</p>"}},{"type":"prose","value":{"id":"图像文件格式详介","title":"图像文件格式详介","isH3":false,"content":"<p>The following sections provide a brief overview of each of the image file types supported by web browsers.</p>\n<p>In the tables below, the term <strong>bits per component</strong> refers to the number of bits used to represent each color component. For example, an RGB color depth of 8 indicates that each of the red, green, and blue components are represented by an 8-bit value. <strong>Bit depth</strong>, on the other hand, is the total number of bits used to represent each pixel in memory.</p>"}},{"type":"prose","value":{"id":"apng_animated_portable_network_graphics","title":"<a id=\"APNG\" name=\"APNG\">APNG</a> (Animated Portable Network Graphics)","isH3":true,"content":"<p>APNG is a file format first introduced by Mozilla which extends the <a href=\"#png_portable_network_graphics\">PNG</a> standard to add support for animated images. Conceptually similar to the animated GIF format which has been in use for decades, APNG is more capable in that it supports a variety of <a href=\"https://zh.wikipedia.org/wiki/color_depth\" class=\"external\" rel=\" noopener\">color depths</a>, whereas animated GIF supports only 8-bit <a href=\"https://zh.wikipedia.org/wiki/indexed_color\" class=\"external\" rel=\" noopener\">indexed color</a>.</p>\n<p>APNG is ideal for basic animations that do not need to synchronize to other activities or to a sound track, such as progress indicators, activity <a href=\"https://zh.wikipedia.org/wiki/throbber\" class=\"external\" rel=\" noopener\">throbbers</a>, and other animated sequences. For example, APNG is <a href=\"https://developer.apple.com/stickers/\" class=\"external\" rel=\" noopener\">one of the formats supported when creating animated stickers</a> for Apple's iMessage application (and the Messages application on iOS). They're also commonly used for the animated portions of web browsers' user interfaces.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td><code>image/apng</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td><code>.apng</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td><a href=\"https://wiki.mozilla.org/APNG_Specification\" class=\"external\" rel=\" noopener\">wiki.mozilla.org/APNG_Specification</a></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>Chrome 59, Edge 12, Firefox 3, Opera 46, Safari 8</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>2,147,483,647×2,147,483,647 pixels</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        <table class=\"standard-table\">\n          <thead>\n            <tr>\n              <th scope=\"row\">颜色模式</th>\n              <th scope=\"col\">Bits per component (<em>D</em>)</th>\n              <th scope=\"col\">描述</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th scope=\"row\">Greyscale</th>\n              <td>1, 2, 4, 8, and 16</td>\n              <td>\n                Each pixel consists of a single <em>D</em>-bit value indicating\n                the brightness of the greyscale pixel.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by three <em>D</em>-bit values\n                indicating the level of the red, green, and blue color\n                components.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Indexed color</th>\n              <td>1, 2, 4, and 8</td>\n              <td>\n                Each pixel is a <em>D</em>-bit value indicating an index into a\n                color palette which is contained within a\n                <code><a href=\"https://www.w3.org/TR/PNG/#11PLTE\" class=\"external\" rel=\" noopener\">PLTE</a></code>\n                chunk in the APNG file; the colors in the palette all use an\n                8-bit depth.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale with alpha</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by two <em>D</em>-bit values: the\n                intensity of the greyscale pixel and an alpha sample, indicating\n                how opaque the pixel is.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color with alpha</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is comprised of four <em>D</em>-pixel color\n                components: red, green, blue, and the alpha sample indicating\n                how opaque the pixel is.\n              </td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>Lossless</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>\n        Free and open under the\n        <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" class=\"external\" rel=\" noopener\">Creative Commons Attribution-ShareAlike license</a>\n        (<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" class=\"external\" rel=\" noopener\">CC-BY-SA</a>)\n        version 3.0 or later.\n      </td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"APNG (Animated Portable Network Graphics)"}},{"type":"prose","value":{"id":"bmp_bitmap_file","title":"<a id=\"BMP\" name=\"BMP\">BMP</a> (Bitmap file)","isH3":true,"content":"<p>The <strong>BMP</strong> (<strong>Bitmap image</strong>) file type is most prevalent on Windows computers, and is generally used only for special cases in web apps and content.</p>\n<div class=\"notecard warning\" id=\"sect1\">\n  <p><strong>警告：</strong> You should typically avoid using BMP for web site content, as it's not a generally-accepted use of the format.</p>\n</div>\n<p>BMP theoretically supports a variety of internal data representations. The simplest, and most commonly used, form of BMP file is an uncompressed raster image, with each pixel occupying 3 bytes representing its red, green, and blue components, and each row padded with <code>0x00</code> bytes to a multiple of 4 bytes wide.</p>\n<p>While other data representations are defined in the specification, they are not widely used and often completely unimplemented. These features include: support for different bit depths, indexed color, alpha channels, and different pixel orders (by default, BMP is written from bottom-left corner toward the right and top, rather than from the top-left corner toward the right and bottom).</p>\n<p>Theoretically, several compression algorithms are supported, and the image data can also be stored in <a href=\"#jpeg_joint_photographic_experts_group_image\">JPEG</a> or <a href=\"#png_portable_network_graphics\">PNG</a> format within the BMP file.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td><code>image/bmp</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td><code>.bmp</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td>\n        No specification; however, Microsoft provides general documentation of\n        the format at\n        <a href=\"https://docs.microsoft.com/en-us/windows/desktop/gdi/bitmap-storage\" class=\"external\" rel=\" noopener\">docs.microsoft.com/en-us/windows/desktop/gdi/bitmap-storage</a>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>\n        All versions of Chrome, Edge, Firefox, Internet Explorer, Opera, and\n        Safari\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>\n        Either 32,767×32,767 or 2,147,483,647×2,147,483,647 pixels, depending on\n        the format version\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        <table class=\"standard-table\">\n          <thead>\n            <tr>\n              <th scope=\"row\">颜色模式</th>\n              <th scope=\"col\">Bits per component (<em>D</em>)</th>\n              <th scope=\"col\">描述</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th scope=\"row\">Greyscale</th>\n              <td>1</td>\n              <td>\n                Each bit represents a single pixel, which can be either black or\n                white.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by three values representing the red,\n                green, and blue color components; each is <em>D</em> bits.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Indexed color</th>\n              <td>2, 4, and 8</td>\n              <td>\n                Each pixel is represented by a value which is one 2, 4, or 8\n                bits, serving as an index into the color table.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale with alpha</th>\n              <td><em>n/a</em></td>\n              <td>BMP has no distinct grayscale format.</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color with alpha</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by four values representing the red,\n                green, blue, and alpha color components; each is\n                <em>D</em> bits.\n              </td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>\n        Several compression methods are supported, including lossy or lossless\n        algorithms\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>\n        Covered by the\n        <a href=\"https://docs.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/1c24c7c8-28b0-4ce1-a47d-95fe1ff504bc\" class=\"external\" rel=\" noopener\">Microsoft Open Specification Promise</a>; while Microsoft holds patents against BMP, they have published a\n        promise not to assert its patent rights as long as specific conditions\n        are met. This is not the same as a license, however. BMP is included\n        under the Windows Metafile Format (<code>.wmf</code>).\n      </td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"BMP (Bitmap file)"}},{"type":"prose","value":{"id":"gif_graphics_interchange_format","title":"<a id=\"GIF\" name=\"GIF\">GIF</a> (Graphics Interchange Format)","isH3":true,"content":"<p>In 1987, the CompuServe online service provider introduced the <strong><a href=\"https://zh.wikipedia.org/wiki/GIF\" class=\"external\" rel=\" noopener\">GIF</a></strong> (<strong>Graphics Interchange Format</strong>) image file format to provide a compressed graphics format that all members of their service would be able to use. GIF uses the <a href=\"https://zh.wikipedia.org/wiki/Lempel-Ziv-Welch\" class=\"external\" rel=\" noopener\">Lempel-Ziv-Welch</a> (LZW) algorithm to losslessly compress 8-bit indexed color graphics. GIF was one of the first two graphics formats supported by <a href=\"/zh-CN/docs/Glossary/HTML\">HTML</a>, along with <a href=\"#xbm_x_window_system_bitmap_file\">XBM</a>.</p>\n<p>Each pixel in a GIF is represented by a single 8-bit value serving as an index into a palette of 24-bit colors (8 bits each of red, green, and blue). The length of a color table is always a power of 2 (that is, each palette has 2, 4, 8, 16, 32, 64, or 256 entries). To simulate more than 255 or 256 colors, <a href=\"https://zh.wikipedia.org/wiki/dithering\" class=\"external\" rel=\" noopener\">dithering</a> is generally used. It is <a href=\"https://gif.ski/\" class=\"external\" rel=\" noopener\">technically possible</a> to tile multiple image blocks, each with its own color palette, to create truecolor images, but in practice this is rarely done.</p>\n<p>Pixels are opaque, unless a specific color index is designated as transparent, in which case pixels colored that value are entirely transparent.</p>\n<p>GIF supports simple animation, in which following an initial full-size frame, a series of images reflecting the parts of the image that change with each frame are provided.</p>\n<p>GIF has been extremely popular for decades, due to its simplicity and compatibility. Its animation support caused a resurgence in its popularity in the social media era, when animated GIFs began to be widely used for short \"videos\", memes, and other simple animation sequences.</p>\n<p>Another popular feature of GIF is support for <a href=\"https://zh.wikipedia.org/wiki/Interlacing_(bitmaps)\" class=\"external\" rel=\" noopener\">interlacing</a>, where rows of pixels are stored out of order so that partially-received files can be displayed in lower quality. This is particularly useful when network connections are slow.</p>\n<p>GIF is a good choice for simple images and animations, although converting full color images to GIF can result in unsatisfactory dithering. Typically, modern content should use <a href=\"#png_portable_network_graphics\">PNG</a> for lossless <em>and</em> indexed still images, and should consider using <a href=\"#apng_animated_portable_network_graphics\">APNG</a> for lossless animation sequences.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td><code>image/gif</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td><code>.gif</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td><a href=\"https://www.w3.org/Graphics/GIF/spec-gif87.txt\" class=\"external\" rel=\" noopener\">GIF87a specification</a><br><a href=\"https://www.w3.org/Graphics/GIF/spec-gif89a.txt\" class=\"external\" rel=\" noopener\">GIF89a specification</a></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>\n        All versions of Chrome, Edge, Firefox, Internet Explorer, Opera, and\n        Safari\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>65,536×65,536 pixels</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        <table class=\"standard-table\">\n          <thead>\n            <tr>\n              <th scope=\"row\">颜色模式</th>\n              <th scope=\"col\">Bits per component (<em>D</em>)</th>\n              <th scope=\"col\">描述</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th scope=\"row\">Greyscale</th>\n              <td><em>n/a</em></td>\n              <td>GIF does not include a dedicated greyscale format.</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color</th>\n              <td><em>n/a</em></td>\n              <td>GIF does not support true color pixels.</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Indexed color</th>\n              <td>8</td>\n              <td>\n                Each color in a GIF palette is defined as 8 bits each of red,\n                green, and blue (24 total bits per pixel).\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale with alpha</th>\n              <td><em>n/a</em></td>\n              <td>GIF does not provide a dedicated greyscale format.</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color with alpha</th>\n              <td><em>n/a</em></td>\n              <td>GIF does not support true color pixels.</td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>Lossless (LZW)</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>\n        While the GIF format itself is open, the LZW compression algorithm was\n        covered by patents until the early 2000s. As of July 7, 2004, all\n        relevant patents have expired and the GIF format may be used freely\n      </td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"GIF (Graphics Interchange Format)"}},{"type":"prose","value":{"id":"ico_microsoft_windows_icon","title":"<a id=\"ICO\" name=\"ICO\">ICO</a> (Microsoft Windows icon)","isH3":true,"content":"<p>The ICO (Microsoft Windows icon) file format was designed by Microsoft for desktop icons of Windows systems. However, early versions of Internet Explorer introduced the ability for a web site to provide a ICO file named <code>favicon.ico</code> in a web site's root directory to specify a <strong><a href=\"/zh-CN/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_custom_icons_to_your_site\">favicon</a></strong> — an icon to be displayed in the Favorites menu, and other places where an iconic representation of the site would be useful.</p>\n<p>An ICO file can contain multiple icons, and begins with a directory listing details about each. Following the directory comes the data for the icons. Each icon's data can be either a <a href=\"#bmp_bitmap_file\">BMP</a> image without the file header, or a complete <a href=\"#png_portable_network_graphics\">PNG</a> image (including the file header). If you use ICO files, you should use the BMP format, as support for PNG inside ICO files wasn't added until Windows Vista and may not be well supported.</p>\n<div class=\"notecard warning\" id=\"sect2\">\n  <p><strong>警告：</strong> ICO files <em>should not</em> be used in web content. Additionally, their use for favicons has subsided in favor of using a PNG file and the <a href=\"/zh-CN/docs/Web/HTML/Element/link\"><code>&lt;link&gt;</code></a> element, as described in <a href=\"/en-US/docs/Web/HTML/Element/link#providing_icons_for_different_usage_contexts\">Providing icons for different usage contexts</a> in <a href=\"/en-US/docs/Web/HTML/Element/link\">&lt;link&gt;: The External Resource Link element</a>.</p>\n</div>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td>\n        <code>image/vnd.microsoft.icon</code> (official),\n        <code>image/x-icon</code> (used by Microsoft)\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td><code>.ico</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>\n        All versions of Chrome, Edge, Firefox, Internet Explorer, Opera, and\n        Safari\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>256×256 pixels</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        <table class=\"standard-table\">\n          <caption>Icons in BMP format</caption>\n          <tbody>\n            <tr>\n              <th scope=\"row\">颜色模式</th>\n              <th scope=\"col\">Bits per component (<em>D</em>)</th>\n              <th scope=\"col\">描述</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale</th>\n              <td>1</td>\n              <td>\n                Each bit represents a single pixel, which can be either black or\n                white.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by three values representing the red,\n                green, and blue color components; each is <em>D</em> bits.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Indexed color</th>\n              <td>2, 4, and 8</td>\n              <td>\n                Each pixel is represented by a value which is one 2, 4, or 8\n                bits, serving as an index into the color table.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale with alpha</th>\n              <td><em>n/a</em></td>\n              <td>BMP has no distinct grayscale format.</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color with alpha</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by four values representing the red,\n                green, blue, and alpha color components; each is\n                <em>D</em> bits.\n              </td>\n            </tr>\n          </tbody>\n        </table>\n        <table class=\"standard-table\">\n          <caption>Icons in PNG format</caption>\n          <tbody>\n            <tr>\n              <th scope=\"row\">颜色模式</th>\n              <th scope=\"col\">Bits per component (<em>D</em>)</th>\n              <th scope=\"col\">描述</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale</th>\n              <td>1, 2, 4, 8, and 16</td>\n              <td>\n                Each pixel consists of a single <em>D</em>-bit value indicating\n                the brightness of the greyscale pixel.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by three <em>D</em>-bit values\n                indicating the level of the red, green, and blue color\n                components.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Indexed color</th>\n              <td>1, 2, 4, and 8</td>\n              <td>\n                Each pixel is a <em>D</em>-bit value indicating an index into a\n                color palette which is contained within a\n                <code><a href=\"https://www.w3.org/TR/PNG/#11PLTE\" class=\"external\" rel=\" noopener\">PLTE</a></code>\n                chunk in the APNG file; the colors in the palette all use an\n                8-bit depth.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale with alpha</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by two <em>D</em>-bit values: the\n                intensity of the greyscale pixel and an alpha sample, indicating\n                how opaque the pixel is.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color with alpha</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is comprised of four <em>D</em>-pixel color\n                components: red, green, blue, and the alpha sample indicating\n                how opaque the pixel is.\n              </td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>\n        BMP-format icons nearly always use lossless compression, but lossy\n        methods are available. PNG icons are always compressed losslessly.\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>—</td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"ICO (Microsoft Windows icon)"}},{"type":"prose","value":{"id":"jpeg_joint_photographic_experts_group_image","title":"<a id=\"JPEG\" name=\"JPEG\">JPEG</a> (Joint Photographic Experts Group image)","isH3":true,"content":"<p>The <a href=\"/zh-CN/docs/Glossary/jpeg\">JPEG</a> (typically pronounced \"<strong>jay-peg</strong>\") image format is currently the most widely used lossy compression format for still images. It's particulary useful for photographs; applying lossy compression to content requiring sharpness, like diagrams or charts, can produce unsatisfactory results.</p>\n<p>JPEG is actually a data format for compressed photos, rather than a file type. The JFIF (<strong>J</strong>PEG <strong>F</strong>ile <strong>I</strong>nterchange <strong>F</strong>ormat) specification describes the format of the files we think of as \"JPEG\" images.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td><code>image/jpeg</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td>\n        <code>.jpg</code>, <code>.jpeg</code>, <code>.jpe</code>,\n        <code>.jif</code>, <code>.jfif</code>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td><a href=\"https://jpeg.org/jpeg/\" class=\"external\" rel=\" noopener\">jpeg.org/jpeg/</a></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>\n        All versions of Chrome, Edge, Firefox, Internet Explorer, Opera, and\n        Safari\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>65,535×65,535 pixels</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        <table class=\"standard-table\">\n          <thead>\n            <tr>\n              <th scope=\"row\">颜色模式</th>\n              <th scope=\"col\">Bits per component (<em>D</em>)</th>\n              <th scope=\"col\">描述</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th scope=\"row\">Greyscale</th>\n              <td><em>n/a</em></td>\n              <td>JPEG has no distinct greyscale mode.</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color</th>\n              <td>8</td>\n              <td>\n                Each pixel is described by the red, blue, and green color\n                components, each of which is 8 bits.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Indexed color</th>\n              <td><em>n/a</em></td>\n              <td>JPEG does not offer an indexed color mode.</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale with alpha</th>\n              <td><em>n/a</em></td>\n              <td>JPEG does not support an alpha channel.</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color with alpha</th>\n              <td><em>n/a</em></td>\n              <td>JPEG does not support an alpha channel.</td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>\n        Lossy; based on the\n        <a href=\"https://zh.wikipedia.org/wiki/discrete_cosine_transform\" class=\"external\" rel=\" noopener\">discrete cosine transform</a>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>As of October 27, 2006, all United States patents have expired.</td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"JPEG (Joint Photographic Experts Group image)"}},{"type":"prose","value":{"id":"png_portable_network_graphics","title":"<a id=\"PNG\" name=\"PNG\">PNG</a> (Portable Network Graphics)","isH3":true,"content":"<p>The <a href=\"/zh-CN/docs/Glossary/PNG\">PNG</a> (pronounced \"<strong>ping</strong>\") image format uses lossless or lossy compression to provide more efficient compression, and supports higher color depths than <a href=\"#gif_graphics_interchange_format\">GIF</a>, as well as full alpha transparency support.</p>\n<p>PNG is widely supported, with all major browsers offering full support for its features. Internet Explorer, which introduced PNG support in versions 4–5, did not fully support it until IE 9, and had many infamous bugs for many of the intervening years, including in the once-omnipresent Internet Explorer 6. This slowed PNG adoption, but it is now commonly used, especially when precise reproduction of the source image is needed.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td><code>image/png</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td><code>.png</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td><a href=\"https://www.w3.org/TR/PNG\" class=\"external\" rel=\" noopener\">w3.org/TR/PNG</a></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>\n        <table class=\"standard-table\">\n          <thead>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th scope=\"row\">Basic support</th>\n              <td>1</td>\n              <td>12</td>\n              <td>1</td>\n              <td>5</td>\n              <td>3.5.1 (Presto)<br>15 (Blink)</td>\n              <td>1</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Alpha channel</th>\n              <td>1</td>\n              <td>12</td>\n              <td>1</td>\n              <td>5</td>\n              <td>6 (Presto)<br>All (Blink)</td>\n              <td>1</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Gamma correction</th>\n              <td>no</td>\n              <td>yes</td>\n              <td>1</td>\n              <td>8</td>\n              <td>1</td>\n              <td>broken</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Color correction</th>\n              <td>no</td>\n              <td>yes</td>\n              <td>3</td>\n              <td>9</td>\n              <td>no</td>\n              <td>no</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Interlacing</th>\n              <td>no</td>\n              <td>?</td>\n              <td>1</td>\n              <td>broken</td>\n              <td>3.5.1</td>\n              <td>no</td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>2,147,483,647×2,147,483,647 pixels</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        <table class=\"standard-table\">\n          <thead>\n            <tr>\n              <th scope=\"row\">颜色模式</th>\n              <th scope=\"col\">Bits per component (<em>D</em>)</th>\n              <th scope=\"col\">描述</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th scope=\"row\">Greyscale</th>\n              <td>1, 2, 4, 8, and 16</td>\n              <td>\n                Each pixel consists of a single <em>D</em>-bit value indicating\n                the brightness of the greyscale pixel.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by three <em>D</em>-bit values\n                indicating the level of the red, green, and blue color\n                components.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Indexed color</th>\n              <td>1, 2, 4, and 8</td>\n              <td>\n                Each pixel is a <em>D</em>-bit value indicating an index into a\n                color palette which is contained within a\n                <code><a href=\"https://www.w3.org/TR/PNG/#11PLTE\" class=\"external\" rel=\" noopener\">PLTE</a></code>\n                chunk in the APNG file; the colors in the palette all use an\n                8-bit depth.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale with alpha</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is represented by two <em>D</em>-bit values: the\n                intensity of the greyscale pixel and an alpha sample, indicating\n                how opaque the pixel is.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color with alpha</th>\n              <td>8 and 16</td>\n              <td>\n                Each pixel is comprised of four <em>D</em>-pixel color\n                components: red, green, blue, and the alpha sample indicating\n                how opaque the pixel is.\n              </td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>Lossless, optionally indexed color like GIF</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>\n        ©2003 <a href=\"https://www.w3.org/\" class=\"external\" rel=\" noopener\">W3C</a><sup>®</sup> (<a href=\"http://www.lcs.mit.edu/\" class=\"external\" rel=\" noopener\">MIT</a>, <a href=\"http://www.ercim.org/\" class=\"external\" rel=\" noopener\">ERCIM</a>,\n        <a href=\"https://www.keio.ac.jp/\" class=\"external\" rel=\" noopener\">Keio</a>), All Rights Reserved. W3C\n        <a href=\"https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer\" class=\"external\" rel=\" noopener\">liability</a>,\n        <a href=\"https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks\" class=\"external\" rel=\" noopener\">trademark</a>,\n        <a href=\"https://www.w3.org/Consortium/Legal/copyright-documents\" class=\"external\" rel=\" noopener\">document use</a>\n        and\n        <a href=\"https://www.w3.org/Consortium/Legal/copyright-software\" class=\"external\" rel=\" noopener\">software licensing</a>\n        rules apply. No known royalty-bearing patents.\n      </td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"PNG (Portable Network Graphics)"}},{"type":"prose","value":{"id":"svg_scalable_vector_graphics","title":"<a id=\"SVG\" name=\"SVG\">SVG</a> (Scalable Vector Graphics)","isH3":true,"content":"<p>SVG is an <a href=\"/zh-CN/docs/Glossary/XML\">XML</a>-based <a href=\"https://zh.wikipedia.org/wiki/vector_graphics\" class=\"external\" rel=\" noopener\">vector graphics</a> format that specifies the contents of an image as a set of drawing commands that create shapes, lines, apply colors, filters, and so forth. SVG files are ideal for diagrams, icons, and other images which can be accurately drawn at any size. As such, SVG is popular for user interface elements in modern Web design.</p>\n<p>SVG files are text files containing source code that, when interpreted, draws the desired image. For instance, this example defines an drawing area with initial size 100 by 100 units, containing a line drawn diagonally through the box:</p>\n<div class=\"code-example\"><pre class=\"brush: html notranslate\"><code><span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>svg</span> <span class=\"token attr-name\">viewBox</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>0 0 100 100<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">xmlns</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>http://www.w3.org/2000/svg<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">&gt;</span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>line</span> <span class=\"token attr-name\">x1</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>0<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">y1</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>80<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">x2</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>100<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">y2</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>20<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">stroke</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>black<span class=\"token punctuation\">\"</span></span> <span class=\"token punctuation\">/&gt;</span></span>\n<span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;/</span>svg</span><span class=\"token punctuation\">&gt;</span></span>\n</code></pre></div>\n<p>SVG can be used in web content in two ways:</p>\n<ol>\n  <li>You can directly write the <a class=\"page-not-created\" title=\"此文档尚未被撰写，期待你的贡献!\"><code>&lt;svg&gt;</code></a> element within the HTML, containing <a href=\"/zh-CN/docs/Web/SVG/Element\">SVG elements</a> to draw the image.</li>\n  <li>You can display an SVG image anywhere you can use any of the other image types, including with the <a href=\"/zh-CN/docs/Web/HTML/Element/img\"><code>&lt;img&gt;</code></a> and <a href=\"/zh-CN/docs/Web/HTML/Element/picture\"><code>&lt;picture&gt;</code></a> elements, the <a href=\"/zh-CN/docs/Web/CSS/background-image\"><code>background-image</code></a> CSS property, and so forth.</li>\n</ol>\n<p>SVG is an ideal choice for images which can be represented using a series of drawing commands, especially if the size at which the image will be rendered is unknown or may vary, since SVG will smoothly scale to the desired size. It's not generally useful for strictly bitmap or photographic images, although it is possible to include bitmap images within an SVG.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td><code>image/svg+xml</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td><code>.svg</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td><a href=\"https://www.w3.org/TR/SVG2\" class=\"external\" rel=\" noopener\">w3.org/TR/SVG2</a></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>\n        <table class=\"standard-table\">\n          <thead>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th scope=\"row\">SVG support</th>\n              <td>4</td>\n              <td>12</td>\n              <td>3</td>\n              <td>9</td>\n              <td>10 (Presto)<br>15 (Blink)</td>\n              <td>3.2</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">SVG as image (<a href=\"/zh-CN/docs/Web/HTML/Element/img\"><code>&lt;img&gt;</code></a> etc)</th>\n              <td>28</td>\n              <td>12</td>\n              <td>4</td>\n              <td>9</td>\n              <td>10 (Presto)<br>15 (Blink)</td>\n              <td>9</td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>无限制</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        Colors in SVG are specified using\n        <a href=\"/zh-CN/docs/Web/CSS/color_value\">CSS color syntax</a>.\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>\n        SVG source may be compressed during transit using\n        <a href=\"/zh-CN/docs/Web/HTTP/Compression\">HTTP compression</a>\n        techniques, or on disk as an <code>.svgz</code> file.\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>\n        ©2018 <a href=\"https://www.w3.org/\" class=\"external\" rel=\" noopener\">W3C</a><sup>®</sup> (<a href=\"http://www.lcs.mit.edu/\" class=\"external\" rel=\" noopener\">MIT</a>, <a href=\"http://www.ercim.org/\" class=\"external\" rel=\" noopener\">ERCIM</a>,\n        <a href=\"https://www.keio.ac.jp/\" class=\"external\" rel=\" noopener\">Keio</a>,\n        <a href=\"https://ev.buaa.edu.cn/\" class=\"external\" rel=\" noopener\">Beihang</a>), All Rights Reserved. W3C\n        <a href=\"https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer\" class=\"external\" rel=\" noopener\">liability</a>,\n        <a href=\"https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks\" class=\"external\" rel=\" noopener\">trademark</a>,\n        <a href=\"https://www.w3.org/Consortium/Legal/copyright-documents\" class=\"external\" rel=\" noopener\">document use</a>\n        and\n        <a href=\"https://www.w3.org/Consortium/Legal/copyright-software\" class=\"external\" rel=\" noopener\">software licensing</a>\n        rules apply. No known royalty-bearing patents.\n      </td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"SVG (Scalable Vector Graphics)"}},{"type":"prose","value":{"id":"tiff_tagged_image_file_format","title":"<a id=\"TIFF\" name=\"TIFF\">TIFF</a> (Tagged Image File Format)","isH3":true,"content":"<p><a href=\"https://zh.wikipedia.org/wiki/TIFF\" class=\"external\" rel=\" noopener\">TIFF</a> is a raster graphics file format which was created to store scanned photos, although it can be any kind of image. It is a somewhat \"heavy\" format, in that TIFF files have a tendency to be larger than images in other formats. This is because of the metadata often included, as well as the fact that most TIFF images are either uncompressed or use compression algorithms that still leave fairly large files after compression.</p>\n<p>TIFF supports a variety of compression methods, but the most commonly used are the CCITT Group 4 (and, for older fax systems, Group 3) compression systems used for by fax software, as well as LZW and lossy JPEG compression.</p>\n<p>Every value in a TIFF file is specified using its <strong>tag</strong> (indicating what kind of information it is, such as the width of the image) and its <strong>type</strong> (indicating the format the data is stored in), followed by the length of the array of values to assign to that tag (all properties are stored in arrays, even for single values). This allows different data types to be used for the same properties. For example, the width of an image, <code>ImageWidth</code>, is stored using tag <code>0x0100</code>, and is a one-entry array. By specifying type 3 (<code>SHORT</code>), the value of <code>ImageWidth</code> is stored as a 16-bit value:</p>\n<table>\n  <thead>\n    <tr>\n      <th>Tag</th>\n      <th>Type</th>\n      <th>Size</th>\n      <th>Value</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>0x0100</code> (<code>ImageWidth</code>)</td>\n      <td><code>0x0003</code> (<code>SHORT</code>)</td>\n      <td><code>0x00000001</code> (1 entry)</td>\n      <td><code>0x0280</code> (640 pixels)</td>\n    </tr>\n  </tbody>\n</table>\n<p>Specifying type 4 (<code>LONG</code>) stores the width as a 32-bit value:</p>\n<table>\n  <thead>\n    <tr>\n      <th>Tag</th>\n      <th>Type</th>\n      <th>Size</th>\n      <th>Value</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>0x0100</code> (<code>ImageWidth</code>)</td>\n      <td><code>0x0004</code> (<code>LONG</code>)</td>\n      <td><code>0x00000001</code> (1 entry)</td>\n      <td><code>0x00000280</code> (640 pixels)</td>\n    </tr>\n  </tbody>\n</table>\n<p>A single TIFF file can contain multiple images; this may be used to represent multi-page documents, for example (such as a multi-page scanned document, or a received fax). However, software reading TIFF files is only required to support the first image.</p>\n<p>TIFF supports a variety of color spaces, not just RGB. These include CMYK, YCbCr, and others, making TIFF a good choice for storing images intended for print, film, or television media.</p>\n<p>Long ago, some browsers supported TIFF images in web content; today, however, you need to use special libraries or browser add-ons to do so. As such, TIFF files are not useful within the context of web content, <em>but</em> it's common to provide downloadable TIFF files when distributing photos and other artwork intended for precision editing or printing.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td><code>image/tiff</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td><code>.tif</code>, <code>.tiff</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td><a href=\"https://www.adobe.io/open/standards/TIFF.html\" class=\"external\" rel=\" noopener\">adobe.io/open/standards/TIFF.html</a></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>\n        No browsers integrate support for TIFF; its value is as a download\n        format\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>4,294,967,295×4,294,967,295 pixels (theoretical)</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">颜色模式</th>\n              <th scope=\"col\">Bits per component (<em>D</em>)</th>\n              <th scope=\"col\">描述</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">Bilevel</th>\n              <td>1</td>\n              <td>\n                A bilevel TIFF stores 8 bits in each byte, one bit per pixel.\n                The <code>PhotometricInterpretation</code> field specifies which\n                of 0 and 1 are black and which is white.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale</th>\n              <td>4 and 8</td>\n              <td>\n                Each pixel consists of a single <em>D</em>-bit value indicating\n                the brightness of the greyscale pixel.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color</th>\n              <td>8</td>\n              <td>\n                All true color RGB images are stored using 8-bits each of red,\n                green, and blue.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Indexed color</th>\n              <td>4 and 8</td>\n              <td>\n                Each pixel is an index into a <code>ColorMap</code> record,\n                which defines the colors used in the image. The color map lists\n                all of the red values, then all of the green values, then all of\n                the blue values (rather than <code>rgb, rgb, rgb...</code>).\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale with alpha</th>\n              <td>4 and 8</td>\n              <td>\n                Alpha information is added by specifying that there are more\n                than 3 samples per pixel in the\n                <code>SamplesPerPixel</code> field, and indicating the type of\n                alpha (1 for an associated, pre-multiplied alpha component, and\n                2 for unassociated alpha (a separate matte); however, alpha\n                channels are rarely used in TIFF files and may be unsupported by\n                the user's software.\n              </td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color with alpha</th>\n              <td>8</td>\n              <td>\n                Alpha information is added by specifying that there are more\n                than 3 samples per pixel in the\n                <code>SamplesPerPixel</code> field, and indicating the type of\n                alpha (1 for an associated, pre-multiplied alpha component, and\n                2 for unassociated alpha (a separate matte); however, alpha\n                channels are rarely used in TIFF files and may be unsupported by\n                the user's software.\n              </td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>\n        Most TIFF files are uncompressed, but lossless PackBits and LZW\n        compression are supported, as is lossy JPEG compression.\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>\n        No license required (aside from any associated with libraries you might\n        use); all known patents have expired.\n      </td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"TIFF (Tagged Image File Format)"}},{"type":"prose","value":{"id":"webp_image","title":"<a id=\"WebP\" name=\"WebP\">WebP image</a>","isH3":true,"content":"<p>WebP supports lossy compression via predictive coding based on the VP8 video codec, and lossless compression that uses substitutions for repeating data. Lossy WebP images average 25–35% smaller than JPEG images of visually similar compression levels. Lossless WebP images are typically 26% smaller than the same images in PNG format.</p>\n<p>WebP also supports animation: in a lossy WebP file, the image data is represented by a VP8 bitstream, which may contain multiple frames. Lossless WebP holds the <code>ANIM</code> chunk, which describes the animation, and the <code>ANMF</code> chunk, which represents a frame of an animation sequence. Looping is supported.</p>\n<p>WebP now has broad support in the latest versions of major web browsers, although it does not have deep historical support. Provide a fallback in either <a href=\"#jpeg_joint_photographic_experts_group_image\">JPEG</a> or <a href=\"#png_portable_network_graphics\">PNG</a> format, such as with <a href=\"/zh-CN/docs/Web/HTML/Element/picture\">the <code>&lt;picture&gt;</code> element</a>.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td><code>image/webp</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td><code>.webp</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td>\n        <p>\n          <a href=\"https://developers.google.com/speed/webp/docs/riff_container\" class=\"external\" rel=\" noopener\">RIFF Container Specification</a><br><a href=\"https://datatracker.ietf.org/doc/html/rfc6386\" class=\"external\" rel=\" noopener\">RFC 6386: VP8 Data Format and Decoding Guide</a>\n          (lossy encoding)<br><a href=\"https://developers.google.com/speed/webp/docs/webp_lossless_bitstream_specification\" class=\"external\" rel=\" noopener\">WebP Lossless Bitstream Specification</a>\n        </p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">Lossy WebP support</th>\n              <td>17</td>\n              <td>18</td>\n              <td>65</td>\n              <td>no</td>\n              <td>11.10 (Presto)<br>15 (Blink)</td>\n              <td>no</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Lossless WebP</th>\n              <td>23<br>25 on Android</td>\n              <td>18</td>\n              <td>65</td>\n              <td>no</td>\n              <td>12.10 (Presto)<br>15 (Blink)</td>\n              <td>no</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">动画</th>\n              <td>32</td>\n              <td>18</td>\n              <td>65</td>\n              <td>no</td>\n              <td>19 (Blink)</td>\n              <td>no</td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>16,383×16,383 pixels</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        Lossy WebP stores the image in 8-bit Y'CbCr 4:2:0 (YUV420) format.\n        Lossless WebP uses 8-bit ARGB color, with each component taking 8 bits\n        for a total of 32 bits per pixel.\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>Lossless (Huffman, LZ77, or color cache codes) or lossy (VP8).</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>No license required; source code is openly available.</td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"WebP image"}},{"type":"prose","value":{"id":"xbm_x_window_system_bitmap_file","title":"<a id=\"XBM\" name=\"XBM\">XBM</a> (X Window System Bitmap file)","isH3":true,"content":"<p>XBM (X Bitmap) files were the first to be supported on the Web, but are no longer used and should be avoided, as their format has potential security concerns. Modern browsers have not supported XBM files in many years, but when dealing with older content, you may find some still around.</p>\n<p>XBM uses a snippet of C code to represent the contents of the image as an array of bytes. Each image consists of 2 to 4 <code>#define</code> directives, providing the width and height of the bitmap (and optionally the hotspot, if the image is designed as a cursor), followed by an array of <code>unsigned char</code>, where each value contains 8 1-bit monochrome pixels.</p>\n<p>The image must be a multiple of 8 pixels wide. For example, the following code represents an XBM image which is 8 pixels by 8 pixels, with those pixels in a black-and-white checkerboard pattern:</p>\n<div class=\"code-example\"><pre class=\"brush: cpp notranslate\"><code><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">define</span> <span class=\"token macro-name\">square8_width</span> <span class=\"token expression\"><span class=\"token number\">8</span></span></span>\n<span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">define</span> <span class=\"token macro-name\">square8_height</span> <span class=\"token expression\"><span class=\"token number\">8</span></span></span>\n<span class=\"token keyword\">static</span> <span class=\"token keyword\">unsigned</span> <span class=\"token keyword\">char</span> square8_bits<span class=\"token punctuation\">[</span><span class=\"token punctuation\">]</span> <span class=\"token operator\">=</span> <span class=\"token punctuation\">{</span>\n  <span class=\"token number\">0xAA</span><span class=\"token punctuation\">,</span> <span class=\"token number\">0x55</span><span class=\"token punctuation\">,</span> <span class=\"token number\">0xAA</span><span class=\"token punctuation\">,</span> <span class=\"token number\">0x55</span><span class=\"token punctuation\">,</span> <span class=\"token number\">0xAA</span><span class=\"token punctuation\">,</span> <span class=\"token number\">0x55</span><span class=\"token punctuation\">,</span> <span class=\"token number\">0xAA</span><span class=\"token punctuation\">,</span> <span class=\"token number\">0x55</span>\n<span class=\"token punctuation\">}</span><span class=\"token punctuation\">;</span>\n</code></pre></div>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">MIME 类型</th>\n      <td><code>image/xbm</code>, <code>image-xbitmap</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">文件拓展名</th>\n      <td><code>.xbm</code></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">规范</th>\n      <td>None</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">浏览器兼容性</th>\n      <td>Firefox 1–3.5, Internet Explorer 1–5</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">最高分辨率</th>\n      <td>无限制</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">支持的颜色模式</th>\n      <td>\n        <table class=\"standard-table\">\n          <thead>\n            <tr>\n              <th scope=\"row\">颜色模式</th>\n              <th scope=\"col\">Bits per component</th>\n              <th scope=\"col\">描述</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th scope=\"row\">Greyscale</th>\n              <td>1</td>\n              <td>Each byte contains eight 1-bit pixels.</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color</th>\n              <td><em>n/a</em></td>\n              <td><em>n/a</em></td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Indexed color</th>\n              <td><em>n/a</em></td>\n              <td><em>n/a</em></td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Greyscale with alpha</th>\n              <td><em>n/a</em></td>\n              <td><em>n/a</em></td>\n            </tr>\n            <tr>\n              <th scope=\"row\">True color with alpha</th>\n              <td><em>n/a</em></td>\n              <td><em>n/a</em></td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">压缩</th>\n      <td>Lossless</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">授权</th>\n      <td>Open source</td>\n    </tr>\n  </tbody>\n</table>","titleAsText":"XBM (X Window System Bitmap file)"}},{"type":"prose","value":{"id":"选择合适的图像格式","title":"选择合适的图像格式","isH3":false,"content":"<p>Picking the best image format for your needs is likely easier than video formats, as there are fewer options with broad support, and each tends to have a specific set of use-cases.</p>"}},{"type":"prose","value":{"id":"photographs","title":"Photographs","isH3":true,"content":"<p>Photographs typically fare well with lossy compression (depending on the encoder's configuration). This makes <a href=\"#jpeg_joint_photographic_experts_group_image\">JPEG</a> and <a href=\"#webp_image\">WebP</a> good choices for photographs, with JPEG being more compatible but WebP perhaps offering better compression. To maximize quality and minimize download time, consider providing both <a href=\"#%E6%8F%90%E4%BE%9B%E5%90%8E%E5%A4%87%E5%9B%BE%E5%83%8F\">using a fallback</a> with WebP as the first choice and JPEG as the second. Otherwise, JPEG is the safe choice for compatibility.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Best choice</th>\n      <th>Fallback</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>WebP or JPEG</td>\n      <td>JPEG</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"icons","title":"Icons","isH3":true,"content":"<p>For smaller images such as icons, use a lossless format to avoid loss of detail in a size-constrained image. While lossless WebP is ideal for this purpose, support is not widespread yet, so PNG is a better choice unless you offer a <a href=\"#%E6%8F%90%E4%BE%9B%E5%90%8E%E5%A4%87%E5%9B%BE%E5%83%8F\">fallback</a>. If your image contains fewer than 256 colors, GIF is an option, although PNG often compresses even smaller with its indexed compression option (PNG-8).</p>\n<p>If the icon can be represented using vector graphics, consider <a href=\"#svg_scalable_vector_graphics\">SVG</a>, since it scales across various resolutions and sizes, so it's perfect for responsive design. Although SVG support is good, it may be worth offering a PNG fallback for older browsers.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Best choice</th>\n      <th>Fallback</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>SVG, Lossless WebP, or PNG</td>\n      <td>PNG</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"screenshots","title":"Screenshots","isH3":true,"content":"<p>Unless you're willing to compromise on quality, you should use a lossless format for screenshots. This is particularly important if there's any text in your screenshot, as text easily becomes fuzzy and unclear under lossy compression.</p>\n<p>PNG is probably your best bet, but lossless WebP is arguably going to be better compressed.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Best choice</th>\n      <th>Fallback</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Lossless WebP or PNG; JPEG if compression artifacts aren't a concern</td>\n      <td>PNG or JPEG; GIF for screenshots with low color counts</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"diagrams_drawings_and_charts","title":"Diagrams, drawings, and charts","isH3":true,"content":"<p>For any image that can be represented using vector graphics, SVG is the best choice. Otherwise, you should use a lossless format like PNG. If you do choose a lossy format, such as JPEG or lossy WebP, carefully weigh the compression level to avoid causing text or other shapes to become fuzzy or unclear.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Best choice</th>\n      <th>Fallback</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><a href=\"#svg_scalable_vector_graphics\">SVG</a></td>\n      <td><a href=\"#png_portable_network_graphics\">PNG</a></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"提供后备图像","title":"提供后备图像","isH3":false,"content":"<p>While the standard HTML <a href=\"/zh-CN/docs/Web/HTML/Element/img\"><code>&lt;img&gt;</code></a> element doesn't support compatibility fallbacks for images, the <a href=\"/zh-CN/docs/Web/HTML/Element/picture\"><code>&lt;picture&gt;</code></a> element does. <code>&lt;picture&gt;</code> is used as a wrapper for a number of <a href=\"/zh-CN/docs/Web/HTML/Element/source\"><code>&lt;source&gt;</code></a> elements, each specifying a version of the image in a different format or under different <a href=\"/zh-CN/docs/Web/CSS/@media\">media conditions</a>, as well as an <code>&lt;img&gt;</code> element which defines where to display the image and the fallback to the default or \"most compatible\" version.</p>\n<p>For example, if you're displaying a diagram best displayed with SVG, but wish to offer a fallback to a PNG or GIF of the diagram, you would do something like this:</p>\n<div class=\"code-example\"><pre class=\"brush: html notranslate\"><code><span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>picture</span><span class=\"token punctuation\">&gt;</span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>source</span> <span class=\"token attr-name\">srcset</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>diagram.svg<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">type</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>image/svg+xml<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">&gt;</span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>source</span> <span class=\"token attr-name\">srcset</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>diagram.png<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">type</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>image/png<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">&gt;</span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>img</span> <span class=\"token attr-name\">src</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>diagram.gif<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">width</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>620<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">height</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>540<span class=\"token punctuation\">\"</span></span>\n       <span class=\"token attr-name\">alt</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>Diagram showing the data channels<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">&gt;</span></span>\n<span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;/</span>picture</span><span class=\"token punctuation\">&gt;</span></span>\n</code></pre></div>\n<p>You can specify as many <code>&lt;source&gt;</code>s as you wish, though typically 2 or 3 is all you need.</p>"}},{"type":"prose","value":{"id":"参见","title":"参见","isH3":false,"content":"<ul>\n  <li><a href=\"/zh-CN/docs/Web/Media/Formats\">Guide to media types and formats</a></li>\n  <li><a href=\"/zh-CN/docs/Web/Media\">Web media technologies</a></li>\n  <li><a href=\"/zh-CN/docs/Web/Media/Formats/Video_codecs\">Guide to video codecs used on the web</a></li>\n  <li>The <a href=\"/zh-CN/docs/Glossary/HTML\">HTML</a> <a href=\"/zh-CN/docs/Web/HTML/Element/img\"><code>&lt;img&gt;</code></a> and <a href=\"/zh-CN/docs/Web/HTML/Element/picture\"><code>&lt;picture&gt;</code></a> elements</li>\n  <li>The CSS <a href=\"/zh-CN/docs/Web/CSS/background-image\"><code>background-image</code></a> property</li>\n  <li>The <a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/HTMLImageElement/Image\"><code>Image()</code> <small>(en-US)</small></a> constructor and the <a href=\"/zh-CN/docs/Web/API/HTMLImageElement\"><code>HTMLImageElement</code></a> interface</li>\n</ul>"}}],"toc":[{"text":"常见图像文件类型","id":"常见图像文件类型"},{"text":"图像文件格式详介","id":"图像文件格式详介"},{"text":"选择合适的图像格式","id":"选择合适的图像格式"},{"text":"提供后备图像","id":"提供后备图像"},{"text":"参见","id":"参见"}],"summary":"在本指南中，我们将介绍网页浏览器普遍支持的图像文件类型，并提供一些关于他们的信息与见解，帮助您为您的网站选择最合适的图像格式。","popularity":0.0003,"modified":"2022-10-01T03:41:16.000Z","other_translations":[{"title":"Image file type and format guide","locale":"en-US","native":"English (US)"},{"title":"Guide des types et formats de fichiers d'images","locale":"fr","native":"Français"},{"title":"画像ファイルの種類と形式ガイド","locale":"ja","native":"日本語"}],"source":{"folder":"zh-cn/web/media/formats/image_types","github_url":"https://github.com/mdn/translated-content/blob/main/files/zh-cn/web/media/formats/image_types/index.md","last_commit_url":"https://github.com/mdn/translated-content/commit/921c46a374ab0a9f4cc809af0370f8c412e54701","filename":"index.md"},"parents":[{"uri":"/zh-CN/docs/Web","title":"Web 开发技术"},{"uri":"/zh-CN/docs/Web/Media","title":"Web 媒体技术"},{"uri":"/zh-CN/docs/Web/Media/Formats","title":"Guide to media types and formats on the web"},{"uri":"/zh-CN/docs/Web/Media/Formats/Image_types","title":"图像文件类型与格式指南"}],"pageTitle":"图像文件类型与格式指南 - Web 媒体技术 | MDN","noIndexing":false}}</script></body></html>

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/function/index.md
+
+# Original Wiki contributors
+mfuji09
+Robg1
+zemiak
+ahmadnourallah
+bnhassin
+CodeFry
+leobalter
+xgqfrms-GitHub
+MarkerKernel
+Porkepix
+adesotamn
+Andrew_Pfeiffer
+hbloomer
+klez
+fscholz

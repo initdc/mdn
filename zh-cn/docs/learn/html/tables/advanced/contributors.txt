@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/tables/advanced/index.md
+
+# Original Wiki contributors
+WoodCube
+WindLo
+MichaelMeng
+codeofjackie
+at2008
+littledust
+nbhaohao

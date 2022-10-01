@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/xmlhttprequest/responsetext/index.md
+
+# Original Wiki contributors
+xiaojingzhao
+idwenwe
+2017gdgzoi48
+ScottCXQ
+xgqfrms-GitHub
+Dcfm

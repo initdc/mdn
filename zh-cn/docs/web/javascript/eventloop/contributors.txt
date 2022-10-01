@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/eventloop/index.md
+
+# Original Wiki contributors
+JobbyM
+johnao
+penglianglee
+molee1905
+sundi78634
+xgl
+SterileSummer
+esphas
+daxiazilong
+zhangchen
+Thoxvi
+zhuangyin
+LeoSpark
+mozhs
+xgqfrms-GitHub
+LiXin
+xycd
+hxyoo1990
+guoqiang
+fengma
+Ende93
+xiaojichao
+liyongleihf2006
+slayerxj
+timwangdev
+distums
+xufeng
+ziyunfei
+jcouyang
+shinv
+lcxfs1991
+HectorGuo
+Fantasy_shao

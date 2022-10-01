@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/attributes/crossorigin/index.md
+
+# Original Wiki contributors
+wangjian
+Melo.HG
+xgqfrms-GitHub
+mygaochunming
+xgqfrms
+kmc947373

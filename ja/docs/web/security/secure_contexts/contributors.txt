@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/security/secure_contexts/index.md
+
+# Original Wiki contributors
+silverskyvicto
+mfuji09
+Uemmra3
+YuichiNukiyama
+hashedhyphen

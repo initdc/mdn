@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/server-side/express_nodejs/introduction/index.md
+
+# Original Wiki contributors
+Sunmin0520
+Kyungminkim31
+iyabong
+Je-Gwan
+peacekimjapan
+silmari
+2dubbing
+Ken123777
+ByeongGi
+ChanghwaLee

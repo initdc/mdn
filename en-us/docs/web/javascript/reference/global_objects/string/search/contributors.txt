@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/search/index.md
+
+# Original Wiki contributors
+mfuji09
+jkosiaty
+wbamberg
+fscholz
+SphinxKnight
+Zearin_Galaurum
+jpmedley
+MathieuDerelle
+njohnson7
+rwaldron
+vincentntang
+jameshkramer
+torazaburo
+eduardoboucas
+ibratoev
+arai
+adamb
+alnorris
+ylerjen
+Mingun
+fkling42
+kscarfone
+jackbach
+ethertank
+Sheppy
+AmaanC
+evilpie
+nathansearles
+Brettz9
+Mgjbot
+Potappo
+Maian
+Dria

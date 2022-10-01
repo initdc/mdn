@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/flex-direction/index.md
+
+# Original Wiki contributors
+hackingzhang
+zhuangyin
+dongyu_-_
+lxlzq11
+zhaochangok
+jingchenxu
+fscholz
+Go7hic
+Sebastianz
+FredWe

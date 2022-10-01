@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_target/index.md
+
+# Original Wiki contributors
+wbamberg
+ampogliano
+mfuji09
+ramiy
+fscholz
+mfluehr
+chrisdavidmills
+madmurphy
+erikadoyle
+Sebastianz
+Tigt
+cvrebert
+teoli
+jwhitlock
+MusikAnimal
+dbruant
+TylerH
+KyliRouge
+kscarfone
+JSONBellamy
+ethertank
+Sheppy
+fusionchess
+McGurk
+jswisher
+leaverou
+fl0rian
+Jürgen Jeka
+j.j.

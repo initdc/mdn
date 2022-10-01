@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/index.md
+
+# Original Wiki contributors
+silverskyvicto
+comame
+imagawalouis
+mfuji09
+methodx
+AkihikoTakeda
+SphinxKnight
+Raysphere24
+svarlamov
+Uemmra3
+haruo-wakakusa
+shuuji3
+yuichielectric
+dskmori
+lv7777
+takoeight0821
+marmot1123

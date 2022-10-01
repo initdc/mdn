@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/_colon_first-of-type/index.md
+
+# Original Wiki contributors
+Ende93
+Ritr
+zhangchen
+xgqfrms-GitHub
+ZackBee
+sgzzy
+Orange-C
+sudo2015

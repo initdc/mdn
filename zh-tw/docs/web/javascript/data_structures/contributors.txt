@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/data_structures/index.md
+
+# Original Wiki contributors
+nannxnann
+samzzz
+iigmir
+jackblackevo
+eldisa

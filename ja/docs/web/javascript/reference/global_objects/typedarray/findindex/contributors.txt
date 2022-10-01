@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/typedarray/findindex/index.md
+
+# Original Wiki contributors
+mfuji09
+dskmori
+YujiSoftware
+SphinxKnight
+shide55

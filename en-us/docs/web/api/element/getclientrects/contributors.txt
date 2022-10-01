@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/getclientrects/index.md
+
+# Original Wiki contributors
+mfuji09
+OtterOne
+laranhee
+xgqfrms
+mfluehr
+ExE-Boss
+fscholz
+tshinnic
+imrobinized
+stevenwdv
+Sebastianz
+cvrebert
+Jonathan_Watt
+sbarthel
+teoli
+Delapouite
+kscarfone
+vishu_gawli
+Sheppy
+nilfalse
+mattbasta
+ethertank
+Roc
+grandrath
+yonathan
+Jürgen Jeka
+lunalum
+George3
+Mgjbot
+Enn
+Waldo

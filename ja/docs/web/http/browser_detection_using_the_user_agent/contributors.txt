@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/browser_detection_using_the_user_agent/index.md
+
+# Original Wiki contributors
+mfuji09
+negibokken
+silverskyvicto
+karaage-kun

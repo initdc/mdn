@@ -1,0 +1,40 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/font/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+wbamberg
+fscholz
+mfluehr
+vinyldarkscratch
+ddbeck
+Sebastianz
+Peppester
+torazaburo
+erikadoyle
+yisibl
+teoli
+Jeremie
+HTMLValidator
+evinugur
+gorhgorh
+whit537
+kscarfone
+SiddharthBhatt
+Sheppy
+FredB
+Jesse
+ethertank
+jryans
+vlgalik
+brianloveswords
+grendel
+fryn
+Jürgen Jeka
+Kohei
+Mgjbot
+BijuGC
+Fredchat
+DBaron
+Backinblakk

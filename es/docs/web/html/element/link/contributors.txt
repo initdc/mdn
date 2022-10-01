@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/link/index.md
+
+# Original Wiki contributors
+pawer13
+israel-munoz
+Sebastianz
+jigs12
+teoli
+Jorolo

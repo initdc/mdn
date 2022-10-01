@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediastreamtrack/readystate/index.md
+
+# Original Wiki contributors
+alattalatta
+sideshowbarker
+connorshea
+libbymc
+Sheppy
+jpmedley
+fscholz
+teoli

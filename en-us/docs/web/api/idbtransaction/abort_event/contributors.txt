@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbtransaction/abort_event/index.md
+
+# Original Wiki contributors
+wbamberg
+ExE-Boss
+fscholz
+teoli
+Sheppy
+ethertank
+louisremi

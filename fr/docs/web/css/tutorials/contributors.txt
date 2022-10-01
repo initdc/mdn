@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/tutorials/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Oliviermoz
+teoli
+Axel_Viala

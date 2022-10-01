@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/manifest.json/background/index.md
+
+# Original Wiki contributors
+Makyen
+ExE-Boss
+wbamberg
+0711kps
+christiankaindl
+hellosct1
+andrewtruongmoz
+ptheriault
+bugzilla12345678

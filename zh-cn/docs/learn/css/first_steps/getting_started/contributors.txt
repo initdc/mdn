@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/first_steps/getting_started/index.md
+
+# Original Wiki contributors
+dlnb526
+SirnoChan
+byeyear
+HHao
+zyzxrj
+fondxy
+Amano-Aki
+RUAN-ZX

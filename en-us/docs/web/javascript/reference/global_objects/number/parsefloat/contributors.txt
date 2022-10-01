@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/number/parsefloat/index.md
+
+# Original Wiki contributors
+mfuji09
+wil93
+wbamberg
+fscholz
+Oaphi
+Zearin_Galaurum
+alattalatta
+scrum
+anonyco
+jameshkramer
+zbjornson
+kdex
+schlagi123
+eduardoboucas
+RyDroid
+SphinxKnight
+Jeremie
+danielnixon
+Mingun
+realityking
+biscuitsandtea

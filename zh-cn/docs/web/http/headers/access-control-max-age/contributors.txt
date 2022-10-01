@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/access-control-max-age/index.md
+
+# Original Wiki contributors
+zkerhcy
+xiaozhaofu
+jinliming2
+crper
+WayneCui

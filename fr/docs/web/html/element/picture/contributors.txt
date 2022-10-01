@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/picture/index.md
+
+# Original Wiki contributors
+SphinxKnight
+alegout
+welcoMattic
+watsab
+YoruNoHikage
+J.DMB
+Goofy
+nicoo

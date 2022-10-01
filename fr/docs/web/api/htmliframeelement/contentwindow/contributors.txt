@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/htmliframeelement/contentwindow/index.md
+
+# Original Wiki contributors
+SphinxKnight
+loella16
+benjaminW78

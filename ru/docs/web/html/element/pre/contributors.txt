@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/pre/index.md
+
+# Original Wiki contributors
+Thr0TT1e
+Excent163
+zoomboy13qq

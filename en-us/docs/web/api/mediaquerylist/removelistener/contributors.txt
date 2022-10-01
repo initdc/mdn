@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediaquerylist/removelistener/index.md
+
+# Original Wiki contributors
+ddbeck
+mfluehr
+mfuji09
+ExE-Boss
+fscholz
+chrisdavidmills

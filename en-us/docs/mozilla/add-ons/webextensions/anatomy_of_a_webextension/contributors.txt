@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/anatomy_of_a_webextension/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+0xef967c36
+modster
+rebloor
+imchriskitchens
+irenesmith
+jakehemmerle
+sreejithms
+hellosct1
+liligot
+carlin-scott
+phunsanit
+zombie
+wbamberg
+parambirs
+John-Nagle
+andrewtruongmoz
+rolfedh
+jeremy-french
+Didglee
+Sheppy
+DineshMv
+hashedhyphen
+PushpitaPikuDey
+dirty-bit
+ccarruitero

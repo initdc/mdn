@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlelement/dir/index.md
+
+# Original Wiki contributors
+mfuji09
+Wind1808
+fscholz
+khalid32
+ethertank
+dextra

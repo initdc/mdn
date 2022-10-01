@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/css/scroll-behavior/index.md
+
+# Original Wiki contributors
+otaviogui
+ogawaryu

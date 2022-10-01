@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/element/scrollintoview/index.md
+
+# Original Wiki contributors
+mfuji09
+sounisi5011
+KitaitiMakoto
+fscholz
+khalid32
+ethertank
+Potappo
+Snaka

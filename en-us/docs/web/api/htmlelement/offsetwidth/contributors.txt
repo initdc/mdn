@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/offsetwidth/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+stof
+twhb
+Jayflux
+erikadoyle
+jpmedley
+cvrebert
+pcat
+fvsch
+stevemao
+teoli
+saneyuki_s
+lancefisher
+ajaybhat
+kscarfone
+timmywil
+Sheppy
+vyv03354
+DavidWalsh
+George3
+Mgjbot
+Rbroen
+GT
+Nickolay
+Qazzian
+Waldo
+Jabez
+Ptak82
+Dria

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/overflow-wrap/index.md
+
+# Original Wiki contributors
+litmonw
+dlnb526
+WangWenZhang
+pengwenbin7
+xgqfrms
+SAWSAWSAW
+fscholz
+Sebastianz
+paddingme

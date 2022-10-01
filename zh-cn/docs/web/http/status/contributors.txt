@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/status/index.md
+
+# Original Wiki contributors
+kendalbaba8
+sideshowbarker
+lesikolerina23
+bifan
+zhongjunyao
+cznno
+skylinebin
+Opportunity
+sluggishpj
+Riverside
+NowTime
+konantian
+PWAEZQS
+corele
+x1zbin
+Zeng
+teaist
+zhuangyin
+change-hdb
+Geniusning
+fscholz
+fuchao2012

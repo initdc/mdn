@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/notification/silent/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+bambbt
+chrisdavidmills
+bershanskiy
+mfluehr
+fscholz
+jpmedley
+rolfedh

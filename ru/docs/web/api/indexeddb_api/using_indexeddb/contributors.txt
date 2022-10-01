@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/indexeddb_api/using_indexeddb/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+boxa6
+nakhodkiin
+higimo
+Greg_Vasetsky
+asm0dey
+burzilov
+mibamur

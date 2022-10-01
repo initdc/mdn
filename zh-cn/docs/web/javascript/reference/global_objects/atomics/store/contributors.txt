@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/atomics/store/index.md
+
+# Original Wiki contributors
+fscholz
+zouyang1230
+shenrongliu

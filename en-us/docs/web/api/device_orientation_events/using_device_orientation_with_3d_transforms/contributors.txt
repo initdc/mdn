@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/device_orientation_events/using_device_orientation_with_3d_transforms/index.md
+
+# Original Wiki contributors
+rakuco
+chrisdavidmills
+jswisher
+cxoon
+Jeremie
+Sheppy
+louisremi

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/webrequest/streamfilter/write/index.md
+
+# Original Wiki contributors
+peterbe
+kernp
+wbamberg

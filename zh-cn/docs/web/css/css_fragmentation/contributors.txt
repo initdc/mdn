@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_fragmentation/index.md
+
+# Original Wiki contributors
+pans9

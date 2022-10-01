@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/accessibility/aria/roles/button_role/index.md
+
+# Original Wiki contributors
+frassinier
+hmore
+BenoitL
+Goofy
+Fredchat

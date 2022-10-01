@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/canvas_api/tutorial/using_images/index.md
+
+# Original Wiki contributors
+dooyou21
+cs09g
+kbsbroad
+klight1994
+sujilee91

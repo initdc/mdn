@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/image-rendering/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Sebastianz
+piouPiouM
+teoli
+FredB
+DavidWalsh

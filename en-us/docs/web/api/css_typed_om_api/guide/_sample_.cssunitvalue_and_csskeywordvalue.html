@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Using the CSS Typed Object Model - cssunitvalue_and_csskeywordvalue - code sample</title>
+    </head>
+    <body>
+        
+            <p>
+   This is a paragraph with some content. Open up this example in Codepen or
+   JSFiddle, and change some features. Try adding some CSS, such as a width
+   for this paragraph, or adding a CSS property to the ofInterest array.
+</p>
+<table id="regurgitation">
+  <thead>
+    <tr>
+      <th>Property</th>
+      <th>Value</th>
+      <th>Unit</th>
+    </tr>
+</table>
+
+        
+        
+            <script>
+                // Get the element we're inspecting
+const myElement = document.querySelector('p');
+
+// Get the table we'll be populating
+const stylesTable = document.querySelector('#regurgitation');
+
+// Retrieve all computed styles with computedStyleMap()
+const allComputedStyles = myElement.computedStyleMap();
+
+// Array of properties we're interested in
+const ofInterest = ['padding-top', 'margin-bottom', 'font-size', 'font-stretch',
+                    'animation-duration', 'animation-iteration-count', 'width', 'height'];
+
+// Iterate through our properties of interest
+for (const value of ofInterest) {
+  // Create a row
+  const row = document.createElement('tr');
+
+  // Add the name of the property
+  const cssProperty = document.createElement('td');
+  cssProperty.appendChild(document.createTextNode(value));
+  row.appendChild(cssProperty);
+
+  // Add the unitless value
+  const cssValue = document.createElement('td');
+
+  // Shrink long floats to 1 decimal point
+  let propVal = allComputedStyles.get(value).value;
+  propVal = propVal % 1 ? propVal.toFixed(1) : propVal;
+  cssValue.appendChild(document.createTextNode(propVal));
+  row.appendChild(cssValue);
+
+  // Add the type of unit
+  const cssUnit = document.createElement('td');
+  cssUnit.appendChild(document.createTextNode(allComputedStyles.get(value).unit));
+  row.appendChild(cssUnit);
+
+  // Add the row to the table
+  stylesTable.appendChild(row);
+}
+
+            </script>
+        
+    </body>
+</html>

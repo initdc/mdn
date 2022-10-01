@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/rtcicecandidatepairstats/bytesreceived/index.md
+
+# Original Wiki contributors
+sebbi08
+Sheppy

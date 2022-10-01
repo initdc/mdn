@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/event/currenttarget/index.md
+
+# Original Wiki contributors
+funguy25637
+SphinxKnight
+programgamer-real
+loella16
+Kalwyn
+Nothus
+P45QU10U

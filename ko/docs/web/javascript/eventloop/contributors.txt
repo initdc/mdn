@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/eventloop/index.md
+
+# Original Wiki contributors
+cs09g
+varvir
+Ken123777
+limkukhyun
+seungha-kim
+HyunSeob
+hwshim

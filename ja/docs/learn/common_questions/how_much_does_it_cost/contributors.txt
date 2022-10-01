@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/common_questions/how_much_does_it_cost/index.md
+
+# Original Wiki contributors
+talken-sakurament
+Chuji-volunteer
+silverskyvicto

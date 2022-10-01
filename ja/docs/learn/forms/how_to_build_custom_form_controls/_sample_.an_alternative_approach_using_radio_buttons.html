@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            .styledSelect {
+  display: inline-block;
+  padding: 0;
+}
+.styledSelect li {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+}
+.styledSelect [type=radio] {
+  position: absolute;
+  left: -100vw;
+  top: -100vh;
+}
+.styledSelect label {
+  margin: 0;
+  line-height: 2;
+  padding: 0 0 0 4px;
+}
+.styledSelect:not(:focus-within) input:not(:checked) + label {
+  height: 0;
+  outline: none;
+  overflow: hidden;
+}
+.styledSelect:not(:focus-within) input:checked + label {
+  border: .2em solid #000;
+  border-radius: .4em;
+  box-shadow: 0 .1em .2em rgba(0,0,0,.45);
+}
+.styledSelect:not(:focus-within) input:checked + label::after {
+  content : "▼";
+  background: black;
+  float: right;
+  color: white;
+  padding: 0 4px;
+  margin: 0 -4px 0 4px;
+}
+.styledSelect:focus-within {
+  border: .2em solid #000;
+  border-radius: .4em;
+  box-shadow: 0 .1em .2em rgba(0,0,0,.45);
+}
+.styledSelect:focus-within input:checked + label {
+  background-color: #333;
+  color: #fff;
+  width: 100%;
+}
+
+        </style>
+        
+        <title>カスタムフォームコントロールの作成方法 - an_alternative_approach_using_radio_buttons - code sample</title>
+    </head>
+    <body>
+        
+            <fieldset>
+  <legend>Pick a fruit</legend>
+  <ul class="styledSelect">
+    <li><input type="radio" name="fruit" value="Cherry" id="fruitCherry" checked><label for="fruitCherry">Cherry</label></li>
+    <li><input type="radio" name="fruit" value="Lemon" id="fruitLemon"><label for="fruitLemon">Lemon</label></li>
+    <li><input type="radio" name="fruit" value="Banana" id="fruitBanana"><label for="fruitBanana"">Banana</label></li>
+    <li><input type="radio" name="fruit" value="Strawberry" id="fruitStrawberry"><label for="fruitStrawberry">Strawberry</label></li>
+    <li><input type="radio" name="fruit" value="Apple" id="fruitApple"><label for="fruitApple">Apple</label></li>
+  </ul>
+</fieldset>
+
+        
+        
+    </body>
+</html>

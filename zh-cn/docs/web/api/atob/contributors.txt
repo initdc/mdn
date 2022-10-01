@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/atob/index.md
+
+# Original Wiki contributors
+RainSlide
+zhangchen
+nkliyc
+dingyanhe
+xgqfrms-GitHub
+ziyunfei
+happyWang
+teoli
+khalid32

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/mozilla/add-ons/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Fernandolrs
+luciolb
+kaue
+Doug_Fany
+ThiagoEscarrone
+EduardoRedressa
+fabianosantos.net
+-
+janlima
+jswisher

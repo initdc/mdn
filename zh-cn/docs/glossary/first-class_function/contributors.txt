@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/first-class_function/index.md
+
+# Original Wiki contributors
+RainSlide
+gaoyanglol
+theprimone
+maoyumaoxun
+ydostyle
+shaodahong
+Jiang-Xuan
+eforegist

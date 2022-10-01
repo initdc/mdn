@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/first_steps/arrays/index.md
+
+# Original Wiki contributors
+eldesh
+dskmori
+wlt
+Uemmra3
+lulichn
+silverskyvicto
+mfuji09
+r-tamura
+chameleonhead

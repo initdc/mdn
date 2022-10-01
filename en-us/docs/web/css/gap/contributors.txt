@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/gap/index.md
+
+# Original Wiki contributors
+rachelandrew
+SimonSiefke
+wbamberg
+mfuji09
+Sheppy
+vinyldarkscratch
+ExE-Boss
+ddbeck
+mfluehr

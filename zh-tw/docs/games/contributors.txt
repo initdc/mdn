@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/games/index.md
+
+# Original Wiki contributors
+SphinxKnight
+wbamberg
+iigmir
+fscholz
+MashKao

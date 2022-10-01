@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/truthy/index.md
+
+# Original Wiki contributors
+RainSlide
+bambooom
+zhangwang3
+avocadowang
+zhaokuohaha
+soon
+zhuangyin
+xgqfrms-GitHub
+Serifx
+chomyeong

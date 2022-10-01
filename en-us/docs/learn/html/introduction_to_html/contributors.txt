@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/introduction_to_html/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+vlnsubmit
+onurbasturk
+sideshowbarker
+animeansiklopedisi
+CodeDotJS
+tayyabalishan
+DevForrestLyu
+kakwanisiddharth
+shilili
+boxa6
+weisan0616
+Koavf
+Beatheat
+PanayiotisPaschalides
+JuanRomoDev
+mjibrower
+federico71
+Avinash028
+Jeffrey_Yang
+Alihoday
+hadleyel
+jk777
+shashishekhar333
+LostLucidity

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/forms/sending_and_retrieving_form_data/index.md
+
+# Original Wiki contributors
+Rafasu
+rocioDEV
+MrGreen
+OseChez
+DaniNz
+peternerd
+SphinxKnight
+chrisdavidmills
+Ricky_Lomax

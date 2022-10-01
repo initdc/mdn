@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/webassembly/rust_to_wasm/index.md
+
+# Original Wiki contributors
+blboyle
+david.cdb004
+mjsML
+sheonhan
+edude03
+trevordmiller
+mfuji09
+jswisher
+ExE-Boss
+TerryOShea
+codebam
+toume
+nvarner
+chrisdavidmills

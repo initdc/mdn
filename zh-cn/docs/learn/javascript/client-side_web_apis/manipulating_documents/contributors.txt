@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/client-side_web_apis/manipulating_documents/index.md
+
+# Original Wiki contributors
+yinpeng123
+Kavelaa
+NotDead-NotPerish
+NightPoem
+tzigang

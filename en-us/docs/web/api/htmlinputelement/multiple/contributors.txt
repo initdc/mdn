@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlinputelement/multiple/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+fscholz
+Delapouite
+SmokeyPHP
+teoli
+kscarfone
+nehasharma
+Sheppy
+Crash

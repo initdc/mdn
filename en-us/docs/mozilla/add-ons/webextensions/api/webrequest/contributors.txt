@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/webrequest/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+rebloor
+chrisdavidmills
+wingman-jr-addon
+wbamberg
+fscholz
+Bill135
+irenesmith
+gerganzh
+Sheppy
+ExE-Boss
+JorisW
+Zayed-Hossen
+andrewtruongmoz
+abbycar
+andymckay

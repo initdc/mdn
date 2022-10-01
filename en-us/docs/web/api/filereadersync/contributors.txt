@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/filereadersync/index.md
+
+# Original Wiki contributors
+hamishwillee
+bershanskiy
+furkle
+fscholz
+SphinxKnight
+jpmedley
+cvrebert
+briandeheus
+agentme
+Reachmeatshivam
+Sheppy
+ziyunfei
+Rob W
+teoli

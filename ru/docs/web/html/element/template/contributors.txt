@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/template/index.md
+
+# Original Wiki contributors
+WinterSilence
+OneOfElders
+GalustOsipyan
+KoblentsAV
+apian
+fantkolja
+vzh
+Isk1n
+dood

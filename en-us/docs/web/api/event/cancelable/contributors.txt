@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/cancelable/index.md
+
+# Original Wiki contributors
+mfuji09
+lucaswerkmeister
+jportella93
+mfluehr
+fscholz
+AlexandreBonneau
+Tigt
+DomenicDenicola
+cvrebert
+teoli
+MHasan
+kscarfone
+Cobra
+ethertank
+Sheppy
+DavidWalsh
+ziyunfei
+Matej Lednar
+Kohei
+Mgjbot
+Jabez
+Nickolay
+Ptak82
+Dria
+JesseW

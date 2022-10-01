@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/orphaned/web/css/css_animations/detecting_css_animation_support/index.md
+
+# Original Wiki contributors
+anna.bunakova

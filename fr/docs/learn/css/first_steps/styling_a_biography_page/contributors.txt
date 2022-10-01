@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/css/first_steps/styling_a_biography_page/index.md
+
+# Original Wiki contributors
+SphinxKnight
+smeden-lod

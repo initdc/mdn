@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/css/cursor/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+hommaam

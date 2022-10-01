@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/var/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ramiy
+rachelandrew
+wbamberg
+fscholz
+mfuji09
+jpmedley
+ExE-Boss
+Sheppy
+jameswomack
+Rossolson
+Sebastianz
+DevelX
+PushpitaPikuDey
+rolfedh
+andreww2012
+yisibl

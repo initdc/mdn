@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  text-align : center;
+}
+button {
+  display : inline-block;
+  font-size : inherit;
+  margin : auto;
+  padding : 0.6em;
+}
+canvas {
+  display : block;
+  width : 280px;
+  height : 210px;
+  margin : auto;
+  padding : 0;
+  border : none;
+  background-color : black;
+}
+
+        </style>
+        
+        <title>Appliquer une couleur à la souris - appliquer_des_couleurs_aléatoires_dans_le_contexte_de_rendu - code sample</title>
+    </head>
+    <body>
+        
+            <p>Un programme WebGL très simple qui affiche des couleurs
+    suite aux interactions utilisateur.</p>
+<p>Vous pouvez cliquer sur le canevas ou sur le bouton pour
+    modifier la couleur.</p>
+<canvas id="canvas-view">Il semblerait que votre navigateur
+    ne supporte pas l'élément canvas.</canvas>
+<button id="color-switcher">Cliquez ici pour changer la couleur</button>
+
+        
+        
+            <script>
+                // On exécute tout dans le gestionnaire d'événement
+// correspondant au chargement de la fenêtre. De cette
+// façon, le DOM est complètement chargé et mis en forme
+// avant de le manipuler et d'encombrer la portée globale.
+// On donne un nom au gestionnaire (setupWebGL) afin de
+// pouvoir y faire référence par la suite.
+window.addEventListener("load", function setupWebGL (evt) {
+  "use strict"
+
+  // On fait le ménage : le gestionnaire se supprime lui-
+  // même car il n'a besoin d'être exécuté qu'une fois.
+  window.removeEventListener(evt.type, setupWebGL, false);
+
+  // On ajoute le même gestionnaire de clic sur le canevas
+  // et sur le bouton.
+  var canvas = document.querySelector("#canvas-view");
+  var button = document.querySelector("#color-switcher");
+  canvas.addEventListener("click", switchColor, false);
+  button.addEventListener("click", switchColor, false);
+
+  // On crée une variable qui contiendra WebGLRenderingContext.
+  var gl;
+
+  // La déclaration du gestionnaire d'événement pour le clic.
+  function switchColor () {
+
+    // On utilise la variable gl définie en dehors.
+    // Si elle n'est pas définie, on récupère WebGLRenderingContext.
+    // Si cela échoue, on avertit l'utilisateur. Sinon, on
+    // initialise la zone de dessin (viewport)
+    if (!gl) {
+      gl = canvas.getContext("webgl")
+        || canvas.getContext("experimental-webgl");
+      if (!gl) {
+        alert("Échec de la récupération du \n"
+          + "contexte WebGL. Votre navigateur peut ne pas \n"
+          + " supporter WebGL.");
+        return;
+      }
+      gl.viewport(0, 0,
+        gl.drawingBufferWidth, gl.drawingBufferHeight);
+    }
+
+    // On obtient une couleur aléatoire grâce
+    // à une fonction auxiliaire.
+    var color = getRandomColor();
+
+    // On choisit cette couleur comme couleur à appliquer.
+    gl.clearColor(color[0], color[1], color[2], 1.0);
+
+    // On applique la nouvelle couleur dans le contexte.
+    // C'est cette fonction qui effectue « réellement »
+    // le dessin sur la zone.
+    gl.clear(gl.COLOR_BUFFER_BIT);
+  }
+
+  // Une fonction auxiliaire pour créer une couleur aléatoire.
+  function getRandomColor() {
+    return [Math.random(), Math.random(), Math.random()];
+  }
+
+}, false);
+
+            </script>
+        
+    </body>
+</html>

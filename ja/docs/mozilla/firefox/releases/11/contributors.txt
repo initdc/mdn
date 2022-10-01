@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/11/index.md
+
+# Original Wiki contributors
+ethertank
+yyss
+Potappo

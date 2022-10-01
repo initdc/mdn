@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>view - example - code sample</title>
+    </head>
+    <body>
+        
+            <svg width="600" height="200" viewBox="0 0 600 200"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="gradient">
+      <stop offset="0%" stop-color="#8cffa0" />
+      <stop offset="100%" stop-color="#8ca0ff" />
+    </radialGradient>
+  </defs>
+
+  <circle r="50" cx="180" cy="50" style="fill:url(#gradient)"/>
+
+  <view id="halfSizeView" viewBox="0 0 1200 400"/>
+  <view id="normalSizeView" viewBox="0 0 600 200"/>
+  <view id="doubleSizeView" viewBox="0 0 300 100"/>
+
+  <a xlink:href="#halfSizeView">
+    <text x="5" y="20" font-size="20">half size</text>
+  </a>
+  <a xlink:href="#normalSizeView">
+    <text x="5" y="40" font-size="20">normal size</text>
+  </a>
+  <a xlink:href="#doubleSizeView">
+    <text x="5" y="60" font-size="20">double size</text>
+  </a>
+</svg>
+        
+        
+    </body>
+</html>

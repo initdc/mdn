@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/fetch_api/using_fetch/index.md
+
+# Original Wiki contributors
+mfuji09
+technohippy
+nanarya
+silverskyvicto
+dlwe
+Uemmra3
+Marsf
+woodmix
+mdmss37
+hamasaki
+yoshioms1
+lv7777
+YuichiNukiyama
+chikoski

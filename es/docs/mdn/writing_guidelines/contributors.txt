@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mdn/writing_guidelines/index.md
+
+# Original Wiki contributors
+Beatriz_Ortega_Valdes
+ecedenyo
+wbamberg
+jswisher
+hecaxmmx
+SoftwareRVG
+Jeremie
+carloslazaro
+cosmesantos
+wilo
+LuisArt
+sinfallas
+maedca

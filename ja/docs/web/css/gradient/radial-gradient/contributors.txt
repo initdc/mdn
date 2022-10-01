@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/gradient/radial-gradient/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+Sebastianz
+wizAmit
+slayslot
+dskmori
+ethertank
+sosleepy
+Level
+FredB

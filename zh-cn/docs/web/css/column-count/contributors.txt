@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/column-count/index.md
+
+# Original Wiki contributors
+xgqfrms-GitHub
+FuckingChestnut
+Sebastianz
+billcz
+fscholz
+FredWe

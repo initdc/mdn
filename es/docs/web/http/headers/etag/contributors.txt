@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/headers/etag/index.md
+
+# Original Wiki contributors
+zechworld
+evalenzuela
+stwilberth
+edgarrod71

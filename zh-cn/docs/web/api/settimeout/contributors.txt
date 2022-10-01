@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/settimeout/index.md
+
+# Original Wiki contributors
+SnowGojira
+iyow
+johnao
+chrisdavidmills
+csga31971
+baijingfeng
+Reci-z
+horrylala
+Adashuai5
+LilyWakana
+Mars687
+pinpinye
+Lby876176278
+Chancefeng
+fscholz
+xiazhe
+Frorice
+yhtml5
+righttoe
+Toxni
+piemonSong
+xgqfrms-GitHub
+heke2929
+SnowOnion
+Chimen
+hbkdsm
+paddingme
+teoli
+khalid32
+Meteormatt
+ziyunfei

@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/remove/index.md
+
+# Original Wiki contributors
+jm5764946
+hcoronado
+stevenvachon
+mauskin
+joedf
+HawkeyePierce89
+mfuji09
+mfluehr
+fscholz
+erikadoyle
+Tobie
+chrisdavidmills
+jacott
+DomenicDenicola
+stevenwdv
+jszhou
+arronei
+jpmedley
+theotherdell
+huupoke12
+jkbockstael
+pepri
+valtlait1
+cvrebert
+shgysk8zer0
+paul.irish
+teoli
+ziyunfei
+jyasskin
+elisee
+tregagnon

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/inline_formatting_context/index.md
+
+# Original Wiki contributors
+pans9
+chrisdavidmills
+rachelandrew

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/cssstylesheet/index.md
+
+# Original Wiki contributors
+Carllllo
+RainSlide
+xgqfrms-GitHub
+helloguangxue
+teoli
+less
+ziyunfei
+asmedrano

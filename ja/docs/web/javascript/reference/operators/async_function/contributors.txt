@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/async_function/index.md
+
+# Original Wiki contributors
+frodo821
+YuichiNukiyama

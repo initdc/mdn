@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/guide/functions/index.md
+
+# Original Wiki contributors
+alejandro.fca
+Nachec
+AmazonianCodeGuy
+Leopohf
+BubuAnabelas
+marscr
+SantiagoHdez
+beckod
+sergio_p_d
+01luisrene
+yozen
+gersonfa
+HeberRojo
+GabrielaMcr93
+yakashiro
+Cleon
+fscholz
+Glaucius
+teoli
+chebit
+epcode

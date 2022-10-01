@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/issealed/index.md
+
+# Original Wiki contributors
+yuyeqianxun
+zhangchen
+xgqfrms-GitHub
+Ende93
+helinjiang
+AlexChao
+teoli
+ziyunfei
+undercooled

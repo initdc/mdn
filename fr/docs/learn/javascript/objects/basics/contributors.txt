@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/javascript/objects/basics/index.md
+
+# Original Wiki contributors
+GDFtj
+FloppyJunior
+franssu
+grandoc
+spike008t
+srimko
+LDCL
+Halkeand
+SphinxKnight
+mouffy

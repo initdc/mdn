@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/websockets_api/writing_websocket_servers/index.md
+
+# Original Wiki contributors
+ThCarrere
+SphinxKnight
+cbdt
+H4dr1en
+Jibec
+Nek-
+ynno
+Nothus

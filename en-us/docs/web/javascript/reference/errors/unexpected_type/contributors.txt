@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/errors/unexpected_type/index.md
+
+# Original Wiki contributors
+fscholz
+mikkovedru
+irhadkul
+PatrickKettner
+SphinxKnight
+nguyenkien1997
+MadeByMike
+srih4ri
+hanif777
+nmve

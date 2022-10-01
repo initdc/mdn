@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/web_workers_api/using_web_workers/index.html
+
+# Original Wiki contributors
+hendaniel
+arbesulo
+zynt1102
+albertovelazmoliner
+luisdos
+EricMoIr
+hmorv
+DeiberChacon
+rsalgado
+mvargasmoran

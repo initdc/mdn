@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/canvas_api/tutorial/index.md
+
+# Original Wiki contributors
+CarlosRodrigues
+Halcance
+MarceloBRN
+angelosds
+Claudiovascaino
+gxovano
+gutierri
+trevorh

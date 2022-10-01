@@ -1,0 +1,43 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/text-overflow/index.md
+
+# Original Wiki contributors
+mfuji09
+ddbeck
+fscholz
+sideshowbarker
+rachelandrew
+Sheppy
+jonjohnjohnson
+mfluehr
+bkfarnsworth
+hinell
+wbamberg
+Sebastianz
+erikadoyle
+benaston
+vanjacosic
+Krenair
+yisibl
+Dattaya
+jwhitlock
+tregagnon
+kscarfone
+teoli
+khs
+coleman
+jswisher
+alys
+ethertank
+mattbrundage
+lmorchard
+FredB
+hATrayflood
+Tantek
+evilpie
+Jürgen Jeka
+Brettz9
+sebmozilla
+Shaver
+jkronegg
+Znerd

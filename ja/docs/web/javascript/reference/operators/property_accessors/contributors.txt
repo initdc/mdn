@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/property_accessors/index.md
+
+# Original Wiki contributors
+mfuji09
+meteoride-zero
+YuichiNukiyama
+teoli
+ethertank
+Potappo

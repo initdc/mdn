@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webglrenderingcontext/bindframebuffer/index.md
+
+# Original Wiki contributors
+hellorayza
+C0DE_MONKEY

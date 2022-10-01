@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/em/index.md
+
+# Original Wiki contributors
+SphinxKnight
+marie-ototoi
+Goofy
+tregagnon
+teoli
+regisg27

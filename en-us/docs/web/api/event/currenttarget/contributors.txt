@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/currenttarget/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+jadjoubran
+Dorward
+fabiosantoscode
+hinell
+mfluehr
+fscholz
+329530588
+thomasuebel
+erikadoyle
+bblack
+cvrebert
+Sebastianz
+teoli
+Cobra
+Sheppy
+dbruant
+ziyunfei
+DavidWalsh
+evilpie
+Sevenspade
+shiawuen
+Matej Lednar
+Nickolay
+Hamstersoup
+Jabez
+Ptak82
+Dria
+JesseW

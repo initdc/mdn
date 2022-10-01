@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/number/min_value/index.md
+
+# Original Wiki contributors
+mfuji09
+velusgautam
+fscholz
+wbamberg
+jameshkramer
+Mingun
+Sheppy
+ethertank
+ShimShamSam
+evilpie
+Sevenspade
+Mgjbot
+Ptak82
+Maian
+Dria

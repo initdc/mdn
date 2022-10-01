@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/user_interface/popups/index.md
+
+# Original Wiki contributors
+karakol2017
+Uemmra3

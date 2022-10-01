@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/scrollintoviewifneeded/index.md
+
+# Original Wiki contributors
+zhangchen
+teoli
+tadashi-chen
+hawtim
+Gary-c

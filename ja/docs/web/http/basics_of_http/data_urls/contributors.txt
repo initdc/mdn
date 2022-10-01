@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/basics_of_http/data_urls/index.md
+
+# Original Wiki contributors
+mfuji09
+silverskyvicto
+yyss
+ethertank
+sosleepy

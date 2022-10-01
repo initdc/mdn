@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/web_workers_api/using_web_workers/index.md
+
+# Original Wiki contributors
+Potappo
+windchime-yk
+chooblarin
+mfuji09
+hamasaki
+tom-konda
+yyss
+ethertank

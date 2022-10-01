@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/math/index.html
+
+# Original Wiki contributors
+sashakrauzer
+S-le
+Sliokkory
+KSH-audibene
+boxa6
+Nexmean
+MrEfrem
+Mingun
+teoli
+kolyuchii
+Ladislas
+fscholz

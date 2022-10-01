@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document/createelement/index.md
+
+# Original Wiki contributors
+AlePerez92
+Juandresyn
+aitorllj93
+BrodaNoel
+McSonk
+malonson
+AlejandroBlanco
+daesnorey_xy
+JoaquinGonzalez

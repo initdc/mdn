@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/image-orientation/index.md
+
+# Original Wiki contributors
+SphinxKnight
+prayash
+Sebastianz
+teoli
+FredB

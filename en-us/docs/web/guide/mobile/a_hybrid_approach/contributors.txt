@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/mobile/a_hybrid_approach/index.md
+
+# Original Wiki contributors
+rafrex
+teoli
+BenB
+skimpax
+trevorh
+caos30
+kohei.yoshino
+jswisher

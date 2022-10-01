@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/first_steps/styling_a_biography_page/index.md
+
+# Original Wiki contributors
+dlnb526
+kuhnpku
+Hans0915

@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/confirm/index.md
+
+# Original Wiki contributors
+alattalatta
+mfuji09
+fscholz
+Tigt
+ericjung
+DomenicDenicola
+jpmedley
+teoli
+sanjaygouri
+openjck
+kaecy
+kscarfone
+cbier90
+trevorh
+ethertank
+Sheppy
+maybe
+bhofmann
+another_sam
+Mgjbot
+BenoitL
+Nickolay
+Greatslovakia
+Maian
+Dria
+Callek
+JesseW

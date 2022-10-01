@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/nan/index.md
+
+# Original Wiki contributors
+mfuji09
+mpcjazz
+teramotodaiki
+segayuu
+x2357
+teoli
+ethertank
+Potappo
+Mgjbot
+Yuichirou

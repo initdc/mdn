@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/performance/getentriesbytype/index.md
+
+# Original Wiki contributors
+dazaooo
+lsh83718802

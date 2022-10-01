@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/local_variable/index.md
+
+# Original Wiki contributors
+mfuji09
+Uemmra3
+Wind1808

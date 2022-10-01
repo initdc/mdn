@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/lostpointercapture_event/index.md
+
+# Original Wiki contributors
+Clarkkkk
+mfuji09
+wbamberg

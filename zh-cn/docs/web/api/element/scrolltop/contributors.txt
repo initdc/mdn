@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/scrolltop/index.md
+
+# Original Wiki contributors
+dylanyg
+zhangchen
+reascript
+anefish
+xgqfrms-GitHub
+_sollrei
+Freed
+Shangxin
+broven
+MeCKodo

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/domimplementation/createdocument/index.md
+
+# Original Wiki contributors
+absudra
+mySoul
+Cribug8080

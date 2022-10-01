@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/audio_and_video_delivery/index.md
+
+# Original Wiki contributors
+bershanskiy
+chrisdavidmills
+SanjayPJ
+Sheppy
+sideshowbarker
+christiankaindl
+Jib
+maboa
+FredB

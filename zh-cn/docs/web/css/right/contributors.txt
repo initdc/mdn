@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/right/index.md
+
+# Original Wiki contributors
+Zhang-Junzhi
+codevvvv9
+xupea
+Sebastianz
+omega4github

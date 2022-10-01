@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/video/index.md
+
+# Original Wiki contributors
+myy7362
+Yangjia23
+hahaaha
+kirbey
+DonSen
+beautyTang
+jnvf
+Soyaine
+wbamberg
+Shangxin
+esterTion
+jfw10973
+ziyunfei
+hxl

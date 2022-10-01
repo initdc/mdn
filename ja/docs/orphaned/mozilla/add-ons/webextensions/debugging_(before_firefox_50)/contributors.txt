@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/mozilla/add-ons/webextensions/debugging_(before_firefox_50)/index.md
+
+# Original Wiki contributors
+

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/multimedia_and_embedding/other_embedding_technologies/index.md
+
+# Original Wiki contributors
+NellPoi
+yangko
+pacexy
+monkey-king
+WoodCube
+Roy-Tian
+ChairMao
+ZhangDaZongWei
+Danielxiey
+615lyw
+CaTmmao
+Lohoyo
+RevolverOcelotA
+lihaoyuan
+superkuang
+yydzxz
+ddtyjmyjm
+Eric.Wu

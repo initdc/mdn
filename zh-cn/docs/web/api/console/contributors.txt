@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/console/index.md
+
+# Original Wiki contributors
+wuguichiroumeiyou
+R2h1
+Astroleander
+xuzijie1995
+lifankohome
+RainSlide
+yoodz
+vaynewang
+puppyer
+xgqfrms-GitHub
+fuchao2012
+hefengxian
+micblo
+artificial
+jerryzjq
+fghpdf
+houguang
+jinboyigu
+fortruth
+jiereal

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/input/button/index.md
+
+# Original Wiki contributors
+SphinxKnight
+marie-ototoi
+dreizn
+Bat
+Goofy

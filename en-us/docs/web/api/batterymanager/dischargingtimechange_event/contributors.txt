@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/batterymanager/dischargingtimechange_event/index.md
+
+# Original Wiki contributors
+fscholz
+chrisdavidmills
+tatellos
+Hugues-Antoine
+Fernando_Bernal_Marin
+Sebastianz
+franciov
+teoli
+mounirlamouri
+Sheppy
+Jeremie

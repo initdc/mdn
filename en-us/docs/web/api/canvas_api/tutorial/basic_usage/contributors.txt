@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvas_api/tutorial/basic_usage/index.md
+
+# Original Wiki contributors
+sideshowbarker
+bradley27783
+chrisdavidmills
+y21
+stephaniehobson
+nitishroy
+trentguillory
+nmve
+Sophia2329
+vedraan
+jsx
+violetlight
+kscarfone
+peterjeliot
+teoli
+fscholz
+xfq
+Jeremie
+mahmudtamim
+nickgarvey
+ethertank
+Sheppy

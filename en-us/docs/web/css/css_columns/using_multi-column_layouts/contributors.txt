@@ -1,0 +1,42 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_columns/using_multi-column_layouts/index.md
+
+# Original Wiki contributors
+mfuji09
+KadirTopal
+Nisarg-Shah
+ExE-Boss
+rachelandrew
+mfluehr
+Sebastianz
+JacobyAlley
+xfq
+David_Gilbertson
+chrisdavidmills
+guilhermemuller
+duncanmcdonald
+teoli
+jigs12
+fscholz
+RAMilewski
+Jeremie
+kscarfone
+Sheppy
+tgrant54
+astgtciv
+cpearce
+sebmozilla
+Jürgen Jeka
+miken32
+Takkaria
+BijuGC
+Mgjbot
+bradipao
+Jorolo
+Sebuls
+Pmsyyz
+Ptak82
+Dria
+BenoitL
+Staszyna
+Roc

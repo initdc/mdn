@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/number/index.md
+
+# Original Wiki contributors
+gise-s
+charlietaracenadrums
+carlintrujillo11
+luispro19
+Jethrotul
+KamerrOficial
+AlePerez92
+olijyat
+teoli
+Mgjbot
+Sheppy

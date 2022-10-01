@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mutationobserver/mutationobserver/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+KonradLinkowski
+anonyco
+duncancumming
+fscholz
+KingSupernova
+delete12345
+samuraiseoul
+Sheppy

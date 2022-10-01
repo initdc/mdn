@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/webassembly/c_to_wasm/index.md
+
+# Original Wiki contributors
+dwrolvink
+chrisdavidmills
+prabhat.agarwal
+leela52452
+ymenghank
+ExE-Boss
+SrivastavaAnubhav
+kripken
+jpmedley
+sideshowbarker
+Spidey
+rubyslippers
+FruityWelsh
+Armek
+dww_k
+kyuwoo-choi
+topicus
+BrainBuzzer

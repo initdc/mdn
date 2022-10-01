@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/crlf/index.md
+
+# Original Wiki contributors
+pcw
+joaonunomota
+hutushen222
+Porkepix
+klez
+rahul91
+chrisdavidmills

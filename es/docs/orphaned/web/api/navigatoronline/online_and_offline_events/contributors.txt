@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/orphaned/web/api/navigatoronline/online_and_offline_events/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Mgjbot
+Nukeador
+RickieesES
+Unixcoder

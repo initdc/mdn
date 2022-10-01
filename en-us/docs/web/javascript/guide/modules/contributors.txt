@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/guide/modules/index.md
+
+# Original Wiki contributors
+ryanatkn
+Sheppy
+bradleymeck
+Flimm
+fazl
+wbamberg
+chrisdavidmills
+GeoffreyBooth
+ExE-Boss
+fscholz
+mathiasbynens
+Tigrex
+douglasnaphas

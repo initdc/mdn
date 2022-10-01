@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_invalid/index.md
+
+# Original Wiki contributors
+rachelandrew
+mfuji09
+wbamberg
+estelle
+jmstfv
+robocat
+SphinxKnight
+chrisdavidmills
+ericwbailey
+fscholz
+mfluehr
+Sebastianz
+scottaohara
+erikadoyle
+zvuc
+Lemondoge
+Inkbug
+MusikAnimal
+Majr
+kscarfone
+Sheppy
+teoli
+cers
+FredB
+brianloveswords
+McGurk
+nimbupani
+jswisher
+sicking

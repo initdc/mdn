@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/session/index.md
+
+# Original Wiki contributors
+tetsuya.ohira
+mfuji09
+hiroga
+yyss

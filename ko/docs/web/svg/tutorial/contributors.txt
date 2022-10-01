@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/svg/tutorial/index.md
+
+# Original Wiki contributors
+jwoo0122
+EatChangmyeong
+nacyot
+epicsaga
+teoli
+이선영

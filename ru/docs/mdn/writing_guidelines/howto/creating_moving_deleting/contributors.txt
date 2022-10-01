@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/writing_guidelines/howto/creating_moving_deleting/index.html
+
+# Original Wiki contributors
+karifan8767
+wbamberg
+djigach
+KaroHovhannisyan
+Ferguse
+vaser321
+TemmyR
+Servik17
+vislogurov
+Chronosms
+BychekRU
+SashaSh
+Spiker

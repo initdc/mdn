@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/html/introduction_to_html/getting_started/index.md
+
+# Original Wiki contributors
+180ukinnver
+jinseobhong
+LYJ
+nancydocode
+xmlnsBuzz
+Ken123777
+cheesecat47
+HoLlOlLoLlU
+NohSeho
+sooup2
+gyukebox
+wonca
+rote-IL
+Sasin
+takeU
+ChanghwaLee

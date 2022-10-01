@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/videoplaybackquality/totalvideoframes/index.md
+
+# Original Wiki contributors
+Sheppy
+fscholz
+erikadoyle
+nmve
+chrisdavidmills
+Wickedreplica666@gmail.com
+kscarfone
+teoli

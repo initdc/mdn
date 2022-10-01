@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/3/updating_extensions/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+Potappo
+Gomita
+Mgjbot
+Kohei
+Nanto vi
+Kozawa
+Koyamak

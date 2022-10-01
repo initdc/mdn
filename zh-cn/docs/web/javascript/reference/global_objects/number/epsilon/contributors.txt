@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/number/epsilon/index.md
+
+# Original Wiki contributors
+SageX
+Fire1nRain
+Liugq5713
+AlexChao
+jokeviner

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/substring/index.md
+
+# Original Wiki contributors
+HCSkatana
+SageX
+libaixu
+zhuangyin
+hexianzhi
+xgqfrms-GitHub
+qujingyouyachu
+helloguangxue
+bailnl
+AlexChao

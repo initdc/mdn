@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/blobevent/index.md
+
+# Original Wiki contributors
+SphinxKnight
+illaweb35
+Sheppy

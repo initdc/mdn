@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/getting_started_with_the_web/index.md
+
+# Original Wiki contributors
+Nachec
+IsraFloores
+Enesimus
+rodririobo
+escalant3
+jimmypazos
+ingridc
+hamfree
+npcsayfail
+BrodaNoel
+israel-munoz
+Da_igual
+welm
+Diio
+darbalma
+chrisdavidmills

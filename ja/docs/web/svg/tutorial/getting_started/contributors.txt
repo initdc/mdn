@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/tutorial/getting_started/index.md
+
+# Original Wiki contributors
+mfuji09
+coder-ka
+nacyot
+ethertank
+yyss
+Mgjbot
+STT

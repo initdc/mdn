@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/proxy/index.md
+
+# Original Wiki contributors
+saifeiLee
+VicterSun
+RainSlide
+Hilshire
+liuguanyu
+xgqfrms-GitHub
+zhangchen
+Lave
+gaoupon
+kdex
+gaopeng
+07akioni
+wzx
+Go7hic
+WarriorWu
+Katherina-Miao
+ziyunfei
+teoli

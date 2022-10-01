@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            [role="checkbox"] {
+    padding:5px;
+}
+
+[aria-checked="true"]::before {
+    content: "[x]";
+}
+
+[aria-checked="false"]::before {
+    content: "[ ]";
+}
+
+        </style>
+        
+        <title>ARIA: checkbox ロール - examples - code sample</title>
+    </head>
+    <body>
+        
+            <span role="checkbox" id="chkPref" aria-checked="false" onclick="changeCheckbox()" onKeyPress="changeCheckbox()"
+   tabindex="0" aria-labelledby="chk1-label"></span>
+<label id="chk1-label" onclick="changeCheckbox()" onKeyPress="changeCheckbox()">Remember my preferences</label>
+
+        
+        
+            <script>
+                function changeCheckbox(event) {
+    let item = document.getElementById('chkPref');
+    switch(item.getAttribute('aria-checked')) {
+        case "true":
+            item.setAttribute('aria-checked', "false");
+            break;
+        case "false":
+            item.setAttribute('aria-checked', "true");
+            break;
+    }
+}
+
+            </script>
+        
+    </body>
+</html>

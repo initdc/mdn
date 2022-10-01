@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/map/index.md
+
+# Original Wiki contributors
+fscholz
+Zzc19970910
+Slartbartfast1
+Jayly
+ooo1l
+petrewoo
+SageX
+old2sun
+BingerWeb
+zhangchen
+ssttii
+fengkx
+xgqfrms-GitHub
+W4n9Hu1
+hooozen
+Ts799498164
+zhuangyin
+righttoe
+notmaster
+Ende93
+niices
+JinxiuLee
+ziyunfei
+helinjiang
+Young-Wang
+xiaomingming
+AlexChao
+teoli

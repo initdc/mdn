@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/padding-left/index.md
+
+# Original Wiki contributors
+bershanskiy
+Sebastianz
+Prinz_Rana
+andreww2012
+justtry

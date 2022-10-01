@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/guide/introduction/index.md
+
+# Original Wiki contributors
+Nachec
+jlopezfdez
+Th3Cod3
+enriqueabsurdum
+arfuengo
+gfvcastro
+RamiroNeher
+fscholz
+MauroEldritch
+Cleon
+orasio
+angelnajera
+rianby64

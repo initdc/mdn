@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/__definesetter__/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+sideshowbarker
+anyruizd
+jameshkramer
+eduardoboucas
+Ms2ger
+arai
+ziyunfei
+Mingun
+Sheppy
+ethertank
+trevorh
+evilpie
+Sevenspade
+Mgjbot

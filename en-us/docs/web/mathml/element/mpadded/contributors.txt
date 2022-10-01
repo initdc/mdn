@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/mathml/element/mpadded/index.md
+
+# Original Wiki contributors
+rachelandrew
+fscholz
+Yaffle
+Sheppy
+Jon972
+jswisher

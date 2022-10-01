@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transform-style/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+ddbeck
+fscholz
+sideshowbarker
+rachelandrew
+wbamberg
+Sheppy
+mfluehr
+scholachoi
+Sebastianz
+erikadoyle
+LPGhatguy
+smalllong
+eartha5
+J-Mackerel
+kscarfone
+teoli
+Ugoku
+bitinn
+ethertank
+CutenessOverload

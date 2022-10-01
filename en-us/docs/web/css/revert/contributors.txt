@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/revert/index.md
+
+# Original Wiki contributors
+runn1ng
+phanos
+xinnhui
+elias6
+Nux
+chrisdavidmills
+bgs99
+Sheppy
+fscholz
+HTMLValidator
+mfluehr
+ebidel
+teoli
+cvrebert
+yisibl
+Sebastianz

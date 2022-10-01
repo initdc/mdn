@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/idbfactory/index.md
+
+# Original Wiki contributors
+bershanskiy
+SphinxKnight
+gadgino

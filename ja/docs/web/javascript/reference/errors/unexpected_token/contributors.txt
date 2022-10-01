@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/errors/unexpected_token/index.md
+
+# Original Wiki contributors
+mfuji09
+Uemmra3
+chikoski
+YuichiNukiyama

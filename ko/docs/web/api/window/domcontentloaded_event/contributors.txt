@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/window/domcontentloaded_event/index.md
+
+# Original Wiki contributors
+dink95
+alattalatta
+wbamberg
+ExE-Boss
+project42da

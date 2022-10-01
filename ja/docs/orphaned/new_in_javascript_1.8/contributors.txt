@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/new_in_javascript_1.8/index.md
+
+# Original Wiki contributors
+ethertank
+Potappo

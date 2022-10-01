@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/functions/arrow_functions/index.md
+
+# Original Wiki contributors
+iigmir
+ShawnLin
+Lazine
+xuan0123
+bagayollow
+ctc53
+kuolun
+jackblackevo
+freddy50806
+Aisuzuka
+Jaja
+tonykuo
+yungtah
+Snailpool
+wkliang
+linjimmy168
+foxbrush

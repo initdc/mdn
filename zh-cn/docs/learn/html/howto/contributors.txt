@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/howto/index.md
+
+# Original Wiki contributors
+xmcgcg
+coderfee
+WooHooDai
+sallyllas
+sour-toilet-seat
+webber007
+pengtikui
+skylakecore
+qixi

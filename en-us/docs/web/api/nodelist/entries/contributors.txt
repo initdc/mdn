@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/nodelist/entries/index.md
+
+# Original Wiki contributors
+Sheppy
+sideshowbarker
+ExE-Boss
+valtlai
+teoli
+fscholz

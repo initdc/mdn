@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/htmlinputelement/setselectionrange/index.md
+
+# Original Wiki contributors
+Carllllo
+ezirmusitua
+linningmii

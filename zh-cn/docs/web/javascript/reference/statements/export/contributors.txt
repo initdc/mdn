@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/statements/export/index.md
+
+# Original Wiki contributors
+wenxiayili
+panzhh
+brizer
+Casseil-1996
+zhouxyy
+symant233
+Asuka109
+hanalice
+narutojian
+ThisIszas
+GentleGong
+woniuxingdong
+TeabugCC
+yinpeng123
+RainSlide
+xgqfrms
+wossig
+zarvin
+TimmyKingFree
+zhangchen
+xgqfrms-GitHub
+Jiang-Xuan
+Suixinlei
+nolanlee
+sartrey
+jianyi1995

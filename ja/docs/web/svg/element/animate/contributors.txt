@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/element/animate/index.md
+
+# Original Wiki contributors
+n-oshiro
+mfuji09
+takenspc
+wbamberg
+Sebastianz
+fscholz
+teoli
+manzyun

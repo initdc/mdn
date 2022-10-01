@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/file_and_directory_entries_api/index.md
+
+# Original Wiki contributors
+peterbe
+rahildar
+fscholz
+ExE-Boss
+Sheppy
+tocretpa
+arthuredelstein
+chrisdavidmills
+pipcet
+alexisdelee
+teoli
+Jeremie
+cvrebert
+kscarfone
+boa0332
+ScottMichaud

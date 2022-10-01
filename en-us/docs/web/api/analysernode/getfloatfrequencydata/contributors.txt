@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/analysernode/getfloatfrequencydata/index.md
+
+# Original Wiki contributors
+1valdis
+sideshowbarker
+Giorgio-w
+ericandrewlewis
+liqi0816
+Rumyra
+Jedipedia
+fscholz
+Sheppy
+erikadoyle
+teoli
+Fournux
+chrisdavidmills

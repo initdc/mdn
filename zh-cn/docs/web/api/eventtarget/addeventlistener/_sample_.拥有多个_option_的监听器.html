@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>EventTarget.addEventListener() - 拥有多个_option_的监听器 - code sample</title>
+    </head>
+    <body>
+        
+            <button id="example-button">You have not clicked this button.</button>
+<button id="reset-button">Click this button to reset the first button.</button>
+
+        
+        
+            <script>
+                const buttonToBeClicked = document.getElementById("example-button");
+
+const resetButton = document.getElementById("reset-button");
+
+// 示例按钮的初始文本
+const initialText = buttonToBeClicked.textContent;
+
+// 点击示例按钮后显示的文本
+const clickedText = "You have clicked this button.";
+
+// 我们将事件监听器函数单独提出，以防止重复添加监听函数
+function eventListener() {
+  buttonToBeClicked.textContent = clickedText;
+}
+
+function addListener() {
+  buttonToBeClicked.addEventListener(
+    "click",
+    eventListener,
+    {
+      passive: true,
+      once: true
+    }
+  );
+}
+
+// 当点击重置按钮后，示例按钮将被重置，并可以再次更新它自身的状态
+resetButton.addEventListener(
+  "click",
+  () => {
+    buttonToBeClicked.textContent = initialText;
+    addListener();
+  }
+);
+
+addListener();
+
+            </script>
+        
+    </body>
+</html>

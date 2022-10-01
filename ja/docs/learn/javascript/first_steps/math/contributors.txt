@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/first_steps/math/index.md
+
+# Original Wiki contributors
+eldesh
+silverskyvicto
+tky529
+tamemotoakihiro
+wlt
+Uemmra3
+thinking-capybara
+mfuji09
+chameleonhead

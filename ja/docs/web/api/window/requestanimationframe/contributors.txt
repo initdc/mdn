@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/requestanimationframe/index.md
+
+# Original Wiki contributors
+mfuji09
+YuichiNukiyama
+woodmix
+Marsf
+sohopro
+teoli
+yuxxxx
+ethertank

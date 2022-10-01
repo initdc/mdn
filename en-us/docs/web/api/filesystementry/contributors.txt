@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/filesystementry/index.md
+
+# Original Wiki contributors
+NiklasMerz
+fscholz
+watashiSHUN
+chrisdavidmills
+libbymc
+Sheppy
+vrana
+jwhitlock
+kscarfone
+ethertank
+teoli
+gjuggler
+grendel

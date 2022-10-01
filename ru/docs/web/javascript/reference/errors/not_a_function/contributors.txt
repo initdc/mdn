@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/errors/not_a_function/index.html
+
+# Original Wiki contributors
+merelj
+elscept
+winvano
+vladyslavnes
+MonX94
+eedmast
+s1lver

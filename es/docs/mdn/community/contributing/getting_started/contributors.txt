@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mdn/community/contributing/getting_started/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Anibalismo
+MIKE1203
+gcjuan
+clarii
+wbamberg
+0zxo
+dariomaim
+grover.velasquez
+Primo18
+maubarbetti
+Arukantara
+jsx
+fraph
+teoli
+aguilaindomable
+LeoHirsch
+cototion

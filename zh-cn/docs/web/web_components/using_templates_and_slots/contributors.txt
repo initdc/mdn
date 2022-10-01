@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/web_components/using_templates_and_slots/index.md
+
+# Original Wiki contributors
+luzhenqian
+jingkaimori
+Yayure
+whuhyw
+sjpeter
+Czzzx
+JasonKee
+xgqfrms
+xrr2016
+zxk7516

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/games/tutorials/2d_breakout_game_phaser/extra_lives/index.html
+
+# Original Wiki contributors
+f1reSong
+BVaflick

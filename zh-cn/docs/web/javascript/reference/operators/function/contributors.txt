@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/function/index.md
+
+# Original Wiki contributors
+inlics
+LJJ1996
+ucev
+zhuangyin
+ryanlid
+xgqfrms-GitHub
+Ende93
+AlexChao
+SphinxKnight
+nightire

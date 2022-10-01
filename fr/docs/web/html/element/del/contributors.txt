@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/del/index.md
+
+# Original Wiki contributors
+THE_PHOENIX
+SphinxKnight
+Goofy
+thomas.g
+tregagnon

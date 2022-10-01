@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_grid_layout/realizing_common_layouts_using_css_grid_layout/index.md
+
+# Original Wiki contributors
+rachelandrew
+ferrybig
+mfluehr
+Konrud
+aermolaev
+teoli

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/vibration_api/index.md
+
+# Original Wiki contributors
+alattalatta
+pjc0247
+Sheppy
+yunji_koh

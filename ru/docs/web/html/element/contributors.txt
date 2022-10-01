@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/index.md
+
+# Original Wiki contributors
+AlimU11
+BychekRU
+Tihoem
+Aleksej
+teoli
+Norville
+irmatov
+ethertank
+Softwayer

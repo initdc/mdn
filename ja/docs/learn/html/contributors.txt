@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/html/index.md
+
+# Original Wiki contributors
+silverskyvicto
+mfuji09
+T.Ukegawa
+sugarbell
+chrisdavidmills

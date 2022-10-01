@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/index.md
+
+# Original Wiki contributors
+daisuke-f
+sutara79
+mfuji09
+rosskie
+chikoski
+Marsf
+Uemmra3
+mamodayo
+x2357
+underdolphin
+isdh
+teoli
+ethertank
+happysadman
+Yuichirou
+Potappo
+electrolysis
+Shoot
+Mgjbot
+RxOrca

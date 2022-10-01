@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/service_worker_api/index.html
+
+# Original Wiki contributors
+Fedapamo
+andrpueb
+ibanlopez
+eltioico
+chrisdavidmills

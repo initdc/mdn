@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/learn/getting_started_with_the_web/css_basics/index.md
+
+# Original Wiki contributors
+wslisam
+jpliu24
+seanhung-isu
+nighet
+Paul0302
+jjyaung
+thegaze77
+eric211924
+e7822501
+yuwei2s
+Ruiyuan34
+iigmir
+Chintears
+montagne3653
+freddy50806
+YuCheng
+ffturtle

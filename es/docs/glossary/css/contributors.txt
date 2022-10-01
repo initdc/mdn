@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/css/index.md
+
+# Original Wiki contributors
+hello
+Maletil
+cawilff
+Sergio_Gonzalez_Collado
+analia.antenucci
+sergio_p_d
+memotronix

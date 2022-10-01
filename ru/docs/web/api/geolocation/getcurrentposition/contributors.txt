@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/geolocation/getcurrentposition/index.html
+
+# Original Wiki contributors
+ekirpichyov
+posadskii766
+bagau

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/base/index.md
+
+# Original Wiki contributors
+guow10
+RainSlide
+dodoBehind
+Lux.lu
+xgqfrms-GitHub
+TheaAo
+betseyliu
+eforegist
+PythonFo
+RainKolwa
+chinaliyun
+mengzyou
+nobug

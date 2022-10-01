@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/server-side/django/authentication/index.md
+
+# Original Wiki contributors
+peterkim
+proost
+dorage
+PeterKim1967
+SYCHOI

@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/contribute/index.md
+
+# Original Wiki contributors
+sourabhramsingh
+maxTarlov
+chrisdavidmills
+aditibasu
+wbamberg
+SphinxKnight
+shwetabhsuman
+jswisher
+wdot789
+fotografi
+Sheppy
+vikash111
+Kerstomaat
+ertogrul
+elwakil
+Thomskii
+Lasantha
+jsx
+saifulislam1
+adi28galaxyak
+Volluta
+Husaria
+klez
+pytseng
+alispivak
+utente-pc
+emmanuelodenyire
+Mars

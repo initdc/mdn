@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/imul/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+iamahuman
+Peppesterest
+Jedipedia
+Rsperberg
+alflanagan
+anonyco
+jameshkramer
+rwaldron
+anton-bannykh
+eduardoboucas
+Mingun
+realityking
+kirilloid
+kscarfone
+ethertank
+evilpie
+Sheppy
+ziyunfei
+mkato
+jvilk
+berkerpeksag
+jrmuizel
+teoli

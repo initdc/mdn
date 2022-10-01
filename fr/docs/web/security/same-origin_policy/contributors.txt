@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/security/same-origin_policy/index.md
+
+# Original Wiki contributors
+GregMorel
+SphinxKnight
+Selbahc
+sblondon
+rle-mino
+fabienheureux
+teoli
+dwogsi

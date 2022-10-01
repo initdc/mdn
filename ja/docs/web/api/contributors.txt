@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/index.md
+
+# Original Wiki contributors
+mfuji09
+silverskyvicto
+Uemmra3
+Marsf
+teoli
+ethertank

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/filereader/abort/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+mfluehr
+fscholz
+erikadoyle
+flimzy
+Sebastianz
+teoli
+Jeremie

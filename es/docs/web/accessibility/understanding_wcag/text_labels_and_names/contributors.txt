@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/accessibility/understanding_wcag/text_labels_and_names/index.html
+
+# Original Wiki contributors
+giioaj
+IsraelFloresDGA

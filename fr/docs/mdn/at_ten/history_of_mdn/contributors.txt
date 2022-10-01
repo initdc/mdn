@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mdn/at_ten/history_of_mdn/index.md
+
+# Original Wiki contributors
+stephaniehobson
+tchevalier
+SphinxKnight

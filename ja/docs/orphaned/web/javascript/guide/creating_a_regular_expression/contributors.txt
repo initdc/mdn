@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/javascript/guide/creating_a_regular_expression/index.md
+
+# Original Wiki contributors
+ethertank
+dextra
+happysadman
+Mgjbot
+electrolysis

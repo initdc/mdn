@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/createelement/index.md
+
+# Original Wiki contributors
+Watilin
+loella16
+VictorLequin
+Ealhad
+Misty418
+fscholz
+teoli
+jsx
+Mgjbot
+BenoitL
+Takenbot

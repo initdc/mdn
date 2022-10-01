@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/videoplaybackquality/totalvideoframes/index.md
+
+# Original Wiki contributors
+liangxin199045

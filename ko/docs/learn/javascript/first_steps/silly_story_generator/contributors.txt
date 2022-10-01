@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/first_steps/silly_story_generator/index.md
+
+# Original Wiki contributors
+zero0yes
+chupark
+Jonnie-Lion

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/element/attachshadow/index.html
+
+# Original Wiki contributors
+klimentru1986
+Sparks

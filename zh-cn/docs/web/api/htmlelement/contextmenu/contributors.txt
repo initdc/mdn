@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/htmlelement/contextmenu/index.md
+
+# Original Wiki contributors
+zhangchen
+xiaokk06
+1Cr18Ni9

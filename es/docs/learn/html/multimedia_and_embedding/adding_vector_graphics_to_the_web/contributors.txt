@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/html/multimedia_and_embedding/adding_vector_graphics_to_the_web/index.md
+
+# Original Wiki contributors
+JuanMejia

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediaquerylist/addlistener/index.md
+
+# Original Wiki contributors
+ddbeck
+mfluehr
+thnam
+mfuji09
+ExE-Boss
+nerdkid93
+fscholz
+chrisdavidmills

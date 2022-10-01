@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/errors/too_much_recursion/index.html
+
+# Original Wiki contributors
+thepocp

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/const/index.html
+
+# Original Wiki contributors
+DASenkiv
+pepelsbey
+pk.prog
+torbasow
+WispProxy
+Grumvol
+xfg
+gibson
+crvst
+SphinxKnight
+KiraAndMaxim

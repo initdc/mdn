@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/eventtarget/addeventlistener/index.html
+
+# Original Wiki contributors
+codesandtags
+wbamberg
+padrecedano
+LuxDie
+juanbrujo
+StripTM
+fscholz
+samurai-code
+Josias
+edulon
+Chacho

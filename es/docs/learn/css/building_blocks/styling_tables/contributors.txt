@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/css/building_blocks/styling_tables/index.md
+
+# Original Wiki contributors
+UOCccorcoles
+editorUOC
+chrisdavidmills
+otheym
+wbamberg
+IXTRUnai

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/array/from/index.md
+
+# Original Wiki contributors
+alattalatta
+Violet-Bora-Lee
+KisukPark
+SphinxKnight
+디토
+ligeek

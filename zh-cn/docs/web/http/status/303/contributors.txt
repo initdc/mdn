@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/status/303/index.md
+
+# Original Wiki contributors
+ADTC
+WayneCui
+ujsxn

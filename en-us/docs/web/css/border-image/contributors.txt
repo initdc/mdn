@@ -1,0 +1,47 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-image/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+Sheppy
+az198071123
+mfluehr
+estelle
+ddbeck
+Jewwy0211
+ericwbailey
+brianmacdonald
+denisname
+erikadoyle
+jchorl
+Sebastianz
+jpmedley
+slayslot
+teoli
+fscholz
+jsx
+Jeremie
+konzee
+amitabha197
+koustuvsinha
+nguthrie9101
+LouisLazaris
+marcobiscaro2112
+kscarfone
+kasjan
+MarkLinus
+ethertank
+Murb
+Mohammed.Ibrahim
+PetiPandaRou
+mnoorenberghe
+brianloveswords
+barryvan
+leaverou
+Kennyluck
+paul.irish
+Jürgen Jeka
+zweinberg
+j.j.
+Wjjohnst

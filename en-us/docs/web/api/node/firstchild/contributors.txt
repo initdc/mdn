@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/firstchild/index.md
+
+# Original Wiki contributors
+RainSlide
+fscholz
+Tigt
+DomenicDenicola
+Sebastianz
+destin.moulton
+teoli
+kscarfone
+namolmes
+Sheppy
+ethertank
+evilpie
+ziyunfei
+leuqarte
+Matej Lednar
+Brettz9
+Mgjbot
+Nickolay
+Dewang
+V K
+RobG
+Ptak82
+DBaron
+BenoitL
+Dria
+Callek
+JesseW

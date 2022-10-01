@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/global_attributes/lang/index.md
+
+# Original Wiki contributors
+osipov_s
+almaceleste
+chrisdavidmills

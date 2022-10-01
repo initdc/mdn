@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/overflow-y/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+fscholz
+chrisdavidmills
+rwhogg
+ddbeck
+mildsunrise
+krosylight
+mfluehr
+KadirTopal
+scholachoi
+erikadoyle
+Sebastianz
+teoli
+jacquesdev
+cvrebert
+wmil
+sammyjayuk
+kscarfone
+ethertank
+Sheppy
+trevorh
+shitface
+BStruthers
+fbourassa41@gmail.com
+Jürgen Jeka

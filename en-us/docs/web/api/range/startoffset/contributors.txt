@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/startoffset/index.md
+
+# Original Wiki contributors
+fscholz
+abbycar
+teoli
+Brettz9
+kollishivagangadhar
+Navin_Jadhav
+Sheppy
+Ptak82
+Gor1

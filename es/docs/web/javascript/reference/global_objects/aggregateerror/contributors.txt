@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/aggregateerror/index.md
+
+# Original Wiki contributors
+Nachec
+Gardeky

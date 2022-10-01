@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlinputelement/setselectionrange/index.md
+
+# Original Wiki contributors
+aetonsi
+glacambre
+mfluehr
+fscholz
+alex-e-leon
+ambarox
+TakayoshiKochi
+davidnormo
+erikadoyle
+jakobc
+rolfedh
+Sebastianz
+Victor_Homyakov
+Nickolay
+teoli
+jswisher
+LouisLazaris
+kscarfone
+nehasharma
+vishu_gawli
+Sheppy
+syssgx
+Neil
+OsamaBinLogin

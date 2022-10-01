@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/element/foreignobject/index.md
+
+# Original Wiki contributors
+a-mt
+Sebastianz
+SphinxKnight
+marie-ototoi
+J.DMB
+Goofy
+akira86

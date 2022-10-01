@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/-ms-high-contrast/index.md
+
+# Original Wiki contributors
+rachelandrew
+sideshowbarker
+pankajpurke05
+wbamberg
+mfuji09
+ericwbailey
+WebMechanic
+ExE-Boss
+mfluehr
+jameshkramer

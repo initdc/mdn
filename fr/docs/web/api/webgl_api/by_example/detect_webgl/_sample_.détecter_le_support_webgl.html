@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  text-align : center;
+}
+button {
+  display : block;
+  font-size : inherit;
+  margin : auto;
+  padding : 0.6em;
+}
+
+        </style>
+        
+        <title>Détecter WebGL - détecter_le_support_webgl - code sample</title>
+    </head>
+    <body>
+        
+            <p>[ On affichera ici le résultat de la détection du support WebGL ]</p>
+<button>Cliquez ici pour détecter WebGLRenderingContext</button>
+
+        
+        
+            <script>
+                // On exécute tout dans le gestionnaire d'événement
+// correspondant au chargement de la fenêtre. De cette
+// façon, le DOM est complètement chargé et mis en forme
+// avant de le manipuler.
+window.addEventListener("load", function() {
+  var paragraph = document.querySelector("p"),
+    button = document.querySelector("button");
+
+  // On ajoute un gestionnaire d'événement pour
+  // le clic sur le bouton
+  button.addEventListener("click", detectWebGLContext, false);
+  function detectWebGLContext () {
+
+    // On crée un élément canvas. Le canvas n'est pas
+    // ajouté au document et il n'est donc jamais
+    // affiché dans la fenêtre du navigateur
+    var canvas = document.createElement("canvas");
+
+    // On récupère le contexte WebGLRenderingContext
+    // depuis l'élément canvas.
+    var gl = canvas.getContext("webgl")
+      || canvas.getContext("experimental-webgl");
+
+    // On affiche le résultat.
+    if (gl && gl instanceof WebGLRenderingContext) {
+      paragraph.innerHTML =
+        "Félicitations, votre navigateur supporte WebGL.";
+    } else {
+      paragraph.innerHTML = "Échec du contexte WebGL. "
+        + "Votre navigateur peut ne pas supporter WebGL.";
+    }
+  }
+}, false);
+
+            </script>
+        
+    </body>
+</html>

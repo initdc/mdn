@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/html/howto/add_a_hit_map_on_top_of_an_image/index.md
+
+# Original Wiki contributors
+SphinxKnight

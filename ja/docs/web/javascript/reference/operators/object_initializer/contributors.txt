@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/object_initializer/index.md
+
+# Original Wiki contributors
+uricle
+segayuu
+aktuehr
+AkihikoTakeda
+dlwe
+mdmss37
+YuichiNukiyama
+kdex
+ambi
+shide55

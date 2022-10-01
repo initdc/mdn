@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/html_drag_and_drop_api/recommended_drag_types/index.md
+
+# Original Wiki contributors
+plter
+xgqfrms-GitHub

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/parentelement/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ExE-Boss
+acdvorak
+GawiSh97
+fscholz
+abbycar
+mrenty
+teoli
+kscarfone
+Reachmeatshivam
+ethertank
+Sheppy
+claudepache
+ziyunfei

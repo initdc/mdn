@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/decodeuri/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+chrisdavidmills
+Owenk85
+Sheppy
+wbamberg
+schalkneethling
+jblz
+jameshkramer
+nmve
+eduardoboucas
+protonk
+ethertank
+alejandroiglesias
+openjck
+evilpie
+Mgjbot
+Ptak82
+Maian
+Dria

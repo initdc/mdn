@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/webassembly/understanding_the_text_format/index.md
+
+# Original Wiki contributors
+limkukhyun
+a1p4ca
+composite

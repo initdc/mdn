@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/bigint/index.md
+
+# Original Wiki contributors
+YouHeng
+BadmasterY
+dstyxy
+fefe982
+ddztomcat
+c412216887
+lovue

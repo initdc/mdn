@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/symbol/iterator/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+Uemmra3
+segayuu
+YuichiNukiyama
+shide55

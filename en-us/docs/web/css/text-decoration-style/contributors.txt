@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/text-decoration-style/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+sideshowbarker
+mfuji09
+wbamberg
+mfluehr
+rwilson.or
+myakura
+jpmedley
+Alhadis
+Sebastianz
+cvrebert
+teoli
+arai
+tregagnon
+jswisher
+yisi
+kscarfone
+Sheppy
+mkato
+ethertank
+FredB
+yyss
+Softwayer

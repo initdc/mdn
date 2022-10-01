@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmloptionelement/index.md
+
+# Original Wiki contributors
+neoncitylights
+sideshowbarker
+fisker
+ExE-Boss
+Sebastianz
+libbymc
+fscholz
+teoli
+kscarfone
+t0dd.moz
+Sheppy
+ethertank
+Brettz9
+BYK
+jswisher

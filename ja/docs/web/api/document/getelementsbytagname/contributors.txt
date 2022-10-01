@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/document/getelementsbytagname/index.md
+
+# Original Wiki contributors
+Sorakime
+mfuji09
+pcw
+unaginokabayaki
+Uemmra3
+chitoku
+mk7087
+fscholz
+jsx
+Mgjbot
+Shoot
+Marsf
+Hfjapancom

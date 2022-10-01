@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/index.md
+
+# Original Wiki contributors
+Rumyra
+alattalatta
+bershanskiy
+janogale
+mrkiffie
+Sheppy
+JRegimbal
+jpmedley
+MyNameIsBond
+mfuji09
+sweetqianba
+chrisdavidmills
+Alex.Hinds
+sideshowbarker
+estelle
+connorshea
+lucian95
+ExE-Boss
+wbamberg
+samthor
+DrNio13
+cforcloud
+Potch
+teoli
+AFBarstow
+Ted_Mielczarek
+Meggin
+Alhadis
+sayanchowdhury
+Sephr
+veeramani.n
+Jeremie

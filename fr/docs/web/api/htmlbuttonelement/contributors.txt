@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/htmlbuttonelement/index.md
+
+# Original Wiki contributors
+Voulto
+dragon38800
+fscholz

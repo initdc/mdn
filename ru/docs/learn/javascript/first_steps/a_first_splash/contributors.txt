@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/first_steps/a_first_splash/index.html
+
+# Original Wiki contributors
+aashch1
+SphinxKnight
+sirartemis
+TurtleOld
+wanvo
+Novo
+Shadow86
+slychai85
+TaizoGem
+Rodionoff
+st4nislava
+AndrewSamofalov
+warsan
+SergeySM
+lipav
+InternetShelteredBoy
+HaukIce
+maicom64
+fragmentbyte
+kirabt123
+Segyn
+FIJN
+alekaru

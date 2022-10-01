@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/document/execcommand/index.md
+
+# Original Wiki contributors
+mfuji09
+woodmix
+spinute
+sisidovski
+knchst0704
+Marsf
+fscholz
+ethertank

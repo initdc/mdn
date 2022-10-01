@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/anchoroffset/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+ddbeck
+abbycar
+ziyunfei
+BenjamP
+fscholz
+teoli
+SphinxKnight
+kscarfone
+Kartik_Chadha
+Prachi_Dighe
+Sheppy
+ethertank
+DavidWalsh
+Federico
+DR
+Rev
+Jonnyq

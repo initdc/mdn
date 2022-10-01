@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pointer_events/using_pointer_events/index.md
+
+# Original Wiki contributors
+Clarkkkk
+fscholz
+Sheppy
+AFBarstow
+bethge

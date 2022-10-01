@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/tools/sample_server/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+Sheppy
+jswisher

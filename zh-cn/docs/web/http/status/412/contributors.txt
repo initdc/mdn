@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/status/412/index.md
+
+# Original Wiki contributors
+RainSlide
+WayneCui
+xgqfrms-GitHub
+LangDonHJJ

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/removeattributens/index.md
+
+# Original Wiki contributors
+Eason.Wu

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/htmlelement/click/index.md
+
+# Original Wiki contributors
+ewfian
+zhuangyin
+shiqianrongsx
+Ende93
+teoli
+AshfaqHossain
+jsx
+ziyunfei

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/seizure_disorders/index.md
+
+# Original Wiki contributors
+MarjaE2
+wwags33
+austin-2019
+kivi-shapiro
+LouisLazaris
+estelle
+rwe2020
+jswisher
+tealdev

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/building_blocks/images_tasks/index.md
+
+# Original Wiki contributors
+so2liu
+dlnb526

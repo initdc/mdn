@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/open/index.md
+
+# Original Wiki contributors
+KAJIKEN
+mfuji09
+silverskyvicto
+woodmix
+SphinxKnight
+j15338tn
+momdo
+lv7777
+jigs12
+khalid32
+ethertank
+Potappo
+Mgjbot

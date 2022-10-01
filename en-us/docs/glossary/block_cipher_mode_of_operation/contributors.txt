@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/block_cipher_mode_of_operation/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg

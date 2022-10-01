@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmodelement/index.md
+
+# Original Wiki contributors
+geppy
+ExE-Boss
+Sebastianz
+libbymc
+slimsag
+fscholz
+teoli
+kscarfone
+Sheppy
+jswisher

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/html/introduction_to_html/creating_hyperlinks/index.md
+
+# Original Wiki contributors
+Xvezda
+sangheon-kim
+Tay_Kim
+alattalatta
+zDJKIMs
+Han_jongbae

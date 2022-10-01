@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/introduction_to_html/marking_up_a_letter/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+avivmu
+ohaver
+tayyabalishan
+sideshowbarker
+r_arpeet82
+fazl
+soppa91
+bripmccann
+jswisher
+jk777
+mishkadoma

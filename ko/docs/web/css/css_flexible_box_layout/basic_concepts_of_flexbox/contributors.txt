@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/css_flexible_box_layout/basic_concepts_of_flexbox/index.md
+
+# Original Wiki contributors
+5JJ
+joeunha
+beowolf9
+silmari
+soonoo
+wankyu
+Latera

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/classes/static/index.md
+
+# Original Wiki contributors
+mizhac
+SphinxKnight
+rbonvall
+fscholz
+MauroEldritch

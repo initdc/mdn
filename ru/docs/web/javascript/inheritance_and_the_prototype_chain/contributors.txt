@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/inheritance_and_the_prototype_chain/index.html
+
+# Original Wiki contributors
+sozdanbogom40
+shevchenko
+SadTomCat
+Nick_Pershin
+dudinsky
+Shemil95
+SedovDP
+aliaksandr-s
+ChesterFobitt
+Saviloff
+Kapiroska
+fscholz
+xxxxx0438
+SRastrigin
+Natalya_Surikova
+Rast1234
+teoli

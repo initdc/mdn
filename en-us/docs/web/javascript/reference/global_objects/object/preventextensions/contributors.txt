@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/preventextensions/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+rwaldron
+doubleOrt
+wbamberg
+kmaglione
+jameshkramer
+zrw354
+kdex
+m_gol
+eduardoboucas
+jrencz
+claudepache
+teoli
+ziyunfei
+Mingun
+Sheppy
+Foo
+ethertank
+dbruant
+evilpie
+Waldo
+Crash

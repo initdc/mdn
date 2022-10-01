@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/access-control-expose-headers/index.md
+
+# Original Wiki contributors
+bulk88
+sideshowbarker
+pimterry
+dasa
+mfuji09
+fscholz
+Sebsonic

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/readystate/index.md
+
+# Original Wiki contributors
+Carllllo
+SmelRain
+SphinxKnight
+JiaYifan
+ielgnaw
+xgqfrms-GitHub
+gqqnbig
+teoli
+szmtcjm
+khalid32
+ziyunfei

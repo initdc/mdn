@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/maskunits/index.md
+
+# Original Wiki contributors
+Sebastianz
+jojkos
+Jeremie
+altaha4water
+Sheppy

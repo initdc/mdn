@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/datatransfer/index.html
+
+# Original Wiki contributors
+ramamedov89
+csepanda
+iamelru
+murtukov
+fscholz
+Erkon

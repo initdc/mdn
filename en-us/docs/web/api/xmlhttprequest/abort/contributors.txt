@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlhttprequest/abort/index.md
+
+# Original Wiki contributors
+Anonimy
+Sheppy
+ExE-Boss
+Makyen
+ruidfigueiredo
+erikadoyle
+chrisdavidmills
+jbankester
+jsx

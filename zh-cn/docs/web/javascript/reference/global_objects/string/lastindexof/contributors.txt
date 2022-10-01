@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/lastindexof/index.md
+
+# Original Wiki contributors
+SageX
+ts0307
+Heaan
+GavinMoreYoung
+yenshen
+AlexChao

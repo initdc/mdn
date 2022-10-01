@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/basics_of_http/choosing_between_www_and_non-www_urls/index.md
+
+# Original Wiki contributors
+zqyue
+Ende93
+xgqfrms-GitHub
+ziyunfei
+chaos_zhang

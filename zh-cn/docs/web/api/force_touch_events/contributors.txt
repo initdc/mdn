@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/force_touch_events/index.md
+
+# Original Wiki contributors
+Ende93
+yangxing1

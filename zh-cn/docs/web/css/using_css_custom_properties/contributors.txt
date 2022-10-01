@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/using_css_custom_properties/index.md
+
+# Original Wiki contributors
+kingfree
+MinimalistYing
+TTtuntuntutu
+chrisdavidmills
+longhaiyan
+xgqfrms-GitHub
+Mark_Zhang
+ObooChin
+beyoursun
+XGHeaven
+ReyCG_sub

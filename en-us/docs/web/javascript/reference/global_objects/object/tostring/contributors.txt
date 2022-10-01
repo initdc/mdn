@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/tostring/index.md
+
+# Original Wiki contributors
+mfuji09
+ninevra
+brianebert
+Anonymous
+wbamberg
+fscholz
+Zearin_Galaurum
+DariaManko
+RainSlide
+Delapouite
+jameshkramer
+vermaslal
+eduardoboucas
+chrisfillmore
+jsx
+jajang20
+Mingun
+Sheppy
+ethertank
+trevorh
+tokuhirom
+evilpie
+Wyvernoid
+Sevenspade
+Mgjbot
+Nickolay
+Taken
+Maian
+Marcoos
+Dria

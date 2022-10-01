@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/reference/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Camrifof
+eiro
+verdy_p
+JNa0
+PolariTOON
+unsteadyCode
+BEHOUBA
+tonybengue
+Oliviermoz
+challet
+teoli
+thenew
+Fredchat
+wakka27
+tregagnon
+FredB
+jackblack
+Jeremie
+openjck
+groovecoder
+ThePrisoner
+BenoitL
+Mgjbot
+Nathymig

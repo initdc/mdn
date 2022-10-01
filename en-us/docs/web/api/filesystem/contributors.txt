@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/filesystem/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+ExE-Boss
+perguth
+Root-Core
+Infineight
+chrisdavidmills
+Sheppy
+fscholz
+Reachmeatshivam
+Cobra
+XeXenon
+teoli
+grendel

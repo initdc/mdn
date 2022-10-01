@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/django/index.md
+
+# Original Wiki contributors
+diyigechipangxie
+xixilog
+chinanf-boy
+hstaoqian
+Zhaoyu

@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/blink/index.md
+
+# Original Wiki contributors
+karbassi
+leela52452
+mfuji09
+yifeiyin
+mfluehr
+teoli
+Sheppy
+joshgriggs
+ashrafsabrym
+anonyco
+scrum
+slimsag
+fscholz
+behramcelen
+YehonatanTs
+Naesten
+kscarfone
+jswisher
+avsaro
+Ugoku
+lmorchard
+igorware
+ethertank
+evilpie
+tregagnon
+Nickolay
+cers
+Ms2ger
+Ptak82
+Yj5Cre
+Mgjbot
+PablO
+alecananian

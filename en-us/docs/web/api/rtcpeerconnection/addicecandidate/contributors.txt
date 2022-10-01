@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/rtcpeerconnection/addicecandidate/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Sheppy
+Jib
+boldt
+fscholz
+jpmedley
+abbycar
+cauburtin
+rolfedh

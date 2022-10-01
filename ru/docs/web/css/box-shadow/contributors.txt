@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/box-shadow/index.md
+
+# Original Wiki contributors
+BychekRU
+Cheglok
+Roman-Kosov
+regress000
+Sajag
+Sebastianz
+amityagov
+Sehan

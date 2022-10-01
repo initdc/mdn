@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/promise/catch/index.md
+
+# Original Wiki contributors
+oldmtn
+xycd
+banli17
+zhishaofei3
+SheltonDong
+Yevvb
+HsuanLee
+xgqfrms-GitHub
+Hushabyme
+fskuok
+mountainmoon

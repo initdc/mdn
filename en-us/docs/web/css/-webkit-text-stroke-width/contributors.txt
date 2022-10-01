@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-webkit-text-stroke-width/index.md
+
+# Original Wiki contributors
+ddbeck
+Sheppy
+estelle
+MNizam0802
+mfuji09
+ExE-Boss
+libbymc
+Sebastianz
+cvrebert
+mrenty
+chutten

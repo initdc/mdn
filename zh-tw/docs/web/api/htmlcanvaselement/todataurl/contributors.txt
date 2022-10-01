@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/htmlcanvaselement/todataurl/index.md
+
+# Original Wiki contributors
+Ethan
+alk03073135

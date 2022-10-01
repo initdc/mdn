@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document_object_model/how_to_create_a_dom_tree/index.html
+
+# Original Wiki contributors
+carrillog.luis

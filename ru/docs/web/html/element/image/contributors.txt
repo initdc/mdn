@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/image/index.md
+
+# Original Wiki contributors
+Dozorengel
+KishiTako

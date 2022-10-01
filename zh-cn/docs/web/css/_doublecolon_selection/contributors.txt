@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/_doublecolon_selection/index.md
+
+# Original Wiki contributors
+greyyyyy
+zhangchen
+ziyunfei
+Serifx
+ranwu
+johncido
+vagusX
+monjer
+hikarievo

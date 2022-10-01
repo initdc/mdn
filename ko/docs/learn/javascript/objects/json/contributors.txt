@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/objects/json/index.md
+
+# Original Wiki contributors
+june0419
+main2039
+unfolz
+bjnhur
+JaeWorld
+ahnzaz

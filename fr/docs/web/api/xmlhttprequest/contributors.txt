@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/xmlhttprequest/index.md
+
+# Original Wiki contributors
+tramber30
+SphinxKnight
+lessonsharing
+NemoNobobyPersonne
+JoJoMimosa
+lipki
+teoli
+JulienRobitaille
+BenoitL
+Mgjbot
+Chbok
+Laurent Denis
+Anonymous

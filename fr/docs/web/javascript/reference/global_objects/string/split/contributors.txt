@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/string/split/index.md
+
+# Original Wiki contributors
+cdoublev
+SphinxKnight
+lockee14
+matthieukern
+mleduque
+AlainRinder
+teoli
+P45QU10U

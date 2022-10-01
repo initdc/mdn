@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/yari/index.md
+
+# Original Wiki contributors
+peterbe
+SphinxKnight
+jswisher
+9999472
+ExE-Boss
+wbamberg
+chrisdavidmills
+LikeVincent
+xGabey
+xgqfrms
+jrdacosta2002
+groovecoder
+Sheppy
+Nickolay

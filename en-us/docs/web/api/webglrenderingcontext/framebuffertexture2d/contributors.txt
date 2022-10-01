@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglrenderingcontext/framebuffertexture2d/index.md
+
+# Original Wiki contributors
+FuZhenn
+fscholz
+teoli
+nanuk

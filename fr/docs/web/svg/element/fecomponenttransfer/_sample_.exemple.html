@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            rect {
+  fill: url(#rainbow);
+}
+
+        </style>
+        
+        <title>&lt;feComponentTransfer&gt; - exemple - code sample</title>
+    </head>
+    <body>
+        
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <defs>
+    <linearGradient id="rainbow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100%" y2="0">
+      <stop offset="0" stop-color="#ff0000"></stop>
+      <stop offset="0.2" stop-color="#ffff00"></stop>
+      <stop offset="0.4" stop-color="#00ff00"></stop>
+      <stop offset="0.6" stop-color="#00ffff"></stop>
+      <stop offset="0.8" stop-color="#0000ff"></stop>
+      <stop offset="1" stop-color="#800080"></stop>
+    </linearGradient>
+    <filter id="identity" x="0" y="0" width="100%" height="100%">
+      <feComponentTransfer>
+        <feFuncR type="identity"></feFuncR>
+        <feFuncG type="identity"></feFuncG>
+        <feFuncB type="identity"></feFuncB>
+        <feFuncA type="identity"></feFuncA>
+      </feComponentTransfer>
+    </filter>
+    <filter id="table" x="0" y="0" width="100%" height="100%">
+      <feComponentTransfer>
+        <feFuncR type="table" tableValues="0 0 1 1"></feFuncR>
+        <feFuncG type="table" tableValues="1 1 0 0"></feFuncG>
+        <feFuncB type="table" tableValues="0 1 1 0"></feFuncB>
+      </feComponentTransfer>
+    </filter>
+    <filter id="linear" x="0" y="0" width="100%" height="100%">
+      <feComponentTransfer>
+        <feFuncR type="linear" slope="0.5" intercept="0"></feFuncR>
+        <feFuncG type="linear" slope="0.5" intercept="0.25"></feFuncG>
+        <feFuncB type="linear" slope="0.5" intercept="0.5"></feFuncB>
+      </feComponentTransfer>
+    </filter>
+    <filter id="gamma" x="0" y="0" width="100%" height="100%">
+      <feComponentTransfer>
+        <feFuncR type="gamma" amplitude="4" exponent="7" offset="0"></feFuncR>
+        <feFuncG type="gamma" amplitude="4" exponent="4" offset="0"></feFuncG>
+        <feFuncB type="gamma" amplitude="4" exponent="1" offset="0"></feFuncB>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <g font-weight="bold">
+    <text x="0" y="5%">Default</text>
+    <rect x="0" y="8%" width="100%" height="20"></rect>
+    <text x="0" y="26%">Identity</text>
+    <rect x="0" y="29%" width="100%" height="20" style="filter:url(#identity)"></rect>
+    <text x="0" y="47%">Table lookup</text>
+    <rect x="0" y="50%" width="100%" height="20" style="filter:url(#table)"></rect>
+    <text x="0" y="68%">Linear function</text>
+    <rect x="0" y="71%" width="100%" height="20" style="filter:url(#linear)"></rect>
+    <text x="0" y="89%">Gamma function</text>
+    <rect x="0" y="92%" width="100%" height="20" style="filter:url(#gamma)"></rect>
+  </g>
+</svg>
+
+        
+        
+    </body>
+</html>

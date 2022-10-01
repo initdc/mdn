@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/date/parse/index.md
+
+# Original Wiki contributors
+lyh2668
+fscholz
+Tao-Quixote
+hkuclion
+distums
+gqqnbig
+yeliex
+AlexChao

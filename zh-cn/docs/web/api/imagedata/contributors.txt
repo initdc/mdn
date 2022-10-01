@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/imagedata/index.md
+
+# Original Wiki contributors
+laampui
+LaneSun
+Zhang-Junzhi
+vigrodong
+ice-i-snow
+teoli
+ziyunfei

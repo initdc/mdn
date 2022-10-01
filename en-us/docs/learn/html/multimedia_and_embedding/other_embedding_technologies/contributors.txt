@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/multimedia_and_embedding/other_embedding_technologies/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+gdsimoes
+Sichen-Wang
+TheMageKing
+choudh70
+Elched
+darby
+eremis101
+Wind1808
+RafeyIqbalRahman
+Jesssie
+pradeeprajr93
+juandesouza
+stephaniehobson
+NilSocket
+flash4syth
+BaderSur
+richardzacur

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/html/cors_enabled_image/index.md
+
+# Original Wiki contributors
+MikuroXina
+mfuji09
+aoisignite
+himrock922
+teoli
+myakura

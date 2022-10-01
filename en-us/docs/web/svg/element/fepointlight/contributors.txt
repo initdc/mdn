@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/fepointlight/index.md
+
+# Original Wiki contributors
+a-mt
+fscholz
+gitmullany
+abbycar
+Sebastianz
+iwarui
+georgialyle
+kscarfone
+Jeremie
+Manuel_Strehl

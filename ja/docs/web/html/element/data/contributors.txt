@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/html/element/data/index.md
+
+# Original Wiki contributors
+mfuji09
+Potappo
+yuheiy
+.Hiroya
+aokashi
+lv7777

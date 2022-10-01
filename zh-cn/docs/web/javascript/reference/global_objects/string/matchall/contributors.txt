@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/matchall/index.md
+
+# Original Wiki contributors
+oxyg3n
+symant233
+Tangel
+zytjs
+BadmasterY
+SageX
+Marcia_gm

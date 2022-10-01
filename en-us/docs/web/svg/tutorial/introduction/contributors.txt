@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/introduction/index.md
+
+# Original Wiki contributors
+devinea2
+PushpitaPikuDey
+imvinaypatil
+manjumg23
+benschac
+bananer
+sgnl
+rousan
+HiggsWRX
+yangsibai
+Delapouite
+rvighne
+trevorh
+Jeremie
+nerik
+jswisher
+jtcain
+kscarfone
+ethertank
+ziyunfei
+tivrfoa
+PetiPandaRou
+Manuel_Strehl
+Mickiboy
+Wjjohnst
+Mgjbot
+Waldo
+Jonathan_Watt

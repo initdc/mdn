@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/array/push/index.md
+
+# Original Wiki contributors
+AlePerez92
+_cuco_
+fcojgodoy
+Aldomolina
+alvarouribe
+teoli
+mhauptma73

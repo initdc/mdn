@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/websockets/index.md
+
+# Original Wiki contributors
+mfuji09
+Uemmra3
+dskmori
+takeokunn

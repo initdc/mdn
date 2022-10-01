@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbobjectstore/createindex/index.md
+
+# Original Wiki contributors
+sideshowbarker
+LeonFrempong
+fscholz
+Konrud
+jpmedley
+chrisdavidmills
+libbymc
+Brettz9
+inexorabletash
+Seta00
+mattandrews

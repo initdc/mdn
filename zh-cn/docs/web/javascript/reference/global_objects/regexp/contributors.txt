@@ -1,0 +1,38 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/regexp/index.md
+
+# Original Wiki contributors
+ruienger
+jingkaimori
+空杉心雨后
+ll009366
+Ende93
+fanerge
+daijie
+wbamberg
+zhuangyin
+YoungChen
+myl0204
+xgqfrms-GitHub
+kiling
+biaocy
+fuchao2012
+shuata
+xgqfrms
+KingMario
+vbnjfhty
+y8n
+tabooc
+jamesxu
+teoli
+AlexChao
+chyee
+Darrel.Hsu
+photino
+ziyunfei
+fishenal
+akawhy
+shi_zheng
+GreatHan
+Hans huang
+Mickeyboy

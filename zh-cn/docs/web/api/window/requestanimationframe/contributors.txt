@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/requestanimationframe/index.md
+
+# Original Wiki contributors
+wudexiang
+ruiyang0012
+oxyg3n
+Yifang-Tongxing
+hawtim
+xianghui-ma
+zhuangyin
+LiaoNa
+luoway
+liuliangsir
+tangj1206
+PaperFlu
+RayJune
+King.
+xgqfrms-GitHub
+aki
+chinaliyun
+teoli
+warmhug
+ziyunfei
+MiyagiRyota

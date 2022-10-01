@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/http/headers/accept/index.md
+
+# Original Wiki contributors
+iigmir

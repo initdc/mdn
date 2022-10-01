@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/first_steps/how_css_is_structured/index.md
+
+# Original Wiki contributors
+greatofdream
+aaazz47
+郑玉鑫
+JiachenLi941109
+a-bad-apple
+dlnb526
+kuhnpku
+CUI-C
+byeyear
+operaxxx
+hhq1801
+AlexWuluanfeng
+ArcherGrey

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/guide/introduction/index.html
+
+# Original Wiki contributors
+xxphantom
+device25
+boxa6
+rinbik
+vladPovalii
+IgorGilyazov

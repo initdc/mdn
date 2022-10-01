@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/cssom_view/coordinate_systems/index.md
+
+# Original Wiki contributors
+1Cr18Ni9

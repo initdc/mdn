@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/string/substr/index.md
+
+# Original Wiki contributors
+mfuji09
+segayuu
+SphinxKnight
+Flat
+TakashiHarano
+YuichiNukiyama
+mamodayo
+teoli
+ethertank
+Julien.stuby
+Mgjbot
+Potappo

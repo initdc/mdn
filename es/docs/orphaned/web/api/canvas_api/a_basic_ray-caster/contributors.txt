@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/orphaned/web/api/canvas_api/a_basic_ray-caster/index.html
+
+# Original Wiki contributors
+AzazelN28
+Fandres91
+dkocho4
+preteric

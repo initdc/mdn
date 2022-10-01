@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/node/index.md
+
+# Original Wiki contributors
+marimeireles
+oirodolfo
+teoli
+khalid32
+srsaude

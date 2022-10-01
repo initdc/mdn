@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/glossary/proxy_server/index.md
+
+# Original Wiki contributors
+lutzleonardo15
+elvisguarda03

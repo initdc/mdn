@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/node/baseuri/index.md
+
+# Original Wiki contributors
+xgqfrms-GitHub
+Ende93
+tiansh
+teoli
+khalid32
+ziyunfei

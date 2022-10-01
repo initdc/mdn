@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/progressive_web_apps/responsive/graphics_for_responsive_sites/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+dkocho4
+saerdnaer
+Juan-jo
+rogerhc
+stoprunning3

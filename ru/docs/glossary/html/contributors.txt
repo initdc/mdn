@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/html/index.html
+
+# Original Wiki contributors
+ksam
+boxa6
+oleg3280
+Ananasovich
+Rod1on
+NerRox
+talgautb

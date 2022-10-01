@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/getcomputedstyle/index.md
+
+# Original Wiki contributors
+scaillerie
+Jean-MariePETIT
+fscholz
+teoli
+khalid32
+tregagnon
+Zlitus

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/canvas_api/manipulating_video_using_canvas/index.md
+
+# Original Wiki contributors
+Yeri-Kim

@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_audio_api/basic_concepts_behind_web_audio_api/index.md
+
+# Original Wiki contributors
+drollie12
+Sheppy
+chrisdavidmills
+g0ne
+RoyCurtis
+kmag
+david_ross
+danbovey
+psullivan6
+DineshMv
+David_Gilbertson
+szdavid92
+padenotmoz
+marie-ototoi
+ColdSauce
+jschertz
+fatsheepcn
+searsaw
+Dietrich
+JesseTG
+anirudh_venkatesh

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/mozilla/add-ons/webextensions/prerequisites/index.md
+
+# Original Wiki contributors
+SphinxKnight
+jwhitlock
+JangmiJo

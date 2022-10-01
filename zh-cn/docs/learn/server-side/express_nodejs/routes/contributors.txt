@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/express_nodejs/routes/index.md
+
+# Original Wiki contributors
+Hawaii_zzapi
+百里笙歌
+Roy-Tian
+jianchao_xue
+edgar-chen

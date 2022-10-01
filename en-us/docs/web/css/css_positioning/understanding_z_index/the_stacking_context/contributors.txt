@@ -1,0 +1,50 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_positioning/understanding_z_index/the_stacking_context/index.md
+
+# Original Wiki contributors
+mfuji09
+j9t
+NickyMeuleman
+Konrud
+estelle
+msobanjo
+xiaohanyu
+alattalatta
+frivoal
+mfluehr
+Dolphin_Wood
+jonjohnjohnson
+Ende93
+duncanmcdonald
+paceaux
+siirila
+JDrone_
+Crispen_Smith
+teoli
+yisibl
+amitabha197
+eirikurn
+jsx
+aav
+rosca
+KrijnHoetmer
+leapoahead
+skeller88
+altano
+Jeremie
+kscarfone
+Sheppy
+ethertank
+dbruant
+hurrymaplelad
+tregagnon
+julienw
+Jürgen Jeka
+Mozcerize
+Sandwich
+Mgjbot
+Patrick Garies
+Maian
+Nickolay
+Rod Whiteley
+bradipao

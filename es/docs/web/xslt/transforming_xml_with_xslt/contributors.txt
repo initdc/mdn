@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/xslt/transforming_xml_with_xslt/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Superruzafa
+Mgjbot
+Jorolo
+Ivanfrade
+Piltrafeta
+Nukeador

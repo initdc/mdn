@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/javascript/objects/adding_bouncing_balls_features/index.md
+
+# Original Wiki contributors
+Enesimus
+serarroy
+carlosgocereceda

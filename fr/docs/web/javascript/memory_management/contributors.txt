@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/memory_management/index.md
+
+# Original Wiki contributors
+SphinxKnight
+elWombator
+Banban
+opii93
+316k
+Goofy
+ntrillaud
+teoli

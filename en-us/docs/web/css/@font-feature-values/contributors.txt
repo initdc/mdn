@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@font-feature-values/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+sideshowbarker
+mfluehr
+fscholz
+Sebastianz
+Moyogo
+jwhitlock
+jsx
+HTMLValidator
+teoli

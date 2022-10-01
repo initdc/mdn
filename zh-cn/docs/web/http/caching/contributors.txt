@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/caching/index.md
+
+# Original Wiki contributors
+qnlz
+xgqfrms
+yqz0203
+oppoffice
+SAM.L
+baijingfeng
+YongzeYao
+immortal-wm
+YiBanCangBai
+2585479524
+fanjieqi
+BobGreen
+athena0304
+dgeibi
+cielsk
+tianyuqingkong
+xiaohp
+tiancaiwuyue
+hiyoushu
+ch-zgh-1993
+marsoln
+wanglijie
+xx1124961758
+onedaywen
+shengoo
+sunnylost
+followgiant
+ziyunfei

@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/map/index.md
+
+# Original Wiki contributors
+mfuji09
+nightpool
+sideshowbarker
+srisuk19766
+JamesCatt
+chrisdavidmills
+alattalatta
+t9nef
+SphinxKnight
+alex_gaynor
+teoli
+seangates
+erikadoyle
+bradleesand
+Sebastianz
+Andrew_Pfeiffer
+Jeremie
+Korikulum
+kscarfone
+justleroy
+marquete
+tregagnon
+Sheppy
+baloneysandwiches
+medicdude
+ethertank
+faisal5455
+cers
+McGurk

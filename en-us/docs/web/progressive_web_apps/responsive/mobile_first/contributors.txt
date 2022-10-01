@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/progressive_web_apps/responsive/mobile_first/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+hallb9
+daniel.stormont
+sideshowbarker
+VladPavel15
+Onkar316
+bakufusyougunn
+Syedfaisal
+xfq

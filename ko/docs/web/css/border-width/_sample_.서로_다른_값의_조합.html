@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            #sval {
+  border: ridge #ccc;
+  border-width: 6px;
+}
+#bival {
+  border: solid red;
+  border-width: 2px 10px;
+}
+#treval {
+  border: dotted orange;
+  border-width: 0.3em 0 9px;
+}
+#fourval {
+  border: solid lightgreen;
+  border-width: thin medium thick 1em;
+}
+p {
+  width: auto;
+  margin: 0.25em;
+  padding: 0.25em;
+}
+
+        </style>
+        
+        <title>border-width - 서로_다른_값의_조합 - code sample</title>
+    </head>
+    <body>
+        
+            <p id="sval">
+    한 개의 값: 모든 네 면이 6px 테두리</p>
+<p id="bival">
+    두 개의 다른 값: 위아래에 2px 테두리, 좌우에 10px 테두리</p>
+<p id="treval">
+    세 개의 다른 값: 위에 0.3em, 아래에 9px, 좌우에 0</p>
+<p id="fourval">
+    네 개의 다른 값: "얇은" 위, "중간" 오른쪽, "두꺼운" 아래, 왼쪽 1em</p>
+
+        
+        
+    </body>
+</html>

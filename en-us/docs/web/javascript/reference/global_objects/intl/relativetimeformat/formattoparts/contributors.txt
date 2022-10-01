@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/intl/relativetimeformat/formattoparts/index.md
+
+# Original Wiki contributors
+fscholz
+sideshowbarker
+DmitryMakhnev
+SphinxKnight
+Aiman_Alkhamisi
+romulocintra

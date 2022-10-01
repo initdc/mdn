@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/promise/all/index.md
+
+# Original Wiki contributors
+hamishwillee
+可能你对强有什么误解
+xgqfrms
+Debugger-D
+moldray
+kite-js
+gemmi
+Jiang-Xuan
+BearZ
+higrw
+xgqfrms-GitHub
+rollinhup
+Hushabyme
+iugo
+billcz
+zilong-thu
+fskuok

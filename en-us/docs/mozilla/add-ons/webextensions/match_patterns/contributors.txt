@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/match_patterns/index.md
+
+# Original Wiki contributors
+irenesmith
+wbamberg
+Makyen
+SphinxKnight
+flyhighmartin
+Sheppy
+bb010g
+rotemdan
+Kwan
+ExE-Boss
+Frizbunny
+blaisekal
+dirkjanm
+salar2k
+raymak
+andrewtruongmoz
+ericjung

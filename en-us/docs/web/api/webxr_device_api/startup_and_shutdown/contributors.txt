@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webxr_device_api/startup_and_shutdown/index.md
+
+# Original Wiki contributors
+Wind1808
+Sheppy

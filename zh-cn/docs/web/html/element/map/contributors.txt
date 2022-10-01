@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/map/index.md
+
+# Original Wiki contributors
+ikomom
+Feel-Joy
+wizardforcel
+xycd
+naive233

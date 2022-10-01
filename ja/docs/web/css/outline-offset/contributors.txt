@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/outline-offset/index.md
+
+# Original Wiki contributors
+mfuji09
+sutara79
+Prinz_Rana
+fscholz
+Sebastianz
+ethertank
+sosleepy

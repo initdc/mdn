@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/clientwidth/index.md
+
+# Original Wiki contributors
+zhaoshouxin
+RainSlide
+hehe1111
+SphinxKnight
+inickel
+teoli
+AlexChao
+ziyunfei
+Mgjbot
+Dewang

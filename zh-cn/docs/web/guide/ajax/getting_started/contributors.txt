@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/guide/ajax/getting_started/index.md
+
+# Original Wiki contributors
+Mookiepiece
+JiLiangLai
+HCSkatana
+realchoi
+Mew_MDN
+SalmonDaze
+zazaliu
+chrisdavidmills
+shifengchen
+tangc1
+RogerShen

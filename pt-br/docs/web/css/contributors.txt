@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/css/index.md
+
+# Original Wiki contributors
+euvanribeiro
+SphinxKnight
+dekxside
+julio-elipse
+phenriqueleao
+GPrimola
+arthur2323
+rafaelcavalcante
+DiegoBRodrigues
+fcard
+KikenCris
+teoli
+MatCAlv
+rodrigopadula
+Estevaosoberano
+angelorubin
+fvargaspf@gmail.com
+gabrielima

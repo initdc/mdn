@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/background-attachment/index.md
+
+# Original Wiki contributors
+SphinxKnight
+kustolovic
+teoli
+ShamsGolap
+FredB
+tregagnon
+Mgjbot
+Fredchat
+Kyodev

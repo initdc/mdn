@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/content-type/index.md
+
+# Original Wiki contributors
+ZL1019
+kadoufall
+WayneCui
+xgqfrms-GitHub
+wanhh

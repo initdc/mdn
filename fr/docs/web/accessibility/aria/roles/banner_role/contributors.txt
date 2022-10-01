@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/accessibility/aria/roles/banner_role/index.md
+
+# Original Wiki contributors
+nerville
+hmore
+BenoitL
+Goofy
+Fredchat

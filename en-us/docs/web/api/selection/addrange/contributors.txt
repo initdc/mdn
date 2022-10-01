@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/addrange/index.md
+
+# Original Wiki contributors
+sideshowbarker
+jonasraoni
+mfluehr
+ddbeck
+abbycar
+BenjamP
+fscholz
+teoli
+kosvrouvas
+kscarfone
+Kartik_Chadha
+Prachi_Dighe
+Sheppy
+ethertank
+msrdjan
+SkyLined
+Federico
+DR
+Rev
+Ted_Mielczarek
+JulesH
+Jonnyq

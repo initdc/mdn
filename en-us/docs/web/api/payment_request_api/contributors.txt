@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/payment_request_api/index.md
+
+# Original Wiki contributors
+bershanskiy
+mfluehr
+Sheppy
+fscholz
+marcoscaceres
+CalebJay
+aaronschif
+chrisdavidmills
+poshaughnessy
+jpmedley
+echenley
+riking
+amZotti
+andersnorgaard
+erikadoyle
+agektmr
+reaktivo
+dgashmdn

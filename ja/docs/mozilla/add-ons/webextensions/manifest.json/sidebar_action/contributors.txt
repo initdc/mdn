@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/manifest.json/sidebar_action/index.md
+
+# Original Wiki contributors
+wbamberg
+Uemmra3

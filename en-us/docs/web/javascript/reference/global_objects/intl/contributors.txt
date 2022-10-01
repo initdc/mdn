@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/intl/index.md
+
+# Original Wiki contributors
+853419196
+SphinxKnight
+avinifsc
+fscholz
+ddbeck
+Waldo
+mfuji09
+romulocintra
+bkardell
+jahzielv
+battaglr
+jpmedley
+MickMonaghan
+JH108
+alefesouza
+Robg1
+mantou
+jameshkramer
+arai
+binoculars
+mkato
+Mingun
+Loiro
+Norbert
+dstorey
+Sheppy

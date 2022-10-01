@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/layout_cookbook/contribute_a_recipe/cookbook_template/index.md
+
+# Original Wiki contributors
+SphinxKnight

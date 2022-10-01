@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/string/concat/index.md
+
+# Original Wiki contributors
+jeremymouzin
+javascriptdezero
+SphinxKnight
+JNa0
+tregagnon
+ylerjen

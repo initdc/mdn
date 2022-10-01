@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_animations_api/index.md
+
+# Original Wiki contributors
+mfuji09
+birtles
+alattalatta
+fscholz
+chrisdavidmills
+tocretpa
+Sheppy
+ladybenko
+suzyh
+rachelnabors
+Sroucheray
+teoli

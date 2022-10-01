@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/screen/availtop/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+fscholz
+cvrebert
+Sebastianz
+teoli
+kosvrouvas
+Navin_Jadhav
+Sheppy
+Mgjbot
+Gor1

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/shadowroot/index.md
+
+# Original Wiki contributors
+IAMSHENSH
+Fancyflame
+RainSlide
+plter
+xgqfrms-GitHub
+Sebastianz

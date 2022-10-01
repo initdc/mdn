@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/serviceworkerregistration/periodicsync/index.md
+
+# Original Wiki contributors
+Rumyra
+Wind1808
+jpmedley
+chrisdavidmills
+ExE-Boss

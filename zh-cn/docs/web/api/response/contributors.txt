@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/response/index.md
+
+# Original Wiki contributors
+RainSlide
+Soyaine
+jason-grimm
+disoul
+maicss
+WangYihang
+thbgh
+zyq930501
+a1528zhang
+wynn_pm2b
+Sheppy

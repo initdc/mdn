@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mozilla/firefox/releases/15/index.md
+
+# Original Wiki contributors
+wbamberg
+Ende93
+ethertank
+ziyunfei

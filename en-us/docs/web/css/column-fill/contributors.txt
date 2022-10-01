@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/column-fill/index.md
+
+# Original Wiki contributors
+rachelandrew
+mfluehr
+wbamberg
+Sheppy
+connorshea
+ddbeck
+chrisdavidmills
+erikadoyle
+Sebastianz
+fscholz
+jpmedley
+jsx
+teoli
+kscarfone
+ethertank
+FredB
+brianloveswords

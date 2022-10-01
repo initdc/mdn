@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/float/index.md
+
+# Original Wiki contributors
+Nyaasu
+RainSlide
+Murphy1024
+Jack.Works
+zhuangyin
+tcatche
+Ende93
+xgqfrms-GitHub
+Sarlaka
+fscholz
+Sebastianz
+xiaodongzai
+AlexChao
+linmx0130
+FredWe
+teoli
+ziyunfei

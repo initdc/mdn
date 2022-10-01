@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/visual_formatting_model/index.md
+
+# Original Wiki contributors
+RomanBush
+SphinxKnight
+FlightBlaze
+Chugou9
+ZapevalovAnton
+fmva
+levi2ki
+kapvik
+hhharm
+ViT09

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/fetch_api/index.md
+
+# Original Wiki contributors
+Mookiepiece
+RainSlide
+zhangchen
+wengsj11
+fortruth
+HDUCC
+Zheng7426
+JimmyBenKlieve
+NowhereToRun
+xgqfrms-GitHub
+yqjiang
+xcatliu

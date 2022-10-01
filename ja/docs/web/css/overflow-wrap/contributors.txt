@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/overflow-wrap/index.md
+
+# Original Wiki contributors
+mfuji09
+hirorock
+dynamis
+momdo
+Sebastianz
+mitsuba-clover
+ethertank
+sosleepy

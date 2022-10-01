@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_optional/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+sideshowbarker
+mfuji09
+chrisdavidmills
+ericwbailey
+fscholz
+mfluehr
+cPhost
+erikadoyle
+MichaelTheriot
+Sebastianz
+MusikAnimal
+kscarfone
+Sheppy
+teoli
+FredB
+McGurk
+berkerpeksag
+nimbupani

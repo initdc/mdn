@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/document_object_model/examples/index.md
+
+# Original Wiki contributors
+mfuji09
+khalid32
+ethertank
+Sto
+Marsf
+kohei.yoshino
+Mgjbot

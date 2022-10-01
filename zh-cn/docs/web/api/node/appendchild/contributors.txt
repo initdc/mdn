@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/node/appendchild/index.md
+
+# Original Wiki contributors
+Edgeo-Mourner
+Lesty
+RainSlide
+Dcfm
+teoli
+khalid32
+ziyunfei

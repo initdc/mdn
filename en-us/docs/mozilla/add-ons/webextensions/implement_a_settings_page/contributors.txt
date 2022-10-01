@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/implement_a_settings_page/index.md
+
+# Original Wiki contributors
+rebloor
+Jochnickel
+Zearin_Galaurum
+user9123
+jccalhoun
+BO41
+hellosct1
+irenesmith
+hecaxmmx
+andrewtruongmoz
+wbamberg
+xiangjianhetaiji
+Makyen
+n8chz
+chrisdavidmills

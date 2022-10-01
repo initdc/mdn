@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_transitions/using_css_transitions/index.md
+
+# Original Wiki contributors
+SingularityXD
+Venus14
+tiansh
+zhuangyin
+ucev
+xgqfrms-GitHub
+brave-for-you
+Ende93
+SphinxKnight
+fscholz
+ziyunfei
+yan

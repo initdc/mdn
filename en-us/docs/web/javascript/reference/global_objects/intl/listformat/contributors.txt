@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/intl/listformat/index.md
+
+# Original Wiki contributors
+longlho
+mfuji09
+Chris Chittleborough
+wbamberg
+fscholz
+nakhodkiin
+sideshowbarker
+cbejensen
+senna
+SphinxKnight
+facm0b
+spectranaut
+stof
+Autapomorph
+romulocintra

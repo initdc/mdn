@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/global_attributes/data-_star_/index.md
+
+# Original Wiki contributors
+wallena3
+symant233
+zhangchen
+Bonlin0
+eforegist
+xgqfrms-GitHub
+kameii
+FredWe

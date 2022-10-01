@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/conflicting/mdn/writing_guidelines/page_structures_479b8c93d0b37a3f2a020112ae60e692/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+emanuelvega
+LUISTGMDN
+elihro

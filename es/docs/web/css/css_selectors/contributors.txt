@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/css_selectors/index.html
+
+# Original Wiki contributors
+missmakita
+blanchart
+Benji1337
+metal-gogo
+kikolevante

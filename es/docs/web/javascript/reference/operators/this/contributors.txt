@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/operators/this/index.md
+
+# Original Wiki contributors
+ridry
+AugustoBarco
+Litchstarken
+xabitrigo
+alejandrochung
+garciadecastro
+Miguel-Ramirez
+FMauricioS
+SphinxKnight
+teoli
+chebit
+carloshs92

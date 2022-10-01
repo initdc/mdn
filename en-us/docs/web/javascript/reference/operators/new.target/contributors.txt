@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/new.target/index.md
+
+# Original Wiki contributors
+fscholz
+Zearin_Galaurum
+felix.s
+aetonsi
+nakhodkiin
+wbamberg
+enderandpeter
+jameshkramer
+rwaldron
+akshayjai1
+denimX
+nmve
+kdex
+jpmedley
+dzlabs
+imconfig

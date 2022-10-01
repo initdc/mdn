@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/ispointinrange/index.md
+
+# Original Wiki contributors
+sideshowbarker
+oreno4649
+mfluehr
+fscholz
+mattwojo
+teoli
+kollishivagangadhar
+Khodaidad_Basharmand
+Sheppy
+Spocke
+Riboribo
+Idris
+Gor1

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/function/call/index.md
+
+# Original Wiki contributors
+mfuji09
+segayuu
+eunsucking
+YuichiNukiyama
+k-kuwahara
+isdh
+teoli
+siokoshou
+ethertank
+nobuoka

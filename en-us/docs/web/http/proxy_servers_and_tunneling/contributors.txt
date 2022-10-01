@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/proxy_servers_and_tunneling/index.md
+
+# Original Wiki contributors
+jwerre
+mfuji09
+r-thomps
+teoli
+fscholz

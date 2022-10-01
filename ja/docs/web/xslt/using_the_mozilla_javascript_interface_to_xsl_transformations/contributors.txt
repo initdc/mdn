@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/xslt/using_the_mozilla_javascript_interface_to_xsl_transformations/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+silverskyvicto
+ethertank
+kohei.yoshino
+Mgjbot

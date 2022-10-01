@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/url/hash/index.md
+
+# Original Wiki contributors
+Mukti
+Han09
+gcl1993

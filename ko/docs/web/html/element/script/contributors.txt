@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/html/element/script/index.html
+
+# Original Wiki contributors
+alattalatta
+baemin0103
+dolmoon
+mooyoul
+azunyan3

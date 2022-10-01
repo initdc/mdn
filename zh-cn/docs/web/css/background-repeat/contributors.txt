@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/background-repeat/index.md
+
+# Original Wiki contributors
+zjffun
+PythonVsJava
+xgqfrms-GitHub
+zhenhua32
+SphinxKnight
+teoli
+TigerSoldier
+Ianyang
+Mickeyboy

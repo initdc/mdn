@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglrenderingcontext/vertexattribpointer/index.md
+
+# Original Wiki contributors
+acsbendi
+angelbeltran
+aleonhard
+Jedipedia
+fscholz
+teoli
+David_Gilbertson

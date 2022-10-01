@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/learn/html/multimedia_and_embedding/video_and_audio_content/test_your_skills_colon__multimedia_and_embedding/index.md
+
+# Original Wiki contributors
+CoderAmutu

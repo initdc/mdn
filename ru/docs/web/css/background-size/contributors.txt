@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/background-size/index.md
+
+# Original Wiki contributors
+Virss
+JuliaAlaeva
+Neiromaster
+grundiss
+Akh-rman
+alexbs
+dad-ua
+VladdOs
+Sebastianz
+andreww2012

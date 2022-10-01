@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/url/url/index.md
+
+# Original Wiki contributors
+jingkaimori
+RainSlide
+Mukti
+hungtcs-lab
+IrisYao
+xgqfrms-GitHub
+yuanfang-tony
+teoli
+leozdgao
+khalid32
+iori

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/content-security-policy/sandbox/index.md
+
+# Original Wiki contributors
+Tigt
+mfuji09
+Malvoz
+Sheppy
+fscholz
+teoli

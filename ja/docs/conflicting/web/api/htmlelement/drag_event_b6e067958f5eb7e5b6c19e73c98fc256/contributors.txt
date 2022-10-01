@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/htmlelement/drag_event_b6e067958f5eb7e5b6c19e73c98fc256/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+8845musign

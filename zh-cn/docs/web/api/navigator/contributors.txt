@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/navigator/index.md
+
+# Original Wiki contributors
+jingkaimori
+mc-tracker
+mokunshao
+Li-saltair
+hydRAnger
+RainSlide
+wbamberg
+smartme
+wangxinhe
+nian0114
+zxlSilen
+tsingwong
+nDos
+borenXue
+DHclly
+Taoja
+Meggin

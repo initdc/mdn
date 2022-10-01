@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/symbol/split/index.md
+
+# Original Wiki contributors
+vent
+Hushabyme
+_da

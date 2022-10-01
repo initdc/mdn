@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlcollection/index.md
+
+# Original Wiki contributors
+eltociear
+mfuji09
+yyss
+lv7777
+acid

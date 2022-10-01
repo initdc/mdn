@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_empty/index.md
+
+# Original Wiki contributors
+wbamberg
+ExE-Boss
+Flerex
+mfuji09
+chrisdavidmills
+v-python
+ericwbailey
+scooter-dangle
+fscholz
+mfluehr
+erikadoyle
+Sebastianz
+ziyunfei
+jsx
+MusikAnimal
+apparentlymart
+kscarfone
+Sheppy
+FredB
+teoli
+brianloveswords
+McGurk
+Jürgen Jeka
+miken32
+Mgjbot
+Fredchat
+Mw22

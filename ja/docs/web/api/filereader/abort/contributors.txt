@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/filereader/abort/index.md
+
+# Original Wiki contributors
+silverskyvicto
+mfuji09
+clariroid

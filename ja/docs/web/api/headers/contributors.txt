@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/headers/index.md
+
+# Original Wiki contributors
+resessh
+yumetodo
+kei-itof
+hamasaki
+chikoski
+YuichiNukiyama

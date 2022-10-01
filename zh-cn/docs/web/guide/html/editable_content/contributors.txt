@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/guide/html/editable_content/index.md
+
+# Original Wiki contributors
+imarco
+YogurtQ
+xianghui-ma
+Hew007
+zhuangyin
+jamesxu
+ziyunfei
+teoli
+sunnylost
+ethertank

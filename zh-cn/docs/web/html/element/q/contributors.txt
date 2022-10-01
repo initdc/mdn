@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/q/index.md
+
+# Original Wiki contributors
+kenneth55555
+fscholz
+Zyan
+Ende93
+Jiang-Xuan

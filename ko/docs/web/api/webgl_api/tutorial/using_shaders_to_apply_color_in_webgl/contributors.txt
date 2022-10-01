@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/webgl_api/tutorial/using_shaders_to_apply_color_in_webgl/index.md
+
+# Original Wiki contributors
+code1492
+fscholz
+hanmomhanda

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/scroll/index.md
+
+# Original Wiki contributors
+fscholz
+khalid32
+rd6137

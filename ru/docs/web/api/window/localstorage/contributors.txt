@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/window/localstorage/index.html
+
+# Original Wiki contributors
+art-gur
+YozhEzhi
+webmcheck
+Halkyon
+teoli
+jora244
+EvgenyI

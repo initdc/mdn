@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/node/index.md
+
+# Original Wiki contributors
+gh1031
+huabingtao
+xoyojo
+244462375
+multics
+happyWang
+RainSlide
+imstone
+gitdust
+zzg19931223
+Angelki
+practicemp
+ZHANG_HaiDong
+huozicheng
+szy0syz
+wenshin
+xgqfrms-GitHub
+AlexChao
+Losses
+ziyunfei

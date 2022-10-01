@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/property_accessors/index.html
+
+# Original Wiki contributors
+ialexi-bl
+injashkin
+sbadulin
+karatheodory
+BychekRU

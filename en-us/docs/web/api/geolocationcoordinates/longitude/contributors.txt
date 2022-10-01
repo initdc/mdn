@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/geolocationcoordinates/longitude/index.md
+
+# Original Wiki contributors
+escattone
+chrisdavidmills
+fscholz
+Sheppy
+erikadoyle
+Sebastianz
+tregagnon
+teoli

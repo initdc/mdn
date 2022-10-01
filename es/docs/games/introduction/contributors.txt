@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/games/introduction/index.md
+
+# Original Wiki contributors
+rayrojas
+titox
+gauchoscript
+wbamberg
+Mancux2
+Albizures
+atlas7jean

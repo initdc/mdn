@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/orphaned/web/api/canvas_api/a_basic_ray-caster/index.md
+
+# Original Wiki contributors
+alattalatta
+taggon

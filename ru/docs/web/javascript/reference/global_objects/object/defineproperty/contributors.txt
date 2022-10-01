@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/object/defineproperty/index.html
+
+# Original Wiki contributors
+tourman
+iSokrat
+gibson
+RumyantsevMichael
+uniqueusr
+Mingun
+Natalya_Surikova
+Anton_Arestov
+akhabibullina
+teoli
+dunmaksim
+my8bit
+Selvatico

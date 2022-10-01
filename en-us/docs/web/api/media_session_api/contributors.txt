@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/media_session_api/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Rumyra
+hamishwillee
+bershanskiy
+Sheppy
+wbamberg
+vinyldarkscratch
+arib
+HonzaTuron
+jpmedley
+david_ross

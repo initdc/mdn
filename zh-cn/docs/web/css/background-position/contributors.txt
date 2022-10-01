@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/background-position/index.md
+
+# Original Wiki contributors
+bigbird231
+daGaiGuanYu
+zhangchen
+Ceiba_Li
+linyb
+xgqfrms-GitHub
+hgy9473
+zhuangyin
+zhangailing
+HongxuWei
+TomIsion
+Sebastianz
+Simplexible
+mrstork
+SphinxKnight
+teoli
+fscholz
+hikarievo
+FredWe
+TigerSoldier
+Mickeyboy

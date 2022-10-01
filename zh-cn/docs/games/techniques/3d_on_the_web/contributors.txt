@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/techniques/3d_on_the_web/index.md
+
+# Original Wiki contributors
+ICLOUDIRIS
+gogoend
+c1er
+wbamberg
+catchOneW
+chrisdavidmills

@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/overview/index.md
+
+# Original Wiki contributors
+WenJuWu
+chrisdavidmills
+CPMoviePHil
+estelle
+drivasperez
+jswisher
+segmentationfaulter
+mfuji09
+yackSpillsaps
+ronny-macmaster
+dcrouch79
+Sheppy
+fscholz
+michaelbaxter
+Sergio_Gonzalez_Collado
+danielgormly
+aaronArinder
+SpikePy
+arssonist
+protopatterns
+derick-montague
+zhitaoh
+Jeremie
+david_ross
+arosenberg01
+tanya-marfel
+teoli

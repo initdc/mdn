@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/console/timeend/index.html
+
+# Original Wiki contributors
+Arhidimon
+ekirpichyov
+teoli
+Aleksej
+fscholz
+AshfaqHossain
+Troynov

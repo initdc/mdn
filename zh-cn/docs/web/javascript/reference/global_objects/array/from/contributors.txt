@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/from/index.md
+
+# Original Wiki contributors
+cellinlab
+RainSlide
+WhiteMind
+SageX
+tc_dreamer
+EmmaYXY
+zppro
+smallbag
+fscholz
+hongxu.Wei
+banli17
+ywjco
+Jat
+xgqfrms-GitHub
+jessie-zly
+spicyboiledfish
+Ende93
+kdex
+micheal-death
+xiaokk06
+helloguangxue
+jiraiya
+LinusYu
+ngtmuzi
+yenshen
+ziyunfei
+tiansh

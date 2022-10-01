@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/regexp/test/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+wbamberg
+fscholz
+Zearin_Galaurum
+SphinxKnight
+jpmedley
+nuclearRPG
+overly-engineered
+madmurphy
+schalkneethling
+JonathanPool
+Joel-Kornbluh
+jameshkramer
+dlchen
+nmve
+eduardoboucas
+alnorris
+Mingun
+JasonD
+Sheppy
+mdevils
+niels_bom
+dynamis
+franksvalli
+evilpie
+Brettz9
+Mgjbot
+Maian
+Dria

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/resizeto/index.md
+
+# Original Wiki contributors
+tomasdev
+alattalatta
+mfluehr
+lucian95
+cvrebert
+fscholz
+teoli
+iamanupmenon
+ethertank
+Sheppy
+calvinf
+OsamaBinLogin
+Mattcasey
+Mgjbot
+Ptak82
+Robson
+Dria
+JesseW

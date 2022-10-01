@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/string/indexof/index.md
+
+# Original Wiki contributors
+aalmadar
+diegoazh
+ArisChuck
+WillyMaikowski
+teoli
+Tetrix
+Talisker

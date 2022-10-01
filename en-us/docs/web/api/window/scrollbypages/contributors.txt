@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/scrollbypages/index.md
+
+# Original Wiki contributors
+mfuji09
+mfluehr
+lucian95
+SphinxKnight
+Sheppy
+fscholz
+MHasan
+teoli
+kscarfone
+iamanupmenon
+ziyunfei
+Mgjbot
+Ptak82
+Jabez
+Dria
+JesseW

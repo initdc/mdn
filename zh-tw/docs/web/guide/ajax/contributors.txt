@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/guide/ajax/index.md
+
+# Original Wiki contributors
+circlepen
+drinktea28
+jackblackevo
+chrisdavidmills
+ethertank
+fscholz
+happysadman
+Mgjbot
+kourge
+BobChao

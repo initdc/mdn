@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/tls/index.md
+
+# Original Wiki contributors
+mfuji09
+pcw
+dskmori
+silverskyvicto
+sutara79

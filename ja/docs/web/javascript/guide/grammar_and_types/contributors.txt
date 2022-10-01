@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/grammar_and_types/index.md
+
+# Original Wiki contributors
+mpcjazz
+Kisaragi
+mfuji09
+xfq
+rotelstift
+7z-75
+kaiji
+hysryt
+AkihikoTakeda
+Uemmra3
+YuichiKamiki
+chikoski
+mushahiroyuki
+pooh5puuu
+Aika
+x2357
+teoli
+ethertank
+akiroom
+yyss

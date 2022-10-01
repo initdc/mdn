@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/accessibility/aria/aria_screen_reader_implementors_guide/index.md
+
+# Original Wiki contributors
+thedre41115

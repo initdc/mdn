@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_-moz-locale-dir(rtl)/index.md
+
+# Original Wiki contributors
+Sheppy
+wbamberg
+ExE-Boss
+mfluehr
+Sebastianz
+teoli
+ethertank
+trevorh
+TTO
+Marsf
+Dao

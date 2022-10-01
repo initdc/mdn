@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvasrenderingcontext2d/clip/index.md
+
+# Original Wiki contributors
+travisleithead
+mfluehr
+MatthewMastracci
+fscholz
+rubenlg
+nmve
+arronei
+erikadoyle
+chrisdavidmills

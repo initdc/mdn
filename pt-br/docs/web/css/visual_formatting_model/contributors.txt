@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/css/visual_formatting_model/index.md
+
+# Original Wiki contributors
+Fernandolrs

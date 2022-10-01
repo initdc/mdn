@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/global_attributes/class/index.md
+
+# Original Wiki contributors
+zhangchen
+eforegist
+YehaiChen
+ChuckZhang
+Feihei

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvasrenderingcontext2d/ellipse/index.md
+
+# Original Wiki contributors
+sideshowbarker
+boxa6
+Anonymous
+mfluehr
+fscholz
+lzpong
+Yaffle
+nmve
+erikadoyle
+Sebastianz
+cers
+valtlait1
+planktn
+vegittoss15
+aeschylus

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/viewport_concepts/index.md
+
+# Original Wiki contributors
+in43sh
+PerfectVirgo
+Wryhder
+mfuji09
+bagaffey
+sivabalan02
+syntaxval
+chrisdavidmills
+estelle
+ExE-Boss

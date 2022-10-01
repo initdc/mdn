@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/serviceworkercontainer/register/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+timothydm42
+Wind1808
+daniel.z.tg
+jpmedley
+ruzemirka
+sideshowbarker
+anonyco
+mjawulski
+fscholz
+noppa
+abbycar
+Tigt
+jeffposnick
+cheneytsai
+jsx
+doncamvline
+Sebastianz
+Speculative
+Natalia_Nationa
+kscarfone

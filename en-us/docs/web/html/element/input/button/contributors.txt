@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/input/button/index.md
+
+# Original Wiki contributors
+mfuji09
+estelle
+bripmccann
+chrisdavidmills
+vriojtg
+wbamberg
+connorshea
+SphinxKnight
+zixuan75
+chharvey
+Sheppy
+rudijuri
+0918nobita
+Lemondoge
+fscholz
+Sebastianz
+TylerH
+teoli
+sidgan
+kscarfone

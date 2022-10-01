@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvas_api/tutorial/pixel_manipulation_with_canvas/index.md
+
+# Original Wiki contributors
+nickgaya
+chrisdavidmills
+germain
+Kaben
+Sheppy
+kdex
+nmaxcom
+andrzejkrecicki
+threequal
+stephaniehobson
+nmve
+manrad
+mflodin
+ddanilovich
+M66
+WangZimei
+fscholz
+teoli
+StevenWisniewski
+NullSoldier
+StephenKelly
+georgialyle
+groovecoder

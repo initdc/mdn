@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/response/response/index.html
+
+# Original Wiki contributors
+swimmwatch

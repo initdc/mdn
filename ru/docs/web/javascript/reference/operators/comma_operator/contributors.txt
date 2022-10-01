@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/comma_operator/index.html
+
+# Original Wiki contributors
+synth
+echelonka
+OlegTar
+cotolany
+br3t
+alnimu
+Frenk1
+fscholz
+Ohar
+teoli
+nurbek.ab

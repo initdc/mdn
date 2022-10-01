@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/xmlhttprequest/using_xmlhttprequest/index.md
+
+# Original Wiki contributors
+Aierklk
+coder-git
+knightyun
+RainSlide
+mynull
+ZengYu
+zhuruipeng
+hongxu.Wei
+banli17
+ZZES_REN
+makaria
+hogaFarming
+learnslagFeng
+peterwang1996
+Harvesty
+Hawkeyes_Wind
+lncwwn
+FredWe
+mengzyou
+movever1
+ziyunfei
+ethertank

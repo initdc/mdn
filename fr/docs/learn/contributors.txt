@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/index.md
+
+# Original Wiki contributors
+geraldventadour
+stphngrc
+smeden-lod
+methodx
+SphinxKnight
+Melanie.Almeida
+fredrun14
+lecoeurseb
+StrangeRocknRoller
+tonybengue
+Dralyab
+egidiusmendel
+unsteadyCode
+W1773ND
+Ilphrin
+Raulel
+JeffD
+mliatt
+teoli
+gcodeur
+Goofy
+PetiPandaRou
+jeromepasquelin
+ValPom
+Oliviermoz
+DamienBertrand
+wakka27
+Benedetti
+maxperchus

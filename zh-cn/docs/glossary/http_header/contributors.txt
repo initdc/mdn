@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/http_header/index.md
+
+# Original Wiki contributors
+RainSlide
+zhangchen
+WayneCui

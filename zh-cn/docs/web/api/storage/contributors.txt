@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/storage/index.md
+
+# Original Wiki contributors
+zhangchen
+woden0415
+tkpromise
+AlexChao
+ThijsK

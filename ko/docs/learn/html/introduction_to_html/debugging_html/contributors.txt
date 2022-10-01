@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/html/introduction_to_html/debugging_html/index.md
+
+# Original Wiki contributors
+sh0seo
+dave1502
+limkukhyun

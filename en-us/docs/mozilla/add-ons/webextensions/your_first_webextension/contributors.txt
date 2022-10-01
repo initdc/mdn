@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/your_first_webextension/index.md
+
+# Original Wiki contributors
+caitmuenster
+rebloor
+Rifaz
+chrisdavidmills
+lucaswerkmeister
+wbamberg
+522211qaa
+sujiniku
+Dholbert
+dcorderoch
+serv-inc
+andrewtruongmoz
+arai
+openupyourmind
+Makyen
+Sebastianz
+kumar303
+nitwit1984
+cosmik
+Noitidart
+hashedhyphen

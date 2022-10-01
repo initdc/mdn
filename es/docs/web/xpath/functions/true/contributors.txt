@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/xpath/functions/true/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ExE-Boss
+Mgjbot
+Cmayo

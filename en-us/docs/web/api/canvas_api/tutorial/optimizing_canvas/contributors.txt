@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvas_api/tutorial/optimizing_canvas/index.md
+
+# Original Wiki contributors
+mfuji09
+mrj
+sideshowbarker
+scanick
+mfluehr
+salty-horse
+stephaniehobson
+nmve
+statianzo
+ddanilovich
+ShavedRegressor
+kentskyo
+fscholz
+Jeremie
+Sheppy
+trevorh

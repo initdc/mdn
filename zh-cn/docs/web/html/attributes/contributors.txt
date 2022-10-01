@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/attributes/index.md
+
+# Original Wiki contributors
+nodeZ
+fygyx1
+tys
+Carllllo
+MartinsYong
+enoorez
+yhs-APerson
+yuehp
+PoppinL
+ziyunfei
+phoenixLU

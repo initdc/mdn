@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@counter-style/range/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+mfluehr
+Sebastianz
+kscarfone
+jsx

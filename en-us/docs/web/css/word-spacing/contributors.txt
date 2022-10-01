@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/word-spacing/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+ddbeck
+fscholz
+sideshowbarker
+chrisdavidmills
+ericwbailey
+mfluehr
+yisibl
+mfoonirlee
+erikadoyle
+Druzion
+shivam3596
+Prinz_Rana
+ggbaker
+Sebastianz
+jsx
+HTMLValidator
+teoli
+kscarfone
+Sheppy
+ethertank
+syssgx
+FredB
+Jürgen Jeka
+Mgjbot
+BijuGC

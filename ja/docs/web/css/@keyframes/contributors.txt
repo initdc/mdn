@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/@keyframes/index.md
+
+# Original Wiki contributors
+Phroneris
+mfuji09
+sutara79
+Simplexible
+fscholz
+ethertank
+yyss

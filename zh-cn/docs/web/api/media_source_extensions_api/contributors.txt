@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/media_source_extensions_api/index.md
+
+# Original Wiki contributors
+758915145
+maicss
+xcffl

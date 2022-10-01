@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/selection/getrangeat/index.md
+
+# Original Wiki contributors
+SphinxKnight
+1v9
+teoli
+arunpandianp
+Losses

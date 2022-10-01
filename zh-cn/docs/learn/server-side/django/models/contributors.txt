@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/django/models/index.md
+
+# Original Wiki contributors
+shawPLUSroot
+senghongchong7
+phdgogogo
+colin3dmax
+AIIEOIBD
+zphj1987
+cashlu
+xixilog
+szlh
+chinanf-boy

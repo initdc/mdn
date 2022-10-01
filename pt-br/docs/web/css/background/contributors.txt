@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/css/background/index.md
+
+# Original Wiki contributors
+felipeolliveira
+brunoaugustosilva
+fscholz
+macalha
+luanmuniz
+joaogsantos

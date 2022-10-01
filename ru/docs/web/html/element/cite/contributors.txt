@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/cite/index.md
+
+# Original Wiki contributors
+zuenko.michail
+ahtohbi4
+s1lver

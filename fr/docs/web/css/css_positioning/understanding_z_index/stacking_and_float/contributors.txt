@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/css_positioning/understanding_z_index/stacking_and_float/index.md
+
+# Original Wiki contributors
+SphinxKnight
+edspeedy
+teoli
+tregagnon
+BenoitL
+Lapinkiller
+Fredchat

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/other_content_in_svg/index.md
+
+# Original Wiki contributors
+jwhitlock
+trevorh
+Jeremie
+Manuel_Strehl
+Shirak
+Sheppy

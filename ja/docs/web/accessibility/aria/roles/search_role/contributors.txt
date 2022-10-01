@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/accessibility/aria/roles/search_role/index.md
+
+# Original Wiki contributors
+Wind1808

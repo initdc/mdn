@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/functions/index.md
+
+# Original Wiki contributors
+Voltariuss
+SphinxKnight
+elWombator
+Banban
+BNedry
+teoli
+P45QU10U
+fscholz
+Delapouite

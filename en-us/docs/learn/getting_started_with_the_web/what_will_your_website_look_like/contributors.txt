@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/getting_started_with_the_web/what_will_your_website_look_like/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+NavetsArev
+mfuji09
+bduguma
+ezrinjaz
+IzaS
+jbrandes
+msobanjo
+aboagyed
+smoothie1998
+RafeyIqbalRahman
+Xyde
+stephaniehobson
+Lilmisscrafty116
+RichardsonVJohnson
+hadleyel
+Jeremie
+MashKao
+klez
+dvincent
+ifilin
+SphinxKnight
+xfq
+Andrew_Pfeiffer

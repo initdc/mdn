@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/includes/index.md
+
+# Original Wiki contributors
+laampui
+1v9
+hongxu.Wei
+xgqfrms-GitHub
+Zertu
+JokerPrince
+zilong-thu
+teoli
+ziyunfei

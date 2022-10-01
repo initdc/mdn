@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/howto/define_terms_with_html/index.md
+
+# Original Wiki contributors
+AlexK89
+jnegara
+Jeremie
+Andrew_Pfeiffer
+Sheppy
+MohammedAdam
+hbloomer

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            * {box-sizing: border-box;}
+
+.wrapper {
+  border: 2px solid #f76707;
+  border-radius: 5px;
+  background-color: #fff4e6;
+}
+
+.wrapper > div {
+  border: 2px solid #ffa94d;
+  border-radius: 5px;
+  background-color: #ffd8a8;
+  padding: 1em;
+  color: #d9480f;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(12, [col-start] 1fr);
+}
+
+.item1 {
+  grid-column: col-start / col-start 5
+}
+
+.item2 {
+  grid-column: col-start 7 / span 3;
+}
+
+.wrapper {
+  grid-template-columns: repeat(4, [col1-start] 1fr [col2-start] 3fr);
+}
+
+.wrapper {
+  grid-template-columns: repeat(4, [col-start] 1fr [col-end] );
+}
+
+.wrapper {
+  grid-template-columns: [col-start] 1fr [col-end col-start] 1fr [col-end col-start] 1fr  [col-end col-start] 1fr [col-end];
+}
+
+* {box-sizing: border-box;}
+
+.wrapper {
+  border: 2px solid #f76707;
+  border-radius: 5px;
+  background-color: #fff4e6;
+}
+
+.wrapper > div {
+  border: 2px solid #ffa94d;
+  border-radius: 5px;
+  background-color: #ffd8a8;
+  padding: 1em;
+  color: #d9480f;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(6, [col1-start] 1fr [col2-start] 3fr);
+}
+
+.item1 {
+  grid-column: col1-start / col2-start 2
+}
+
+.item2 {
+  grid-row: 2;
+  grid-column: col1-start 2 / span 2 col1-start;
+}
+
+.wrapper {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(12, [col-start] 1fr);
+}
+
+* {box-sizing: border-box;}
+
+.wrapper {
+border: 2px solid #f76707;
+border-radius: 5px;
+background-color: #fff4e6;
+}
+
+.wrapper > \* {
+border: 2px solid #ffa94d;
+border-radius: 5px;
+background-color: #ffd8a8;
+padding: 1em;
+color: #d9480f;
+}
+
+.main-header,
+.main-footer  {
+  grid-column: col-start / span 12;
+}
+
+.side1 {
+grid-column: col-start / span 3;
+grid-row: 2;
+}
+
+.content {
+grid-column: col-start 4 / span 6;
+grid-row: 2;
+}
+
+.side2 {
+grid-column: col-start 10 / span 3;
+grid-row: 2;
+}
+
+        </style>
+        
+        <title>Layout using named grid lines - multiple_lines_same_name - code sample</title>
+    </head>
+    <body>
+        
+            
+<div class="wrapper">
+  <div class="item1">I am placed from col-start line 1 to col-start 5</div>
+  <div class="item2">I am placed from col-start line 7 spanning 3 lines</div>
+</div>
+
+<div class="wrapper">
+  <div class="item1">I am placed from col1-start line 1 to col2-start line 2</div>
+  <div class="item2">I am placed from col1-start line 2 spanning 2 lines named col1-start</div>
+</div>
+
+<div class="wrapper">
+  <header class="main-header">I am the header</header>
+  <aside class="side1">I am sidebar 1</aside>
+  <article class="content">I am the main article</article>
+  <aside class="side2">I am sidebar 2</aside>
+  <footer class="main-footer">I am the footer</footer>
+</div>
+
+        
+        
+    </body>
+</html>

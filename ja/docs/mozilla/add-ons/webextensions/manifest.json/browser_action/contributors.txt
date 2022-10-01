@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/manifest.json/browser_action/index.md
+
+# Original Wiki contributors
+kohaku2005coco
+diohabara
+Uemmra3

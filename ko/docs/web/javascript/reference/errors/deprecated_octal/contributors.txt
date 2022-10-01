@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/errors/deprecated_octal/index.md
+
+# Original Wiki contributors
+magnoliaa

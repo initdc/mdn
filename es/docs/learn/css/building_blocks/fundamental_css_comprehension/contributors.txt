@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/css/building_blocks/fundamental_css_comprehension/index.md
+
+# Original Wiki contributors
+Creasick
+Enesimus
+javierpolit
+DennisM

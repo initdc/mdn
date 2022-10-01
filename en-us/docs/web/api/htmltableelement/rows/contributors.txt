@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltableelement/rows/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+Sheppy
+teoli
+kscarfone
+ethertank
+Jesdisciple
+Thing
+RobG
+Dria
+JesseW

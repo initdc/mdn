@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/global_objects/promise/index.md
+
+# Original Wiki contributors
+SphinxKnight
+JulioDinis
+henriquejsfj
+mateusvelleda
+node1111
+ThalesRod
+rafaelcavalcante
+eduardoyutaka
+WBerredo
+filipetorres
+fernando.ghisi
+kdex
+BrOrlandi
+gabrielagabriel
+caio_araujo
+pauloaug
+vbmendes
+teoli
+RyanFilho
+keuller

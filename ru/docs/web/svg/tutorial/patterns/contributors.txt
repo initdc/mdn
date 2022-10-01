@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/svg/tutorial/patterns/index.html
+
+# Original Wiki contributors
+hisbvdis
+warsan
+valery-paschenkov

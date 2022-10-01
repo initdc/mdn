@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/classes/extends/index.md
+
+# Original Wiki contributors
+zhangchen
+thinkershare
+liuwj
+xgqfrms-GitHub
+MoYahoo
+Ende93
+xiaoweb
+ziyunfei
+TinyJiang
+pixiu

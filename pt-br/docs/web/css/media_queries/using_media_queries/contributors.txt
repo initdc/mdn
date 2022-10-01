@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/css/media_queries/using_media_queries/index.md
+
+# Original Wiki contributors
+HugoRibeiro
+angeliski
+dailsoncampos
+nieckarz
+Sebastianz
+mrstork
+malayaleecoder
+davidcorbetta
+jorgeclesio
+Pedrinho
+brunoeduardo
+fabianosantos.net

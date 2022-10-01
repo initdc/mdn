@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webrtc_api/simple_rtcdatachannel_sample/index.md
+
+# Original Wiki contributors
+Jib
+brfennpocock
+SphinxKnight
+keer
+fscholz
+wbamberg
+kdex
+Sheppy
+teoli

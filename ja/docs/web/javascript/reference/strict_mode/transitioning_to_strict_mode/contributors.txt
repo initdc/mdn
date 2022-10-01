@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/strict_mode/transitioning_to_strict_mode/index.md
+
+# Original Wiki contributors
+mfuji09
+Uemmra3
+nabetaro
+SCENEE
+ambi
+shide55

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/css/howto/create_fancy_boxes/index.md
+
+# Original Wiki contributors
+SphinxKnight

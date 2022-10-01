@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/equality_comparisons_and_sameness/index.md
+
+# Original Wiki contributors
+mpcjazz
+kuuote
+mfuji09
+SphinxKnight
+kenji-yamasaki
+taiyaki32lp64
+yyss
+lv7777
+kachick

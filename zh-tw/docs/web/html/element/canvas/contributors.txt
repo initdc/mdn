@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/html/element/canvas/index.md
+
+# Original Wiki contributors
+pig3629
+GG9

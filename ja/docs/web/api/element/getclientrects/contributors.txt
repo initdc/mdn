@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/element/getclientrects/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+nisihunabasi
+jsx
+AshfaqHossain
+Mgjbot
+Potappo
+Shoot
+Nanto vi

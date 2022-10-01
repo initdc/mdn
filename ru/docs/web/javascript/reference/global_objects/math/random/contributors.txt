@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/math/random/index.html
+
+# Original Wiki contributors
+ekirpichyov
+Mitrr
+Byte968
+Flex301
+Mingun
+SandStorm

@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/tabs/tab/index.md
+
+# Original Wiki contributors
+SphinxKnight
+riyazadhi1010
+rebloor
+rugk
+Rob W
+ariasuni
+PixievoltNo1
+irenesmith
+David263
+kernp
+wbamberg
+ExE-Boss
+Loirooriol
+fscholz
+andrewtruongmoz
+snoack
+groovecoder
+Sheppy
+Jeremie

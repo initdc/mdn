@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pannernode/index.md
+
+# Original Wiki contributors
+tim-we
+sideshowbarker
+fscholz
+chrisdavidmills
+abbycar
+Sheppy
+jpmedley
+teoli
+Sebastianz
+padenotmoz
+kscarfone

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/index.html
+
+# Original Wiki contributors
+the-toxic
+pk.prog
+SphinxKnight
+teoli
+Mingun
+ethertank

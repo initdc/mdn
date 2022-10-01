@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svgviewelement/index.md
+
+# Original Wiki contributors
+krosylight
+fscholz
+Sebastianz
+jpmedley
+mattwojo
+kscarfone
+Sheppy
+Jeremie

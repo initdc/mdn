@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/resolution/index.md
+
+# Original Wiki contributors
+wbamberg
+estelle
+ExE-Boss
+fscholz
+mfluehr
+zbjornson
+Sebastianz
+Prinz_Rana
+grigs
+trusktr
+spleen387
+paul.gaske
+teoli
+kscarfone
+alberts+
+FredB
+ethertank
+Sheppy
+myakura
+bitinn
+trevorh
+mnoorenberghe
+Marsf
+Jürgen Jeka

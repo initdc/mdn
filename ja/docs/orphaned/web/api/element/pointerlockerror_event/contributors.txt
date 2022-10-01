@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/api/element/pointerlockerror_event/index.md
+
+# Original Wiki contributors
+mfuji09

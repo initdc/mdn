@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xslt/xslt_js_interface_in_gecko/javascript_xslt_bindings/index.md
+
+# Original Wiki contributors
+dkocho4
+teoli
+cvrebert
+Brettz9
+trevorh
+Fredchat
+Dria
+Mujib.ishola
+Andreas Wuest
+JdeValk

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/operators/await/index.md
+
+# Original Wiki contributors
+esjuanma
+jpinto7
+JavierHspn
+rcchristiane

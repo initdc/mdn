@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/_doublecolon_before/index.md
+
+# Original Wiki contributors
+Mookiepiece
+LeonWuV
+tanshaobo
+nDos
+xiaokk06
+AutumnFish
+zhengxinxin
+noiron
+johncido
+FredWe
+Fadeoc

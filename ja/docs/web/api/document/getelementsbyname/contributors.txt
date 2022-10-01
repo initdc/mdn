@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/document/getelementsbyname/index.md
+
+# Original Wiki contributors
+mfuji09
+Marsf
+fscholz
+khalid32
+s_fujimoto
+ethertank
+Mgjbot
+Hfjapancom

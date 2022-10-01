@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/createcomment/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+mfluehr
+fscholz
+teoli
+Catrope
+SphinxKnight
+kscarfone
+Cobra
+Sheppy
+ethertank
+ziyunfei
+Brettz9

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/conflicting/web/javascript/inheritance_and_the_prototype_chain/index.html
+
+# Original Wiki contributors
+doong-jo
+nmsohn
+DoublSB
+limkukhyun
+wbamberg
+cmygray
+khseok1060
+ryukato

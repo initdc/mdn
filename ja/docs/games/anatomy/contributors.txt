@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/games/anatomy/index.md
+
+# Original Wiki contributors
+dskmori
+Dicklessgreat
+wbamberg
+Uemmra3

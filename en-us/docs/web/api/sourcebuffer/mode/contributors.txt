@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/sourcebuffer/mode/index.md
+
+# Original Wiki contributors
+126tufthorn
+Wind1808
+fscholz
+jpmedley
+abbycar
+dgashmdn
+rolfedh
+jyavenard
+cpearce
+chrisdavidmills

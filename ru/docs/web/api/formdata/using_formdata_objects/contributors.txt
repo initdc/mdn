@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/formdata/using_formdata_objects/index.html
+
+# Original Wiki contributors
+crystalbit
+Excent163
+egsk
+MariaEvstropova

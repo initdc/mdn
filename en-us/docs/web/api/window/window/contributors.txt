@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/window/index.md
+
+# Original Wiki contributors
+mfluehr
+sideshowbarker
+connorshea
+david_ross
+momdo
+fscholz
+jsx
+teoli
+kscarfone
+ChiragBhatija
+iamanupmenon
+ethertank
+Sheppy
+Annevk
+Brettz9
+Mgjbot
+Callek
+ReCover
+Jabez
+Nickolay
+Dria
+JesseW

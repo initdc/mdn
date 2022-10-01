@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/language_overview/index.md
+
+# Original Wiki contributors
+ruanpetterson
+nailtonvieira
+michaelycus
+mateus.mlo
+jhbalestrin
+Sheppy
+TiagoWinehouse
+victorwpbastos
+ruda
+ti.marcosdias
+fredericksilva
+Scr1pt3r
+trestini
+ThiagoMatos
+angelorubin
+jlcarvalho
+TheBorba
+teoli
+gtcarlos
+arthur.luiz

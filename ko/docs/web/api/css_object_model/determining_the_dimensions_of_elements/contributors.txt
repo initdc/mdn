@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/css_object_model/determining_the_dimensions_of_elements/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+taggon

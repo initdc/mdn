@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/learn/javascript/first_steps/index.md
+
+# Original Wiki contributors
+RocketSH
+nighet
+ddtet
+BbsonLin
+Rocker
+lightyen
+michaellee8
+lele99123
+jackblackevo
+SoniaBeesee

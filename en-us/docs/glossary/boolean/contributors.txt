@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/boolean/index.md
+
+# Original Wiki contributors
+Sheppy
+Anonymous
+Tigt
+rajkishor09
+___
+SnoopyRules
+ktajpuri
+x2357
+klez
+Andrew_Pfeiffer
+Jeremie
+fscholz
+ajinkya_p

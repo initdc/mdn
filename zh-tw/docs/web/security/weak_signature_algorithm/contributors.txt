@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/security/weak_signature_algorithm/index.md
+
+# Original Wiki contributors
+jackblackevo
+15182254444
+KINGKKALING
+Sbabey
+leVirve

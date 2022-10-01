@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/mouseevent/index.md
+
+# Original Wiki contributors
+zhangchen
+fedorjia
+doodlewind
+Charley-Hsu
+zhanglongdream
+jimwmg
+Dcfm
+ziyunfei
+qovciu

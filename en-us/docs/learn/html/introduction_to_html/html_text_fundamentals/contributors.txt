@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/introduction_to_html/html_text_fundamentals/index.md
+
+# Original Wiki contributors
+philou
+chrisdavidmills
+theRealJennie
+trebuchet
+emckean
+onurbasturk
+choudh70
+cadorej
+WindLo
+eremis101
+xubres
+bminard
+Chomchaum
+quixx
+Manisha0605
+WikiMarc
+stephaniehobson
+cknapp92
+mientje
+Wispring
+sideshowbarker
+phorgan1
+abdusalah
+NurudeenPopoola
+monooran1
+PushpitaPikuDey
+rolfedh

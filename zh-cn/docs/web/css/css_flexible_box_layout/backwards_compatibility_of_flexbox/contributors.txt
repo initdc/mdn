@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_flexible_box_layout/backwards_compatibility_of_flexbox/index.md
+
+# Original Wiki contributors
+knightyun
+fanjianfeng1010
+EndlessSong
+minvedacat
+Ran_Lyu
+xieminjie

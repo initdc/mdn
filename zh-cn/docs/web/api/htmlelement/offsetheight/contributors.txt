@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/htmlelement/offsetheight/index.md
+
+# Original Wiki contributors
+wisecamle
+vincentLW
+SphinxKnight
+McCarthey
+Nirvana-zsy
+liuqipeng417
+wczy1219
+AlexChao
+zldream1106
+Sean.shi

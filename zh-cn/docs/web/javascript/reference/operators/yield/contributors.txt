@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/yield/index.md
+
+# Original Wiki contributors
+RedemptioM
+Yongest
+Usey95
+zhangchen
+lfy55
+xgqfrms-GitHub
+AlexChao
+mountainmoon
+teoli
+lpy

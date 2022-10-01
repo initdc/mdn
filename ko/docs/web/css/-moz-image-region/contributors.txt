@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/-moz-image-region/index.md
+
+# Original Wiki contributors
+alattalatta
+teoli
+wjsskanyo

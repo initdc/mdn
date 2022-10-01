@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/element/innerhtml/index.md
+
+# Original Wiki contributors
+mitsuba-clover
+mfuji09
+j5a
+fscholz
+khalid32
+ethertank
+Shoot
+Taken
+Mgjbot
+Hfjapancom

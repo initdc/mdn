@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/universal_selectors/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+piyush3pranjal
+fscholz
+mfluehr
+ArielS
+erikadoyle
+teoli
+Sebastianz
+cvrebert
+xiaolong
+bignell
+MusikAnimal
+SphinxKnight
+FredB
+jswisher
+koroliov
+Sheppy
+tregagnon
+nimbupani
+miken32
+Montehansen
+BijuGC

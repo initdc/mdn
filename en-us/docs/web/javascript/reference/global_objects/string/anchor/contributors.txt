@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/anchor/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+sideshowbarker
+fscholz
+anonyco
+jameshkramer
+NeilFraser
+eduardoboucas
+Mingun
+teoli
+Sheppy
+evilpie
+ethertank
+Mgjbot
+Sevenspade
+Maian
+Prodoc
+Dria

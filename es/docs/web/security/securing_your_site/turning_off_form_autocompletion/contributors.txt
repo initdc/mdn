@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/security/securing_your_site/turning_off_form_autocompletion/index.html
+
+# Original Wiki contributors
+samus128
+Hoosep

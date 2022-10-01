@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@font-face/font-display/index.md
+
+# Original Wiki contributors
+wbamberg
+Siilwyn
+mfluehr
+estelle
+tpillard
+brunoais
+Sheppy
+chrisdavidmills
+jpmedley
+myakura
+notwaldorf
+mkato
+mrenty
+teoli
+Astley
+Sebastianz

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/outline-width/index.md
+
+# Original Wiki contributors
+mfuji09
+dskmori
+sutara79
+Prinz_Rana
+fscholz
+Sebastianz
+ethertank
+sosleepy

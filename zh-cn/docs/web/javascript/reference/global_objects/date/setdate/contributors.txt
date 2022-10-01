@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/date/setdate/index.md
+
+# Original Wiki contributors
+jinger7281
+fscholz
+AlexChao

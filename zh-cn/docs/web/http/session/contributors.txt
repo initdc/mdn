@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/session/index.md
+
+# Original Wiki contributors
+HardcorePhysician
+2585479524
+zihengCat
+zhuangyin
+keifergu
+cissoid

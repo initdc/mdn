@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/html/introduction_to_html/index.md
+
+# Original Wiki contributors
+bfritscher
+NerOcrO
+Dralyab
+Ilphrin
+loella16
+Porkepix
+Jeremie
+SphinxKnight

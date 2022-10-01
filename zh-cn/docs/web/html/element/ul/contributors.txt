@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/ul/index.md
+
+# Original Wiki contributors
+xq20160912
+gafish
+RainSlide
+ChaunceyWang
+TangiDing
+Eternaldeath
+kgojiwong
+Invar
+Ende93

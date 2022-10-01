@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/selection/index.md
+
+# Original Wiki contributors
+zhengzefanyy
+MCCF
+xiaotianxia
+leere
+ucev
+xgqfrms-GitHub
+BobGreen
+laobubu
+flowfire
+manxingxing
+jsx
+Losses
+ziyunfei
+gqqnbig
+JeanDavidDaviet

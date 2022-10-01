@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/let/index.html
+
+# Original Wiki contributors
+DASenkiv
+skrikl
+rinbik
+avernikoz
+Stejok
+Kostandy
+GaidaiAndrii
+kdex
+Yumeiro
+WispProxy
+titanium-iridium
+andbas
+iseeyou911
+smichrissoft
+stek29
+Tvortsa
+fscholz
+teoli
+nurbek.ab

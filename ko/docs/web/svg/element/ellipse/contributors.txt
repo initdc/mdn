@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/svg/element/ellipse/index.md
+
+# Original Wiki contributors
+alattalatta
+wbamberg
+Sebastianz
+se0kjun

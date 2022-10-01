@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/range/index.md
+
+# Original Wiki contributors
+alattalatta
+JeonghoonChoi
+gblue1223
+pjc0247
+coremaker
+fscholz
+khalid32
+teoli
+pusanbear

@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/promise/reject/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+duanemoody
+alattalatta
+enguerran
+wbamberg
+schalkneethling
+bloudermilk
+nmve
+kdex
+jomaxx
+eduardoboucas
+jpmedley
+madarche
+Jib
+realityking
+SphinxKnight

@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/request/index.md
+
+# Original Wiki contributors
+Ambar
+mfuji09
+wbamberg
+larsgw
+jfet97
+opheron
+vriojtg
+old_morfey13
+akamos01
+Sheppy
+lgarron
+fscholz
+ebidel
+jpmedley
+chrisdavidmills
+Plumes
+Amando
+vimniky
+abbycar
+gregrickaby
+Adamos42
+mrbjoern
+runn1ng
+bryanrsmith
+riking
+Sebastianz
+kscarfone

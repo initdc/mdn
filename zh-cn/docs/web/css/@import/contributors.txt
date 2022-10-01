@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/@import/index.md
+
+# Original Wiki contributors
+xgqfrms-GitHub
+seed-fe
+Guillaume-Heras
+mrstork
+gqqnbig

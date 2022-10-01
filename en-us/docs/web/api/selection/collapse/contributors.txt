@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/collapse/index.md
+
+# Original Wiki contributors
+sideshowbarker
+daltonjc
+ddbeck
+chrisdavidmills
+RedHatter
+abbycar
+Sebastianz
+BenjamP
+fscholz
+teoli
+MHasan
+kscarfone
+Prachi_Dighe
+Kartik_Chadha
+Sheppy
+Geurtz
+Federico
+DR
+Rev
+Jonnyq

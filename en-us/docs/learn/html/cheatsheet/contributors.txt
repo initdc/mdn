@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/cheatsheet/index.md
+
+# Original Wiki contributors
+Yel-Martinez-Consultor-Seo
+sideshowbarker
+verde79
+sksankarraj
+Quantzilla
+Johanancuriel
+SethClydesdale
+arkanciscan
+khalid32
+jswisher
+fachrulrazy
+Andrew_Pfeiffer
+SphinxKnight
+dvincent
+hbloomer
+chadsansing
+Jeremie

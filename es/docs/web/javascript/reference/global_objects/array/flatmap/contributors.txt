@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/array/flatmap/index.html
+
+# Original Wiki contributors
+alejandro.figuera
+amarin95
+lajaso

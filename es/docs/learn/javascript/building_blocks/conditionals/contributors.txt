@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/javascript/building_blocks/conditionals/index.md
+
+# Original Wiki contributors
+willian593
+Enesimus
+InmobAli
+BorisQF
+markosaav
+Atabord
+jhonattanbenitez

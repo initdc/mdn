@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/media_queries/using_media_queries/index.md
+
+# Original Wiki contributors
+hKa2020
+alattalatta
+hwanseung
+BANIP
+seoyunho
+Ground-Silver0903
+Sebastianz
+roupkk
+mrstork
+malayaleecoder
+jooddang
+jhonghee

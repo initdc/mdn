@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mouseevent/clienty/index.md
+
+# Original Wiki contributors
+TrevorKarjanis
+mfluehr
+fscholz
+jpmedley
+libbymc
+Perelandric
+smalllong
+bertyhell
+cvrebert
+teoli
+kscarfone
+Jeremie

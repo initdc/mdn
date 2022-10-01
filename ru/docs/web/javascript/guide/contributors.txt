@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/guide/index.html
+
+# Original Wiki contributors
+ksam
+callisto1337
+VerkholaAlex
+T1mL3arn
+pk.prog
+BychekRU
+xmalinov
+Saviloff
+HaukIce
+pashutk
+astra1
+Yuriy-Ka
+Aleksej
+fscholz
+dtretyakov
+teoli
+danielgn96

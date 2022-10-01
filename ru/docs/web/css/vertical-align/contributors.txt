@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/vertical-align/index.md
+
+# Original Wiki contributors
+rudimadima
+KTatyana
+Sebastianz
+tyv
+s1lver
+ZoRDoK

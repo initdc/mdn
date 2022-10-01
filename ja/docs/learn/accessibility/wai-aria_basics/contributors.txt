@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/accessibility/wai-aria_basics/index.md
+
+# Original Wiki contributors
+uricle
+Wind1808
+piyo-ko
+masasnap
+Tsuyoshi

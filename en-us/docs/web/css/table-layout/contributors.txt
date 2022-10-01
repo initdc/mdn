@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/table-layout/index.md
+
+# Original Wiki contributors
+spollard
+ddbeck
+fscholz
+mfluehr
+mfuji09
+wbamberg
+Jedipedia
+styfle
+llkk
+chharvey
+LouisLazaris
+Zequez
+erikadoyle
+247flashgames
+Sebastianz
+tregagnon
+kscarfone
+teoli
+lucian303
+Sheppy
+ethertank
+thejameskyle
+FredB
+Jürgen Jeka
+BijuGC

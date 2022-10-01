@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/fills_and_strokes/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+r-i-c-h
+stephaniehobson
+so_matt_basta
+rivalitaet
+BenLF
+garrettmaring
+aegatlin
+liammonahan
+trevorh
+Jeremie
+enderandpeter
+yyss
+Manuel_Strehl
+Jarcand
+Wjjohnst

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/css/box-sizing/index.md
+
+# Original Wiki contributors
+chih-hsi-chen
+yungshenglu
+SJW
+PJCHENder
+iigmir
+fscholz
+jwhitlock
+YuCheng

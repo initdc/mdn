@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/inheritance_and_the_prototype_chain/index.md
+
+# Original Wiki contributors
+peter1035k
+jeongraeKim
+dbwodlf3
+project42da
+quddnr153
+ahnzaz
+laranhee
+daewooLeeNy
+danhojin
+shim.hw0810
+faker007
+juyonglee
+epicsaga
+sftblw
+mixed80
+teoli
+JaehwanLee
+jaemin_jo

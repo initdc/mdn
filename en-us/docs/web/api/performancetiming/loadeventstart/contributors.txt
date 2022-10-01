@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performancetiming/loadeventstart/index.md
+
+# Original Wiki contributors
+estelle
+fscholz
+abbycar
+kscarfone
+dispareil
+teoli

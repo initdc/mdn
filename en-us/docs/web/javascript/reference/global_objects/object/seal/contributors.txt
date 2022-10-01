@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/seal/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Jorjon
+mfuji09
+fscholz
+wbamberg
+alattalatta
+determin1st
+roryokane
+jameshkramer
+broAhmed
+zrw354
+kdex
+eduardoboucas
+acbabis
+mhadas
+MichaelTheriot
+claudepache
+ziyunfei
+Mingun
+Sheppy
+trupanka
+ethertank
+XP1
+dbruant
+evilpie
+Waldo
+Crash

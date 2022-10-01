@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/font-synthesis/index.md
+
+# Original Wiki contributors
+alattalatta
+wbamberg
+Sheppy
+iansan5653
+fscholz
+y6nH
+clagnut
+duncanmcdonald
+Sebastianz
+xfq
+teoli

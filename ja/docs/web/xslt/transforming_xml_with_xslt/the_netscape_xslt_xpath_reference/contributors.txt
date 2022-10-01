@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/xslt/transforming_xml_with_xslt/the_netscape_xslt_xpath_reference/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+silverskyvicto
+Mgjbot
+Okome

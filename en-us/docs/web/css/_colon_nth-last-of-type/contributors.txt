@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_nth-last-of-type/index.md
+
+# Original Wiki contributors
+wbamberg
+mfluehr
+dima74
+fscholz
+chrisdavidmills
+PyroLagus
+erikadoyle
+Sebastianz
+MusikAnimal
+Novocaine88
+kscarfone
+Sheppy
+joyously
+teoli
+McGurk

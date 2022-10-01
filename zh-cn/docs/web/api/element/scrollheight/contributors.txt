@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/scrollheight/index.md
+
+# Original Wiki contributors
+SphinxKnight
+zhangchen
+RoXoM
+daxiazilong
+ShoneSingLone
+Angelki
+teoli
+lonelyboy

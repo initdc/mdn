@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/sec-fetch-dest/index.md
+
+# Original Wiki contributors
+hebing0415
+hellorayza

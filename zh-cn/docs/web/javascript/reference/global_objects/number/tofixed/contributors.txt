@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/number/tofixed/index.md
+
+# Original Wiki contributors
+zeroxie
+liuruiqi1993
+Xiaoming666
+rulanfenghua
+PageYe
+yenshen
+Jinjiang
+AlexChao

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            p {
+  margin: 0;
+  text-indent: 3ch;
+}
+
+p.pilcrow {
+   text-indent: 0;
+   display: inline;
+}
+p.pilcrow + p.pilcrow::before {
+  content: " ¶ ";
+}
+
+        </style>
+        
+        <title>&lt;p&gt;: 段落要素 - styling_paragraphs - code sample</title>
+    </head>
+    <body>
+        
+            <p>Separating paragraphs with blank lines is easiest
+for readers to scan, but they can also be separated
+by indenting their first lines. This is often used
+to take up less space, such as to save paper in print.</p>
+
+<p>Writing that is intended to be edited, such as school
+papers and rough drafts, uses both blank lines and
+indentation for separation. In finished works, combining
+both is considered redundant and amateurish.</p>
+
+<p>In very old writing, paragraphs were separated with a
+special character: ¶, the <i>pilcrow</i>. Nowadays, this
+is considered claustrophobic and hard to read.</p>
+
+<p>How hard to read? See for yourself:
+  <button data-toggle-text="Oh no! Switch back!">Use pilcrow for paragraphs</button>
+</p>
+
+        
+        
+            <script>
+                document.querySelector('button').addEventListener('click', function (event) {
+  document.querySelectorAll('p').forEach(function (paragraph) {
+    paragraph.classList.toggle('pilcrow');
+  });
+  var newButtonText = event.target.dataset.toggleText;
+  var oldText = event.target.innerText;
+  event.target.innerText = newButtonText;
+  event.target.dataset.toggleText = oldText;
+});
+
+            </script>
+        
+    </body>
+</html>

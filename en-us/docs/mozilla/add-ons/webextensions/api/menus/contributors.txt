@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/menus/index.md
+
+# Original Wiki contributors
+Rob W
+hellosct1
+jeenuv
+irenesmith
+wbamberg
+zombie
+reblws
+andrewtruongmoz
+abbycar
+andymckay-github

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/range_requests/index.md
+
+# Original Wiki contributors
+huangtt
+heyv5
+warmilk
+asurin
+WayneCui

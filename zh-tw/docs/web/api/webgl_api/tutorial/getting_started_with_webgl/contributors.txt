@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/webgl_api/tutorial/getting_started_with_webgl/index.md
+
+# Original Wiki contributors
+Milkker
+jackblackevo
+mmis1000
+oberonfrog
+iamlockon

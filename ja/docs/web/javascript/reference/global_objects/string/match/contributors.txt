@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/string/match/index.md
+
+# Original Wiki contributors
+ottyajp
+mfuji09
+segayuu
+piyo-ko
+imanabu
+lv7777
+teoli
+ethertank
+Potappo
+Mgjbot

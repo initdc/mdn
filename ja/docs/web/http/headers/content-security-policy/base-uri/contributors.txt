@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/headers/content-security-policy/base-uri/index.md
+
+# Original Wiki contributors
+Uemmra3
+dskmori
+gurezo

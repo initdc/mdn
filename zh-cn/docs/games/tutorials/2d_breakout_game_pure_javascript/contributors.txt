@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/tutorials/2d_breakout_game_pure_javascript/index.md
+
+# Original Wiki contributors
+wbamberg
+jiii
+jswisher

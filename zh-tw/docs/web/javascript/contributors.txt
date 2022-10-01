@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/index.md
+
+# Original Wiki contributors
+nighet
+SphinxKnight
+nykevinwong
+xerviam
+iigmir
+cwlin0416
+thomasaria
+dolphinlin
+flyinglimao
+jackblackevo
+mai7855
+Shiyou
+wildsky
+teoli
+steely.wing
+ethertank
+sycheng
+sailplaneTW
+linhomeyeu
+happysadman
+Mgjbot
+BobChao
+kourge

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_colors/color_picker_tool/index.md
+
+# Original Wiki contributors
+smnet1999
+KrisLee
+wendyzang
+miaoxiaozui2017
+sdc37h
+nalanrola

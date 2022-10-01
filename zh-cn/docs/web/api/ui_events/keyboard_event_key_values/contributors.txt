@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/ui_events/keyboard_event_key_values/index.md
+
+# Original Wiki contributors
+sjpeter
+SphinxKnight
+XHMM

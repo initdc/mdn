@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/trident/index.md
+
+# Original Wiki contributors
+Tigt
+Andrew_Pfeiffer
+klez
+hbloomer
+jsx

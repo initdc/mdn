@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/keyboardevent/charcode/index.md
+
+# Original Wiki contributors
+brentonstrine
+mfluehr
+Sheppy
+vapier
+fscholz
+pldz
+libbymc
+Mottie
+cvrebert
+teoli
+AshfaqHossain
+basemnassar11
+MHasan
+Pointy
+kscarfone
+Cobra
+Wladimir_Palant
+Masayuki
+Matej Lednar
+Brettz9
+Nickolay
+Jabez
+Ptak82
+Maian
+Dria
+JesseW

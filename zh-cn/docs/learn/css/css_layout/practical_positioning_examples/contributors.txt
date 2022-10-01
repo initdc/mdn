@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/css_layout/practical_positioning_examples/index.md
+
+# Original Wiki contributors
+grape
+LeoB-O
+liy010
+BusyToDie
+codeofjackie
+saifeiLee
+Yangxulei
+xp44mm
+ddtyjmyjm
+wsy
+1986slayer

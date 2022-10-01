@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/htmlformelement/index.md
+
+# Original Wiki contributors
+jackblackevo

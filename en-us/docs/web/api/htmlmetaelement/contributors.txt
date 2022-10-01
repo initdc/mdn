@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmetaelement/index.md
+
+# Original Wiki contributors
+sideshowbarker
+ExE-Boss
+Sebastianz
+libbymc
+slimsag
+jwhitlock
+Delapouite
+fscholz
+teoli
+kscarfone
+ethertank
+Sheppy
+Jürgen Jeka
+ThomasACorey

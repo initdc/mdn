@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/webrequest/max_handler_behavior_changed_calls_per_10_minutes/index.md
+
+# Original Wiki contributors
+sideshowbarker
+room.booking7788
+fscholz
+ExE-Boss
+wbamberg

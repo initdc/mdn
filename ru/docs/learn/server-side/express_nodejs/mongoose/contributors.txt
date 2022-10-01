@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/server-side/express_nodejs/mongoose/index.html
+
+# Original Wiki contributors
+alxatr
+Admin-149
+ljapkin-roman
+Delgus
+neyron163
+MariyaSka

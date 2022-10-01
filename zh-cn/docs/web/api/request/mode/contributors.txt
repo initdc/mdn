@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/request/mode/index.md
+
+# Original Wiki contributors
+LPegasus
+bytetown
+RainSlide
+hughfenghen
+johnlin0207
+FLYSLOW
+xgqfrms-GitHub

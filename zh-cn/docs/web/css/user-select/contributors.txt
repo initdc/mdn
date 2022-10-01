@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/user-select/index.md
+
+# Original Wiki contributors
+RainSlide
+xgqfrms
+yipanhuasheng
+wbamberg
+xlaoyu
+SamuraiMe
+Sheppy
+teoli
+MrFish

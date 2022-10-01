@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/totimestring/index.md
+
+# Original Wiki contributors
+mfuji09
+Robg1
+wbamberg
+fscholz
+r-i-c-h
+schalkneethling
+jameshkramer
+schlagi123
+eduardoboucas
+Mingun
+kscarfone
+Sheppy
+ethertank
+dtjm
+evilpie
+Dikrib
+Sevenspade

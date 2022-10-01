@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/audiocontext/index.md
+
+# Original Wiki contributors
+duduindo
+italoadler
+GPrimola
+EduardoFerr
+jpmedley

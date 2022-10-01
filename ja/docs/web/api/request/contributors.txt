@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/request/index.md
+
+# Original Wiki contributors
+drytt
+mfuji09
+Uemmra3
+Sixeight
+chikoski
+YuichiNukiyama

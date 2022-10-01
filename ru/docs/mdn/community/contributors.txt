@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/community/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+jswisher
+SphinxKnight
+boxa6
+mrhaack
+wbamberg
+warsan
+BychekRU
+Palatovskaya

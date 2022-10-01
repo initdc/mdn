@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/statements/try...catch/index.md
+
+# Original Wiki contributors
+dkmstr
+BubuAnabelas
+henryvanner
+AlePerez92
+ManuelRubio
+JooseNavarro
+juanrapoport
+habax
+SphinxKnight
+teoli
+Mgjbot
+Talisker

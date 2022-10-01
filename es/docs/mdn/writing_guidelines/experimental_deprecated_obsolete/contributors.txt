@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mdn/writing_guidelines/experimental_deprecated_obsolete/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Nachec

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/inheritance_and_the_prototype_chain/index.md
+
+# Original Wiki contributors
+SphinxKnight
+yacim
+fredrun14
+grandoc
+Kearny
+elWombator
+Hell_Carlito
+Daynvheur
+jacomyal
+darul75
+teoli

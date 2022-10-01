@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/content_negotiation/index.md
+
+# Original Wiki contributors
+hamishwillee
+dd-pardal
+mfuji09
+Malvoz
+hyunchel
+musibs
+Jürgen Jeka
+jpmedley
+wxdude225
+amjad
+john-p-g
+WayneCui
+fscholz
+toraritte
+teoli
+Sheppy
+pablofiumara
+jswisher
+john_smith
+barnabywalters
+matt.kantor
+statonjr
+Kennyluck

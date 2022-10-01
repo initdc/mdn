@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/getselection/index.md
+
+# Original Wiki contributors
+sytclh
+MCCF
+isLishude
+zhicongyang
+xgqfrms-GitHub
+teoli
+AlexChao
+AshfaqHossain
+Losses

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/character/index.md
+
+# Original Wiki contributors
+michi-h0623
+Wind1808

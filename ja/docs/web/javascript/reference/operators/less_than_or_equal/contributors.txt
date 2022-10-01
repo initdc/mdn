@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/less_than_or_equal/index.md
+
+# Original Wiki contributors
+mfuji09

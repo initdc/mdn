@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/introduction/index.md
+
+# Original Wiki contributors
+catcatching
+wbamberg
+codeofjackie
+zsxeee
+varcat
+WMin
+hansonfang
+13310
+magiclyde
+fierayan

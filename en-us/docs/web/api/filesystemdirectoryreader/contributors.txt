@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/filesystemdirectoryreader/index.md
+
+# Original Wiki contributors
+geoctrl
+fscholz
+libbymc
+Sheppy
+jswisher
+idupree
+Jeremie
+teoli
+kscarfone
+grendel

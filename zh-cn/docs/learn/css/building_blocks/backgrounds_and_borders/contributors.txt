@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/building_blocks/backgrounds_and_borders/index.md
+
+# Original Wiki contributors
+DingGuangbo
+driftingdream
+ChongyouXu
+a-bad-apple
+SirnoChan
+CharCat

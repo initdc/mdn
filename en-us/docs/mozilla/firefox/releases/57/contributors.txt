@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/57/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ExE-Boss
+wbamberg
+jswisher
+PushpitaPikuDey
+arai
+HeatherB
+DBaron
+Jedipedia
+Sheppy
+fscholz
+dvincent
+jetvillegas
+yisibl
+jxn
+topaxi

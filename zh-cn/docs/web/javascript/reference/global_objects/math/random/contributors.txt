@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/math/random/index.md
+
+# Original Wiki contributors
+caozhihui24
+Ende93
+Jing1107
+Soyaine
+wutiande
+hhxxhg
+meng-Macbook
+ywjco
+ZZES_REN
+Daniel_Liu
+xgqfrms-GitHub
+AlexChao
+teoli
+ndon

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/textdecoder/encoding/index.md
+
+# Original Wiki contributors
+gfx2017
+mfluehr
+ExE-Boss
+fscholz
+jpmedley
+realityking
+Reachmeatshivam
+teoli

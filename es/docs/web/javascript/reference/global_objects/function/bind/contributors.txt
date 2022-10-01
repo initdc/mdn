@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/function/bind/index.md
+
+# Original Wiki contributors
+Imvi10
+Silverium
+marinatouceda
+dimun
+lennarth.anaya
+Javingka
+cobogt

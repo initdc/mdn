@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/mathml/element/mstyle/index.md
+
+# Original Wiki contributors
+rachelandrew
+bershanskiy
+fscholz
+ExE-Boss
+Draussenduscher
+fred.wang
+Sheppy

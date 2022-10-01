@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/generator/index.md
+
+# Original Wiki contributors
+bskydive
+wbamberg
+fscholz
+innocenzi
+ExE-Boss
+joobinAbolfazl
+mfuji09
+devinea2
+doubleOrt
+SphinxKnight
+ggephart001
+rwaldron
+willywongi
+fernandosouza
+langq235
+jameshkramer
+ygkorea
+nmve
+kdex
+panhezeng
+benjaminchen
+ziyunfei
+Javascipt
+jpmedley
+Qantas94Heavy
+arai
+chrisAnderson
+Sheppy
+thesebas

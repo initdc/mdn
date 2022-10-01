@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/angle_instanced_arrays/index.md
+
+# Original Wiki contributors
+SebrinaD
+wymm0008
+RunningBear1
+Daibai
+shockw4ver
+breakair
+camillalo

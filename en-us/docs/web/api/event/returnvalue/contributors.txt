@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/returnvalue/index.md
+
+# Original Wiki contributors
+Ghostbird
+mfluehr
+Sheppy
+ExE-Boss
+fscholz
+unfalln
+david_ross
+erikadoyle
+galejwnaylor
+cvrebert

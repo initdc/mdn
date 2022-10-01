@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/transform-function/rotate3d/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+GuiBret
+SphinxKnight
+Sebastianz
+prayash

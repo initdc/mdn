@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/path/index.md
+
+# Original Wiki contributors
+CoderPi
+Jeremie
+fscholz
+mattwojo
+dennismphil
+Sebastianz
+kscarfone
+drewish
+mindrones
+ethertank
+Manuel_Strehl

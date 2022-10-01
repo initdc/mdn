@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/guide/mobile/separate_sites/index.md
+
+# Original Wiki contributors
+jinah1000

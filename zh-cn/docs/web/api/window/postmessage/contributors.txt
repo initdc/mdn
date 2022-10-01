@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/postmessage/index.md
+
+# Original Wiki contributors
+zhouzhongyuan
+mokunshao
+kiinlam
+xgl
+KingJch
+hugg95
+gitnewer
+lltemplar
+DarrenMan
+asnowwolf
+AllanJian
+yuanhang
+Dafrok
+xgqfrms-GitHub
+Hedgehog
+Hearmen
+lon
+Newper
+Ende93
+nabice
+WarriorWu
+MoltBoy
+teoli
+khalid32
+ziyunfei
+Himno

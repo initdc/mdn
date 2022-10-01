@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/array/map/index.md
+
+# Original Wiki contributors
+seulgiyoon
+alattalatta
+KisukPark
+sshplendid
+selfiens
+the1900
+reoim
+Yunhong-Min
+sominlee
+Rokt33r
+epicsaga

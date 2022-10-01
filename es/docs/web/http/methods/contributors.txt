@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/methods/index.md
+
+# Original Wiki contributors
+andrpueb
+eddydeath
+JRaiden
+JulianSoto
+RamsesMartinez

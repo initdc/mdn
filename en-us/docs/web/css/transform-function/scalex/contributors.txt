@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transform-function/scalex/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+rachelandrew
+ramiy
+wbamberg
+estelle
+komalbharadiya
+mfluehr
+Sebastianz
+Youmoo
+moali1.
+SphinxKnight

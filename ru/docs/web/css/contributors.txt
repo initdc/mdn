@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/index.md
+
+# Original Wiki contributors
+Solj
+X7Becka
+SphinxKnight
+aleshkanet
+mavr1k
+VaniaIT
+BychekRU
+fider
+LAshwind
+shalimski
+lavavrik
+s1lver
+Aleksej
+ldone
+teoli
+Decease
+jucke
+Norville
+PWeilbacher
+Softwayer
+Nikoro

@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/first_steps/what_went_wrong/index.md
+
+# Original Wiki contributors
+Alibuibui
+Roy-Tian
+ChongyouXu
+Ash1One
+guikuan
+oceanMIH
+jwhitlock
+HowieZhao
+Esther-Guo
+qiubite-name
+Park-ma
+scsc4212
+codeofjackie
+Harry-Zhao
+yzweb2018
+ddtyjmyjm
+Ray-Eldath
+jswisher
+leezw
+Bigbigbig
+dudusky
+Zhsirting
+billdeng
+quanjingkuan

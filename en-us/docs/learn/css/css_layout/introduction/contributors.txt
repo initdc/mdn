@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/css_layout/introduction/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+choudh70
+xp44mm
+loretta-arineva
+colinrothwell
+rachelandrew
+PrimoMinistro
+jzunigacoayla
+drewbard
+alan1tavares
+pamelahicks
+muhammadghazali
+jruota
+Jiang-Xuan
+alper4
+stephaniehobson
+pauljacobson
+MexieAndCo
+pmontegna
+plug-n-play
+nishanta
+segmentationfaulter
+SnoopyRules

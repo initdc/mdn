@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/fetch_api/using_fetch/index.html
+
+# Original Wiki contributors
+mondeja
+arturojimenezmedia
+camsa
+jccuevas
+MateoVelilla
+crimoniv
+danielM9521
+SphinxKnight
+Ruluk
+jpuerto
+baumannzone
+anjerago
+icedrek
+royexr
+AlePerez92

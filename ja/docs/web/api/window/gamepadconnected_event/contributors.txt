@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/gamepadconnected_event/index.md
+
+# Original Wiki contributors
+irenesmith
+mfuji09
+fscholz
+T.Ukegawa

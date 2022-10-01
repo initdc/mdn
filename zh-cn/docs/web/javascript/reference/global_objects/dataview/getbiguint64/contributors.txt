@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/dataview/getbiguint64/index.md
+
+# Original Wiki contributors
+jinger7281

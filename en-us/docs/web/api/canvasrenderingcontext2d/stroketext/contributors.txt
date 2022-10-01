@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvasrenderingcontext2d/stroketext/index.md
+
+# Original Wiki contributors
+travisleithead
+mfluehr
+fscholz
+thatmichael85
+Sheppy
+nmve
+erikadoyle

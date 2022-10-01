@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/dt/index.html
+
+# Original Wiki contributors
+IsraelFloresDGA
+jigs12
+ander2
+teoli
+Jorolo

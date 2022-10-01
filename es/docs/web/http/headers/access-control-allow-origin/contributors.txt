@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/headers/access-control-allow-origin/index.html
+
+# Original Wiki contributors
+estrelow
+IsraelFloresDGA
+aranzuze35
+_deiberchacon
+anxobotana
+JhonAguiar

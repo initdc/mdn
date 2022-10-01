@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document/createattribute/index.md
+
+# Original Wiki contributors
+rodririobo
+juanseromo12
+FenixAlive

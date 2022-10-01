@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Utilisation du DOM Level 1 Core du W3C - un_exemple_simple - code sample</title>
+    </head>
+    <body>
+        
+            <body>
+<input type="button" value="Change this document." onclick="change()">
+<h2>Header</h2>
+<p>Paragraph</p>
+</body>
+
+        
+        
+            <script>
+                  function change() {
+    // document.getElementsByTagName ("H2") renvoie un NodeList du <h2>
+    // éléments dans le document, et le premier est le nombre 0:
+
+    var header = document.getElementsByTagName("H2").item(0);
+    // le firstChild de l'en-tête est un noeud texte::
+    header.firstChild.data = "A dynamic document";
+    // maintenant l'en-tête est "Un document dynamique".
+
+    var para = document.getElementsByTagName("P").item(0);
+    para.firstChild.data = "This is the first paragraph.";
+
+    // crée un nouveau noeud texte pour le second paragraphe
+    var newText = document.createTextNode("This is the second paragraph.");
+    // crée un nouvel Element pour le second paragraphe
+    var newElement = document.createElement("P");
+    // pose le texte dans le paragraphe
+    newElement.appendChild(newText);
+    // et pose le paragraphe à la fin du document en l'ajoutant
+    // au BODY (qui est le parent de para)
+    para.parentNode.appendChild(newElement);
+  }
+
+            </script>
+        
+    </body>
+</html>

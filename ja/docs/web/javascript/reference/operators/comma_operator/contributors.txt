@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/comma_operator/index.md
+
+# Original Wiki contributors
+mpcjazz
+segayuu
+mushahiroyuki
+yyss
+teoli
+ethertank
+Potappo

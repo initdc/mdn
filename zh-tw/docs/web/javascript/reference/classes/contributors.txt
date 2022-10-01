@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/classes/index.md
+
+# Original Wiki contributors
+hot50773
+Aries0d0f
+chloewlin
+roycrxtw
+akccakcctw
+ywchiao
+fbukevin

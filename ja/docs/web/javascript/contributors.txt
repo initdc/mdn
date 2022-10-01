@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/index.md
+
+# Original Wiki contributors
+mfuji09
+mpcjazz
+poop
+segayuu
+hamasaki
+kenji-yamasaki
+kaiji
+silverskyvicto
+hysryt
+Uemmra3
+sii
+YuichiNukiyama
+isdh
+taiyaki32lp64
+x2357
+mamodayo
+underdolphin
+teoli
+ethertank
+saneyuki_s
+shirayuki
+Yuichirou
+fscholz
+Marsf
+Mgjbot
+Potappo
+Verruckt
+Taken
+Okome
+Taken Bot
+RxOrca

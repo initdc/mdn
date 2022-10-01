@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/webassembly/javascript_interface/instantiate/index.md
+
+# Original Wiki contributors
+fnwinter
+limkukhyun

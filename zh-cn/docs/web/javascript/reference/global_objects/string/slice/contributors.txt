@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/slice/index.md
+
+# Original Wiki contributors
+RainSlide
+Jemory
+MinimalistYing
+zhangchen
+xgqfrms-GitHub
+towerzju
+Meteormatt
+helloguangxue
+FredWe
+teoli
+AlexChao
+ziyunfei

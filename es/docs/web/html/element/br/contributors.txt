@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/br/index.md
+
+# Original Wiki contributors
+vanesa
+abaracedo
+jigs12
+teoli
+Jorolo

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/tools_and_testing/github/index.md
+
+# Original Wiki contributors
+IsraFloores
+Nachec

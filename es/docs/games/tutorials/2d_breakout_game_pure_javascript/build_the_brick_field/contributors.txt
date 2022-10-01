@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field/index.md
+
+# Original Wiki contributors
+wbamberg
+profesooooor
+emolinerom

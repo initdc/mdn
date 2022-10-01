@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/dataview/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+mfuji09
+nozo
+anonyco
+ming08108
+zbjornson
+anthumchris
+Tigt
+SphinxKnight
+jameshkramer
+David_Gilbertson
+Taoja
+scheib
+Sebastianz
+RReverser
+DaveG
+tregagnon
+teoli
+Sheppy
+blackbingo
+vjeux
+Nfroidure
+luke@mozilla.com
+yyss
+BrandonLockaby
+Sephr

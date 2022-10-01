@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/html/multimedia_and_embedding/index.html
+
+# Original Wiki contributors
+valandis
+vnezapno-ya
+rokra2005
+oleg3280
+Potemkiin
+alexfromvl
+Khulagen

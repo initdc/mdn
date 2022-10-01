@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/errors/index.md
+
+# Original Wiki contributors
+gutoribeiro
+fscholz

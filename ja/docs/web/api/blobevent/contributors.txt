@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/blobevent/index.md
+
+# Original Wiki contributors
+Wind1808
+Marsf
+YuichiNukiyama

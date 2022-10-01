@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/template_literals/index.md
+
+# Original Wiki contributors
+SphinxKnight
+fanky-huang
+崮生
+zhangchen
+zouyang1230
+aimishan
+pujiaxun
+ZQH
+LNY
+ywjco
+winjeysong
+xgqfrms-GitHub
+lihx_hit
+donyaw
+Ende93
+lukywong
+FredWe

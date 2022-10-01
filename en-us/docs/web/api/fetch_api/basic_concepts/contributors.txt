@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/fetch_api/basic_concepts/index.md
+
+# Original Wiki contributors
+jswisher
+Sheppy
+sideshowbarker
+LurN
+parambirs
+chrisdavidmills
+gapple
+lawrencekgrant
+gbharatwaj
+smarvin

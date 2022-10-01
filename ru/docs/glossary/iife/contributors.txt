@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/iife/index.html
+
+# Original Wiki contributors
+alexbutav
+zavsievich
+Hiker-Hope
+anastasiya-solodkaya
+TheodoreChe
+c01nd01r

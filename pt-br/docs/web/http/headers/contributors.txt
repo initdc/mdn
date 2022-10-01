@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/http/headers/index.html
+
+# Original Wiki contributors
+gutoribeiro
+davidalves1
+eziotristao
+helton-mori-dev
+secato
+pedroberbel
+GPrimola
+luiz787
+Lazz
+yagoazedias
+fscholz
+andrekutianski

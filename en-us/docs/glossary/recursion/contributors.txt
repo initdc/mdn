@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/recursion/index.md
+
+# Original Wiki contributors
+ccchapman
+mfuji09
+RafeyIqbalRahman
+chrisdavidmills
+sdoylelambda
+hbloomer
+klez
+wbamberg
+Andrew_Pfeiffer
+Jeremie
+georgebatalinski
+teainthegarden
+kscarfone
+panaggio

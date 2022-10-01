@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/common_questions/how_does_the_internet_work/index.html
+
+# Original Wiki contributors
+bogpok
+S-Sukhin
+kss555
+Sturmtiger
+OrkVasya
+andrey_fm
+TinaSuhanovskaya
+elcamlost

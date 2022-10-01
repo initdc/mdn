@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/webgl_api/tutorial/getting_started_with_webgl/index.html
+
+# Original Wiki contributors
+binarydata
+lightest
+fscholz
+sputnik1986

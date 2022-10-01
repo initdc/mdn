@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/getting_started_with_the_web/html_basics/index.md
+
+# Original Wiki contributors
+trainin9
+silverskyvicto
+talken-sakurament
+RedSqueak
+hysryt
+Uemmra3
+mfuji09
+dskmori
+tcyyky

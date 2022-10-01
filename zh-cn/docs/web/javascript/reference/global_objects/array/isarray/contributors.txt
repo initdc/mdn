@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/isarray/index.md
+
+# Original Wiki contributors
+SageX
+Frederick-S
+fscholz
+zhangsenhua
+yenshen
+xgqfrms-GitHub
+ToWorkit
+Dcfm
+xiaokk06
+Ende93
+ziyunfei
+teoli
+paddingme

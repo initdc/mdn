@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/scroll_event/index.md
+
+# Original Wiki contributors
+hosein2398
+foolip
+wbamberg
+chrisdavidmills
+irenesmith
+ExE-Boss
+mfluehr
+axelpale
+fscholz
+ilblog
+danburzo
+poacher2k
+cvrebert
+pantherCZ
+teoli
+Sheppy
+ethertank
+louisremi

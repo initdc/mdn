@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/ext_float_blend/index.md
+
+# Original Wiki contributors
+Sheppy
+jdashg
+fscholz

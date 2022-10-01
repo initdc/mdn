@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/mobile/index.md
+
+# Original Wiki contributors
+mfuji09
+xfq
+Zui
+Andrew_Pfeiffer
+Jeremie
+Sheppy
+wbamberg

@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/building_blocks/index.md
+
+# Original Wiki contributors
+Drizzt-Yu
+NiceGG
+JiLiangLai
+xiaobin123
+xp44mm
+yzweb2018
+sonymoon
+nlln
+ztytotoro
+okotta1
+backli
+lvyue
+ByWhy
+Marslin92
+chinatomhuang
+GKilyar
+iProgramme

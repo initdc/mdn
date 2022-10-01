@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/void/index.md
+
+# Original Wiki contributors
+seiry
+Yidada
+zhangchen
+xycd
+xgqfrms-GitHub
+Ende93
+lunix01
+yenshen
+ziyunfei
+AlexChao
+SphinxKnight
+parano

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlformelement/index.md
+
+# Original Wiki contributors
+Uemmra3
+mfuji09
+khalid32
+teoli
+ethertank
+saneyuki_s
+teppeis
+Mgjbot
+Hfjapancom

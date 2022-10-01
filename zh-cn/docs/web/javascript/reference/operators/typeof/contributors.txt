@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/typeof/index.md
+
+# Original Wiki contributors
+zhuangyin
+AidanDai
+kidonng
+levo2165
+zhangchen
+huangtt
+Crazycheng
+DarkYeahs
+Bitzo
+bengfor
+xgqfrms
+zachary05
+auver
+yufeng
+AlexChao
+teoli
+ziyunfei
+ethertank

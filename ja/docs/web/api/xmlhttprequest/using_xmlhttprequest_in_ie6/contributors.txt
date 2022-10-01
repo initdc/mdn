@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/xmlhttprequest/using_xmlhttprequest_in_ie6/index.md
+
+# Original Wiki contributors
+eltociear

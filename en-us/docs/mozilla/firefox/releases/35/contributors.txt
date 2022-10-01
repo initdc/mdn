@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/35/index.md
+
+# Original Wiki contributors
+fscholz
+saigowthamr
+wbamberg
+Sebastianz
+kdex
+kohei.yoshino
+teoli
+evold
+Jorge.villalobos
+jsx
+LoTD
+Minat
+Penny
+jensen
+morello
+jscape
+jroschen
+Sheppy
+arai
+evilpie
+Mathiasdm
+fred.wang
+Waldo

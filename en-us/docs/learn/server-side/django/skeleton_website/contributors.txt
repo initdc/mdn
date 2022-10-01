@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/django/skeleton_website/index.md
+
+# Original Wiki contributors
+hamishwillee
+alok-cmd
+Rafael_Green
+bermudezmt
+SFM61319
+EdBockelman
+Vaiaro
+vshailesh
+FoCoDev
+ranganathan
+fazl
+kristin
+sidkang
+drchuck
+jlpb97
+sideshowbarker
+christopherwilson1
+jdblischak
+jtwilson0294
+pineapplebug
+iamerroralpha
+noesnaterse
+chrisdavidmills
+dhepper
+saltycraig
+stephaniehobson
+omideus
+kmtu

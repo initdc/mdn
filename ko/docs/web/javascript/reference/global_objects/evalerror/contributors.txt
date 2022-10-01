@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/evalerror/index.md
+
+# Original Wiki contributors
+alattalatta
+zziuni
+imskojs

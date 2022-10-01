@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/endianness/index.md
+
+# Original Wiki contributors
+alattalatta
+mfuji09
+klez
+scheib
+hbloomer
+Andrew_Pfeiffer
+Waldo
+Sheppy
+fscholz

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/server-side/express_nodejs/introduction/index.md
+
+# Original Wiki contributors
+evaferreira
+threevanny
+hernanfloresramirez1987
+jorgesqm95
+GUEROZ
+Slb-Sbsz
+tec.josec
+crisaragon
+Sergio_Gonzalez_Collado
+fedechiappero
+RigobertoUlloa
+javierdelpino
+SphinxKnight

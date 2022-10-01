@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/inheritance/index.md
+
+# Original Wiki contributors
+AlenYing
+laizenan
+Mookiepiece
+FickXu
+mike-j
+xiaahui
+RainSlide
+zhiquan_yu
+kevinfszu
+teoli
+yan

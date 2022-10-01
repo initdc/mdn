@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/html/introduction_to_html/document_and_website_structure/index.md
+
+# Original Wiki contributors
+dlwe
+snakada
+Uemmra3
+s1kusu
+silverskyvicto
+JPMUG-KK

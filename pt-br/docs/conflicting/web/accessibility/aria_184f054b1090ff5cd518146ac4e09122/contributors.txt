@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/conflicting/web/accessibility/aria_184f054b1090ff5cd518146ac4e09122/index.html
+
+# Original Wiki contributors
+Aschlla

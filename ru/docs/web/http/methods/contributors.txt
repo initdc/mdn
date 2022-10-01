@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/http/methods/index.html
+
+# Original Wiki contributors
+podgorny
+Mikhail42
+AdminLP
+pk.prog

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/web_audio_api/index.md
+
+# Original Wiki contributors
+mfuji09
+yumetodo
+Korilakkuma
+acid-chicken
+chikoski
+niusounds
+hirontweet
+nshimizu

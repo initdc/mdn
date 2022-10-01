@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/common_questions/what_is_a_domain_name/index.html
+
+# Original Wiki contributors
+wcqueiroz
+Amarildo
+clstrni

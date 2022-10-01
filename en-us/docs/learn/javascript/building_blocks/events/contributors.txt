@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/building_blocks/events/index.md
+
+# Original Wiki contributors
+Aaron228
+owolagbadavid
+chrisdavidmills
+ankerok-dingdong
+muhammadghazali
+tayyabalishan
+jswisher
+VijayKumarKTG
+FZs
+imchriskitchens
+mariusmucenicu
+4R53N
+sideshowbarker
+christopherwilson1
+bubzy34
+wobedi
+anton-mladenov
+selrond
+andyprickett
+stephaniehobson
+seasmith
+Saabbir
+qdirks
+Arecius
+Bogdancev
+kirkins
+cPlayIt
+dsujeeun
+shalvasvanidze
+nmve
+Jeremie
+BaderSur
+sngv

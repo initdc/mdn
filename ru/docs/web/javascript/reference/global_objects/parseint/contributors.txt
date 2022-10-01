@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/parseint/index.html
+
+# Original Wiki contributors
+boxa6
+pk.prog
+Natalya_Surikova
+KTatyana
+Acknowhow
+oshilan
+raspberry59

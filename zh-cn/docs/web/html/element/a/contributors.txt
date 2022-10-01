@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/a/index.md
+
+# Original Wiki contributors
+gmaso
+gafish
+RainSlide
+JimmieMax
+JinRong.Yang
+sunbeyond
+zhaoqize
+wizardforcel
+Dafrok
+xgqfrms-GitHub
+simonguo
+Ende93
+Yelmor
+yaoliyc
+yatace
+venden
+FredWe
+NIGHTEAGLE
+ziyunfei
+TimZhao
+jessiecaisme

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/guide/ajax/getting_started/index.md
+
+# Original Wiki contributors
+alattalatta
+naduhy2
+mgcation
+chrisdavidmills
+kidkkr
+dayoungles
+SpikeYou
+Channy
+Nam-Hyung Kim
+Sebuls
+Eunseo.choi
+Yongsuhb.e

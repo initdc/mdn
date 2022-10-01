@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/building_blocks/conditionals/index.md
+
+# Original Wiki contributors
+ramgabi
+ojongchul
+JaeWorld
+notypicalus
+Jonnie-Lion
+gsphyo91

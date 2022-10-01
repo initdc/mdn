@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/canvasrenderingcontext2d/index.md
+
+# Original Wiki contributors
+JNa0
+steuzz
+NemoNobobyPersonne
+Halfman
+vdrac
+Y0kaze

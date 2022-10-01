@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/building_blocks/looping_code/index.md
+
+# Original Wiki contributors
+cluelin
+Nerd-Bear
+Choco0914
+SphinxKnight

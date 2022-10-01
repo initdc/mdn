@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/firefox/releases/3/templates/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+Nukeador
+Kaltya
+Mgjbot

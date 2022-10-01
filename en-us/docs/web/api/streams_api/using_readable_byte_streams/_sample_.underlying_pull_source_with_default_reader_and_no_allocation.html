@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            .input {
+  float: left;
+  width: 50%;
+}
+.output {
+  float: right;
+  width: 50%;
+  overflow-wrap: break-word;
+}
+button {
+  display: block;
+}
+
+        </style>
+        
+        <title>Using readable byte streams - underlying_pull_source_with_default_reader_and_no_allocation - code sample</title>
+    </head>
+    <body>
+        
+            <button>Cancel stream</button>
+<div class="input">
+  <h2>Underlying source</h2>
+  <ul></ul>
+</div>
+<div class="output">
+  <h2>Consumer</h2>
+  <ul></ul>
+</div>
+
+        
+        
+            <script>
+                class MockUnderlyingFileHandle {
+  constructor() {
+    this.maxdata = 1300; // "file size"
+    this.filedata = this.randomByteArray(this.maxdata);
+    this.position = 0;
+  }
+
+  // Read data from "file" at position/length into specified buffer offset
+  read(buffer, offset, length, position) {
+    // Object used to resolve promise
+    const resultobj = {};
+    resultobj["buffer"] = buffer;
+    resultobj["bytesRead"] = 0;
+
+    return new Promise((resolve/*, reject*/) => {
+      if (position >= this.maxdata) { //out of data
+        resolve(resultobj);
+        return;
+      }
+
+      // Read random data into supplied buffer
+      const myview = new Uint8Array(buffer, offset, length);
+      // Write the length of data specified
+      for (let i = 0; i < length; i++) {
+        myview[i]=this.filedata[position + i];
+        resultobj["bytesRead"] = i;
+        if (position + i >= this.maxdata) {
+          break;
+        }
+      }
+      // Emulate slow read of data
+      setTimeout(() => { resolve(resultobj); }, 1000);
+    });
+  }
+
+  // Dummy close function
+  close() {
+    return;
+  }
+
+  // Return random character string
+  randomChars(length = 8) {
+    let string = "";
+    let choices = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()";
+
+    for (let i = 0; i < length; i++) {
+      string += choices.charAt(Math.floor(Math.random() * choices.length));
+    }
+    return string;
+  }
+
+  // Return random Uint8Array of bytes
+  randomByteArray(bytes = 8) {
+    const textEncoder = new TextEncoder();
+    return textEncoder.encode(this.randomChars(bytes));
+  }
+};
+
+// Store reference to lists, paragraph and button
+const list1 = document.querySelector('.input ul');
+const list2 = document.querySelector('.output ul');
+const button = document.querySelector('button');
+
+// Create empty string in which to store final result
+let result = "";
+
+// Function to log data from underlying source
+function logSource(result) {
+  const listItem = document.createElement('li');
+  listItem.textContent = result;
+  list1.appendChild(listItem);
+}
+
+// Function to log data from consumer
+function logConsumer(result) {
+  const listItem = document.createElement('li');
+  listItem.textContent = result;
+  list2.appendChild(listItem);
+}
+
+const stream = makeReadableByteFileStream("dummy file.txt")
+const DEFAULT_CHUNK_SIZE = 300;
+
+function makeReadableByteFileStream(filename) {
+  let fileHandle;
+  let position = 0;
+  return new ReadableStream({
+    type: "bytes",  // An underlying byte stream!
+    start(controller) {
+      // Called to initialise the underlying source.
+      // For a file source open a file handle (here we just create the mocked object).
+      fileHandle = new MockUnderlyingFileHandle();
+      logSource(`start(): ${controller.constructor.name}.byobRequest = ${controller.byobRequest}`)
+    },
+    async pull(controller) {
+      // Called when there is a pull request for data
+      if (controller.byobRequest) {
+         const theView = controller.byobRequest.view;
+         const {bytesRead, buffer} = await fileHandle.read(theView.buffer, theView.offset, theView.length, position)
+         if (bytesRead === 0) {
+           await fileHandle.close();
+           controller.close();
+           controller.byobRequest.respond(0);
+           logSource(`pull() with byobRequest. Close controller (read bytes: ${bytesRead})`);
+         } else {
+            position += bytesRead;
+            controller.byobRequest.respond(bytesRead);
+            logSource(`pull() with byobRequest. Transfer ${bytesRead} bytes`);
+         }
+      } else {
+        // No BYOBRequest so enqueue data to stream
+        // NOTE, this branch would only execute for a default reader if autoAllocateChunkSize is not defined.
+        const mynewBuffer = new Uint8Array(DEFAULT_CHUNK_SIZE);
+        const {bytesRead, buffer} = await fileHandle.read(mynewBuffer.buffer, mynewBuffer.offset, mynewBuffer.length, position);
+        if (bytesRead === 0) {
+          await fileHandle.close();
+          controller.close();
+          controller.enqueue(mynewBuffer);
+          logSource(`pull() with no byobRequest. Close controller (read bytes: ${bytesRead})`);
+        } else {
+           position += bytesRead;
+           controller.enqueue(mynewBuffer);
+           logSource(`pull() with no byobRequest. enqueue() ${bytesRead} bytes`);
+        }
+      }
+    },
+    cancel(reason) {
+      // This is called if the stream is cancelled (via reader or controller).
+      // Clean up any resources
+      fileHandle.close();
+      logSource(`cancel() with reason: ${reason}`);
+    },
+  });
+}
+
+const reader = stream.getReader();
+
+readStream(reader);
+
+function readStream(reader) {
+  let bytesReceived = 0;
+  let result = '';
+
+  // read() returns a promise that resolves
+  // when a value has been received
+  reader.read().then(function processText({ done, value }) {
+    // Result objects contain two properties:
+    // done  - true if the stream has already given you all its data.
+    // value - some data. Always undefined when done is true.
+    if (done) {
+      logConsumer(`readStream() complete. Total bytes: ${bytesReceived}`);
+      return;
+    }
+
+    bytesReceived += value.length;
+    logConsumer(`Read ${bytesReceived} bytes so far. Current bytes = ${value}`);
+    result += value;
+
+    // Read some more, and call this function again
+    return reader.read().then(processText);
+  });
+}
+
+button.addEventListener('click', () => { reader.cancel("user choice").then(() => { logConsumer(`reader.cancel complete`) }) } );
+
+            </script>
+        
+    </body>
+</html>

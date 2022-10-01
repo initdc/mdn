@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/navigator/getusermedia/index.md
+
+# Original Wiki contributors
+mfuji09
+Marsf
+YuichiNukiyama
+fscholz
+nshimizu

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/web_components/index.html
+
+# Original Wiki contributors
+m.tven18
+Loosefer
+Akh-rman
+shmel115
+newbornfrontender
+Peccansy
+alinofka
+curdwithraisins
+dmitrykurmanov
+Kalita-Roman

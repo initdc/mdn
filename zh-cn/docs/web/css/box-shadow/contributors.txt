@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/box-shadow/index.md
+
+# Original Wiki contributors
+losT1995
+huiye98
+Louis-7
+RainSlide
+Ende93
+Cirzear
+PanClear
+christopherxxshi
+Azurak
+xlgp
+littleostar
+HeyRaingirl
+wky0615
+XiaoLe
+weiqinl
+851091009
+coolqiyu
+ZhengYinBo
+DecadeCode
+Sebastianz
+jwhitlock
+sikaco
+Prinz_Rana
+teoli
+FredWe
+luomingzhong
+yan
+ethertank
+guirong

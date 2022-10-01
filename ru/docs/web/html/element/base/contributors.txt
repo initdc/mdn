@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/base/index.md
+
+# Original Wiki contributors
+self.mismatch
+iandr
+kaifonaft
+Angelskih
+coollibins

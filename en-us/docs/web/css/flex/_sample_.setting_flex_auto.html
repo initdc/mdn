@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            #flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+#flex-container > .flex-item {
+  flex: auto;
+}
+
+#flex-container > .raw-item {
+  width: 5rem;
+}
+
+#flex-container {
+  width: 100%;
+  font-family: Consolas, Arial, sans-serif;
+}
+
+#flex-container > div {
+  border: 1px solid #f00;
+  padding: 1rem;
+}
+
+#flex-container > .raw-item {
+  border: 1px solid #000;
+}
+
+        </style>
+        
+        <title>flex - setting_flex_auto - code sample</title>
+    </head>
+    <body>
+        
+            <div id="flex-container">
+  <div class="flex-item" id="flex">Flex box (click to toggle raw box)</div>
+  <div class="raw-item" id="raw">Raw box</div>
+</div>
+
+        
+        
+            <script>
+                const flex = document.getElementById("flex");
+const raw = document.getElementById("raw");
+flex.addEventListener("click", () => {
+  raw.style.display = raw.style.display === "none" ? "block" : "none";
+});
+
+            </script>
+        
+    </body>
+</html>

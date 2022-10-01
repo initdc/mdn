@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/bigint/index.md
+
+# Original Wiki contributors
+MadaraUchiha
+generalmimon
+hinell
+wbamberg
+stanhughes
+fscholz
+erikfox
+cakoose
+vapier
+ExE-Boss
+Zearin_Galaurum
+DmitryNaimark
+rwaldron
+gloomylumi
+mfuji09
+kaykayehnn
+chrisdavidmills
+kimosagi
+sideshowbarker
+jinbeomhong
+IvanVergiliev
+moyarich
+alattalatta
+t1anchen
+VFDan
+fardelian
+Sheppy
+sarahgp
+coolaj86
+Brettz9

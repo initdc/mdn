@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_doublecolon_placeholder/index.md
+
+# Original Wiki contributors
+mfluehr
+wbamberg
+ExE-Boss
+verdy_p
+Sheppy
+estelle
+MNizam0802
+SphinxKnight
+alfie
+mfuji09
+chrisdavidmills
+ericwbailey
+fscholz
+alberts+
+jpmedley
+cPhost
+Duckbug
+Sebastianz
+rolfedh
+cvrebert

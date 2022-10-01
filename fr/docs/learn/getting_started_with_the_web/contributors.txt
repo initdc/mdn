@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/getting_started_with_the_web/index.md
+
+# Original Wiki contributors
+Melanie.Almeida
+Dralyab
+Hirevo
+Ilphrin
+loella16
+tonybengue
+Porkepix
+Aminelahlou
+allan.miro
+SphinxKnight
+mouloudia1981
+Oliviermoz
+qwincy
+Luejni
+Goofy
+maxperchus

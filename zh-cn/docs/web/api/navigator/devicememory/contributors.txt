@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/navigator/devicememory/index.md
+
+# Original Wiki contributors
+duanlvxin
+notkid
+chenqingyue

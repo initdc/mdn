@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/background-repeat/index.md
+
+# Original Wiki contributors
+SphinxKnight
+fscholz
+Sebastianz
+technolabtips
+louuis
+teoli
+FredB
+tregagnon
+Nathymig
+Kyodev
+Fredchat

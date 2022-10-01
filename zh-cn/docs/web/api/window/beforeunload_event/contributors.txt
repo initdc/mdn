@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/beforeunload_event/index.md
+
+# Original Wiki contributors
+pe4ch
+Carllllo
+MikeLeon23
+Junezm
+xgqfrms
+wbamberg
+HereChen
+luhaimin
+sqchenxiyuan
+tcatche
+maxsky
+Tienyz
+monjer

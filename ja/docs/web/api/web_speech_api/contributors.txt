@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/web_speech_api/index.md
+
+# Original Wiki contributors
+Marsf
+Solvalow
+dskmori
+masato-d
+kawakami
+lv7777

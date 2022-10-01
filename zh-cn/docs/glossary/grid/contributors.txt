@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/grid/index.md
+
+# Original Wiki contributors
+ShanshanXu
+zhangshaofeng-china
+houzp
+Wendy1994
+GHLandy
+maicss
+QizhongFang

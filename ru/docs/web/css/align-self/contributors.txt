@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/align-self/index.md
+
+# Original Wiki contributors
+IgorPuchkov2003
+Bargamut
+andreww2012

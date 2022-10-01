@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/sort/index.md
+
+# Original Wiki contributors
+810307015
+xgqfrms
+zhangchen
+kaojistream
+fscholz
+ywjco
+Mr-Li-admin
+NuclearBlast
+righttoe
+JackFeng
+MeCKodo
+micheal-death
+Feel-Joy
+houbx
+xgqfrms-GitHub
+ziyunfei
+stonewen
+wuzhenquan
+helloguangxue
+Ende93
+helinjiang
+dameinliu
+XingxianLI
+tiansh
+teoli
+Oatn

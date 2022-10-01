@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mdn/community/contributing/getting_started/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+SphinxKnight
+yasminamess
+wbamberg
+NerOcrO
+Burgito
+black_cat
+PhilippePerret
+Axnyff
+JDev4U
+Jeremie
+mliatt
+manubcd
+stephane34
+Benedetti
+Nothus
+BiGrEgGaErOoTs
+Frigory
+Goofy
+B_M
+tregagnon
+guillaumev
+Lamaw
+G-de-Bruges
+PetiPandaRou
+wakka27

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/eventtarget/dispatchevent/index.html
+
+# Original Wiki contributors
+OneLoneFox
+SphinxKnight
+fscholz
+jsx
+teoli
+Mgjbot
+HenryGR

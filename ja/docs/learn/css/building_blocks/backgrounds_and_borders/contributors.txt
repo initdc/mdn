@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/css/building_blocks/backgrounds_and_borders/index.md
+
+# Original Wiki contributors
+mola1129
+dlwe
+h-subaru
+classLACIA
+snakada

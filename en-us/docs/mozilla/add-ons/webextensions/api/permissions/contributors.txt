@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/permissions/index.md
+
+# Original Wiki contributors
+caitmuenster
+erezsh
+bershanskiy
+rebloor
+wbamberg
+david_ross
+netjeff
+andrewtruongmoz

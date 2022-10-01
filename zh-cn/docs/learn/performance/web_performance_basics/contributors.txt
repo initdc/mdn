@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/performance/web_performance_basics/index.md
+
+# Original Wiki contributors
+shuiRong
+creative_fish

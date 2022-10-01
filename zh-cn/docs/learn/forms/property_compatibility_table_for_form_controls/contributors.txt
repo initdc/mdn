@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/property_compatibility_table_for_form_controls/index.md
+
+# Original Wiki contributors
+codeofjackie
+lovedebug

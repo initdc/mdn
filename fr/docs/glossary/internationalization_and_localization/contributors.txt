@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/internationalization_and_localization/index.md
+
+# Original Wiki contributors
+Voulto

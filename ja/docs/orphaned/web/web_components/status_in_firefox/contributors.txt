@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/web_components/status_in_firefox/index.md
+
+# Original Wiki contributors
+ueokande
+dskmori

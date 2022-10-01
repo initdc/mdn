@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/event/currenttarget/index.md
+
+# Original Wiki contributors
+Nothing_bin
+Ende93
+dsphoebe.
+windyKite
+329530588
+xgqfrms-GitHub
+timwangdev
+collhector
+AlexChao
+teoli
+khalid32
+ziyunfei

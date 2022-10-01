@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/guide/indexed_collections/index.md
+
+# Original Wiki contributors
+bragaus
+felima2017
+hctsantos
+jppcel
+thiagosaife
+doomsterinc
+felipetesc

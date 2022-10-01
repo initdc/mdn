@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/progressive_web_apps/installable_pwas/index.md
+
+# Original Wiki contributors
+SDUTWSL
+nurob
+Dht
+Miahui
+HDUCC
+deping_chen

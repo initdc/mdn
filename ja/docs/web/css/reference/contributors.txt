@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/reference/index.md
+
+# Original Wiki contributors
+mfuji09
+大野城みずき
+unipota
+Marsf
+takahashim
+mrstork
+prayash
+ethertank
+sosleepy
+sii
+saneyuki_s
+Potappo
+tregagnon
+Taken
+Mgjbot

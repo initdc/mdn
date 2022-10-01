@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/baseuri/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+fscholz
+teoli
+kscarfone
+namolmes
+Sheppy
+Nickolay
+ethertank
+ziyunfei
+bcombee
+trevorh

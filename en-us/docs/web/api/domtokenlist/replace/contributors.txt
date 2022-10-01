@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domtokenlist/replace/index.md
+
+# Original Wiki contributors
+UndefinedBehaviour
+Kasceus
+dd-pardal
+Zearin_Galaurum
+chrisdavidmills
+fscholz
+jpmedley
+TrebuhD
+ziyunfei
+jmsfwk
+zbinlin
+teoli

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/common_questions/using_github_pages/index.md
+
+# Original Wiki contributors
+WoodCube
+TeabugCC
+zhangtianle
+zhuangyin
+Bernie_Lai

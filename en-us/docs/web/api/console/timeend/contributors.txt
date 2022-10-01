@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/console/timeend/index.md
+
+# Original Wiki contributors
+irenesmith
+fscholz
+sideshowbarker
+LurN
+arronei
+valtlai
+Daniel Hug
+erikadoyle
+silverwind
+mgiuffrida
+Sebastianz
+chrisdavidmills
+cvrebert
+teoli
+sheetjs
+kscarfone
+Khodaidad_Basharmand
+Sheppy
+ethertank
+myakura

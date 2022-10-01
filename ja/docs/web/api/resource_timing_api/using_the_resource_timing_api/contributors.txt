@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/resource_timing_api/using_the_resource_timing_api/index.md
+
+# Original Wiki contributors
+kemsakurai
+silverskyvicto

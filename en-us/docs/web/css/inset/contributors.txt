@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/inset/index.md
+
+# Original Wiki contributors
+Jürgen Jeka
+wbamberg
+Sheppy
+Konrud
+Yukulele.
+rachelandrew
+jonjohnjohnson
+chrisdavidmills

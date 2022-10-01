@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/defaultprevented/index.md
+
+# Original Wiki contributors
+mfuji09
+Achilles1515
+nakhodkiin
+mfluehr
+fscholz
+DomenicDenicola
+erikadoyle
+cvrebert
+Jeremie
+teoli
+afreen
+kscarfone
+Cobra
+Sheppy
+airportyh
+pamelafox
+ziyunfei
+Jürgen Jeka

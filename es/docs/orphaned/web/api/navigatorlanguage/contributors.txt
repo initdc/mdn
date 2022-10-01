@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/orphaned/web/api/navigatorlanguage/index.md
+
+# Original Wiki contributors
+teoli

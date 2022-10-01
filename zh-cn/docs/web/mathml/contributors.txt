@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/mathml/index.md
+
+# Original Wiki contributors
+RainSlide
+Anonymous86x69ashe
+pluwen
+linmx0130
+lunix01
+fred.wang
+fscholz

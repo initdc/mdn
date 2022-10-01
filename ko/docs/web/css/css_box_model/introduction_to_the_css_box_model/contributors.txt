@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/css_box_model/introduction_to_the_css_box_model/index.md
+
+# Original Wiki contributors
+alattalatta
+KwangseokWon
+Netaras

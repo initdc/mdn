@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/media_source_extensions_api/transcoding_assets_for_mse/index.md
+
+# Original Wiki contributors
+Wind1808
+MarkLunney
+DoomTay
+rhues
+jpmedley
+chrisdavidmills
+germain
+rolfedh
+NickDesaulniers

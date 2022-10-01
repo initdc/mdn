@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/tabs/query/index.md
+
+# Original Wiki contributors
+kernp
+tregagnon
+Zearin_Galaurum
+irenesmith
+fscholz
+antonva
+quassy
+altaha4water
+wbamberg
+nicoabie
+JeffersonScher
+andrewtruongmoz
+snoack
+serv-inc
+craue
+Makyen
+baku
+Jeremie

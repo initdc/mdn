@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/date_and_time_formats/index.md
+
+# Original Wiki contributors
+mfuji09
+John-Page
+pranavkp
+sideshowbarker
+black_white2018
+jswisher
+Sheppy

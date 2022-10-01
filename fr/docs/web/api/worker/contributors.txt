@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/worker/index.md
+
+# Original Wiki contributors
+Arzak656
+laruiss
+khalid32
+DrJeffrey
+JonathanMM
+benjiiiiii

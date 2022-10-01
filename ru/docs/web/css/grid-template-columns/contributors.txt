@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/grid-template-columns/index.md
+
+# Original Wiki contributors
+brendan8c
+HImichun
+gunzenroses
+IgorPuchkov2003
+fscholz
+VerkholaAlex
+PaulineNemchak
+SHOOROOP

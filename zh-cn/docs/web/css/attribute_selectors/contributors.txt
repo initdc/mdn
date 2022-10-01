@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/attribute_selectors/index.md
+
+# Original Wiki contributors
+Lucy
+imwangpan
+juzco
+RainSlide
+littleostar
+Ende93
+zy343134464
+xgqfrms-GitHub
+win5do
+AnnAngela
+fzhw88
+fscholz
+teoli
+alimon

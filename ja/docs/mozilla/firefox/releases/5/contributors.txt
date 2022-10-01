@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/5/index.md
+
+# Original Wiki contributors
+fscholz
+ethertank
+myakura
+Potappo
+kppk05

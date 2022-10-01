@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/blur_event/index.md
+
+# Original Wiki contributors
+OpenStark
+fscholz
+teoli
+khalid32
+BenoitL
+Pitoutompoilu

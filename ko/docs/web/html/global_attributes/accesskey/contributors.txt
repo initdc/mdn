@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/html/global_attributes/accesskey/index.html
+
+# Original Wiki contributors
+alattalatta
+cs09g
+dolmoon
+frankradio
+websonic

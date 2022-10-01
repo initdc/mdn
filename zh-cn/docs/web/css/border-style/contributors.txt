@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/border-style/index.md
+
+# Original Wiki contributors
+Mookiepiece
+liuzeyafzy
+Sebastianz
+Breezewish

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/accessibility/what_is_accessibility/index.md
+
+# Original Wiki contributors
+No.5972
+freejack811
+Firefox_mozilla
+grape
+Sc0tt
+Guitenbay
+sonwimoo
+doubleSizeFat
+ChuckZhang
+Mangone
+ziyunfei
+651584008
+DennisWang

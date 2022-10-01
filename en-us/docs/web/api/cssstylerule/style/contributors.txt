@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cssstylerule/style/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+mfluehr
+teoli
+Sheppy
+ziyunfei
+kitchin
+Nickolay
+Dria

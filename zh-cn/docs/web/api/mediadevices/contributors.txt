@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/mediadevices/index.md
+
+# Original Wiki contributors
+SDUTWSL
+DarnellChen
+RainSlide
+wwdn7
+webber007
+Victorystick

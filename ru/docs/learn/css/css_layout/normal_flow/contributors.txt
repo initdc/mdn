@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/css/css_layout/normal_flow/index.html
+
+# Original Wiki contributors
+mvictorl
+nsvintitskiy
+SoMuchEffort

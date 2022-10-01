@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/manifest.json/content_scripts/index.md
+
+# Original Wiki contributors
+SphinxKnight
+QmanEnobikto
+wbamberg
+Uemmra3
+lv7777

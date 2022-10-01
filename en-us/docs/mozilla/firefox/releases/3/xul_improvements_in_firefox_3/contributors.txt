@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/3/xul_improvements_in_firefox_3/index.md
+
+# Original Wiki contributors
+wbamberg
+SphinxKnight
+teoli
+fscholz
+Piro
+Sheppy
+Bedi
+Minh Nguyen
+Masayuki
+Docwhat
+Mgjbot
+Enn

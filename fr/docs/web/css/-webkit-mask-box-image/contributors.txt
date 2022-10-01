@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/-webkit-mask-box-image/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+Sebastianz
+mrstork
+lbelavoir

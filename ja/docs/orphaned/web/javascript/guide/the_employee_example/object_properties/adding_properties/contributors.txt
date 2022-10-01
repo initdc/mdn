@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/javascript/guide/the_employee_example/object_properties/adding_properties/index.md
+
+# Original Wiki contributors
+teoli
+ethertank
+happysadman
+Mgjbot
+electrolysis

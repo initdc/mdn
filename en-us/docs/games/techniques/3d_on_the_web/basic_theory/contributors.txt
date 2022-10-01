@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/techniques/3d_on_the_web/basic_theory/index.md
+
+# Original Wiki contributors
+wbamberg
+daufinsyd
+dethe
+end3r
+chrisdavidmills
+PushpitaPikuDey
+ClompenSander

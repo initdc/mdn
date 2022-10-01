@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/hgroup/index.md
+
+# Original Wiki contributors
+SphinxKnight
+edspeedy
+marie-ototoi
+tregagnon
+Goofy

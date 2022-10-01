@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            #target {
+  width: 400px;
+  height: 30px;
+  text-align: center;
+  font: 16px "Open Sans", "Helvetica", sans-serif;
+  color: white;
+  background-color: blue;
+  border: 2px solid darkblue;
+  cursor: pointer;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+        </style>
+        
+        <title>GlobalEventHandlers.onpointerdown - example - code sample</title>
+    </head>
+    <body>
+        
+            <div id="target">
+  Tap me, click me, or touch me!
+</div>
+
+        
+        
+            <script>
+                var targetBox = document.getElementById("target");
+
+targetBox.onpointerdown = handleDown;
+
+function handleDown(evt) {
+  var action;
+
+  switch(evt.pointerType) {
+    case "mouse":
+      action = "clicking";
+      break;
+    case "pen":
+      action = "tapping";
+      break;
+    case "touch":
+      action = "touching";
+      break;
+    default:
+      action = "interacting with";
+      break;
+  }
+
+  targetBox.innerHTML = "<strong>Thanks for " + action + " me!</strong>";
+  evt.preventDefault();
+}
+
+targetBox.onpointerup = handleUp;
+
+function handleUp(evt) {
+  targetBox.innerHTML = "Tap me, click me, or touch me!";
+  evt.preventDefault();
+}
+
+            </script>
+        
+    </body>
+</html>

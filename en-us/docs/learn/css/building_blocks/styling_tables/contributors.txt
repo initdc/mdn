@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/styling_tables/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+lisahigh32
+vgiffin
+rachelandrew
+xp44mm
+nsangwan
+Hypnosphi
+RainSlide
+Kwan
+BunnyWong
+juandesouza
+stephaniehobson
+flash4syth
+PyroLagus
+richardzacur

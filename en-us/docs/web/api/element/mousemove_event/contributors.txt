@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/mousemove_event/index.md
+
+# Original Wiki contributors
+mfuji09
+powerlanguage
+SibiAkkash
+sideshowbarker
+StanEffy
+mfluehr
+irenesmith
+Sheppy
+hinell
+DisorientedSpacePenguin
+JonMarkPerry
+vapier
+Peppester
+fscholz
+erikadoyle
+Sebastianz
+teoli
+GiviKDev
+ethertank
+tw2113
+glenrobertson
+louisremi

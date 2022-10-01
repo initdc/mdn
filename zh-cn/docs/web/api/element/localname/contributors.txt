@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/localname/index.md
+
+# Original Wiki contributors
+Bayes
+Ende93
+lingyange
+joeliu926

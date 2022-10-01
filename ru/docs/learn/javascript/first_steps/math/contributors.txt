@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/first_steps/math/index.html
+
+# Original Wiki contributors
+podocenov
+SphinxKnight
+bsanzhiev
+xxphantom
+EugeneSvetlakov
+ConstantineZz
+galaxy3user
+BerezkinBerezkin
+y2k
+Froris
+AndrewSamofalov
+FIJN

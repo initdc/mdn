@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/games/publishing_games/index.md
+
+# Original Wiki contributors
+Voulto
+wbamberg
+NerOcrO
+Tipoussin

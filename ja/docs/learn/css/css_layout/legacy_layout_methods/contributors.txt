@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/css/css_layout/legacy_layout_methods/index.md
+
+# Original Wiki contributors
+wlt
+Wind1808
+dlwe

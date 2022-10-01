@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/math/round/index.md
+
+# Original Wiki contributors
+shelter9824
+zxsunrise
+pazingaa
+xgqfrms-GitHub
+teoli
+ziyunfei
+AlexChao
+princetoad@gmail.com

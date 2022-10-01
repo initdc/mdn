@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/selection/collapsetostart/index.md
+
+# Original Wiki contributors
+RainSlide
+ziyunfei
+jruif
+teoli
+khalid32

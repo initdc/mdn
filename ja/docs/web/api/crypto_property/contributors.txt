@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/crypto_property/index.md
+
+# Original Wiki contributors
+yumetodo
+Marsf
+fscholz
+AshfaqHossain
+ethertank
+Potappo

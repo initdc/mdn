@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/history_api/index.md
+
+# Original Wiki contributors
+iray-tno
+mfuji09
+woodmix
+nao0x2c6
+Neos21
+lv7777
+fscholz
+awakia
+kyo_ago
+ethertank
+saneyuki_s

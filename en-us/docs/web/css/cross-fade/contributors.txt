@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/cross-fade/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ramiy
+HTMLValidator
+mfuji09
+wbamberg
+arshadrr
+aardrian
+ddbeck
+estelle
+SphinxKnight
+Sebastianz

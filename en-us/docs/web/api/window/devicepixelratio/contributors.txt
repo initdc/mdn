@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/devicepixelratio/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+alattalatta
+grigory-bogush
+Sheppy
+tanaka.toshiyuki
+mornir
+Brettz9
+fscholz
+shaunlebron
+zbjornson
+jpmedley
+kalpeshsingh
+sarafec
+snizh
+libbymc
+mrenty
+jsx
+Jiang-Xuan
+darktrojan
+Chris_Chan
+Sebastianz
+Jonathan_Watt
+teoli
+Sole

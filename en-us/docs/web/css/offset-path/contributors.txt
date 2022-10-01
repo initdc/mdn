@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/offset-path/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+fscholz
+rachelandrew
+chrisdavidmills
+dancwilson
+estelle
+mfluehr
+tshinnic
+jpmedley
+jihyerish
+rolfedh

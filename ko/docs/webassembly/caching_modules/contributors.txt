@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/webassembly/caching_modules/index.md
+
+# Original Wiki contributors
+limkukhyun

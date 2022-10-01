@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/web_workers_api/using_web_workers/index.html
+
+# Original Wiki contributors
+sekrittt
+S-inTheory
+KVAnton-WEB
+demyanovs
+Akh-rman
+warsan
+Corey-Maler
+citizen55
+S-le
+vorobeez
+namikiri
+evhandel
+alex-misch
+Sajag
+Anomeon
+3lvcz
+x1unix
+nsine
+sanarise
+arvitaly
+AlexanderTserkovniy
+sergeiDruzhinin
+kav137
+Forshortmrmeth
+MuradAz
+ahtohbi4
+padenot
+finalex

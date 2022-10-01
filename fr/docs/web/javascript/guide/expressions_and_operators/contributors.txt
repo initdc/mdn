@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/guide/expressions_and_operators/index.md
+
+# Original Wiki contributors
+SphinxKnight
+DeltaEvo
+jsx
+Gueusette
+Goofy
+tregagnon
+teoli
+s3dm

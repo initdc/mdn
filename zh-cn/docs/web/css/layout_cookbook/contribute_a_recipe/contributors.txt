@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/layout_cookbook/contribute_a_recipe/index.md
+
+# Original Wiki contributors
+Mirai-explorer

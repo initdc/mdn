@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/fontface/family/index.md
+
+# Original Wiki contributors
+jpmedley
+mfuji09
+fscholz
+jsx

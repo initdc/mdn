@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/replace/index.md
+
+# Original Wiki contributors
+lastVigo
+ZouYj
+zhangming8691
+RainSlide
+SageX
+zhengwengang
+bigbird231
+lwjcjmx123
+glntlq
+Ende93
+qiubo1992
+dingziqi
+xgqfrms-GitHub
+Leeoric
+benymor
+imwangpan
+Zegendary
+billcz
+snowsolf
+S-iscoming
+lunix01
+FredWe
+MoltBoy
+xinshangshangxin
+paddingme
+fannie-z
+teoli
+AlexChao
+robert.yin
+ziyunfei

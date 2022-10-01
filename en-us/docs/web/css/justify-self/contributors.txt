@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/justify-self/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+Sheppy
+ExplodingCabbage
+gideonshils
+mfuji09
+ddbeck
+ExE-Boss
+SelenIT
+rachelandrew
+fscholz
+libbymc
+TylerH
+teoli

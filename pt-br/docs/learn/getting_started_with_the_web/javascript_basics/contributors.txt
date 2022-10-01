@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/getting_started_with_the_web/javascript_basics/index.html
+
+# Original Wiki contributors
+msevero.vasconcelos
+yurigauermarques
+imsantosrodrigo
+di3goCS
+raucer
+soarescamila
+lucas-av7
+Magela
+wcqueiroz
+helton-mori-dev
+pietromesadri
+raphaelhenrique
+gabrielrosa2004
+fernandosavio
+Ralf_Amr
+otavioarc
+davilmaster
+mrmorais
+marcio-ti
+barrosval
+capaci
+MatheusSales
+DiegoBousfield
+leleofg
+gustavoaraujo

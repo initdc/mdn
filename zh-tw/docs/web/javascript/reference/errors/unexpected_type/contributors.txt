@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/errors/unexpected_type/index.md
+
+# Original Wiki contributors
+andytwmvp
+iigmir
+kimi1111

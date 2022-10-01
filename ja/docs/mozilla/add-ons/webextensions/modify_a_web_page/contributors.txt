@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/modify_a_web_page/index.md
+
+# Original Wiki contributors
+Uemmra3
+WhiteHawk-taka

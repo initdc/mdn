@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/@media/prefers-color-scheme/index.md
+
+# Original Wiki contributors
+bopol
+AbdelElMansari
+SphinxKnight

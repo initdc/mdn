@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/localization/index.md
+
+# Original Wiki contributors
+Wind1808
+Uemmra3
+mfuji09
+ethertank
+Mgjbot
+Verruckt
+Cai
+Morishoji
+Okome
+Takenbot
+Taken Bot
+Yama
+Kozawa

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/accessibility/aria_184f054b1090ff5cd518146ac4e09122/index.md
+
+# Original Wiki contributors
+yyss
+teoli

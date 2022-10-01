@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/marquee/index.html
+
+# Original Wiki contributors
+gabriell24
+erix2016
+alexander171294

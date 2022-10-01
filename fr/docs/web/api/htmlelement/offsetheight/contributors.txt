@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/htmlelement/offsetheight/index.md
+
+# Original Wiki contributors
+vava
+fscholz
+teoli
+jsx
+AshfaqHossain
+Julien STUBY
+BenoitL

@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/media/dash_adaptive_streaming_for_html_5_video/index.md
+
+# Original Wiki contributors
+mfuji09
+Sidewinder53
+DeividasBakanas
+formatkaka
+chrysn
+LeroyScandal
+wbamberg
+jswisher
+wyrewolwerowany
+anotherkabab
+rogerxas
+teoli
+gmarty
+Kinetik
+kscarfone
+sworkman
+joshmoz

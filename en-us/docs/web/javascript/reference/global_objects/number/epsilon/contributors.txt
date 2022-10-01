@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/number/epsilon/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+snek
+anonyco
+zgike
+jameshkramer
+SphinxKnight
+craigslistad
+pl4za
+kdex
+kapace
+jinhale
+fleurdeswift
+pbakondy
+adria
+Mingun
+realityking
+jstraw
+paulbartrum
+teoli

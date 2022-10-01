@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/guide/ajax/index.md
+
+# Original Wiki contributors
+alattalatta
+duduindo
+chrisdavidmills
+taggon
+Jshin
+Yongsuhb.e

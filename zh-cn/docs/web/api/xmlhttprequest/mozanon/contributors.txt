@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/xmlhttprequest/mozanon/index.md
+
+# Original Wiki contributors
+ssdemajia

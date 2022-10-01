@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/security/index.md
+
+# Original Wiki contributors
+SphinxKnight
+bldesign.ch
+CarlosAvim
+Tom_D
+goofy_bz
+marumari

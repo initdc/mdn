@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/html/multimedia_and_embedding/video_and_audio_content/index.md
+
+# Original Wiki contributors
+occu29
+Leiner.lop
+pabdani
+Enesimus
+soedrego
+jesusgirao
+acvidelaa
+rayrojas

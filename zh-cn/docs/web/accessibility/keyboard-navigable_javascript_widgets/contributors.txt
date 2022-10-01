@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/accessibility/keyboard-navigable_javascript_widgets/index.md
+
+# Original Wiki contributors
+ChuckZhang
+xiaole.tao@gmail.com
+Othella

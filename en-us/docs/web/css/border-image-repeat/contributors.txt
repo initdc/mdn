@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-image-repeat/index.md
+
+# Original Wiki contributors
+rachelandrew
+ddbeck
+Sheppy
+connorshea
+wbamberg
+mfluehr
+rideron89
+elysdir1
+arronei
+mantou
+Sebastianz
+fscholz
+yisibl
+ziyunfei
+Majr
+jsx
+teoli
+sboroda
+KuroTora
+kscarfone
+lobaluna
+davy.martinez
+paulami_banerjee
+LouisLazaris
+amycb
+ethertank
+wlach
+trevorh
+brianloveswords

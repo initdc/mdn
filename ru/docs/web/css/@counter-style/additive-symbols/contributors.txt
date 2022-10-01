@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/@counter-style/additive-symbols/index.md
+
+# Original Wiki contributors
+Akh-rman
+andreww2012

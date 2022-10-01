@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/event/event/index.md
+
+# Original Wiki contributors
+fscholz
+plter
+xgqfrms-GitHub
+Iamxiaozhu
+sqchenxiyuan
+Go7hic
+Serifx
+nuysoft
+zhongming2013

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_positioning/understanding_z_index/index.md
+
+# Original Wiki contributors
+mfuji09
+mfluehr
+teoli
+Jeremie
+kscarfone
+Sheppy
+tregagnon
+Jürgen Jeka
+Fredchat
+Dria
+Nickolay
+bradipao
+Rod Whiteley
+Wladimir_Palant

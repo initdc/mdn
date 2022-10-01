@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/animation-direction/index.md
+
+# Original Wiki contributors
+HayashiMei
+dongyu_-_
+mimimic
+teoli
+Sebastianz
+fishenal

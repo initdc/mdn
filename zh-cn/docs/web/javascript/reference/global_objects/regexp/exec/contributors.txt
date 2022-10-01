@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/regexp/exec/index.md
+
+# Original Wiki contributors
+CarrotB
+dear-lizhihua
+PageYe
+righttoe
+shiddong
+ibufu
+nandayaduo
+Marco_dev
+xgqfrms-GitHub
+hangyangws
+LiiiiittleRain
+paddingme
+baiya
+teoli
+AlexChao
+ziyunfei
+LinusYu

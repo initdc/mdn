@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/getting_started_with_the_web/publishing_your_website/index.md
+
+# Original Wiki contributors
+Taehoon
+limkukhyun
+galcyurio
+novelview9
+cs09g

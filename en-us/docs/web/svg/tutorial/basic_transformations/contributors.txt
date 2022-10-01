@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/basic_transformations/index.md
+
+# Original Wiki contributors
+Baltasarq
+dosentmatter
+stephaniehobson
+sameers
+tonedef
+n8chz
+Jeremie
+fred.wang
+ethertank
+yyss
+PetiPandaRou
+Manuel_Strehl
+Sheppy

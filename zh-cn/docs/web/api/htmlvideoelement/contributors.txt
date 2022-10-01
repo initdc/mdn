@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/htmlvideoelement/index.md
+
+# Original Wiki contributors
+linmx0130
+zilong-thu

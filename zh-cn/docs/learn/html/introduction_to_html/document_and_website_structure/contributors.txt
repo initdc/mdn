@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/introduction_to_html/document_and_website_structure/index.md
+
+# Original Wiki contributors
+Roy-Tian
+aaazz47
+chenduone
+MorrisLi
+SirnoChan
+wangfangping
+FantasqueX
+imba-tjd
+HolaForce
+HeYuansong
+web-xx
+codeofjackie
+chaosdog
+phiwyc
+eelord
+lihaoyuan
+zhaoqize
+nbhaohao
+dirringx
+HashubWang
+skylakecore
+BarryLiu1995
+luwudang
+JX-Master
+danlanxiaohei
+c0ldian

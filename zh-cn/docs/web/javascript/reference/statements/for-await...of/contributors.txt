@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/statements/for-await...of/index.md
+
+# Original Wiki contributors
+xgqfrms
+jingkaimori
+AozakiOrenji
+Ende93
+SphinxKnight
+mrdulin
+WangXiaoyu
+thereAnana

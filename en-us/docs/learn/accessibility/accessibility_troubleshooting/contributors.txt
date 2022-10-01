@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/accessibility/accessibility_troubleshooting/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+jswisher
+RicardsVeveris
+qdirks

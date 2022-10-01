@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/html/reference/index.md
+
+# Original Wiki contributors
+SphinxKnight
+wbamberg
+iigmir
+TAlulu
+irvinfly
+stingyong

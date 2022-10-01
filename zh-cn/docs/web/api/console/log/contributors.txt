@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/console/log/index.md
+
+# Original Wiki contributors
+alan10332000
+suvyme
+pluwen
+ddtyjmyjm
+yuyongjun123
+zhouxu
+teoli
+charlie
+khalid32
+ziyunfei

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/tutorials/2d_breakout_game_phaser/load_the_assets_and_print_them_on_screen/index.md
+
+# Original Wiki contributors
+escattone
+wbamberg
+end3r
+chrisdavidmills
+jamesdhurd
+kitihounel
+CheetahBongos
+Yuri-Predborskiy

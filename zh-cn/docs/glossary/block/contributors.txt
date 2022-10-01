@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/block/index.md
+
+# Original Wiki contributors
+心斩心鬼
+Sheppy

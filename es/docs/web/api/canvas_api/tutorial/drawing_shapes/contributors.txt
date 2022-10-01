@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/canvas_api/tutorial/drawing_shapes/index.md
+
+# Original Wiki contributors
+cepeami01
+AlexisRC463
+matiasrvergara
+Blackangel1965
+ErikMj69
+alkaithil
+faqndo
+martinzaraterafael
+gabriel15
+Marezelej

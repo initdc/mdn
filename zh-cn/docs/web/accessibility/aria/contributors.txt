@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/accessibility/aria/index.md
+
+# Original Wiki contributors
+phone-burner
+shayminsky
+Freemanyu
+Lucy-Lu
+HJIO
+fjh352
+luobotang
+xieheihei
+zhanglun
+eminor

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/width/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+connorshea
+mfluehr
+Prinz_Rana
+cvrebert
+LightGuard
+sjakthol
+kscarfone
+RufusCSharma

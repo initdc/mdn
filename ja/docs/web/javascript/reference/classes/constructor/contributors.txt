@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/classes/constructor/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+segayuu
+Uemmra3
+YuichiNukiyama
+Marsf

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/fetch_api/using_fetch/index.md
+
+# Original Wiki contributors
+JINSUNG1048
+CressZZ
+LiamYong
+ajy720
+limkukhyun
+briz
+mukeunzi
+real0131
+2dubbing
+BANIP

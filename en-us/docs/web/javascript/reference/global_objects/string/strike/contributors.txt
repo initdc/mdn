@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/strike/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+jameshkramer
+eduardoboucas
+teoli
+Mingun
+Sheppy
+ethertank
+evilpie
+Mgjbot
+Sevenspade
+Ptak82
+Maian
+Prodoc
+Dria

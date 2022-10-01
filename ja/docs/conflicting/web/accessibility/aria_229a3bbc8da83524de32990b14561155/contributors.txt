@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/accessibility/aria_229a3bbc8da83524de32990b14561155/index.md
+
+# Original Wiki contributors
+Uemmra3

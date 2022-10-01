@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/angle/index.md
+
+# Original Wiki contributors
+Sheppy
+wbamberg
+tricki
+estelle
+mfluehr
+fscholz
+oncletom
+erikadoyle
+Dan-Dascalescu
+keithjgrant
+BrandonDSchumann
+megancw
+Sebastianz
+Prinz_Rana
+Thibaut
+Delapouite
+teoli
+kscarfone
+FredB
+brianloveswords
+nimbupani
+Marsf
+Jürgen Jeka

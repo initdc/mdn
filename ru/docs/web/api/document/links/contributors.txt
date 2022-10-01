@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/document/links/index.html
+
+# Original Wiki contributors
+boxa6
+nik3402
+N3stY

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/main/index.html
+
+# Original Wiki contributors
+evaferreira
+jesusbotella
+teoli
+jsalinas

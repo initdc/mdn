@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/contribute/howto/update_the_css_json_db/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+d4rkne55
+mrstork
+prayash
+jswisher
+teoli

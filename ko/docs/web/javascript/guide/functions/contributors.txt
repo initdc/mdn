@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/guide/functions/index.md
+
+# Original Wiki contributors
+limkukhyun
+01045972746
+jeoyoho
+bigsaigon333
+creatijin
+jungpaeng
+gudrl
+wafersroom
+gaeun917
+SSaMKJ
+JunLee
+woochankim
+JunBeom-Park
+SooYeonKim

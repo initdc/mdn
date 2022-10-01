@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/guide/ajax/index.html
+
+# Original Wiki contributors
+bulatDev
+korjjik87
+chrisdavidmills
+Sky_Fox
+Megapotz
+Kavkazsk
+Summit677
+Kwinto
+Dionys
+Woodroof
+Zhuravlik

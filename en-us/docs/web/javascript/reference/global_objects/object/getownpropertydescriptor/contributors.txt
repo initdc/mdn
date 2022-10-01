@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/object/getownpropertydescriptor/index.md
+
+# Original Wiki contributors
+mfuji09
+brantphoto
+fscholz
+robinpokorny
+wbamberg
+jameshkramer
+stephaniehobson
+zrw354
+nmve
+kdex
+nitramrelpmur
+jwhitlock
+ziyunfei
+Mingun
+dbruant
+Sheppy
+ethertank
+BrianDiPalma
+teoli
+pashak
+Sevenspade
+evilpie
+Crash
+Waldo

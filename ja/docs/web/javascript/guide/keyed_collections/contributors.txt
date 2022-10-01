@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/keyed_collections/index.md
+
+# Original Wiki contributors
+mpcjazz
+hamasaki
+kenji-yamasaki
+YuichiNukiyama
+Uemmra3
+chikoski
+x2357
+shide55

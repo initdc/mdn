@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/css_object_model/determining_the_dimensions_of_elements/index.md
+
+# Original Wiki contributors
+SphinxKnight
+MehrdadKhanzadeh
+ExE-Boss
+connorshea
+xfq
+Sheppy
+fscholz
+pcat
+duncancumming
+maryannet
+Zenorbi
+teoli
+kscarfone
+Deepak_Vasalamarri
+yonathan
+George3
+vor0nwe

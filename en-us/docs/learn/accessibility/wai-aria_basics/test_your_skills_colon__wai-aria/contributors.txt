@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/accessibility/wai-aria_basics/test_your_skills_colon__wai-aria/index.md
+
+# Original Wiki contributors
+BassOfBass
+chrisdavidmills

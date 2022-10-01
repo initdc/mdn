@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/tutorials/index.md
+
+# Original Wiki contributors
+brasmon8351
+wcqueiroz
+G_Nascimento
+italorangel
+julio-elipse
+rakiraota
+rejunges
+duduindo
+vasconcelos
+jcjesus
+MarceloBRN
+macalha
+rbrandao
+teoli
+MatCAlv

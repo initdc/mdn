@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/guide/html/content_categories/index.md
+
+# Original Wiki contributors
+Metaloe
+gnepnaiL-oahZ
+unclesamnumberone
+jizhi77
+ZeroJsus
+huozicheng
+AllenYangFly
+arya0822
+kevinfszu
+pantao
+LuyaoWang
+FredWe

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>SVG animation with SMIL - example_2_curved_motion - code sample</title>
+    </head>
+    <body>
+        
+            <svg width="300" height="100">
+  <title>SVG SMIL Animate with Path</title>
+  <rect x="0" y="0" width="300" height="100" stroke="black" stroke-width="1" />
+  <rect
+    x="0"
+    y="0"
+    width="20"
+    height="20"
+    fill="blue"
+    stroke="black"
+    stroke-width="1">
+    <animateMotion
+      path="M 250,80 H 50 Q 30,80 30,50 Q 30,20 50,20 H 250 Q 280,20,280,50 Q 280,80,250,80Z"
+      dur="3s"
+      repeatCount="indefinite"
+      rotate="auto" />
+  </rect>
+</svg>
+
+        
+        
+    </body>
+</html>

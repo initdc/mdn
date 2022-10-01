@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webgl_api/constants/index.md
+
+# Original Wiki contributors
+Levil0229
+FuZhenn
+Sheppy
+fscholz
+AtiX
+Sebastianz

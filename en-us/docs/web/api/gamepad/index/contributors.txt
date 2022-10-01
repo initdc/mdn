@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/gamepad/index/index.md
+
+# Original Wiki contributors
+sideshowbarker
+connorshea
+eof273
+fscholz
+erikadoyle
+Sebastianz
+teoli
+chrisdavidmills

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/statements/switch/index.md
+
+# Original Wiki contributors
+iigmir
+Lazine

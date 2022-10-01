@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webrtc_api/signaling_and_video_calling/index.md
+
+# Original Wiki contributors
+gaoyingie
+Mangone
+wh.D
+fscholz
+Chen-Sanjia

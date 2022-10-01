@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/entries/index.md
+
+# Original Wiki contributors
+symant233
+versionlin7
+zhangchen
+spiritree
+xgqfrms-GitHub
+OshotOkill

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/webgl_api/tutorial/index.html
+
+# Original Wiki contributors
+SphinxKnight
+lrlimon
+fscholz

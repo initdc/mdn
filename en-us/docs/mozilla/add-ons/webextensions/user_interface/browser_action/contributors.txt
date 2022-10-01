@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/user_interface/browser_action/index.md
+
+# Original Wiki contributors
+SphinxKnight
+nsrd2014
+Zearin_Galaurum
+rebloor
+wbamberg
+andrewtruongmoz

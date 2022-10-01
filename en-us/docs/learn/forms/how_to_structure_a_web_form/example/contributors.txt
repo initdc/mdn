@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/forms/how_to_structure_a_web_form/example/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+rashmimalpande
+Sheppy
+Jeremie

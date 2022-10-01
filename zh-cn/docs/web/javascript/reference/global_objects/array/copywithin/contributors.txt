@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/copywithin/index.md
+
+# Original Wiki contributors
+yayaxueyu
+ZL1019
+RainSlide
+fscholz
+futurefeeling
+hongxu.Wei
+fisker
+Non-professionalIFE
+xgqfrms-GitHub
+micheal-death
+gaoupon
+Andself
+Ende93
+chendatony31
+crowphy
+teoli
+ziyunfei
+Oatn

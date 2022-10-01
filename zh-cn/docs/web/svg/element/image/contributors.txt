@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/element/image/index.md
+
+# Original Wiki contributors
+tjyas
+Sebastianz
+fanxiaojie
+lrz8745
+cuixiping

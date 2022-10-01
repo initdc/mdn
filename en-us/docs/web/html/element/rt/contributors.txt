@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/rt/index.md
+
+# Original Wiki contributors
+JamesCatt
+chrisdavidmills
+mfuji09
+estelle
+wbamberg
+SphinxKnight
+yuheiy
+anton.ingfors
+Sheppy
+teoli
+sideshowbarker
+houhr
+Pokechu22
+erikadoyle
+PuercoPop
+Sebastianz
+towkir17
+bboyle
+kscarfone
+tregagnon
+medicdude
+ethertank
+avsaro

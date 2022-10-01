@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/reference/index.md
+
+# Original Wiki contributors
+SphinxKnight
+JCodeg
+wbamberg
+Kiprusoff
+kuki
+alexfromvl
+VsTB
+astrobeglec
+BychekRU
+quinn
+ldone
+alexlead

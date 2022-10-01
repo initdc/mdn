@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/border-image-outset/index.md
+
+# Original Wiki contributors
+jdk137
+Simplexible
+Prinz_Rana
+teoli
+Sebastianz
+fskuok

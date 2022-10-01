@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/object-fit/index.md
+
+# Original Wiki contributors
+RainSlide
+Ahhaha233
+pujiaxun
+n313893254
+someblue
+jingqianduan

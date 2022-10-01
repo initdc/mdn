@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/errors/no_variable_name/index.html
+
+# Original Wiki contributors
+KTatyana

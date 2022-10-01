@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/regular_expressions/assertions/index.md
+
+# Original Wiki contributors
+hensonxu
+srq18211
+oxyg3n
+zytjs
+fish-inu
+Dev_ljp
+Xu-Angel
+liuhao088

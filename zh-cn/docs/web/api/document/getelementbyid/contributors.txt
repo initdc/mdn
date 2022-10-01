@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/getelementbyid/index.md
+
+# Original Wiki contributors
+Payne-X
+StudentMain
+dhssingle
+python012
+HTLing
+hhxxhg
+Ende93
+teoli
+HeChenTao

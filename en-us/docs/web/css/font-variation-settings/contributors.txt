@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/font-variation-settings/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+Sheppy
+sideshowbarker
+estelle
+quixx
+SphinxKnight
+gliesche
+chrisdavidmills
+fscholz
+mfluehr
+KrasnayaPloshchad
+Siilwyn
+sergejr
+behnam

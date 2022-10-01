@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/accessibility_tree/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09

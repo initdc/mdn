@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/new/index.md
+
+# Original Wiki contributors
+HermitSun
+lmx-Hexagram
+wuwensheng1992
+RainSlide
+toyflivver
+nanyang24
+Akiq2016
+zhangchen
+btea
+zhuangyin
+TroyMa1990
+xgqfrms-GitHub
+pokka
+ruiM92
+Ke.shidong
+yangzi
+yenshen
+fskuok
+jiacai2050
+fphonor
+SphinxKnight
+TomWan

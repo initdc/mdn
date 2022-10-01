@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/orphaned/mdn/contribute/howto/add_or_update_browser_compatibility_data/index.html
+
+# Original Wiki contributors
+fuggy

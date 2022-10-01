@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/response/index.md
+
+# Original Wiki contributors
+shimazu
+woodmix
+momdo
+chikoski
+YuichiNukiyama
+lv7777

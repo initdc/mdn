@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/index.md
+
+# Original Wiki contributors
+bytetown
+RainSlide
+nonlimiting
+785172550
+Spike-Leung
+xiongcong
+Bayes
+zxsunrise
+zylyye
+BillgoXu
+fsx950223
+_sollrei
+auroraeffect
+liangyj021
+xinleibird
+printfalling
+xgqfrms-GitHub
+lext
+wangdapeng1005
+Soy
+Ende93
+teoli
+jsx
+less
+ReyCG_sub
+ziyunfei
+Crash
+TigerSoldier
+JarodWang

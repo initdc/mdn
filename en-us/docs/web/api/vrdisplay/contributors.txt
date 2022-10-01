@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/vrdisplay/index.md
+
+# Original Wiki contributors
+fscholz
+chrisdavidmills
+abbycar
+rolfedh
+Sebastianz
+gbharatwaj

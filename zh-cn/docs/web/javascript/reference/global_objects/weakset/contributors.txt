@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/weakset/index.md
+
+# Original Wiki contributors
+wallena3
+earlymeme
+xgqfrms-GitHub
+Go7hic
+teoli
+ziyunfei

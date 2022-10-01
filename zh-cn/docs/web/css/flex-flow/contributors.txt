@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/flex-flow/index.md
+
+# Original Wiki contributors
+dongyu_-_
+fscholz
+Go7hic
+Sebastianz
+jianzhou520
+f2ebill

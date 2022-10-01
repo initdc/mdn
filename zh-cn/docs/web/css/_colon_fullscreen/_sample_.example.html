@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            #fullscreen:-moz-full-screen {
+  padding: 42px;
+  background-color: pink;
+  border:2px solid #f00;
+  font-size: 200%;
+}
+#fullscreen:-ms-fullscreen {
+  padding: 42px;
+  background-color: pink;
+  border:2px solid #f00;
+  font-size: 200%;
+}
+#fullscreen:-webkit-full-screen {
+  padding: 42px;
+  background-color: pink;
+  border:2px solid #f00;
+  font-size: 200%;
+}
+
+#fullscreen:-moz-full-screen > h1 {
+  color: red;
+}
+#fullscreen:-ms-fullscreen > h1 {
+  color: red;
+}
+#fullscreen:-webkit-full-screen > h1 {
+  color: red;
+}
+
+#fullscreen:-moz-full-screen > p {
+  color: DarkRed;
+}
+#fullscreen:-ms-fullscreen > p {
+  color: DarkRed;
+}
+#fullscreen:-webkit-full-screen > p {
+  color: DarkRed;
+}
+
+#fullscreen:-moz-full-screen > button {
+  display: none;
+}
+#fullscreen:-ms-fullscreen > button {
+  display: none;
+}
+#fullscreen:-webkit-full-screen > button {
+  display: none;
+}
+
+#fullscreen:fullscreen {
+  padding: 42px;
+  background-color: pink;
+  border:2px solid #f00;
+  font-size: 200%;
+}
+
+#fullscreen:fullscreen > h1 {
+  color: red;
+}
+
+#fullscreen:fullscreen > p {
+  color: DarkRed;
+}
+
+#fullscreen:fullscreen > button {
+  display: none;
+}
+
+        </style>
+        
+        <title>:fullscreen - example - code sample</title>
+    </head>
+    <body>
+        
+            <div id="fullscreen">
+  <h1>:fullscreen Demo</h1>
+  <p> This will become a big red text when on fullscreen.</p>
+  <button id="fullscreen-button">Enter Fullscreen</button>
+</div>
+
+        
+        
+            <script>
+                var fullscreenButton = document.getElementById("fullscreen-button");
+var fullscreenDiv    = document.getElementById("fullscreen");
+var fullscreenFunc   = fullscreenDiv.requestFullscreen;
+if (!fullscreenFunc) {
+  ['mozRequestFullScreen',
+   'msRequestFullscreen',
+   'webkitRequestFullScreen'].forEach(function (req) {
+     fullscreenFunc = fullscreenFunc || fullscreenDiv[req];
+   });
+}
+function enterFullscreen() {
+  fullscreenFunc.call(fullscreenDiv);
+}
+fullscreenButton.addEventListener('click', enterFullscreen);
+
+            </script>
+        
+    </body>
+</html>

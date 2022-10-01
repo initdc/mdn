@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/select/index.md
+
+# Original Wiki contributors
+SphinxKnight
+tolbon10
+FanJiyong
+jajm
+tregagnon
+Julien STUBY
+teoli
+Julien.stuby

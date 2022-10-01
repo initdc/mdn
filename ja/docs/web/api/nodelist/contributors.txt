@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/nodelist/index.md
+
+# Original Wiki contributors
+tyankatsu
+mfuji09
+segayuu
+hashedhyphen
+unarist
+fscholz

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/setutcmilliseconds/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+jameshkramer
+eduardoboucas
+Mingun
+Sheppy
+evilpie
+Ptak82
+Nicademus
+Mw22
+Wampa
+Maian
+Dria

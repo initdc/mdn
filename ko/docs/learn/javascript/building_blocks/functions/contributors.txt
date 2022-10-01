@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/building_blocks/functions/index.md
+
+# Original Wiki contributors
+mochapoke
+unfolz
+geudae
+chupark
+jivasangcript
+heejink
+jokh0108
+JeonghoonChoi

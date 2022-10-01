@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/html/element/span/index.md
+
+# Original Wiki contributors
+almeidaalex
+GPrimola
+teoli
+vagnerleitte

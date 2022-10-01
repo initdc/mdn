@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_storage_api/using_the_web_storage_api/index.md
+
+# Original Wiki contributors
+peterbe
+jswisher
+mfuji09
+samuelClo
+wazz
+Roubo
+shakyjake
+brendenseidel
+fscholz
+sideshowbarker
+chrisdavidmills
+VladPavel15
+roryokane
+stephaniehobson
+zhuangyin
+samjross
+wpiekutowski
+StijnDeWitt
+RonRoyston
+schwich
+smalllong
+bob0the0mighty
+teoli
+jora244
+allan-bonadio
+amit-yadav
+kscarfone
+purefan

@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/1.5/what_s_new_in_1.5_alpha/index.md
+
+# Original Wiki contributors
+wbamberg
+SphinxKnight
+Biiinggg
+teoli
+Ptak82
+gandalf
+Bo102010
+Callek
+cbiesinger
+Dria
+Waldo
+Ted_Mielczarek
+Jesse
+Tor
+Bzbarsky
+Pmsyyz
+Mconnor
+GavinSharp
+Editmonkey
+Doron
+bsmedberg

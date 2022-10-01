@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/orphaned/web/guide/unicode_bidrectional_text_algorithm/index.html
+
+# Original Wiki contributors
+bogpok

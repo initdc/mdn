@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/border-image-repeat/index.md
+
+# Original Wiki contributors
+mfuji09
+yyss
+teoli
+Sebastianz
+ethertank
+sosleepy

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/server-side/express_nodejs/index.html
+
+# Original Wiki contributors
+Aparin
+reksar
+Paul_Yuhnovich
+daviys
+Sumere4ny

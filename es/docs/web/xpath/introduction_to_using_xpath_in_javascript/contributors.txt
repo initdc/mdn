@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/xpath/introduction_to_using_xpath_in_javascript/index.html
+
+# Original Wiki contributors
+AlbertoPrado70
+caber
+chrisdavidmills
+fscholz
+joakku

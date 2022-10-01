@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/fonts/index.md
+
+# Original Wiki contributors
+mfuji09
+matvey-andreyev
+fscholz
+jsx

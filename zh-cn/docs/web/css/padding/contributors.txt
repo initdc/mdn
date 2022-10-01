@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/padding/index.md
+
+# Original Wiki contributors
+PaperFlu
+rxliuli
+ZZES_REN
+Jiasm
+PattyChen
+liuyidi
+xgqfrms
+Sebastianz
+fscholz
+teoli
+FredWe

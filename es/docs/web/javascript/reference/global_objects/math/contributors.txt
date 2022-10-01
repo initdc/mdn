@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/math/index.md
+
+# Original Wiki contributors
+RomnSD
+Pedro-vk
+lajaso
+Enesimus
+maxbalter
+raecillacastellana
+mrajente47
+enesimo
+Jaston
+AugustoEsquen
+teoli
+ethertank
+Talisker
+Mgjbot
+Sheppy

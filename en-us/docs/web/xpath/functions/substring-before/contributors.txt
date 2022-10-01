@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xpath/functions/substring-before/index.md
+
+# Original Wiki contributors
+vor0nwe
+SphinxKnight
+Sheppy
+Mgjbot
+Docwhat
+Dietrich
+Ptak82
+Jonnyq

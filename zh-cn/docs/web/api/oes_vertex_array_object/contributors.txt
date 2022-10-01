@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/oes_vertex_array_object/index.md
+
+# Original Wiki contributors
+ymyh

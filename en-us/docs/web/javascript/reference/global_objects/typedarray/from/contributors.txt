@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/typedarray/from/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+kevincox
+Zearin_Galaurum
+davidie1
+AyrA.ch
+matinkaboli
+kdex
+nmve
+rousan
+_jordan
+eduardoboucas
+ibratoev
+tbuschto
+jpmedley
+cdr

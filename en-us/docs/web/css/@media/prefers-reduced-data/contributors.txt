@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/prefers-reduced-data/index.md
+
+# Original Wiki contributors
+escattone
+wbamberg
+Malvoz
+bershanskiy

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/accessibility/css_and_javascript/index.md
+
+# Original Wiki contributors
+smeden-lod
+JNa0
+dragon38800

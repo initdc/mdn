@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/object/entries/index.html
+
+# Original Wiki contributors
+cloudofgeorge
+KolesnikovR
+SpawnLeon
+YozhEzhi
+Akh-rman
+fscholz
+bobberr
+XaveScor
+uazure
+curdwithraisins
+risentveber
+Grinv

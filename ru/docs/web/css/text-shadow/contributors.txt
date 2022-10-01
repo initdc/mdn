@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/text-shadow/index.md
+
+# Original Wiki contributors
+sokolovserega1982
+alexa.poruch
+exarces

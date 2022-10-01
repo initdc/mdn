@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/urlsearchparams/delete/index.md
+
+# Original Wiki contributors
+merwan7
+Thw0rted
+chrisdavidmills
+fscholz
+PushpitaPikuDey
+jpmedley

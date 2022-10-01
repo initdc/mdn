@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/animation/index.md
+
+# Original Wiki contributors
+zhaoshouxin
+zjffun
+Yayure
+callmezhenzhen
+ShirleyM
+zhuangyin
+xgqfrms-GitHub
+mrstork
+Ende93
+teoli
+Sebastianz
+ziyunfei
+fishenal

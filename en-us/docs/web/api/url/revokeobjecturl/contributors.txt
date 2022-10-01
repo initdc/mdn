@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/url/revokeobjecturl/index.md
+
+# Original Wiki contributors
+alattalatta
+chrisdavidmills
+Sheppy
+fscholz
+andremw
+erikadoyle
+jpmedley
+flimzy
+rolfedh
+masakij
+Sebastianz
+teoli
+afreen
+m_gol
+vishu_gawli
+ethertank
+madarche
+scottrowe
+ebidel
+fryn

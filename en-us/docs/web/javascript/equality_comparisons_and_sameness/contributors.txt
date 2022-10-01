@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/equality_comparisons_and_sameness/index.md
+
+# Original Wiki contributors
+moshfeu
+fscholz
+SphinxKnight
+Kaleem
+Konrud
+mfuji09
+jahzielv
+gregprice
+samim
+blin4444
+wisgh
+fxa
+LayZeeDK
+maxvu
+koninos
+fcheslack
+Dirwu
+focusaurus
+nmve
+AnthonySendra
+whoacowboy
+oksana-khristenko
+Seairth
+stevemao
+Sevenspade
+bergus
+FrankHassanabad
+Jeremie
+mikeonthemoon
+Sheppy
+Waldo

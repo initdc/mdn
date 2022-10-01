@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/audio_and_video_manipulation/index.md
+
+# Original Wiki contributors
+mfuji09
+bogpok
+hadyelzayady
+Sheppy
+chrisdavidmills
+a-mt

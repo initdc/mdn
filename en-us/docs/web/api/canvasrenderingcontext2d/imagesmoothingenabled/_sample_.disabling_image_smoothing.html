@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>CanvasRenderingContext2D.imageSmoothingEnabled - disabling_image_smoothing - code sample</title>
+    </head>
+    <body>
+        
+            <canvas id="canvas" width="460" height="210"></canvas>
+
+        
+        
+            <script>
+                const canvas = document.getElementById('canvas');
+
+const ctx = canvas.getContext('2d');
+ctx.font = '16px sans-serif';
+ctx.textAlign = 'center';
+
+const img = new Image();
+img.src = 'https://interactive-examples.mdn.mozilla.net/media/examples/star.png';
+img.onload = () => {
+  const w = img.width,
+        h = img.height;
+
+  ctx.fillText('Source', w * .5, 20);
+  ctx.drawImage(img, 0, 24, w, h);
+
+  ctx.fillText('Smoothing = TRUE', w * 2.5, 20);
+  ctx.imageSmoothingEnabled = true;
+  ctx.drawImage(img, w, 24, w * 3, h * 3);
+
+  ctx.fillText('Smoothing = FALSE', w * 5.5, 20);
+  ctx.imageSmoothingEnabled = false;
+  ctx.drawImage(img, w * 4, 24, w * 3, h * 3);
+};
+
+            </script>
+        
+    </body>
+</html>

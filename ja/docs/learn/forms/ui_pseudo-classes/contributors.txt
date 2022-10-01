@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/forms/ui_pseudo-classes/index.md
+
+# Original Wiki contributors
+wlt
+mfuji09
+Uemmra3

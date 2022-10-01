@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/eventtarget/addeventlistener/index.html
+
+# Original Wiki contributors
+isakura313
+SphinxKnight
+in02emt5ev
+VadimShchukin
+YozhEzhi
+ConstantineZz
+biggieman
+Roman-Kosov
+vivcogit
+inomn
+WispProxy
+livalex
+FlashbangSW
+hom3chuk
+DeDuck333
+DavidWebb
+mxxn
+Logual
+vgsdesign
+SergeyGuns
+ggcstop
+zzzunyazz
+Tankerxyz
+torbasow
+Al1
+dood
+fscholz
+AlexChuev

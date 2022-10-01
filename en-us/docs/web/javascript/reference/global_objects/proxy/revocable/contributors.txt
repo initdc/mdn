@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/proxy/revocable/index.md
+
+# Original Wiki contributors
+fscholz
+mfuji09
+nadeemfyad
+jameshkramer
+SphinxKnight
+Bodo1445
+robbiespeed
+kdex
+ibratoev
+north-is-northwest
+xushu42
+ziyunfei
+arai

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/manifest.json/content_security_policy/index.md
+
+# Original Wiki contributors
+wbamberg
+ExE-Boss
+erosman
+lv7777
+andrewtruongmoz
+fscholz
+Makyen
+kmaglione

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/windows/window/index.md
+
+# Original Wiki contributors
+fscholz
+Alien426
+kernp
+kestrel
+wbamberg
+chrisdavidmills

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/microdata/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+Tantek
+germain
+evan-brass
+sideshowbarker
+Annevk
+fscholz
+stevenwdv
+getschomp
+teoli
+rolfedh
+duncanmcdonald

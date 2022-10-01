@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/styling_text/styling_links/index.md
+
+# Original Wiki contributors
+so2liu
+SirnoChan
+Map1en_
+LeoB-O
+dchaofei
+codeofjackie
+Fungzhe
+allan_simon
+xp44mm
+sputnikW
+nbhaohao

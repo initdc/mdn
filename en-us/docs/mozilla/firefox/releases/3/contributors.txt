@@ -1,0 +1,58 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/3/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+ethertank
+Sheppy
+fscholz
+sorinelpusti
+Slowskee
+Trainhappy
+Mvent2
+Xrayon
+Potappo
+Enn
+Valenna
+Fwangel
+NoahAusisi
+GreenKnight
+Nickolay
+Midnightaz
+Vista maker
+Mossop
+Waldo
+BobChao
+Jresig
+Jesse
+Gomita
+Xhva
+SylvainPasche
+Dolske
+Mgjbot
+Karlt
+Ben Karel
+DBaron
+Leandro Mercês Xavier
+Shoot
+Jonathan_Watt
+Taken
+XSkaschY
+Kirschkern
+Roc
+2bass
+Chbok
+BenoitL
+MykMelez
+Longsonr
+Zuliani
+sdwilsh
+Morac
+Jklippel
+Hwasung
+Dietrich
+MarkFinkle
+Ptak82
+Koavf
+Ted_Mielczarek

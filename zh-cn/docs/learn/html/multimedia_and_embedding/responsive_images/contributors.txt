@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/multimedia_and_embedding/responsive_images/index.md
+
+# Original Wiki contributors
+waipcat
+cetewhale
+WoodCube
+WindLo
+Roy-Tian
+charvin
+ZhangDaZongWei
+codeofjackie
+lihaoyuan
+yydzxz
+ddtyjmyjm
+Aladdin-ADD
+nbhaohao
+hjb912
+Eric.Wu
+HashubWang
+xuqisheng

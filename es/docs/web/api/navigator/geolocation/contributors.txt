@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/navigator/geolocation/index.html
+
+# Original Wiki contributors
+jabarrioss
+AlePerez92
+fscholz
+jsx
+lfentanes

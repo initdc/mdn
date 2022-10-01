@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/selectstart_event/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+chrisdavidmills
+irenesmith
+mfluehr
+erikadoyle
+Ehsan
+wirmar
+Nickolay
+Sebastianz
+teoli

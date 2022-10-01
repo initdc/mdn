@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@import/index.md
+
+# Original Wiki contributors
+wbamberg
+mfuji09
+ExE-Boss
+SphinxKnight
+jeffnchlt
+crazytonyi
+juandesouza
+mfluehr
+fscholz
+erikadoyle
+Sebastianz
+Guillaume-Heras
+mrstork
+rolfedh
+jackarmley
+danfuzz
+kscarfone
+Jez9999
+Sheppy
+teoli
+brianloveswords
+Marsf
+DBaron
+Mgjbot
+Nickolay
+alecananian

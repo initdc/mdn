@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/functions/index.html
+
+# Original Wiki contributors
+KoS57
+nikbelikov
+SmogHard
+forestbird
+teoli
+dtretyakov

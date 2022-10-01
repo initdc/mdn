@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/learn/javascript/first_steps/a_first_splash/index.md
+
+# Original Wiki contributors
+RocketSH
+hmysjiang
+Hungyun
+SphinxKnight
+dorakao0408
+mhuang211
+lebniz
+RishYang
+egg734631
+mubiesam
+iron0336
+jackblackevo
+yuwei2s

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/encrypted_media_extensions_api/index.md
+
+# Original Wiki contributors
+fscholz
+thenoelman
+CreationFox
+Jedipedia
+mlgc4869
+Sheppy
+erikadoyle
+joeyparrish
+Hsivonen
+teoli
+cvrebert
+Sebastianz
+jpmedley
+kscarfone

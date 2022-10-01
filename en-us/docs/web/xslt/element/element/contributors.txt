@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xslt/element/element/index.md
+
+# Original Wiki contributors
+ExE-Boss
+SphinxKnight
+Patrick_Dark
+Sheppy
+Jake Archibald
+Fredchat
+Mgjbot
+Ptak82
+Nickolay
+CitizenK

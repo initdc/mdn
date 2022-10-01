@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/element/closest/index.html
+
+# Original Wiki contributors
+tohaly
+Yialo
+YozhEzhi
+sahmildzhakeev
+u_mulder
+ebuster
+akaguny
+AlexOvchinkin
+SeanSilke
+vittorio-tortugo
+In4in

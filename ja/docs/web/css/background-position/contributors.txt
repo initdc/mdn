@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/background-position/index.md
+
+# Original Wiki contributors
+mfuji09
+Simplexible
+Prinz_Rana
+mrstork
+teoli
+SphinxKnight
+mitsuba-clover
+Sebastianz
+ethertank
+Marsf

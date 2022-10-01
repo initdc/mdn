@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_user-invalid/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+estelle
+ExE-Boss
+teoli
+mfluehr
+Sebastianz
+fscholz
+Sheppy
+alanh
+jswisher

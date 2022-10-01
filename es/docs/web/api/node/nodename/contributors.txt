@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/node/nodename/index.html
+
+# Original Wiki contributors
+SphinxKnight
+fscholz
+Hasilt
+HenryGR
+Mgjbot

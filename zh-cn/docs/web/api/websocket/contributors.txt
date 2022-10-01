@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/websocket/index.md
+
+# Original Wiki contributors
+symant233
+kdxcxs
+mkckr0
+xgqfrms
+skylinebin
+SphinxKnight
+kevintrung
+Channely
+rguanghui
+HJava
+xiazhe
+daibin91
+luojia
+xdhhbank
+Ende93
+changeeeeeeeeeeeeeeeeeeeeee
+shhdgit
+cissoid
+homfen
+linmx0130

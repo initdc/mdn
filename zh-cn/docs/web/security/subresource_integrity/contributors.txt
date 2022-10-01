@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/security/subresource_integrity/index.md
+
+# Original Wiki contributors
+asmoker
+chenqingyue
+maicss
+kingcc
+Roland_Reed
+xgqfrms-GitHub

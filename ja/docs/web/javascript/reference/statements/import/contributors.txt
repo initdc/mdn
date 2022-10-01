@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/statements/import/index.md
+
+# Original Wiki contributors
+mpcjazz
+munieru_jp
+Monota
+sutara79
+irxground
+FumioNonaka
+u_7cc
+WhiteHawk-taka
+yumetodo
+ambi
+kazu69
+YuichiNukiyama
+dskmori
+lv7777
+Kouhei
+jungjoo
+teoli
+ethertank
+Mgjbot
+Nanto vi

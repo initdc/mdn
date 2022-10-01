@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/sharing_objects_with_page_scripts/index.md
+
+# Original Wiki contributors
+JackNUMBER
+hellosct1

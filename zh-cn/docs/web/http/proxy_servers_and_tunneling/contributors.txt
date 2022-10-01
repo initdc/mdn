@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/proxy_servers_and_tunneling/index.md
+
+# Original Wiki contributors
+SunnyWind
+0229xiang
+teoli

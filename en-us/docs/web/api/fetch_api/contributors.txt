@@ -1,0 +1,47 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/fetch_api/index.md
+
+# Original Wiki contributors
+rpxs
+hamishwillee
+devinrhode2
+mbushpilot2b
+wzyboy
+j9t
+roshan0708
+RomainLanz
+kelvinsekx
+Dorward
+Zearin_Galaurum
+chrisdavidmills
+keerthanak17
+ExE-Boss
+FranklinYu
+dheeraj-coding
+Rowno
+aayushdutt
+aeaton
+jpmedley
+Rob W
+Biiinggg
+roy-vanegas
+Konrud
+Konstantinos
+6stringbeliever
+tylerdmace
+divyanshu013
+erikadoyle
+RoneyThomas
+valtlai
+DrRataplan
+nomaed
+oskarer
+soren121
+Sheppy
+jsx
+savelevcorr
+dhodder
+bryanrsmith
+teoli
+DavidWalsh
+kscarfone

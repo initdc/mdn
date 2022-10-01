@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/mdn/structures/api_references/what_does_an_api_reference_need/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+silverskyvicto

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/calc/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+RainSlide
+xunzhonglee
+AnthonyWang
+YWithT
+LeonZou
+JethroChiang
+SphinxKnight
+9aoyang
+xgqfrms-GitHub
+JohannLai
+ihewro
+jdk137
+TiaossuP
+Prinz_Rana
+cuixiping
+teoli
+ziyunfei

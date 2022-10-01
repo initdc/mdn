@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlformelement/submit/index.md
+
+# Original Wiki contributors
+McContax
+NotWoods
+sideshowbarker
+mfluehr
+connorshea
+SphinxKnight
+TECHSATBIGCITY
+claudepache
+Sheppy
+teoli
+ajaybhat
+kscarfone
+Gieron
+ziyunfei
+Chealer
+Leidegre
+Mgjbot
+George3
+RobG
+Maian
+Dria
+Hao2lian
+JesseW

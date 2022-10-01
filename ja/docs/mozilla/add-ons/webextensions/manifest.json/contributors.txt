@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/manifest.json/index.md
+
+# Original Wiki contributors
+piroor
+wbamberg
+Uemmra3
+Marsf
+hashedhyphen
+lv7777
+kmaglione

@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/index.md
+
+# Original Wiki contributors
+blanchart
+Nachec
+Maose
+methodx
+npcsayfail
+GilbertoHernan
+ivanagui2
+svarlamov
+clarii
+hamfree
+raul782
+astrapotro
+karlalhdz
+sillo01
+carlosmartinezfyd
+carlo.romero1991
+nelruk
+merol-dad
+Pablo_Ivan
+Da_igual
+jhapik
+cgsramirez
+PedroFumero
+Yanlu
+Jenny-T-Type
+Jeremie

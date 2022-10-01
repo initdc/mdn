@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/web_workers_api/functions_and_classes_available_to_workers/index.md
+
+# Original Wiki contributors
+hamasaki
+Uemmra3
+kenji-yamasaki
+chikoski
+YuichiNukiyama

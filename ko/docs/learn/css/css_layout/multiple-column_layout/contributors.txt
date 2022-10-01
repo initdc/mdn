@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/css/css_layout/multiple-column_layout/index.md
+
+# Original Wiki contributors
+harryjjun
+Hwan-Woong-Lee

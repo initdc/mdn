@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/10/index.md
+
+# Original Wiki contributors
+fscholz
+mfuji09
+ethertank
+yyss
+myakura
+Kohei

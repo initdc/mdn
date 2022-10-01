@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/promise/race/index.md
+
+# Original Wiki contributors
+Cuixote
+lastnigtic
+zhangchen
+Jiang-Xuan
+xgqfrms-GitHub
+zhang-quan-yi
+Hushabyme
+fskuok

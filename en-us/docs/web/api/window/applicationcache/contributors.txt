@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/applicationcache/index.md
+
+# Original Wiki contributors
+sideshowbarker
+schalkneethling
+placecarleen44
+bershanskiy
+alattalatta
+chrisdavidmills
+Sheppy
+fscholz
+teoli
+ethertank
+Jeremie
+ebidel
+Mgjbot
+Kohei

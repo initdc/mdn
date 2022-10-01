@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/area/index.md
+
+# Original Wiki contributors
+CLoli
+purcy
+Undecyce
+lily121
+maicss
+liangmuyang
+TheaAo
+naive233
+xrds

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/general_sibling_combinator/index.md
+
+# Original Wiki contributors
+babtshe
+ExE-Boss
+irakliykech
+mea612
+gwer
+BychekRU

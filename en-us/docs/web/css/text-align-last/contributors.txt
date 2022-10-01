@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/text-align-last/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+mfluehr
+wbamberg
+chrisdavidmills
+claudepache
+erikadoyle
+Sebastianz
+yisibl
+SJW
+yisi
+kscarfone
+nabsltd
+Sheppy
+ethertank
+teoli
+metavida
+Marcoos

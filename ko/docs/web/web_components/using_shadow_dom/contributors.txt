@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/web_components/using_shadow_dom/index.md
+
+# Original Wiki contributors
+ne2030
+ByeongGi

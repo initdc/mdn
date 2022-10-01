@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/global_objects/function/bind/index.md
+
+# Original Wiki contributors
+storyh66224
+iigmir
+nyngwang
+aaaOOttOOaaa

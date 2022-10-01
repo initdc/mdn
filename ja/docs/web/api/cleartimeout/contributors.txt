@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/cleartimeout/index.md
+
+# Original Wiki contributors
+mfuji09
+.Hiroya
+mushahiroyuki
+fscholz
+jsx
+ethertank
+Potappo

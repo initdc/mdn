@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/afterscriptexecute_event/index.md
+
+# Original Wiki contributors
+wbamberg
+teoli
+khalid32
+ziyunfei
+zhangyaochun1987

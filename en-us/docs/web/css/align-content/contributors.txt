@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/align-content/index.md
+
+# Original Wiki contributors
+peterbe
+mfluehr
+ddbeck
+Sheppy
+chrisdavidmills
+sideshowbarker
+rachelandrew
+maksymczech
+mfuji09
+SphinxKnight
+jimlamm
+wbamberg
+fscholz
+Catrope
+lemnis
+Oscar-21
+joshuabryant
+Arty-chan
+yisibl
+Sebastianz
+erikadoyle
+fskuok
+SJW
+kscarfone
+teoli
+ethertank
+mirifarr
+trevorh
+FredB
+scottrowe

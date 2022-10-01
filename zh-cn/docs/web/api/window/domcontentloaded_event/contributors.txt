@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/domcontentloaded_event/index.md
+
+# Original Wiki contributors
+windybniw
+shaw1121
+knightyun
+1v9
+wbamberg
+hhxxhg
+274659281
+fscholz
+Niefee
+xgqfrms-GitHub
+BoatGina
+broven
+bambooom
+ZivHe
+ziyunfei
+less
+monjer
+jtyjty99999

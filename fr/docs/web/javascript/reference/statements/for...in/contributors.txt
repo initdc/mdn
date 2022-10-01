@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/statements/for...in/index.md
+
+# Original Wiki contributors
+SphinxKnight
+edspeedy
+Eight-Ball
+vava
+Kyojin
+teoli

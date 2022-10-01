@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            #mouseTarget {
+  box-sizing: border-box;
+  width:15rem;
+  border:1px solid #333;
+}
+
+        </style>
+        
+        <title>Element: mouseenter イベント - mouseenter - code sample</title>
+    </head>
+    <body>
+        
+            <div id='mouseTarget'>
+ <ul id="unorderedList">
+  <li>No events yet!</li>
+ </ul>
+</div>
+
+        
+        
+            <script>
+                var enterEventCount = 0;
+var leaveEventCount = 0;
+const mouseTarget = document.getElementById('mouseTarget');
+const unorderedList = document.getElementById('unorderedList');
+
+mouseTarget.addEventListener('mouseenter', e => {
+  mouseTarget.style.border = '5px dotted orange';
+  enterEventCount++;
+  addListItem('This is mouseenter event ' + enterEventCount + '.');
+});
+
+mouseTarget.addEventListener('mouseleave', e => {
+  mouseTarget.style.border = '1px solid #333';
+  leaveEventCount++;
+  addListItem('This is mouseleave event ' + leaveEventCount + '.');
+});
+
+function addListItem(text) {
+  // 指定されたテキストを使用して新しいテキストノードを生成する
+  var newTextNode = document.createTextNode(text);
+
+  // 新しい li 要素を生成する
+  var newListItem = document.createElement("li");
+
+  // テキストノードを li 要素に追加する
+  newListItem.appendChild(newTextNode);
+
+  // リストに新しく生成したリスト項目を追加する
+  unorderedList.appendChild(newListItem);
+}
+
+            </script>
+        
+    </body>
+</html>

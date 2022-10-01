@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/styling_text/web_fonts/index.md
+
+# Original Wiki contributors
+AlephAlpha
+LeoB-O
+zenghuiLee
+admin1949
+wheeljs
+Froggy

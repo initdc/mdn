@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/first_steps/what_went_wrong/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+jswisher
+manideep39
+tayyabalishan
+inikolaesku
+Alek2077
+wbreakell
+redrambles
+bripmccann
+MiaD
+stephaniehobson
+kewinsousa
+hadleyel
+nmaksymchuk
+Tony-Thomas
+rsidorov
+stockcj
+niklasholm
+nmve
+DeboraG
+BrianCsection
+Jeremie
+Sebastianz

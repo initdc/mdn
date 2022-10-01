@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/tabs/highlight/index.md
+
+# Original Wiki contributors
+irenesmith
+ariasuni
+Sheppy
+Loirooriol
+chrisdavidmills
+wbamberg
+Makyen

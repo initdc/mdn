@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/dynamicscompressornode/release/index.md
+
+# Original Wiki contributors
+sideshowbarker
+SphinxKnight
+fscholz
+erikadoyle
+JesseTG
+chrisdavidmills

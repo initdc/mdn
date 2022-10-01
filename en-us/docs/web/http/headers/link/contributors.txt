@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/link/index.md
+
+# Original Wiki contributors
+Malvoz
+hecanjog
+missalisha508
+mfuji09
+chrisdavidmills
+ExE-Boss

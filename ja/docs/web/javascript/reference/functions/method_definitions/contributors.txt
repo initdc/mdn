@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/functions/method_definitions/index.md
+
+# Original Wiki contributors
+Uemmra3
+segayuu
+mfuji09
+yuta0801
+AkihikoTakeda
+karakol2017
+ambi
+yyss
+shide55

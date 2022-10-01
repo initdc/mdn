@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/security/mixed_content/how_to_fix_website_with_mixed_content/index.md
+
+# Original Wiki contributors
+jackblackevo
+iigmir
+wildsky

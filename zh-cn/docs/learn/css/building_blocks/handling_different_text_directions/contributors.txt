@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/building_blocks/handling_different_text_directions/index.md
+
+# Original Wiki contributors
+ChongyouXu
+lucida959595
+Young-Spark
+ZouYj
+dlnb526
+SirnoChan
+sliop
+Orzst
+kuhnpku

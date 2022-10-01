@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/first-class_function/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+marismiglans8
+mfuji09
+ThuyNT13
+emersonmdca
+janstilau
+elharony
+klez

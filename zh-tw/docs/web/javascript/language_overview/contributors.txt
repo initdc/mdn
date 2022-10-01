@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/language_overview/index.md
+
+# Original Wiki contributors
+kourge
+locker_rj45
+Q3Q
+weihanglo
+teoli
+jackblackevo
+TpWILovePanda
+changyuheng
+ArvinH
+sailplaneTW
+linhomeyeu
+fillano
+fscholz
+Mgjbot
+Smallwow
+BobChao

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xslt/transforming_xml_with_xslt/for_further_reading/index.md
+
+# Original Wiki contributors
+SphinxKnight
+chrisdavidmills
+ethertank
+jswisher
+Fredchat
+Major Small
+Nickolay
+Ptak82
+Dria
+CitizenK

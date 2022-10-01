@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/first_steps/useful_string_methods/index.md
+
+# Original Wiki contributors
+eldesh
+silverskyvicto
+wlt
+Uemmra3
+chameleonhead
+nishinos

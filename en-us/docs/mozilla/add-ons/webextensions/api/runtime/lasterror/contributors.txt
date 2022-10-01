@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/runtime/lasterror/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+wbamberg
+andrewtruongmoz
+Makyen
+urkle
+chrisdavidmills

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_-moz-focusring/index.md
+
+# Original Wiki contributors
+mfluehr
+cpmsmith
+wbamberg
+fscholz
+chrisdavidmills
+elharony
+Enn2
+Sebastianz
+teoli
+seth
+Jonathan_Watt
+Sheppy

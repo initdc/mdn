@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/how_to_build_custom_form_controls/index.md
+
+# Original Wiki contributors
+WoodCube
+rtxu
+feixiang5754
+lonelywhisper
+yasminyt
+honey6
+codeofjackie
+tinyhare
+yochii
+uselessaddress
+crper
+yydzxz
+zqyue
+darkeggler
+Froggy
+chrisdavidmills
+Sheppy
+ziyunfei
+helloguangxue

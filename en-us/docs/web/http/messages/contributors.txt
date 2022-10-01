@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/messages/index.md
+
+# Original Wiki contributors
+hamishwillee
+sideshowbarker
+summerwinter201517
+Martin.Winkler
+s.m.mirismaili
+lewislbr
+samvk
+msobanjo
+Librazy
+mfuji09
+jamrocha
+camille347
+Youmoo
+stephaniehobson
+zhitaoh
+david_ross
+smalllong
+DarrenLester
+fscholz
+teoli

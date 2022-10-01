@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/techniques/async_scripts/index.md
+
+# Original Wiki contributors
+erosman
+escattone
+wbamberg
+chrisdavidmills
+newtriks
+fscholz
+luke@mozilla.com

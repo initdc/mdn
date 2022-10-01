@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/global_attributes/accesskey/index.md
+
+# Original Wiki contributors
+compulim
+Malvoz
+fakeinc
+mfuji09
+rafaltrzop
+sERMaNiC
+alattalatta
+jswisher
+devinea2
+wbamberg
+ericwbailey
+ExE-Boss
+chrisdavidmills
+vasilisvg
+douglasheld
+redbeardcreator
+mfluehr
+Krinkle
+Lopton
+mailmindlin
+Tigt
+teoli
+fscholz

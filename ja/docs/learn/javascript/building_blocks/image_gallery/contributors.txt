@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/building_blocks/image_gallery/index.md
+
+# Original Wiki contributors
+eldesh
+silverskyvicto
+dskmori
+Shonanpooh
+tomouchi
+HeRoMo

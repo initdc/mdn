@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            .event-log-contents {
+  width: 18rem;
+  height: 5rem;
+  border: 1px solid black;
+  margin: 0.2rem;
+  padding: 0.2rem;
+}
+
+.example {
+  display: grid;
+  grid-template-areas:
+    "button log"
+    "video  log";
+}
+
+button {
+  grid-area: button;
+  width: 10rem;
+  margin: 0.5rem 0;
+}
+
+video {
+  grid-area: video;
+}
+
+.event-log {
+  grid-area: log;
+}
+
+.event-log > label {
+  display: block;
+}
+
+        </style>
+        
+        <title>HTMLMediaElement: progress event - live_example - code sample</title>
+    </head>
+    <body>
+        
+            <div class="example">
+  <button type="button">Load video</button>
+  <video controls width="250"></video>
+
+  <div class="event-log">
+    <label for="eventLog">Event log:</label>
+    <textarea readonly class="event-log-contents" id="eventLog"></textarea>
+  </div>
+</div>
+
+        
+        
+            <script>
+                const loadVideo = document.querySelector('button');
+const video = document.querySelector('video');
+const eventLog = document.querySelector('.event-log-contents');
+let source = null;
+
+function handleEvent(event) {
+    eventLog.textContent += `${event.type}\n`;
+}
+
+video.addEventListener('loadstart', handleEvent);
+video.addEventListener('progress', handleEvent);
+video.addEventListener('canplay', handleEvent);
+video.addEventListener('canplaythrough', handleEvent);
+
+loadVideo.addEventListener('click', () => {
+
+    if (source) {
+        document.location.reload();
+    } else {
+        loadVideo.textContent = "Reset example";
+        source = document.createElement('source');
+        source.setAttribute('src', 'https://mdn.github.io/learning-area/html/multimedia-and-embedding/video-and-audio-content/rabbit320.mp4');
+        source.setAttribute('type', 'video/mp4');
+
+        video.appendChild(source);
+    }
+});
+
+            </script>
+        
+    </body>
+</html>

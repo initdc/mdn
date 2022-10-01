@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/html/introduction_to_html/document_and_website_structure/index.md
+
+# Original Wiki contributors
+Nachec
+UOCccorcoles
+editorUOC
+chaerf
+AlidaContreras
+javierpolit
+SoftwareRVG
+welm

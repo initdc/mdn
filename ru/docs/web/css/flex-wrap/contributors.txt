@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/flex-wrap/index.md
+
+# Original Wiki contributors
+NiBeliaev
+Bargamut
+yuriy-korsunov
+enagorny
+dedotmoroz

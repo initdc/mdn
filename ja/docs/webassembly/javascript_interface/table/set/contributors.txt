@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/webassembly/javascript_interface/table/set/index.md
+
+# Original Wiki contributors
+mfuji09
+bellbind
+ukyo

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/common_questions/pages_sites_servers_and_search_engines/index.md
+
+# Original Wiki contributors
+doong-jo
+ssilb4

@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/performance/fundamentals/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+leela52452
+sean2449
+kohei.yoshino
+Andrew_Pfeiffer
+phil_nist
+MargotW
+teoli
+Sonnyp
+Anniej333
+prithvi
+a_chauhan
+p_mishra
+Lynn-Campbell3006
+kscarfone
+Yoric
+scravag
+cgj
+Sheppy
+mingxinhe

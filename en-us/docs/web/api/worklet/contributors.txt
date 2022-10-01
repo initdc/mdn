@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/worklet/index.md
+
+# Original Wiki contributors
+sideshowbarker
+padenotmoz
+jpmedley
+ExE-Boss
+heimeii
+Jedipedia

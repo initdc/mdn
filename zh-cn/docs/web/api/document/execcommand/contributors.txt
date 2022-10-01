@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/execcommand/index.md
+
+# Original Wiki contributors
+Carllllo
+zhangchen
+xgqfrms
+evan_Yuanzh
+JJJYY
+wjp5826
+CNHTT
+nDos
+gzponline
+justmd5
+xgqfrms-GitHub
+futurefeeling
+caoruiy
+see311
+choldrim
+hidehalo
+Sebastianz
+yishuangxi
+laobubu
+linmx0130
+teoli
+khalid32
+mino

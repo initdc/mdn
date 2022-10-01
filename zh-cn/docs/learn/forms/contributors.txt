@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/index.md
+
+# Original Wiki contributors
+615lyw
+Lohoyo
+lihaoyuan
+yydzxz
+StarryForce
+Froggy
+chrisdavidmills
+ziyunfei
+JulieLee77
+teoli
+Jeremie

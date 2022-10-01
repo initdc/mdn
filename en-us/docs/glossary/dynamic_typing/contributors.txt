@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/dynamic_typing/index.md
+
+# Original Wiki contributors
+Sodan
+klez
+Andrew_Pfeiffer

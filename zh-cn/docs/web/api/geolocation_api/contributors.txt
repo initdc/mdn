@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/geolocation_api/index.md
+
+# Original Wiki contributors
+aimilu
+Syoogool
+rongnianzu
+rrandom
+ziyunfei
+Breezewish
+shura-china
+xcffl

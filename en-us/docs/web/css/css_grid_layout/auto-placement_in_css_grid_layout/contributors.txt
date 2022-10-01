@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_grid_layout/auto-placement_in_css_grid_layout/index.md
+
+# Original Wiki contributors
+rachelandrew
+mehtapratik
+SphinxKnight
+j9t
+steveclason
+denimX
+gh3it8
+weslord
+mfluehr
+tshinnic
+aermolaev
+teoli

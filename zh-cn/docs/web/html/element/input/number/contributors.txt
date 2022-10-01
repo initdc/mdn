@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/input/number/index.md
+
+# Original Wiki contributors
+zxsunrise
+XXXS
+hmzll
+Ende93
+xgqfrms-GitHub

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/console/index.md
+
+# Original Wiki contributors
+mfuji09
+Uemmra3
+woodmix
+YuichiNukiyama
+yyss
+AshfaqHossain
+ethertank
+saneyuki_s

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/delete/index.md
+
+# Original Wiki contributors
+eltociear
+hideo54
+dojyorin
+dummy
+gocho
+YuichiNukiyama
+fuwafuwafuwa
+jungjoo
+teoli
+ethertank
+yyss

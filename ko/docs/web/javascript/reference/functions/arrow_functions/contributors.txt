@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/functions/arrow_functions/index.md
+
+# Original Wiki contributors
+honggaruy
+Vimming
+songdoing
+gbyman
+yonggoo.noh
+jjangga0214
+geunhyung
+limkukhyun
+kangsan_Chang
+nyaawlsh
+daehyoung
+Geun-Hyung_Kim
+Netaras
+preco21
+chiyodad
+Jeeeyul

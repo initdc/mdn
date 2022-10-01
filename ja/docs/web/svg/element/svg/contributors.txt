@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/element/svg/index.md
+
+# Original Wiki contributors
+n-oshiro
+silverskyvicto
+momdo
+Sebastianz
+teoli
+twe

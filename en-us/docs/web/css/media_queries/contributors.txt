@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/media_queries/index.md
+
+# Original Wiki contributors
+wbamberg
+alattalatta
+mfuji09
+evaferreira
+rachelandrew
+fscholz
+mfluehr
+Sheppy
+chrisdavidmills
+erikadoyle
+ibizcox
+Sebastianz
+teoli
+sujeetkalaskar

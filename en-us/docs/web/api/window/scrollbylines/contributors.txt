@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/scrollbylines/index.md
+
+# Original Wiki contributors
+mfuji09
+mfluehr
+lucian95
+Ac1521
+fscholz
+MHasan
+teoli
+iamanupmenon
+ethertank
+Sheppy
+Frenzie
+Mgjbot
+Ptak82
+Jabez
+Dria
+JesseW

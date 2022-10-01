@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/websocket/index.md
+
+# Original Wiki contributors
+NoobTW
+YamiOdymel
+teoli
+Kennyluck

@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/animation-iteration-count/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+Sheppy
+ddbeck
+mfuji09
+mfluehr
+fscholz
+wxdude225
+iLoveDev00143
+Konrud
+llkk
+chrisdavidmills
+erikadoyle
+Sebastianz
+teoli
+jpmedley
+jsx
+kscarfone
+ethertank
+CutenessOverload
+enderandpeter
+FredB
+yyss
+myakura
+Marcoos

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/presentation/defaultrequest/index.md
+
+# Original Wiki contributors
+bershanskiy
+lucian95
+david_ross
+teoli
+MashKao

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/server-side/django/sessions/index.md
+
+# Original Wiki contributors
+proost
+yongtaekjun
+PeterKim1967
+SYCHOI

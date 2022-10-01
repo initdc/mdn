@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvas_api/tutorial/advanced_animations/index.md
+
+# Original Wiki contributors
+Asaki-M
+youyouzh
+fuchao2012
+287207951
+PaperFlu
+Starrhds
+YeClimEric
+wyh888
+ziyunfei
+lcxfs1991
+jasonworg

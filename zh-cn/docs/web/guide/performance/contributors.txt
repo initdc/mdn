@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/guide/performance/index.md
+
+# Original Wiki contributors
+kite-js
+SphinxKnight
+Imagine-Tom
+yexk
+leozhang
+sunnylost
+DAVINDAI
+ziyunfei

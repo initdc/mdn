@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/response/ok/index.md
+
+# Original Wiki contributors
+nighca
+tobetobe
+flyingsouthwind
+airt

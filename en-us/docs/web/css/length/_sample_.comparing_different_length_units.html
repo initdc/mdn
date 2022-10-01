@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            html {
+  font-family: sans-serif;
+  font-weight: bold;
+  box-sizing: border-box;
+}
+
+.outer {
+  width: 100%;
+  height: 50px;
+  background-color: #eee;
+  position: relative;
+}
+
+.inner {
+  height: 50px;
+  background-color: #999;
+  box-shadow: inset 3px 3px 5px rgba(255, 255, 255, 0.5), inset -3px -3px 5px
+      rgba(0, 0, 0, 0.5);
+}
+
+.result {
+  height: 20px;
+  box-shadow: inset 3px 3px 5px rgba(255, 255, 255, 0.5), inset -3px -3px 5px
+      rgba(0, 0, 0, 0.5);
+  background-color: orange;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.result code {
+  position: absolute;
+  margin-left: 20px;
+}
+
+.results {
+  margin-top: 10px;
+}
+
+.input-container {
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 50px;
+}
+
+label {
+  margin: 0 10px 0 20px;
+}
+
+        </style>
+        
+        <title>&lt;length&gt; - comparing_different_length_units - code sample</title>
+    </head>
+    <body>
+        
+            <div class="outer">
+  <div class="input-container">
+    <label for="length">Enter width:</label>
+    <input type="text" id="length" />
+  </div>
+  <div class="inner"></div>
+</div>
+<div class="results"></div>
+
+        
+        
+            <script>
+                const inputDiv = document.querySelector('.inner');
+const inputElem = document.querySelector('input');
+const resultsDiv = document.querySelector('.results');
+
+inputElem.addEventListener('change', () => {
+  inputDiv.style.width = inputElem.value;
+
+  const result = document.createElement('div');
+  result.className = 'result';
+  result.style.width = inputElem.value;
+  result.innerHTML = `<code>width: ${inputElem.value}</code>`;
+  resultsDiv.appendChild(result);
+
+  inputElem.value = '';
+  inputElem.focus();
+})
+
+            </script>
+        
+    </body>
+</html>

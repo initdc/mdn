@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/tools_and_testing/cross_browser_testing/testing_strategies/index.md
+
+# Original Wiki contributors
+Rafael_Green
+chrisdavidmills
+liviulupei
+AndriiMaliuta
+kruschk
+agnelvishal
+jochendelabie
+harshitpaul
+Navin77
+stephaniehobson
+aarondev8917
+EdwardB
+tsotetsi
+qdirks
+0000marcell

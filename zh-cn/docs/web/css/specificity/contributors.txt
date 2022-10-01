@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/specificity/index.md
+
+# Original Wiki contributors
+syt-honey
+Ninglo
+imbant
+laizenan
+fzhyzamt
+janyin
+RainSlide
+itibbers
+Douglas_zx
+sevenen
+Ende93
+ghostcode
+NNNaix
+xuxun
+wengwengweng
+xgqfrms-GitHub
+tiansh
+voidzhou
+xgqfrms
+kevinfszu
+zhujun24
+insekkei
+ReyCG_sub
+teoli
+sleepholic
+alimon

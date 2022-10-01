@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltableelement/cellspacing/index.md
+
+# Original Wiki contributors
+connorshea
+fscholz
+Sheppy
+teoli
+kscarfone
+Abin_Abraham
+ethertank
+RobG
+Andreas Wuest
+Dria
+JesseW

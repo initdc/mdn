@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/lastindexof/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+Zearin_Galaurum
+wbamberg
+fscholz
+ThuyNT13
+jonasraoni
+jameshkramer
+Peppester
+BenB
+eduardoboucas
+arai
+Botulism
+fkling42
+RReverser
+Mingun
+igor.bukanov
+Daniel Hug
+Raffzahn
+Infimum
+Sheppy
+ethertank
+timoxley
+evilpie
+Brettz9
+Mgjbot
+Maian
+Anonymous
+Dria

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/xml/index.md
+
+# Original Wiki contributors
+kadopoly
+Sheppy
+Jeremie
+klez
+Andrew_Pfeiffer
+Biraj
+Afnank123
+sudheesh001
+ajinkya_p

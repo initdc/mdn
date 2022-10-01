@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/flex-grow/index.md
+
+# Original Wiki contributors
+SphinxKnight
+fscholz
+Sebastianz
+mondayking

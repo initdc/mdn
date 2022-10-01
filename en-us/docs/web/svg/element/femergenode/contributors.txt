@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/femergenode/index.md
+
+# Original Wiki contributors
+fscholz
+anytimecoder
+abbycar
+iwarui
+Sebastianz
+kscarfone
+Jeremie
+Manuel_Strehl

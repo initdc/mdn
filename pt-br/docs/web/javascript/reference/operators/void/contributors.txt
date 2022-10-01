@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/operators/void/index.md
+
+# Original Wiki contributors
+angelorubin
+raphaelhenrique
+alexrohleder
+carlosdelfino
+schlagi123
+fernandojupaes
+leandro2103

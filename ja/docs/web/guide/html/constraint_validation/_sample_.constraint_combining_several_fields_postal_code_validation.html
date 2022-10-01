@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>制約検証 - constraint_combining_several_fields_postal_code_validation - code sample</title>
+    </head>
+    <body>
+        
+            <form>
+    <label for="ZIP">郵便番号 : </label>
+    <input type="text" id="ZIP">
+    <label for="Country">国 : </label>
+    <select id="Country">
+      <option value="ch">スイス</option>
+      <option value="fr">フランス</option>
+      <option value="de">ドイツ</option>
+      <option value="nl">オランダ</option>
+    </select>
+    <input type="submit" value="検証">
+</form>
+
+        
+        
+            <script>
+                function checkZIP() {
+  // それぞれの国で、郵便番号が従うべきパターンを定義する
+  var constraints = {
+    ch : [ '^(CH-)?\\d{4}$', "スイスの郵便番号は明確な 4 桁である必要があります。例: CH-1950 または 1950" ],
+    fr : [ '^(F-)?\\d{5}$' , "フランスの郵便番号は明確な 5 桁です。例: F-75012 または 75012" ],
+    de : [ '^(D-)?\\d{5}$' , "ドイツの郵便番号は明確な 5 桁です。例: D-12345 または 12345" ],
+    nl : [ '^(NL-)?\\d{4}\\s*([A-RT-Z][A-Z]|S[BCE-RT-Z])$',
+                    "オランダの郵便番号は明確な 4 桁に、SA、SD、SS 以外の2文字が続きます。" ]
+  };
+
+  // 国 ID を読む
+  var country = document.getElementById("Country").value;
+
+  // NPA フィールドを取得
+  var ZIPField = document.getElementById("ZIP");
+
+  // 制約チェッカーを構築
+  var constraint = new RegExp(constraints[country][0], "");
+    console.log(constraint);
+
+  // チェックする
+  if (constraint.test(ZIPField.value)) {
+    // 郵便番号は制約に従っていることを ConstraintAPI を使って伝える
+    ZIPField.setCustomValidity("");
+  }
+  else {
+    // 郵便番号が制約に従っていないことを伝えるために、 ConstraintAPI を使用して
+    // この国で必要な書式についてのメッセージを伝える
+    ZIPField.setCustomValidity(constraints[country][1]);
+  }
+}
+
+window.onload = function () {
+    document.getElementById("Country").onchange = checkZIP;
+    document.getElementById("ZIP").oninput = checkZIP;
+}
+
+            </script>
+        
+    </body>
+</html>

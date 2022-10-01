@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            .event-log {
+  width: 25rem;
+  height: 4rem;
+  border: 1px solid black;
+  margin: 0.5rem;
+  padding: 0.2rem;
+}
+
+input {
+  width: 11rem;
+  margin: 0.5rem;
+}
+
+        </style>
+        
+        <title>XMLHttpRequest: error event - live_example - code sample</title>
+    </head>
+    <body>
+        
+            <div class="controls">
+  <input
+    class="xhr success"
+    type="button"
+    name="xhr"
+    value="Click to start XHR (success)" />
+  <input
+    class="xhr error"
+    type="button"
+    name="xhr"
+    value="Click to start XHR (error)" />
+  <input
+    class="xhr abort"
+    type="button"
+    name="xhr"
+    value="Click to start XHR (abort)" />
+</div>
+
+<textarea readonly class="event-log"></textarea>
+
+        
+        
+            <script>
+                const xhrButtonSuccess = document.querySelector('.xhr.success');
+const xhrButtonError = document.querySelector('.xhr.error');
+const xhrButtonAbort = document.querySelector('.xhr.abort');
+const log = document.querySelector('.event-log');
+
+function handleEvent(e) {
+    log.textContent = `${log.textContent}${e.type}: ${e.loaded} bytes transferred\n`;
+}
+
+function addListeners(xhr) {
+    xhr.addEventListener('loadstart', handleEvent);
+    xhr.addEventListener('load', handleEvent);
+    xhr.addEventListener('loadend', handleEvent);
+    xhr.addEventListener('progress', handleEvent);
+    xhr.addEventListener('error', handleEvent);
+    xhr.addEventListener('abort', handleEvent);
+}
+
+function runXHR(url) {
+    log.textContent = '';
+
+    const xhr = new XMLHttpRequest();
+    addListeners(xhr);
+    xhr.open("GET", url);
+    xhr.send();
+    return xhr;
+}
+
+xhrButtonSuccess.addEventListener('click', () => {
+    runXHR('dgszyjnxcaipwzy.jpg');
+});
+
+xhrButtonError.addEventListener('click', () => {
+    runXHR('https://somewhere.org/i-dont-exist');
+});
+
+xhrButtonAbort.addEventListener('click', () => {
+    runXHR('dgszyjnxcaipwzy.jpg').abort();
+});
+
+            </script>
+        
+    </body>
+</html>

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/index.md
+
+# Original Wiki contributors
+nighet
+santoschenwbu
+ppdada
+Honesty1997
+xerviam
+willynpi
+sos418
+Luke.Liu
+tigercosmos
+iigmir
+irvinfly
+togorepqddj
+sailplaneTW
+Sheppy

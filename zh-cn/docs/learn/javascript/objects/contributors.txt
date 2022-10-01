@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/objects/index.md
+
+# Original Wiki contributors
+ddcomt
+oceanMIH
+RainSlide
+Drizzt-Yu
+lihaoyuan
+xgqfrms-GitHub
+WavinFlag
+chrisdavidmills

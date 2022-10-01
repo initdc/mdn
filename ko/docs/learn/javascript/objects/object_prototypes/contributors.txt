@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/objects/object_prototypes/index.md
+
+# Original Wiki contributors
+beowolf9
+chungheepark
+ahnzaz

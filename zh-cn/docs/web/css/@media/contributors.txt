@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/@media/index.md
+
+# Original Wiki contributors
+wallena3
+KeBaob
+zjffun
+Gwokhou
+SphinxKnight
+JulesWang
+1060881984
+Ray-Eldath
+maicss
+eeeeeeeason
+xgqfrms-GitHub
+bear-x
+xuwenyuan
+VdoG
+Ende93
+ziyunfei
+Mgjbot
+TigerSoldier

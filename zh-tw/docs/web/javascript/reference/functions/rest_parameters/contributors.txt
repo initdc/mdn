@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/functions/rest_parameters/index.md
+
+# Original Wiki contributors
+Kevin_Chen
+jackblackevo
+jsgao0

@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/wheel_event/index.md
+
+# Original Wiki contributors
+mfuji09
+Zhang-Junzhi
+Yankovsky
+chrisdavidmills
+irenesmith
+fscholz
+mfluehr
+rsepierre
+jcubic
+erikadoyle
+ptrgast
+olohmann
+towry.me
+m_gol
+cvrebert
+Sebastianz
+teoli
+samarthwiz
+Lekensteyn
+kentaromiura
+brianblakely
+Sheppy
+segdeha
+ethertank
+nicofrand
+johnme
+Masayuki
+louisremi

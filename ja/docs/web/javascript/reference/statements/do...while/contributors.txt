@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/statements/do...while/index.md
+
+# Original Wiki contributors
+mfuji09
+striderkein
+yyss
+teoli
+ethertank
+Mgjbot
+Nanto vi

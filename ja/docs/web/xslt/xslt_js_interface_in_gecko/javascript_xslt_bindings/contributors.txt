@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/xslt/xslt_js_interface_in_gecko/javascript_xslt_bindings/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+silverskyvicto

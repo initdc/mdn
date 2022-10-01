@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/column-rule-width/index.md
+
+# Original Wiki contributors
+windqyoung
+Bayes
+Sebastianz
+fscholz
+FredWe

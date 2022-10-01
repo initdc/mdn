@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/prompt/index.md
+
+# Original Wiki contributors
+guoyi
+jjc
+teoli
+khalid32
+ziyunfei

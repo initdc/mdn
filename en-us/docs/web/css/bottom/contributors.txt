@@ -1,0 +1,43 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/bottom/index.md
+
+# Original Wiki contributors
+Jürgen Jeka
+wbamberg
+Sheppy
+mfuji09
+Malvoz
+sideshowbarker
+dominicegginton
+StefanSchwan
+Konrud
+ddbeck
+Zhang-Junzhi
+mfluehr
+jnthnwn
+jswisher
+scholachoi
+david_ross
+erikadoyle
+taiyaki32lp64
+Simplexible
+Prinz_Rana
+Sebastianz
+fscholz
+jsx
+onlywei
+teoli
+kscarfone
+trevorh
+Zenorbi
+ethertank
+grendel
+Rowno
+Mgjbot
+DBaron
+BijuGC
+Bobbo
+Jscher2000
+Fredchat
+Ptak82
+Qazzian

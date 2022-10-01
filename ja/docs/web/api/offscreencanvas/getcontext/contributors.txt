@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/offscreencanvas/getcontext/index.md
+
+# Original Wiki contributors
+Jups-071

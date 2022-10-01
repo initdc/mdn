@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/attr/index.md
+
+# Original Wiki contributors
+yuanshang
+zdzDesigner
+xiiiAtCn
+nfer
+steveyxlin
+lixuanh
+RIO-LI
+jiahui
+zeasdale
+markof
+qq1211178784
+AlexChao

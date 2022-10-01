@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/canvas_api/tutorial/basic_usage/index.html
+
+# Original Wiki contributors
+hisbvdis
+Maxim-Bernashevsky
+konstantin.paulkin
+StanEffy
+alantishin
+MasterOfMenace
+boxa6
+jynweythek
+vinttos
+gearmobile
+teoli
+askolt
+fscholz
+Culttm
+lazyexpert
+Neir
+raspberry59
+hmelenok
+Techno1994

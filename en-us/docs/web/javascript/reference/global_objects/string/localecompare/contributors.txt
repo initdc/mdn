@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/localecompare/index.md
+
+# Original Wiki contributors
+wbamberg
+Zearin_Galaurum
+fscholz
+sideshowbarker
+kamoroso94
+aleonhard
+paul.irish
+jameshkramer
+arai
+thetalecrafter
+hex20dec
+naeramarth7
+bharathrangaraj
+eduardoboucas
+vsemozhetbyt
+George8211
+SphinxKnight
+noscripter
+bobtherobot
+Mingun
+pianohacker
+Norbert
+Sheppy
+ethertank
+edorivai
+evilpie
+LouisLazaris
+Brettz9

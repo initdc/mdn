@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/switch/index.html
+
+# Original Wiki contributors
+almaceleste
+alfill
+Stejok
+Natalya_Surikova
+4eb0da

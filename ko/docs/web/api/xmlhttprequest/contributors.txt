@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/xmlhttprequest/index.md
+
+# Original Wiki contributors
+minijaypark
+jswisher
+grizlupo
+cs09g
+MyungGyu
+silmari
+Suguni
+Wafe
+Sebuls

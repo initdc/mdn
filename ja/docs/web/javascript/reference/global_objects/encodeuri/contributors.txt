@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/encodeuri/index.md
+
+# Original Wiki contributors
+mfuji09
+mpcjazz
+segayuu
+YuichiNukiyama
+Marsf
+dskmori
+x2357
+teoli
+ethertank
+Potappo

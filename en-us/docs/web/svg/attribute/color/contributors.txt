@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/color/index.md
+
+# Original Wiki contributors
+valtlai
+Sheppy
+Sebastianz
+a-mt
+connorshea
+jalbertbowden
+Jeremie

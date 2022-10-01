@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/accessibility/understanding_wcag/perceivable/index.html
+
+# Original Wiki contributors
+estelle

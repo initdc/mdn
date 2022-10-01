@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/guide/iterators_and_generators/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ferjul17
+Gabriel8819
+bankair
+P45QU10U
+teoli
+goofy_bz
+n1k0

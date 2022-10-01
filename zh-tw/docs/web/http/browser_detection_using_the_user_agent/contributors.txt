@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/http/browser_detection_using_the_user_agent/index.md
+
+# Original Wiki contributors
+iigmir
+jwhitlock

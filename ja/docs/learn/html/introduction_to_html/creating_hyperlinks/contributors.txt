@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/html/introduction_to_html/creating_hyperlinks/index.md
+
+# Original Wiki contributors
+2357gi
+Uemmra3
+dito
+silverskyvicto
+nao-j3ster-koha
+mfuji09
+karaage-kun

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/node.js/index.md
+
+# Original Wiki contributors
+oism28
+rlopezAyala
+malonson
+migdonio1

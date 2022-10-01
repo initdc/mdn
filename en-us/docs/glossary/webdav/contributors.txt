@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/webdav/index.md
+
+# Original Wiki contributors
+k636174
+marie-ototoi
+Meteormatt
+Andrew_Pfeiffer
+Jeremie
+ChrisL
+Dipak_kumar
+Zeba_Shah
+sandeepmishraxp
+kscarfone
+Biraj
+teoli
+Dria
+Callek
+Manu

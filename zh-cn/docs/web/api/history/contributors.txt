@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/history/index.md
+
+# Original Wiki contributors
+thefirst-ma
+zhuangyin
+yanhaijing1234
+tys
+matthewshine
+sansx
+SandersXin
+nbwsc
+thomaslwq
+ganlyun
+CharlesWu
+xgqfrms-GitHub
+Cmen
+xiongwilee

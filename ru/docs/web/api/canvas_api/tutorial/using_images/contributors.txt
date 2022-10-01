@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/canvas_api/tutorial/using_images/index.html
+
+# Original Wiki contributors
+Costigans
+aderin
+Theana27
+Feuway
+4esnog
+MaxManchak
+Taova
+MuradAz

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/history/pushstate/index.html
+
+# Original Wiki contributors
+3bl3gamer
+hisbvdis
+Loskir
+Forshortmrmeth
+ElForastero
+levyn
+gorodilovyy
+vyushin

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/statements/function_star_/index.md
+
+# Original Wiki contributors
+SphinxKnight
+kdex
+cnexans
+mlealvillarreal
+TheBronx
+mrtuto2012
+rippe2hl
+germanfr

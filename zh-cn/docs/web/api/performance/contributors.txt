@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/performance/index.md
+
+# Original Wiki contributors
+juzhiyuan
+fscholz
+zhangchen
+Ende93
+anjia
+xgqfrms-GitHub
+xtx1130
+HuazhuLi
+wenshin
+teoli

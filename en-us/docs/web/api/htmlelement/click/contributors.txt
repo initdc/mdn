@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/click/index.md
+
+# Original Wiki contributors
+krosylight
+aminezouhair
+fscholz
+JoelEinbinder
+mfluehr
+rolfedh
+MegaMindAT
+levcb
+erikadoyle
+Didglee
+BenLF
+galejwnaylor
+Sebastianz
+teoli
+Yaffle
+jayenashar
+cvrebert
+kscarfone
+ajaybhat
+DaveLand
+Sheppy
+tregagnon
+barney
+mattbasta
+ethertank
+brunoais
+ziyunfei
+Mgjbot
+Ptak82
+RobG
+Dria
+Callek
+JesseW

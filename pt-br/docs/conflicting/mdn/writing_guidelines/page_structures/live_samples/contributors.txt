@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/conflicting/mdn/writing_guidelines/page_structures/live_samples/index.html
+
+# Original Wiki contributors
+WellingtonFR
+wbamberg
+arthur2323

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/mozilla_extensions/index.md
+
+# Original Wiki contributors
+mfuji09
+Marsf
+Sebastianz
+Prinz_Rana
+ethertank
+tregagnon
+Taken
+Level
+Piro

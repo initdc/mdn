@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/scrollintoview/index.md
+
+# Original Wiki contributors
+SphinxKnight
+AlphabetABCX
+xianshenglu
+zhangchen
+JoKer049
+1v9
+lujjjh
+Capasky
+kangsunlei
+luojia
+teoli
+xuluxi

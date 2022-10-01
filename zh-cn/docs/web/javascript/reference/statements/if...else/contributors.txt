@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/statements/if...else/index.md
+
+# Original Wiki contributors
+maoyumaoxun
+zhangchen
+jjc
+TimmyKingFree
+Hugh
+connie77
+yenshen

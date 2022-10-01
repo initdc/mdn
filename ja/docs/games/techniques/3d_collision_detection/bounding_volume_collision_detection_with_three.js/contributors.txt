@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/games/techniques/3d_collision_detection/bounding_volume_collision_detection_with_three.js/index.md
+
+# Original Wiki contributors
+Wind1808

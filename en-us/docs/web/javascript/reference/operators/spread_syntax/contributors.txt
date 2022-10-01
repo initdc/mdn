@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/spread_syntax/index.md
+
+# Original Wiki contributors
+WininWin
+chrisdavidmills
+prosovskyf
+superchow
+MaximYaskov
+fscholz
+mfuji09
+vrana
+wbamberg
+mannawar
+SphinxKnight
+deekshasharma
+TehShrike
+Zearin_Galaurum
+xtianus
+Simonwep
+alattalatta
+SoorajChandran
+KeziahMoselle
+KadirTopal
+kei-itof
+gmal1
+alokkarma
+krosylight
+besciualex
+JanisE
+mcrosby114
+jr-grenoble
+styfle
+tjcrowder

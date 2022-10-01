@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/meta_programming/index.md
+
+# Original Wiki contributors
+mpcjazz
+sutara79
+Uemmra3
+Hixhi
+x2357
+shide55

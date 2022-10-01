@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/basics_of_http/index.md
+
+# Original Wiki contributors
+firstnamelastname
+chrisdavidmills
+frattinijulien29
+lbd1607
+mfuji09
+ExE-Boss
+funghorn
+BunnyWong
+cissoid
+teoli
+fscholz

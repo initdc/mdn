@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/css_flow_layout/block_and_inline_layout_in_normal_flow/index.md
+
+# Original Wiki contributors
+Hwan-Woong-Lee

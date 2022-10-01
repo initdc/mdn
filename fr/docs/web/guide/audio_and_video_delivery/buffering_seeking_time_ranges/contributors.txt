@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/guide/audio_and_video_delivery/buffering_seeking_time_ranges/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+a-mt

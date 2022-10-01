@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/manifest.json/browser_specific_settings/index.md
+
+# Original Wiki contributors
+ExE-Boss
+irenesmith
+hellosct1
+wbamberg
+0711kps
+Rob W
+freaktechnik
+andrewtruongmoz
+timdream
+Makyen
+andymckay
+bsilverberg
+m_gol
+lv7777
+kmaglione
+dirty-bit
+AlexPl

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/w3c/index.md
+
+# Original Wiki contributors
+darby
+marie-ototoi
+Andrew_Pfeiffer
+Jeremie
+Sebastianz
+klez
+Dipak_kumar
+ajinkya_p

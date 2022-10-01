@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/scrollingelement/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+russelldavis
+fscholz
+jaffathecake
+erikadoyle
+Sebastianz
+DevelX
+massic80
+rolfedh
+m_gol
+teoli
+jpmedley

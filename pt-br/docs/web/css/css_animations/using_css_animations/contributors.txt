@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/css/css_animations/using_css_animations/index.md
+
+# Original Wiki contributors
+gabrielclaudino
+Fernandolrs
+dime2lo
+cris-luz-07
+SphinxKnight
+teoli
+gustavoaraujo
+cauecidade
+francisco.hansen

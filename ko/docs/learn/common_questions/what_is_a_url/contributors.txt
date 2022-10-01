@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/common_questions/what_is_a_url/index.md
+
+# Original Wiki contributors
+ssilb4

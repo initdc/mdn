@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/http/status/index.md
+
+# Original Wiki contributors
+gogo.sanak
+sideshowbarker
+lesikolerina23
+SphinxKnight
+bobo.debila
+iigmir
+Fu_revwigs
+slivenred
+gamerslouis
+tz70s
+Hunsin
+fscholz
+jwhitlock
+alk03073135

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/tutorials/2d_breakout_game_phaser/collision_detection/index.md
+
+# Original Wiki contributors
+wbamberg
+j787701730

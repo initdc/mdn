@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/front-end_web_developer/index.md
+
+# Original Wiki contributors
+leeadoukonou
+Twinklelight
+geraldventadour
+KHALIL5benz
+Gwenishere

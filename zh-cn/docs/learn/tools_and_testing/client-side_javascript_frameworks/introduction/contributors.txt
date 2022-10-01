@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/tools_and_testing/client-side_javascript_frameworks/introduction/index.md
+
+# Original Wiki contributors
+514059172
+You2er
+risejl

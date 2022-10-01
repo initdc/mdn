@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mozilla/add-ons/webextensions/anatomy_of_a_webextension/index.md
+
+# Original Wiki contributors
+RainSlide
+penggang1
+brucelei
+yuyx91
+Mikasa666
+Gszekt
+yydzxz
+wangtonghe
+zhzhch335
+CXWorks
+EdgeBoY
+dhq8
+onbug

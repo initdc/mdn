@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/iterators_and_generators/index.md
+
+# Original Wiki contributors
+Russell
+johnao
+NieLamu
+SageX
+Yayure
+ErChuan
+RainSlide
+jupiterben
+xgqfrms
+Wuqichao
+BingerWeb
+yueshuiniao
+zhangjiawei0
+zhangchen
+azoth1991
+ezirmusitua
+xgqfrms-GitHub
+DarwinniwraD
+kiyonlin
+Howard.Chen
+ianfung1998
+liadbiz
+snandy
+teoli
+ziyunfei
+AriesDevil
+Joyce

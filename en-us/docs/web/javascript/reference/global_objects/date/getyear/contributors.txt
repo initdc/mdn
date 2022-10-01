@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/getyear/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+mfluehr
+Shin-JaeHeon
+jameshkramer
+eduardoboucas
+pallxk
+jsx
+iyunusov
+Mingun
+Thibaut
+Sheppy
+anton
+kjannis
+ethertank
+trevorh
+evilpie
+Mgjbot
+Sdwyer
+Ptak82
+Maian
+Prodoc
+Dria

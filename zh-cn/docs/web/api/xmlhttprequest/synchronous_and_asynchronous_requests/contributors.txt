@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/xmlhttprequest/synchronous_and_asynchronous_requests/index.md
+
+# Original Wiki contributors
+Reveur
+zhangchen
+Lby876176278
+xgqfrms-GitHub
+ziyunfei

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/orphaned/glossary/dynamic_programming_language/index.md
+
+# Original Wiki contributors
+IsraFloores
+DaniNz

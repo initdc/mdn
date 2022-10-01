@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/global_attributes/accesskey/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+CyberAP
+arturparkhisenko
+VitalyKrenel
+Khudoidod

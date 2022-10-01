@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/three_js/index.md
+
+# Original Wiki contributors
+dskmori
+higechira

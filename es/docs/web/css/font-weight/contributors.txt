@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/font-weight/index.html
+
+# Original Wiki contributors
+jorgetoloza
+EzeRamirez84
+UbaldoRosas
+ivyixbvp
+SphinxKnight
+fscholz
+teoli
+Mgjbot
+ethertank
+Nathymig
+RickieesES
+HenryGR

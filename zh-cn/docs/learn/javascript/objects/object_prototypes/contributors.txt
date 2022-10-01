@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/objects/object_prototypes/index.md
+
+# Original Wiki contributors
+CJohnny
+scsc4212
+SphinxKnight
+Lukef
+LuoYun
+SeanShen3
+brandonhyc
+shawzt
+ddtyjmyjm
+Soarse
+zhuangyin
+JX-Master
+WavinFlag

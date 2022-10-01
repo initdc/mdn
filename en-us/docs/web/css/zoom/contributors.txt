@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/zoom/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+connorshea
+mfuji09
+mfluehr
+jameshkramer
+chrisdavidmills
+roryokane
+arronei
+xrtariq2594
+erikadoyle
+SphinxKnight
+carloque
+Tigt
+Sebastianz
+cvrebert
+Simplexible
+Siilwyn
+jackarmley

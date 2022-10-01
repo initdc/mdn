@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/common_questions/common_web_layouts/index.md
+
+# Original Wiki contributors
+Beatriz_Ortega_Valdes

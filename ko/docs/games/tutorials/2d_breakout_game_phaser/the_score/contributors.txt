@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/games/tutorials/2d_breakout_game_phaser/the_score/index.md
+
+# Original Wiki contributors
+wbamberg
+Dragonholux

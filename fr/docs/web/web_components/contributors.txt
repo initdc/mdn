@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/web_components/index.md
+
+# Original Wiki contributors
+GuillaumeCz
+jeanremy
+coldPen
+Voltariuss
+ylerjen
+JNa0
+wulfy
+SphinxKnight
+oritlewski
+linsolas
+GtAntoine
+mknx
+oussama-jlassi
+Zecat

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/string/localecompare/index.md
+
+# Original Wiki contributors
+bboding
+s2s2kim

@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/first_steps/math/index.md
+
+# Original Wiki contributors
+mrmowji
+asavageiv
+A.Faturechi
+chrisdavidmills
+choudh70
+tayyabalishan
+kruschk
+jswisher
+cinephile85
+amitch38
+alepsys
+vitaliyterziev
+caraya
+Uemmra3
+bripmccann
+dlwagner
+stephaniehobson
+Saabbir
+gabiaad
+BadTudou
+hadleyel
+FIJN
+hungvt0301
+vatz88
+kiley0
+nmve
+brendenseidel
+Jeremie
+BaderSur
+sngv
+Sheppy
+Sebastianz

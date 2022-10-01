@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/functions/arrow_functions/index.md
+
+# Original Wiki contributors
+thgo
+diogenesfranca
+hansobvius
+eduardosoller
+leandrowf
+mari1248
+SphinxKnight
+lesimoes
+alexnum
+rivajunior
+RodrigoOler
+lucasmedeiros

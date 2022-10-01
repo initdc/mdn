@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/fullscreen/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+mfluehr
+connorshea
+fscholz
+smalllong
+aziz512
+sarafec
+cvrebert
+cpigat
+teoli
+kscarfone
+ethertank
+Sheppy
+Mvent2
+Mgjbot
+Mw22

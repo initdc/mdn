@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/service_worker_api/index.md
+
+# Original Wiki contributors
+Clarkkkk
+laampui
+zhangchen
+varcat
+isLishude
+Soyaine
+Samuel89Su
+jinnchen
+yellowkingdom
+xgqfrms-GitHub
+Jiang-Xuan
+binggg
+sartrey
+178784676
+NicoleWong007
+whwei
+toxic-johann
+zilong-thu
+nyx2014

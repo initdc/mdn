@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/events/urlfilter/index.md
+
+# Original Wiki contributors
+lucaswerkmeister
+wbamberg
+Makyen

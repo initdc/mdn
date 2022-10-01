@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/eventtarget/dispatchevent/index.md
+
+# Original Wiki contributors
+wang_liang
+zailushang
+sincisco
+zhuangyin
+xiaojunjor
+faremax
+zcxcncn
+little-tomorrow
+chen-Aaron
+w-angel
+teoli
+charlie

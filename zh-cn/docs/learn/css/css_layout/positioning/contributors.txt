@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/css_layout/positioning/index.md
+
+# Original Wiki contributors
+zisedelinghun
+driftingdream
+laizenan
+parabolazz
+LuoYun
+TaoXuSheng
+codeofjackie
+fourml
+summercn
+allan_simon
+yuyx91
+lihaoyuan
+xp44mm
+yydzxz
+ddtyjmyjm
+Froggy
+uestcNaldo
+Eric.Wu
+echoArray
+xgqfrms-GitHub
+Ende93
+depressedX
+siufooncheung
+1986slayer

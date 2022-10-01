@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/add-ons/webextensions/your_first_webextension/index.md
+
+# Original Wiki contributors
+kenliten
+IgnacioMilia
+mppfiles
+adderou
+hecaxmmx
+Maller_Lagoon

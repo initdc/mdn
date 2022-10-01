@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/orphaned/web/svg/svg_1.1_support_in_firefox/index.html
+
+# Original Wiki contributors
+teoli
+Superruzafa
+Jorolo

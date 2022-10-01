@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/touch_events/index.md
+
+# Original Wiki contributors
+Roy-Tian
+xgqfrms
+wbamberg
+xiaobutiaoer
+shockw4ver
+sszsfan
+hebkia
+genie88
+ziyunfei
+fscholz
+ReyCG_sub
+xcffl
+jtyjty99999

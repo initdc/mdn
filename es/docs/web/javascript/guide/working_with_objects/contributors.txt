@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/guide/working_with_objects/index.md
+
+# Original Wiki contributors
+Nachec
+GonzaloFlores
+asamajamasa
+atascii
+davidlondonor
+4rturd13
+GasGen
+MariaBarros
+jmlocke1
+jccuevas
+alerd0895
+elin3t
+SERGIOGLL
+SphinxKnight
+gsalinase
+MarkelCuesta
+Nalex6248
+soulminato
+imNicoSuarez
+jigs12
+rippe2hl
+ajspadial
+fscholz
+acamposg71
+chebit
+teoli
+fmagrosoto
+neosergio
+bluesky777

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/content/index.md
+
+# Original Wiki contributors
+Sheppy
+teoli
+DomenicDenicola
+sideshowbarker
+KevinLozandier
+slimsag
+Sebastianz
+m32po
+markg
+Jeremie
+kscarfone

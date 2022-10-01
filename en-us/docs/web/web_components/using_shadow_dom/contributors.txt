@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/web_components/using_shadow_dom/index.md
+
+# Original Wiki contributors
+michaelpollak
+vrana
+Mandroide
+davidhartman00
+justinfagnani
+chrisdavidmills
+mrec
+bminard
+myakura
+sideshowbarker
+venugopalms
+newyork-anthonyng
+ExE-Boss
+bcawrse
+Sheppy
+Delapouite
+atorres757
+jswisher
+user13571
+scrum

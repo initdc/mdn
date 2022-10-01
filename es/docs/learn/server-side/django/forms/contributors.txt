@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/server-side/django/forms/index.md
+
+# Original Wiki contributors
+FoulMangoPY
+joserojas1270
+panpy-web
+taponato
+gatopadre
+gt67ma
+soberanes
+ricardo-soria
+boleklolek
+SgtSteiner
+javierdelpino

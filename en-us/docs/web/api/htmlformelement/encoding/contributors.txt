@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlformelement/encoding/index.md
+
+# Original Wiki contributors
+mfluehr
+connorshea
+teoli
+kscarfone
+ethertank
+Sheppy
+jswisher
+Mgjbot
+Dria
+Callek
+JesseW

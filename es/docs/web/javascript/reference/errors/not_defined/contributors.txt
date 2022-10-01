@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/errors/not_defined/index.md
+
+# Original Wiki contributors
+ludoescribano.2016
+FacuBustamaante
+ozavala
+ccorcoles
+Heranibus
+jsgaonac
+Luis_Armando

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/worker/worker/index.md
+
+# Original Wiki contributors
+hex-puck
+foomow
+bbaa-bbaa
+C_Kite
+Syclover-u2400
+xgqfrms-GitHub
+liuzeyafzy
+Alphmega

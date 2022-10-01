@@ -1,0 +1,40 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltextareaelement/index.md
+
+# Original Wiki contributors
+christianschmitz
+mfuji09
+vrana
+Brettz9
+estelle
+mfluehr
+sideshowbarker
+riceh3
+jswisher
+ExE-Boss
+connorshea
+fscholz
+SphinxKnight
+ftssunny
+jpaugh
+Sebastianz
+DGruenwald
+arronei
+danielnixon
+libbymc
+Sheppy
+vidhill
+shtarbanov
+slimsag
+Nickolay
+espressive
+mrec
+jpmedley
+phistuck
+teoli
+kscarfone
+arasbm
+jmchuma
+fusionchess
+Ms2ger
+Ste Al Th

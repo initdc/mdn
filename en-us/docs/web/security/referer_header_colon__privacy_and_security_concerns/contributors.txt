@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/security/referer_header_colon__privacy_and_security_concerns/index.md
+
+# Original Wiki contributors
+mfuji09
+bradyhanna
+chrisdavidmills
+..
+vriojtg
+cg
+wbamberg

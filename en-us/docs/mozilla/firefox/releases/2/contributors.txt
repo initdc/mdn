@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/2/index.md
+
+# Original Wiki contributors
+wbamberg
+chrisdavidmills
+Sebastianz
+ethertank
+Sheppy
+Nssbm117
+Andreas Wuest
+Nickolay
+BobChao
+Ted_Mielczarek
+Guis
+Termy
+Morberg
+Channy
+Guille64
+Mgjbot
+Dria
+Taq
+Jcjc62@gmail.com
+Jorolo
+Callek
+CP1
+Erdemlia
+Treyd500
+Toniher
+Ptak82
+Federico
+MykMelez
+Leandro Mercês Xavier
+SylvainPasche

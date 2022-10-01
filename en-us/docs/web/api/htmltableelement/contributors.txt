@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltableelement/index.md
+
+# Original Wiki contributors
+jyasskin
+Zearin_Galaurum
+sideshowbarker
+ExE-Boss
+fscholz
+cpplearner
+Sebastianz
+arronei
+libbymc
+slimsag
+Speich
+christophe.hurpeau
+teoli
+kscarfone
+ethertank
+Sheppy
+Rob W
+Mgjbot
+Megapotz
+BenoitL
+George3
+Ptak82
+RobG
+Dria

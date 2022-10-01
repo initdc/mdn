@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvasrenderingcontext2d/index.md
+
+# Original Wiki contributors
+xgl
+Yayure
+lzpong
+Runner2017
+ice-i-snow
+chliuqi
+teoli
+jack_chen

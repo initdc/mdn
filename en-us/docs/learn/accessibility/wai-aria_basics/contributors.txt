@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/accessibility/wai-aria_basics/index.md
+
+# Original Wiki contributors
+SpartaSixZero
+chrisdavidmills
+ckashby
+kruschk
+brokerr
+eduDevCF
+anied
+ferlo
+brucelawson
+EmotionChip
+scheruiyot
+JonathanPool
+aziot
+stephaniehobson
+newyork-anthonyng
+donysukardi
+joshbader

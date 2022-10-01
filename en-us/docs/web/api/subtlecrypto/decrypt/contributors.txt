@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/subtlecrypto/decrypt/index.md
+
+# Original Wiki contributors
+Sheppy
+darlesson
+wbamberg
+chrisdavidmills
+fscholz
+getify
+Dans24
+since2016c
+chrisveness
+abbycar
+oughter
+pstricker
+ignisvulpis
+teoli

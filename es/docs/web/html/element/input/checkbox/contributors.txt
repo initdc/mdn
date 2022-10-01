@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/input/checkbox/index.html
+
+# Original Wiki contributors
+AlePerez92
+BetsabethTorrres
+j-light
+FranRomero
+JoseEnrique

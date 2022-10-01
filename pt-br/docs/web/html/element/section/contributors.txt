@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/html/element/section/index.md
+
+# Original Wiki contributors
+lcsdeveloper
+soter19
+digoribeiro
+wbamberg
+ArturGuedes
+alisson-suzigan
+dann
+brunoeduardo
+leosilva-rs
+teoli
+mazulo

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            input {
+  font-size: 10px;
+  width: 100%;
+  height: 90%;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+
+        </style>
+        
+        <title>SVGGraphicsElement: copy event - example - code sample</title>
+    </head>
+    <body>
+        
+            <?xml version="1.0" encoding="UTF-8"?>
+<svg
+  viewBox="0 0 100 30"
+  width="600"
+  height="320"
+  xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="10" id="text-to-copy">Copy this text</text>
+  <foreignObject x="5" y="20" width="90" height="20">
+    <input xmlns="http://www.w3.org/1999/xhtml" placeholder="Paste it here" />
+  </foreignObject>
+</svg>
+
+        
+        
+            <script>
+                document.querySelector("text").addEventListener("copy", (evt) => {
+  evt.clipboardData.setData(
+    "text/plain",
+    document.getSelection().toString().toUpperCase()
+  );
+  evt.preventDefault();
+});
+
+            </script>
+        
+    </body>
+</html>

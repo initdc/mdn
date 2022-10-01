@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/event/preventdefault/index.md
+
+# Original Wiki contributors
+SphinxKnight
+peter611122
+jackblackevo

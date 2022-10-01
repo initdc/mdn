@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webrtc_api/session_lifetime/index.md
+
+# Original Wiki contributors
+qs3673132
+Xiaosha61
+Move
+acgeeker

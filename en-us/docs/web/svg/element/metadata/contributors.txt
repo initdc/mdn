@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/metadata/index.md
+
+# Original Wiki contributors
+Tigt
+a-mt
+fscholz
+mattwojo
+Sebastianz
+kscarfone
+Jeremie
+Manuel_Strehl

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/attribute/preserveaspectratio/index.md
+
+# Original Wiki contributors
+codepandy
+ciki6
+yuyx91
+webtuotuo2017

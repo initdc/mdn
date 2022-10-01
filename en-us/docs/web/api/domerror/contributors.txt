@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domerror/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+sideshowbarker
+Naesten
+fscholz
+chrisdavidmills
+erikadoyle
+teoli
+kscarfone
+Sheppy
+myakura
+Brettz9

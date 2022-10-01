@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/queryselector/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+Sheppy
+wbamberg
+zombie
+DomenicDenicola
+chrisdavidmills
+faxchan
+valtlai
+HarryPehkonen
+Jeremie
+stompychum
+teoli
+tagawa
+gregtatum
+Havvy
+kscarfone
+iamanupmenon
+ethertank
+mattbasta
+paul.irish
+Jürgen Jeka
+Brettz9
+Bzbarsky

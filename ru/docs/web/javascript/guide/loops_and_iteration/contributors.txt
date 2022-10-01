@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/guide/loops_and_iteration/index.html
+
+# Original Wiki contributors
+Aparin
+Costigans
+Zinger1988
+miirinjej
+bad4iz
+pathliving
+EduardKuzhir
+DeekHalden
+BychekRU
+Dvakseno
+TARTIGA

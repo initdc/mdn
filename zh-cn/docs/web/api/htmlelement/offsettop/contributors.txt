@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/htmlelement/offsettop/index.md
+
+# Original Wiki contributors
+frankyeyq
+SphinxKnight
+nuxio
+ziyunfei
+iugo
+teoli
+AlexChao

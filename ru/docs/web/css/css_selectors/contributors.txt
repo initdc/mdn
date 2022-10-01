@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/css_selectors/index.md
+
+# Original Wiki contributors
+RomanBush
+vkorzhova
+Gergalov
+bezik
+irenprkpv

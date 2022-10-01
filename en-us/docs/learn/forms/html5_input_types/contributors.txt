@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/forms/html5_input_types/index.md
+
+# Original Wiki contributors
+JennyDC
+amikalperkins
+chrisdavidmills
+arjenlgill
+blueblots
+panpy-web
+A.Faturechi
+joyjade
+estelle
+kyonlee
+zubaer54
+Zearin_Galaurum

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/html_drag_and_drop_api/index.md
+
+# Original Wiki contributors
+mfuji09
+unarist
+Uemmra3
+silverskyvicto
+hamasaki
+ethertank
+Piro
+drry

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/errors/cant_assign_to_property/index.md
+
+# Original Wiki contributors
+silverskyvicto

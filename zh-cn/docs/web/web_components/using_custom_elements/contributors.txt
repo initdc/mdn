@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/web_components/using_custom_elements/index.md
+
+# Original Wiki contributors
+justaverygoodboy
+ytxmobile
+LemonTency
+Xiaoming666
+bei6
+YellowPure
+rianma
+fu1252
+olivewind
+zhang-quan-yi

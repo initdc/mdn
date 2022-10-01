@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/guide/working_with_objects/index.md
+
+# Original Wiki contributors
+Euphokumiko
+SphinxKnight
+AhQi
+jwhitlock
+pytseng
+jackblackevo
+iigmir
+jigs12
+YuXiangYen
+teoli
+steely.wing

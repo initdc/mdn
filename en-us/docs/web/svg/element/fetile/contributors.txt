@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/fetile/index.md
+
+# Original Wiki contributors
+mor10
+Jeremie
+abbycar
+Sebastianz
+iwarui
+kscarfone
+Manuel_Strehl

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/insertadjacenthtml/index.md
+
+# Original Wiki contributors
+XboxYan
+MCCF
+maicss
+xgqfrms-GitHub
+OlafCheng
+rguanghui
+teoli
+AlexChao
+khalid32
+ziyunfei
+zbinlin

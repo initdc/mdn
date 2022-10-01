@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlinputelement/webkitdirectory/index.md
+
+# Original Wiki contributors
+danny0838
+fscholz
+Sheppy
+teoli

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audiocontext/close/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Jedipedia
+fscholz
+jpmedley
+chrisdavidmills
+teoli
+Sheppy
+omichelsen
+rralian

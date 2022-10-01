@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/opensearch/index.md
+
+# Original Wiki contributors
+jackblackevo
+iigmir
+teoli
+Mgjbot
+Sam268276
+BobChao

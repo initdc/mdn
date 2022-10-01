@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/statements/switch/index.md
+
+# Original Wiki contributors
+rianma
+jfw10973
+RainSlide
+ywjco
+zhangchen
+PaperFlu
+FAOfao931013
+xgqfrms-GitHub
+AlexChao
+xin

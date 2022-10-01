@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/games/tutorials/2d_breakout_game_phaser/win_the_game/index.md
+
+# Original Wiki contributors
+KevinPiola
+carlosgocereceda
+serarroy

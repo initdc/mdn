@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/array/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+SphinxKnight
+MeirOverferst
+omargamal510
+iigmir
+KurtHarlandLarson
+Sheppy
+aapiane09
+SnoopyRules
+klez
+Andrew_Pfeiffer
+Jeremie
+hbloomer
+alispivak
+panaggio

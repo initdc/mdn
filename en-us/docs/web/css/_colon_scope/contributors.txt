@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_scope/index.md
+
+# Original Wiki contributors
+wbamberg
+paul-go
+mfuji09
+jerome-rdlv
+Sheppy
+fscholz
+Bzbarsky
+mfluehr
+Rob W
+StripTM
+aristath
+chrisdavidmills
+RyanNerd
+phistuck
+Sebastianz
+Ugoku
+torbasow
+mikemcg
+claudepache
+jcappell
+HTMLValidator
+rogerhc
+avetisk
+yisi
+kscarfone
+velvel53
+teoli

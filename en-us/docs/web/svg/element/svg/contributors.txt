@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/svg/index.md
+
+# Original Wiki contributors
+nlhlong
+leela52452
+Tigt
+Jeremie
+fscholz
+janjaap
+rousan
+MisterMashu
+mattwojo
+shshaw
+Sebastianz
+s-light
+SueSmith
+azoorob
+billsmithaustin
+kscarfone
+ethertank
+jswisher
+Manuel_Strehl
+syssgx
+fusionchess

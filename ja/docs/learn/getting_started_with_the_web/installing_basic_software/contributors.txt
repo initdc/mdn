@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/getting_started_with_the_web/installing_basic_software/index.md
+
+# Original Wiki contributors
+Raysphere24
+trainin9
+silverskyvicto
+Uemmra3
+yuyuyu8818
+mfuji09
+kubosho_
+momdo
+WhiteHawk-taka
+Naochan1952
+shuuji3

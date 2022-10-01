@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document/anchors/index.md
+
+# Original Wiki contributors
+roocce
+fscholz
+DR

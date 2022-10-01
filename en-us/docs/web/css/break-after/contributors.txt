@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/break-after/index.md
+
+# Original Wiki contributors
+rachelandrew
+binki
+chrisdavidmills
+wbamberg
+Sheppy
+mfuji09
+huaxia603
+ddbeck
+mfluehr
+fscholz
+pborenstein
+arronei
+erikadoyle
+Grizzly
+dampkwab
+Sebastianz
+yisibl
+jsx
+teoli
+kscarfone
+ethertank

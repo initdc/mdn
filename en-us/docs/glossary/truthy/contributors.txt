@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/truthy/index.md
+
+# Original Wiki contributors
+duanxiugang
+mfuji09
+sorawee
+mfulton26
+ruthanam
+jinbeomhong
+iulia
+ThaJay
+SindbadSeafarer
+torazaburo
+gacelperfinian
+sgress454
+brodybits
+Andrew_Pfeiffer
+klez
+fscholz

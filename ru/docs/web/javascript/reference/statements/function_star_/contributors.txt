@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/function_star_/index.html
+
+# Original Wiki contributors
+SphinxKnight
+Sajag
+mrOrlando
+MaksymI
+kdex
+deman
+MalkavianMax
+BychekRU
+dtretyakov

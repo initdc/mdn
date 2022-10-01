@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/validitystate/toolong/index.md
+
+# Original Wiki contributors
+sideshowbarker
+perfmattersconf
+estelle
+jswisher
+connorshea
+amy-mac
+erikadoyle
+rolfedh
+LightGuard
+cvrebert

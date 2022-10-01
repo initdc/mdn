@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary/index.html
+
+# Original Wiki contributors
+stefantsova
+OrlovPetr
+boxa6
+wbamberg
+MaryoneFrolova
+chrootsu
+bracket
+MuradAz

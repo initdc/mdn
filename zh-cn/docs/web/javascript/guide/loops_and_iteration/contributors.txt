@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/loops_and_iteration/index.md
+
+# Original Wiki contributors
+koor
+narutojian
+RainSlide
+Wuqichao
+SphinxKnight
+zero_zero_zero
+zhuangyin
+Zheng7426
+Bob_young
+xiaowei.yang
+johncido
+xgqfrms-GitHub
+xdsnet
+codetaro
+suxiesumiao
+AcJoker
+kavon
+lushunming
+MurphyL
+wumouse
+intuitionfly

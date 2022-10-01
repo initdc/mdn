@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/feimage/index.md
+
+# Original Wiki contributors
+fscholz
+abbycar
+Sebastianz
+iwarui
+chrisdavidmills
+Spaxe
+Jeremie
+kscarfone
+Manuel_Strehl

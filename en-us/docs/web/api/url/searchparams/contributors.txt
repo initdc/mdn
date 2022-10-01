@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/url/searchparams/index.md
+
+# Original Wiki contributors
+alattalatta
+juanmendes
+chrisdavidmills
+ExE-Boss
+goeddea
+JamesGreene
+david_ross
+Jonathan_Watt
+jpmedley
+nhnt11

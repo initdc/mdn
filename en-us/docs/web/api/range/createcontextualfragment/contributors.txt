@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/createcontextualfragment/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+fscholz
+alpatovdanila
+abbycar
+paul.irish
+IceCreamYou
+-munawwar-
+teoli
+Prome
+gtibrett
+kscarfone
+Sheppy
+Hsivonen
+Ms2ger
+Ptak82
+WcfDdg
+Andreas Wuest
+Paul Sowden
+Gor1

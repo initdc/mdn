@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/console/assert/index.html
+
+# Original Wiki contributors
+Takumakun
+AlePerez92
+danycoro

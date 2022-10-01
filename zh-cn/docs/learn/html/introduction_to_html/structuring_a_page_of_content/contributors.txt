@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/introduction_to_html/structuring_a_page_of_content/index.md
+
+# Original Wiki contributors
+Roy-Tian
+MorrisLi
+HolaForce
+codeofjackie
+lihaoyuan
+zhaoqize
+littledust
+ChenLyu01

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/flexbox/index.md
+
+# Original Wiki contributors
+roshan0708
+..
+mfuji09
+IgorPuchkov2003
+chrisdavidmills
+rachelandrew

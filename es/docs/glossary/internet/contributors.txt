@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/internet/index.md
+
+# Original Wiki contributors
+candepineyro2015
+r2cris
+cawilff

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/-webkit-mask-repeat-x/index.md
+
+# Original Wiki contributors
+ddbeck
+Sheppy
+fscholz
+mfluehr
+wbamberg
+Sebastianz

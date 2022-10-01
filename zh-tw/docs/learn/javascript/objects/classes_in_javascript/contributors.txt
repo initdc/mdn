@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/learn/javascript/objects/classes_in_javascript/index.md
+
+# Original Wiki contributors
+tangerine1202
+Yang09701194
+roycrxtw
+MashKao

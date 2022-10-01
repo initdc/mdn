@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/block-level_elements/index.md
+
+# Original Wiki contributors
+ManuelPalominochirote
+raecillacastellana
+dinael
+pekechis
+erdavo
+vltamara
+teoli
+MILTON.AGUILAR

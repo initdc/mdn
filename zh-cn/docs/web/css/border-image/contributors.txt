@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/border-image/index.md
+
+# Original Wiki contributors
+RoXoM
+wanbei
+xgqfrms-GitHub
+Ende93
+VdoG
+teoli
+Sebastianz
+fskuok
+yan

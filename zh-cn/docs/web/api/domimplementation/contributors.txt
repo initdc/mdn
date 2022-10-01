@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/domimplementation/index.md
+
+# Original Wiki contributors
+aronlee
+xuanhun
+Cribug8080
+pantao
+AshfaqHossain
+less

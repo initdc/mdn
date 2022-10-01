@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/@counter-style/index.md
+
+# Original Wiki contributors
+lixinxin93
+FredWe

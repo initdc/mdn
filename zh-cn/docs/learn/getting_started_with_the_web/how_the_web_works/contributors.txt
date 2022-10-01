@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/getting_started_with_the_web/how_the_web_works/index.md
+
+# Original Wiki contributors
+guangyu890
+DarkStory
+yunchispk
+Sphish
+Li-saltair
+grape
+wi24rd
+W-YaoLing
+14Mars
+codeofjackie
+liliang-cn
+ArcherGrey
+tjyas
+lavenderming
+fan19900404
+liminjun
+ziyunfei
+troywith77

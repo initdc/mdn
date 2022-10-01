@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/csp/index.html
+
+# Original Wiki contributors
+lautaropaske
+herleym
+BubuAnabelas
+vk496
+CarlosRomeroVera

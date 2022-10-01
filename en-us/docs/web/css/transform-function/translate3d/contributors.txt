@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transform-function/translate3d/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+rachelandrew
+ramiy
+wbamberg
+mfuji09
+Sheppy
+Sebastianz
+komalbharadiya
+mfluehr
+mrstork
+SphinxKnight

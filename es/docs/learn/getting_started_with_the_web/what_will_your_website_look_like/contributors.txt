@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/getting_started_with_the_web/what_will_your_website_look_like/index.md
+
+# Original Wiki contributors
+Nachec
+Maose
+jimmy_ml
+NataliaCba
+vact
+israel-munoz
+DaniNz
+7eacemaker
+mads0306
+Da_igual
+Davixe
+Chrixos
+diazwatson
+omar.fiscal

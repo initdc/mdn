@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/writing_guidelines/experimental_deprecated_obsolete/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+eltociear
+mfuji09
+jswisher
+Anonymous
+silverskyvicto
+wbamberg
+Uemmra3
+5ara5treamer

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/statements/throw/index.md
+
+# Original Wiki contributors
+koalaxiaot
+zhangchen
+xgqfrms-GitHub
+fanpaa
+soulxy
+onetwogoo
+iFish
+teoli
+Mickeyboy

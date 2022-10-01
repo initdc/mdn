@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/objects/adding_bouncing_balls_features/index.md
+
+# Original Wiki contributors
+Wenke-D
+Roy-Tian
+gofly1988
+lihaoyuan
+bluekeroro

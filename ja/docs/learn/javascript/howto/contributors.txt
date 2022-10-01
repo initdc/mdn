@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/howto/index.md
+
+# Original Wiki contributors
+Uemmra3
+yumemi-kuwahara
+szk0u

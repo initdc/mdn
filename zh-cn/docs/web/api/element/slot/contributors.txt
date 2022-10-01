@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/slot/index.md
+
+# Original Wiki contributors
+zhangchen
+Louis-7
+dxc111
+Ahhaha233
+maicss
+xiaobudongzhang

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/input/checkbox/index.md
+
+# Original Wiki contributors
+Jamelkol
+a-carvallo
+SphinxKnight
+LaurentBarbareau
+euZebe
+FanJiyong
+ctjhoa
+AnthonyMaton

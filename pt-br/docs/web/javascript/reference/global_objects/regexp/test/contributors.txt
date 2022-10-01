@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/global_objects/regexp/test/index.md
+
+# Original Wiki contributors
+alvarez86
+Bagata
+igorc2
+felipericardo
+iFgR

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/cssmediarule/index.md
+
+# Original Wiki contributors
+Carllllo
+RainSlide
+laiiihz
+xgqfrms-GitHub
+fscholz
+teoli
+ziyunfei
+Anonymous

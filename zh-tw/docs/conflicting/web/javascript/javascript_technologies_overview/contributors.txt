@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/conflicting/web/javascript/javascript_technologies_overview/index.md
+
+# Original Wiki contributors
+JianHuaHe

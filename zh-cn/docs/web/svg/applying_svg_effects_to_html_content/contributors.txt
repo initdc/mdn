@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/applying_svg_effects_to_html_content/index.md
+
+# Original Wiki contributors
+Chellyyy
+Kylexii
+almond
+AaronYehf
+swingcat
+SphinxKnight
+fanxiaojie

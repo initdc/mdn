@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/webrtc_api/signaling_and_video_calling/index.md
+
+# Original Wiki contributors
+breadfit
+fscholz
+gustnxodjs

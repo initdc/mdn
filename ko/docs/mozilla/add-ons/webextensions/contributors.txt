@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/mozilla/add-ons/webextensions/index.md
+
+# Original Wiki contributors
+SphinxKnight
+sylee0424
+kkame
+821065887131
+junthus
+jwhitlock
+wbamberg

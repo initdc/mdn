@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/15/index.md
+
+# Original Wiki contributors
+saigowthamr
+wbamberg
+Sebastianz
+kdex
+Sheppy
+fscholz
+teoli
+ethertank
+MattBrubeck
+trevorh
+Sol_Shkr
+myakura
+saneyuki_s
+evilpie
+@@@@
+ziyunfei
+mattbrundage
+Potappo
+fred.wang
+Masayuki
+janv
+pdmdn
+mkato

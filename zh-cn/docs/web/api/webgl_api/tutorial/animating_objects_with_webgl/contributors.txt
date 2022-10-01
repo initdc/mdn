@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webgl_api/tutorial/animating_objects_with_webgl/index.md
+
+# Original Wiki contributors
+Yayure
+Sincoyw
+ZhangMenghe

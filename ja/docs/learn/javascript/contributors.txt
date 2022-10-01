@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/index.md
+
+# Original Wiki contributors
+eldesh
+silverskyvicto
+Uemmra3
+thinking-capybara
+Shonanpooh
+T.Ukegawa
+nabepuro

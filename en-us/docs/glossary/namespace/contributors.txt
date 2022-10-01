@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/namespace/index.md
+
+# Original Wiki contributors
+hbloomer
+Andrew_Pfeiffer
+klez
+kscarfone
+xfq
+jainanurag

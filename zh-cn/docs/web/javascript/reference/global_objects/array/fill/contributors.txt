@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/fill/index.md
+
+# Original Wiki contributors
+fanerge
+zhangchen
+fisker
+linzx1993
+tiansh
+xhlsrj
+micheal-death
+sqchenxiyuan
+xgqfrms-GitHub
+Ende93
+ziyunfei
+teoli

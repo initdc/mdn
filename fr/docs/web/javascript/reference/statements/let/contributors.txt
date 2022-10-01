@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/statements/let/index.md
+
+# Original Wiki contributors
+javascriptdezero
+SphinxKnight
+Tilatti
+franzludilabel
+mbrehin
+tanjun
+kdex
+doom-fr
+teoli
+fscholz

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/xpath/axes/ancestor/index.md
+
+# Original Wiki contributors
+ExE-Boss
+Mgjbot
+Cmayo

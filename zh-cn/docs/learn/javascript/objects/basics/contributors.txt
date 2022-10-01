@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/objects/basics/index.md
+
+# Original Wiki contributors
+zos12
+wujingquan
+minguoITnan
+Wantian
+pompeybrain
+supermanbin

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/rtcdatachannel/bufferedamountlowthreshold/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+dbrgn
+Sheppy
+jpmedley
+Jib

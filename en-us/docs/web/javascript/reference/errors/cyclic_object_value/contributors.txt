@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/errors/cyclic_object_value/index.md
+
+# Original Wiki contributors
+fscholz
+Audaciter
+VoIdemar
+tchaffee
+PatrickKettner
+grantcarthew
+fsarachu
+jonasraoni

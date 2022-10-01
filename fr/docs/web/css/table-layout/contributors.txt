@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/table-layout/index.md
+
+# Original Wiki contributors
+SphinxKnight
+bsitruk
+emmanuelclement
+fscholz
+Sebastianz
+teoli
+b_b
+FredB
+ethertank

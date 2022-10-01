@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/outline/index.md
+
+# Original Wiki contributors
+lins1105
+conorzhong
+Carllllo
+zhengxinxin
+broven
+fscholz
+Sebastianz
+FredWe

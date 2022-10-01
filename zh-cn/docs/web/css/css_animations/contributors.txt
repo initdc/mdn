@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_animations/index.md
+
+# Original Wiki contributors
+1v9
+xgqfrms-GitHub
+esterTion
+luhai.cui@gmail.com
+teoli

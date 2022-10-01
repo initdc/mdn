@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/html_drag_and_drop_api/drag_operations/index.md
+
+# Original Wiki contributors
+azocankara
+arthurlacoste
+SphinxKnight
+teoli
+Jeremie
+Chbok

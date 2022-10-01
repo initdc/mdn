@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/rtcpeerconnection/createdatachannel/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Sheppy
+TomasHubelbauer
+fscholz
+brianpeiris
+jpmedley
+Jib
+argiepiano

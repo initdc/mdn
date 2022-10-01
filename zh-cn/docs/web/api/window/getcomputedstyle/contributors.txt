@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/getcomputedstyle/index.md
+
+# Original Wiki contributors
+Bayes
+zhangchen
+xgqfrms-GitHub
+gaoxuerong
+Ende93
+tudewutong
+fannie-z
+teoli
+TwoYou
+RobinXiong
+arcy

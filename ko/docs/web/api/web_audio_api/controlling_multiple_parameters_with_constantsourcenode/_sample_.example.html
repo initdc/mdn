@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            .controls {
+  width: 400px;
+  position: relative;
+  vertical-align: middle;
+  height: 44px;
+}
+
+.button {
+  font-size: 32px;
+  cursor: pointer;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+}
+
+.right {
+  width: 50%;
+  font: 14px "Open Sans", "Lucida Grande", "Arial", sans-serif;
+  position: absolute;
+  right: 0;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.right span {
+  vertical-align: middle;
+}
+
+.right input {
+  vertical-align: baseline;
+}
+
+.left {
+  width: 50%;
+  position: absolute;
+  left: 0;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.left span, .left input {
+  vertical-align: middle;
+}
+
+        </style>
+        
+        <title>ConstantSourceNode로 다수의 파라미터 제어하기 - example - code sample</title>
+    </head>
+    <body>
+        
+            <div class="controls">
+  <div class="left">
+    <div id="playButton" class="button">
+      ▶️
+    </div>
+  </div>
+  <div class="right">
+    <span>Volume: </span>
+    <input type="range" min="0.0" max="1.0" step="0.01"
+        value="0.8" name="volume" id="volumeControl">
+  </div>
+</div>
+
+<p>음을 재생하고 정지하기 위해 위의 버튼을,
+그리고 화음 E와 G의 볼륨을 변경하기 위해 볼륨 슬라이더를 사용하세요.</p>
+
+        
+        
+            <script>
+                let context = null;
+
+let playButton = null;
+let volumeControl = null;
+
+let oscNode1 = null;
+let oscNode2 = null;
+let oscNode3 = null;
+let constantNode = null;
+let gainNode1 = null;
+let gainNode2 = null;
+let gainNode3 = null;
+
+let playing = false;
+
+function setup() {
+  context = new (window.AudioContext || window.webkitAudioContext)();
+
+  playButton = document.querySelector("#playButton");
+  volumeControl = document.querySelector("#volumeControl");
+
+  playButton.addEventListener("click", togglePlay, false);
+  volumeControl.addEventListener("input", changeVolume, false);
+
+  gainNode1 = context.createGain();
+  gainNode1.gain.value = 0.5;
+
+  gainNode2 = context.createGain();
+  gainNode3 = context.createGain();
+  gainNode2.gain.value = gainNode1.gain.value;
+  gainNode3.gain.value = gainNode1.gain.value;
+  volumeControl.value = gainNode1.gain.value;
+
+  constantNode = context.createConstantSource();
+  constantNode.connect(gainNode2.gain);
+  constantNode.connect(gainNode3.gain);
+  constantNode.start();
+
+  gainNode1.connect(context.destination);
+  gainNode2.connect(context.destination);
+  gainNode3.connect(context.destination);
+}
+
+window.addEventListener("load", setup, false);
+
+function togglePlay(event) {
+  if (playing) {
+    playButton.textContent = "▶️";
+    stopOscillators();
+  } else {
+    playButton.textContent = "⏸";
+    startOscillators();
+  }
+}
+
+function changeVolume(event) {
+  constantNode.offset.value = volumeControl.value;
+}
+
+function startOscillators() {
+  oscNode1 = context.createOscillator();
+  oscNode1.type = "sine";
+  oscNode1.frequency.value = 261.625565300598634; // 중앙 C
+  oscNode1.connect(gainNode1);
+
+  oscNode2 = context.createOscillator();
+  oscNode2.type = "sine";
+  oscNode2.frequency.value = 329.627556912869929; // E
+  oscNode2.connect(gainNode2);
+
+  oscNode3 = context.createOscillator();
+  oscNode3.type = "sine";
+  oscNode3.frequency.value = 391.995435981749294 // G
+  oscNode3.connect(gainNode3);
+
+  oscNode1.start();
+  oscNode2.start();
+  oscNode3.start();
+
+  playing = true;
+}
+
+function stopOscillators() {
+  oscNode1.stop();
+  oscNode2.stop();
+  oscNode3.stop();
+  playing = false;
+}
+
+            </script>
+        
+    </body>
+</html>

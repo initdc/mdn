@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/language_overview/index.html
+
+# Original Wiki contributors
+Nachec
+pmcarballo
+VictorSan45
+DaniNz
+jlopezfdez
+mariodev12
+javier_junin
+GdoSan
+unaisainz
+oleurud
+JavierHspn
+jlmurgas
+rivacubano
+aaguilera
+StripTM
+bicentenario
+NatiiDC
+NicolasMendoza
+LeoHirsch
+lomejordejr
+rogeliomtx
+Jarkaos

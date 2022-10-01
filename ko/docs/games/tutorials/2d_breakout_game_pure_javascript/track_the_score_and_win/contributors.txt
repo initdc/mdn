@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win/index.md
+
+# Original Wiki contributors
+E.Chong_Ju_Noel
+wbamberg
+awer000

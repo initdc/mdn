@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/cache/index.md
+
+# Original Wiki contributors
+Wind1808
+mfuji09
+shimazu
+Fajrovulpo
+YuichiNukiyama

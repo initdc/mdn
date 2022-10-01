@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/webrtc_api/session_lifetime/index.html
+
+# Original Wiki contributors
+tonyrewin
+coderxone
+franzy1709

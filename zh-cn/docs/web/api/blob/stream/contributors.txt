@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/blob/stream/index.md
+
+# Original Wiki contributors
+c1er

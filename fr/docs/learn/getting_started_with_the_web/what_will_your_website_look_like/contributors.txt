@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/getting_started_with_the_web/what_will_your_website_look_like/index.md
+
+# Original Wiki contributors
+Dralyab
+Ilphrin
+yannicka
+loella16
+SphinxKnight
+J.DMB
+Luejni

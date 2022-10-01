@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/css_grid_layout/basic_concepts_of_grid_layout/index.md
+
+# Original Wiki contributors
+Virss
+touze147
+john_roldven
+iandr
+nicktorn89
+ArtemSkachko
+greensleeves
+PaulineNemchak
+hmdn
+miirinjej
+avkozlov4
+Sajag
+coshturnina
+zhenetta
+sergeytkachenko
+dek4nice
+chemaxa

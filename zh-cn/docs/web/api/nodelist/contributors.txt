@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/nodelist/index.md
+
+# Original Wiki contributors
+xgqfrms
+fish-inu
+Blacktodreamlight
+cyemeng
+RainSlide
+anxsec
+linweinb
+GuaHsu
+PengSama
+dudueasy
+iplus26
+Hawkeyes_Wind
+teoli
+jaka
+ziyunfei
+fishenal

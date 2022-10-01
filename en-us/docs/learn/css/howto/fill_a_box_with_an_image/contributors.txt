@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/howto/fill_a_box_with_an_image/index.md
+
+# Original Wiki contributors
+

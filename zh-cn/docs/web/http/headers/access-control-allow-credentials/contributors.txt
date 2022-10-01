@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/access-control-allow-credentials/index.md
+
+# Original Wiki contributors
+deping_chen
+Bayes
+xiasha
+fscholz
+crper
+keqingrong
+TiaossuP
+tty4

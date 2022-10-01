@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/json/stringify/index.md
+
+# Original Wiki contributors
+AlePerez92
+Ivan-Perez
+kip-13
+imagentleman
+raistmaj
+JoseBarakat
+danielbenedi6
+inawrath
+lfottaviano
+julesdel
+teland
+teoli
+carlosgctes

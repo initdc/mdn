@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/dsl/digital_subscriber_line/index.md
+
+# Original Wiki contributors
+

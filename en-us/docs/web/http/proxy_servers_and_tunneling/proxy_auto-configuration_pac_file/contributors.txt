@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file/index.md
+
+# Original Wiki contributors
+SphinxKnight
+jibonmobileq
+mfuji09
+lewisje
+Artoria2e5
+RainSlide
+Gizeta
+erosman
+fscholz
+orisano
+Sheppy
+GeneralFailer
+teoli
+GabrielCorona
+galejwnaylor
+xeonchen
+rolfedh
+duncanmcdonald

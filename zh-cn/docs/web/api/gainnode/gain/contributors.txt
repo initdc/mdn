@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/gainnode/gain/index.md
+
+# Original Wiki contributors
+huangxok

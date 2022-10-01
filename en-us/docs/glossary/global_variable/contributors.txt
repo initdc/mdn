@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/global_variable/index.md
+
+# Original Wiki contributors
+mfuji09
+j9t
+Jeremie
+klez
+Andrew_Pfeiffer
+kscarfone
+panaggio

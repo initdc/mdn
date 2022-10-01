@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/guide/html/using_html_sections_and_outlines/index.md
+
+# Original Wiki contributors
+mfuji09
+taku-furuta
+miyah-kun
+8845musign
+michi-h0623
+SphinxKnight
+webooker
+yyss
+ethertank
+teoli
+DavidWalsh
+Potappo
+saneyuki_s
+kj

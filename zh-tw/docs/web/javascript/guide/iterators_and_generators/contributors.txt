@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/guide/iterators_and_generators/index.md
+
+# Original Wiki contributors
+hiimeimei
+wanjingzhang

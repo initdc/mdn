@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/csskeyframesrule/index.md
+
+# Original Wiki contributors
+Puddingsan
+dom96
+fscholz
+Sebastianz
+erikadoyle
+Sheppy
+Mehuge
+jpmedley
+Tid
+foolip
+teoli
+kohei.yoshino
+gizmo_jaco@yahoo.com

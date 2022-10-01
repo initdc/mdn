@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/font-smooth/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+Sheppy
+fscholz
+rdvornov
+alexkoepke
+mfluehr
+cvrebert
+hweeks
+msherstobitow
+pkuczynski
+docfed
+mikepink
+teoli
+barraponto

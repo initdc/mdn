@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/html/element/script/index.md
+
+# Original Wiki contributors
+chengr4
+SphinxKnight
+t7yang
+iigmir
+roycrxtw
+Shiyou

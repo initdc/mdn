@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmediaelement/play/index.md
+
+# Original Wiki contributors
+estelle
+Sheppy
+Naesten
+jakub-g
+jpmedley
+fscholz
+ArianeLu
+Jedipedia
+jarrodn
+Mike240731
+Jib
+erikadoyle
+dgashmdn

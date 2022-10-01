@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/modify_a_web_page/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+rebloor
+maseiler
+limkokhole
+BojanKogoj
+andrewtruongmoz
+wbamberg
+lgreco
+chrisdavidmills
+Noitidart

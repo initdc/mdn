@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/tools_and_testing/client-side_javascript_frameworks/vue_getting_started/index.md
+
+# Original Wiki contributors
+amai0w0
+wang_liang
+zisedelinghun
+ZhangNing
+MRzhangzhenhua
+929721152
+xyjk0917

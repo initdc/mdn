@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/strict_mode/index.md
+
+# Original Wiki contributors
+srthiagos
+henriquemazer
+rdasilva
+arturhns
+matheusr
+RenanBirck
+jjmars

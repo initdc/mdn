@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/accessibility/an_overview_of_accessible_web_applications_and_widgets/index.md
+
+# Original Wiki contributors
+dotorify
+teoli
+Cho.Eun

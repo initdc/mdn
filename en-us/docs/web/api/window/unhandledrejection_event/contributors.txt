@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/unhandledrejection_event/index.md
+
+# Original Wiki contributors
+sideshowbarker
+lucaswerkmeister
+mfuji09
+wbamberg
+Sheppy
+mfluehr
+tjcrowder
+Kwan
+jugglinmike
+chrisdavidmills
+gkalpak
+fscholz

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/django/home_page/index.md
+
+# Original Wiki contributors
+feko
+mojiangyuan
+colin3dmax
+floodwater
+xixilog
+chinanf-boy

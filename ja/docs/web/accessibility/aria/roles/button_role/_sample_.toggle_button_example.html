@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            button,
+[role="button"] {
+    padding: 3px;
+    border: 2px solid transparent;
+}
+
+button:active,
+button:focus,
+[role="button"][aria-pressed="true"] {
+    border: 2px solid #000;
+}
+
+        </style>
+        
+        <title>ARIA: button ロール - toggle_button_example - code sample</title>
+    </head>
+    <body>
+        
+            <button type="button" onclick="handleBtnClick()" onKeyDown="handleBtnKeyDown()">
+  Mute Audio
+</button>
+
+<span role="button" tabindex="0"
+ aria-pressed="false" onclick="handleBtnClick(event)"
+ onKeyDown="handleBtnKeyDown(event)">
+  Mute Audio
+</span>
+
+<audio id="audio" src="https://soundbible.com/mp3/Tyrannosaurus%20Rex%20Roar-SoundBible.com-807702404.mp3">
+  Your browser does not support the <code>audio</code> element.
+</audio>
+
+        
+        
+            <script>
+                function handleBtnClick(event) {
+  toggleButton(event.target);
+}
+
+function handleBtnKeyDown(event) {
+  // Space や Enter が押されたかどうかを確認します
+  if (event.key === " " || event.key === "Enter" || event.key === "Spacebar") { // IE11 サポートのための "Spacebar"
+    // デフォルトのアクションを防止して Space が押されたときにスクロールするのを止める
+    event.preventDefault();
+    toggleButton(event.target);
+  }
+}
+
+function toggleButton(element) {
+  var audio = document.getElementById('audio');
+  // ボタンが押されているかを確認します
+  var pressed = (element.getAttribute("aria-pressed") === "true");
+  // aria-pressed を反対の状態に変更します
+  element.setAttribute("aria-pressed", !pressed);
+  // オーディオファイルの再生状態を切り替えます
+  if(pressed) {
+     audio.pause();
+  } else {
+     audio.play();
+  }
+}
+
+            </script>
+        
+    </body>
+</html>

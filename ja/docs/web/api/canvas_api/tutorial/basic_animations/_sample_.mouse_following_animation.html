@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            #cw {
+  position: fixed;
+  z-index: -1;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+        </style>
+        
+        <title>基本的なアニメーション - mouse_following_animation - code sample</title>
+    </head>
+    <body>
+        
+            <canvas id="cw"></canvas>
+
+        
+        
+            <script>
+                const canvas = document.getElementById("cw");
+const context = canvas.getContext("2d");
+context.globalAlpha = 0.5;
+
+const cursor = {
+  x: innerWidth / 2,
+  y: innerHeight / 2,
+};
+
+let particlesArray = [];
+
+generateParticles(101);
+setSize();
+anim();
+
+addEventListener("mousemove", (e) => {
+  cursor.x = e.clientX;
+  cursor.y = e.clientY;
+});
+
+addEventListener(
+  "touchmove",
+  (e) => {
+    e.preventDefault();
+    cursor.x = e.touches[0].clientX;
+    cursor.y = e.touches[0].clientY;
+  },
+  { passive: false }
+);
+
+addEventListener("resize", () => setSize());
+
+function generateParticles(amount) {
+  for (let i = 0; i < amount; i++) {
+    particlesArray[i] = new Particle(
+      innerWidth / 2,
+      innerHeight / 2,
+      4,
+      generateColor(),
+      0.02
+    );
+  }
+}
+
+function generateColor() {
+  let hexSet = "0123456789ABCDEF";
+  let finalHexString = "#";
+  for (let i = 0; i < 6; i++) {
+    finalHexString += hexSet[Math.ceil(Math.random() * 15)];
+  }
+  return finalHexString;
+}
+
+function setSize() {
+  canvas.height = innerHeight;
+  canvas.width = innerWidth;
+}
+
+function Particle(x, y, particleTrailWidth, strokeColor, rotateSpeed) {
+  this.x = x;
+  this.y = y;
+  this.particleTrailWidth = particleTrailWidth;
+  this.strokeColor = strokeColor;
+  this.theta = Math.random() * Math.PI * 2;
+  this.rotateSpeed = rotateSpeed;
+  this.t = Math.random() * 150;
+
+  this.rotate = () => {
+    const ls = {
+      x: this.x,
+      y: this.y,
+    };
+    this.theta += this.rotateSpeed;
+    this.x = cursor.x + Math.cos(this.theta) * this.t;
+    this.y = cursor.y + Math.sin(this.theta) * this.t;
+    context.beginPath();
+    context.lineWidth = this.particleTrailWidth;
+    context.strokeStyle = this.strokeColor;
+    context.moveTo(ls.x, ls.y);
+    context.lineTo(this.x, this.y);
+    context.stroke();
+  };
+}
+
+function anim() {
+  requestAnimationFrame(anim);
+
+  context.fillStyle = "rgba(0,0,0,0.05)";
+  context.fillRect(0, 0, canvas.width, canvas.height);
+
+  particlesArray.forEach((particle) => particle.rotate());
+}
+
+            </script>
+        
+    </body>
+</html>

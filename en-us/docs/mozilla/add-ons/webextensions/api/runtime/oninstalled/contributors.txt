@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/runtime/oninstalled/index.md
+
+# Original Wiki contributors
+grant
+musiyenko
+david_ross
+ericjung
+wbamberg
+andrewtruongmoz
+delete12345
+Makyen
+chrisdavidmills

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_audio_api/web_audio_spatialization_basics/index.md
+
+# Original Wiki contributors
+Rumyra
+chrisdavidmills
+DivineGod
+0neSe7en
+zdzislaw-paluch
+kscarfone
+Sheppy

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/focusoffset/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+ddbeck
+KOLEGA
+abbycar
+BenjamP
+fscholz
+teoli
+kosvrouvas
+Radivarig
+kscarfone
+Kartik_Chadha
+Prachi_Dighe
+Sheppy
+Federico
+DR
+Rev
+Jonnyq

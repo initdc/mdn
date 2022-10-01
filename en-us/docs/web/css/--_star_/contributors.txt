@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/--_star_/index.md
+
+# Original Wiki contributors
+mfluehr
+wbamberg
+chrisdavidmills
+estelle
+Sheppy
+ExE-Boss
+torazaburo
+mfuji09
+fscholz
+luketeaford
+equinusocio
+SEMSITES
+david_ross
+yisibl
+Siilwyn
+lleaff
+Sebastianz
+teoli

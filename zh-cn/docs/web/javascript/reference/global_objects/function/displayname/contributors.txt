@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/function/displayname/index.md
+
+# Original Wiki contributors
+liuchuzhang
+lilng
+teoli
+minstrel1977
+webery

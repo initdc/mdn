@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/notification/index.md
+
+# Original Wiki contributors
+zch233
+gjc9620
+woshiguabi
+AnnAngela
+yexiaosong
+ZZES_REN
+xgqfrms-GitHub
+Hawkeyes_Wind

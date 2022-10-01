@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/focus/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+sideshowbarker
+SphinxKnight
+maybe
+cvrebert
+chrisdavidmills
+cpigat
+kosvrouvas
+teoli
+Sheppy
+Enn
+Mgjbot
+Potappo
+Ptak82
+Dria
+JesseW

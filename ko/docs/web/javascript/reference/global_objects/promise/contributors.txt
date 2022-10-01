@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/promise/index.md
+
+# Original Wiki contributors
+Vimming
+alattalatta
+khg0712
+limkukhyun
+samee
+fscholz
+NessunKim
+ahnjungho
+Netaras
+redcamel
+EunwooCho
+akic4op4
+0xABCDEF

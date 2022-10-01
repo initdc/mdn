@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/node/firstchild/index.md
+
+# Original Wiki contributors
+wbamberg
+xgqfrms-GitHub
+Ende93
+teoli
+AshfaqHossain
+ziyunfei
+Sheppy
+Mgjbot
+TigerSoldier
+Dewang

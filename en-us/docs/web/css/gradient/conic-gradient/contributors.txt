@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/gradient/conic-gradient/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ramiy
+wbamberg
+estelle
+aardrian
+mfluehr
+mfuji09

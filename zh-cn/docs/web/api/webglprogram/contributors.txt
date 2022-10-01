@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webglprogram/index.md
+
+# Original Wiki contributors
+lovefengruoqing
+waraiotoko1108
+wymm0008
+codediy
+loverinfo
+lmx99

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/learn/getting_started_with_the_web/javascript_basics/index.md
+
+# Original Wiki contributors
+rayainman
+jyzeng17
+Ice1187
+Jyo238
+Fangfeidenimen
+jackblackevo
+Chiahong
+YuCheng
+victor0801x
+VioletVivirand

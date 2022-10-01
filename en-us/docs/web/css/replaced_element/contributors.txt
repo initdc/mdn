@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/replaced_element/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+SelenIT
+Nisarg-Shah
+TotalAMD
+Konrud
+yisibl
+mfluehr
+Dholbert
+AdrianSandu
+josketres
+cris-luz-07
+RosevearDev
+Alrashel
+atesgoral
+FredB
+peb
+ethertank
+teoli

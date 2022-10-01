@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/export/index.html
+
+# Original Wiki contributors
+almaceleste
+SphinxKnight
+ravbetsky
+Roman-Kosov
+marat-curious
+maksugr
+HaffASE
+Checkmatez
+maxmind
+M1rotvorez
+sunsetninja
+frodomogoni
+jeneg

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/errors/unexpected_type/index.md
+
+# Original Wiki contributors
+yura-Choi

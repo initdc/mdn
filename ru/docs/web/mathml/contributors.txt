@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/mathml/index.html
+
+# Original Wiki contributors
+valtaranets
+bsergey
+fider
+koska
+joemix

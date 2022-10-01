@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/exitpointerlock/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+mfluehr
+fscholz
+valtlai
+erikadoyle
+wbamberg
+teoli
+kollishivagangadhar
+kscarfone
+Jeremie

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/ciphertext/index.md
+
+# Original Wiki contributors
+klez
+marumari
+hbloomer
+Andrew_Pfeiffer
+jsx
+teoli

@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Notre premier code JavaScript - exemple_—_jeu_guess_the_number - code sample</title>
+    </head>
+    <body>
+        
+            <!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Number guessing game</title>
+    <style>
+        html {
+            font-family: sans-serif;
+        }
+
+        body {
+            width: 50%;
+            max-width: 800px;
+            min-width: 480px;
+            margin: 0 auto;
+        }
+
+        .lastResult {
+            color: white;
+            padding: 3px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Deviner un nombre</h1>
+    <p>Nous avons généré un nombre aléatoire entre 1 et 100, tentez de le deviner en 10 tours maximum. Pour chaque tentative, nous vous dirons si votre estimation est trop ou pas assez élevée.</p>
+    <div class="form"> <label for="guessField">Entrez votre proposition : </label><input type="text" id="guessField" class="guessField"> <input type="submit" value="Valider" class="guessSubmit"> </div>
+    <div class="resultParas">
+        <p class="guesses"></p>
+        <p class="lastResult"></p>
+        <p class="lowOrHi"></p>
+    </div>
+</body>
+<script>
+    // Le JavaScript se place ici
+    let randomNumber = Math.floor(Math.random() * 100) + 1;
+    let guesses = document.querySelector('.guesses');
+    let lastResult = document.querySelector('.lastResult');
+    let lowOrHi = document.querySelector('.lowOrHi');
+    let guessSubmit = document.querySelector('.guessSubmit');
+    let guessField = document.querySelector('.guessField');
+    let guessCount = 1;
+    let resetButton;
+
+    function checkGuess() {
+      let userGuess = Number(guessField.value);
+      if (guessCount === 1) {
+        guesses.textContent = 'Propositions précédentes : ';
+      }
+
+      guesses.textContent += userGuess + ' ';
+
+      if (userGuess === randomNumber) {
+        lastResult.textContent = 'Bravo, vous avez trouvé le nombre !';
+        lastResult.style.backgroundColor = 'green';
+        lowOrHi.textContent = '';
+        setGameOver();
+      } else if (guessCount === 10) {
+        lastResult.textContent = '!!! PERDU !!!';
+        lowOrHi.textContent = '';
+        setGameOver();
+      } else {
+        lastResult.textContent = 'Faux!';
+        lastResult.style.backgroundColor = 'red';
+        if (userGuess < randomNumber) {
+          lowOrHi.textContent='Le nombre saisi est trop petit !' ;
+        } else if(userGuess > randomNumber) {
+          lowOrHi.textContent = 'Le nombre saisi est trop grand!';
+        }
+      }
+
+      guessCount++;
+      guessField.value = '';
+    }
+
+    guessSubmit.addEventListener('click', checkGuess);
+
+    function setGameOver() {
+      guessField.disabled = true;
+      guessSubmit.disabled = true;
+      resetButton = document.createElement('button');
+      resetButton.textContent = 'Rejouer';
+      document.body.appendChild(resetButton);
+      resetButton.addEventListener('click', resetGame);
+    }
+
+    function resetGame() {
+      guessCount = 1;
+      let resetParas = document.querySelectorAll('.resultParas p');
+      for (let i = 0 ; i < resetParas.length ; i++) {
+        resetParas[i].textContent='';
+      }
+
+      resetButton.parentNode.removeChild(resetButton);
+      guessField.disabled = false;
+      guessSubmit.disabled = false;
+      guessField.value='';
+      guessField.focus();
+      lastResult.style.backgroundColor='white';
+      randomNumber=Math.floor(Math.random() * 100) + 1;
+    }
+</script>
+
+</html>
+
+<script>
+
+  // Votre code JavaScript se place ici
+
+</script>
+
+<p class="guesses"></p>
+<p class="lastResult"></p>
+<p class="lowOrHi"></p>
+
+<label for="guessField">Enter a guess: </label><input type="text" id="guessField" class="guessField">
+<input type="submit" value="Submit guess" class="guessSubmit">
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Console JavaScript</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        background-color: #0C323D;
+        color: #809089;
+        font-family: monospace;
+      }
+
+      body {
+        max-width: 700px;
+      }
+
+      p {
+        margin: 0;
+        width: 1%;
+        padding: 0 1%;
+        font-size: 16px;
+        line-height: 1.5;
+        float: left;
+      }
+
+      .input p {
+        margin-right: 1%;
+      }
+
+      .output p {
+        width: 100%;
+      }
+
+      .input input {
+        width: 96%;
+        float: left;
+        border: none;
+        font-size: 16px;
+        line-height: 1.5;
+        font-family: monospace;
+        padding: 0;
+        background: #0C323D;
+        color: #809089;
+      }
+
+      div {
+        clear: both;
+      }
+
+    </style>
+  </head>
+  <body>
+
+
+  </body>
+
+  <script>
+    let geval = eval;
+
+    function createInput() {
+      let inputDiv = document.createElement('div');
+      let inputPara = document.createElement('p');
+      let inputForm = document.createElement('input');
+
+      inputDiv.setAttribute('class','input');
+      inputPara.textContent = '>';
+      inputDiv.appendChild(inputPara);
+      inputDiv.appendChild(inputForm);
+      document.body.appendChild(inputDiv);
+      inputDiv.focus();
+
+      if (document.querySelectorAll('div').length > 1) {
+        inputForm.focus();
+      }
+
+      inputForm.addEventListener('change', executeCode);
+    }
+
+    function executeCode(e) {
+      try {
+        let result = geval(e.target.value);
+      } catch(e) {
+        let result = 'error — ' + e.message;
+      }
+
+      let outputDiv = document.createElement('div');
+      let outputPara = document.createElement('p');
+
+      outputDiv.setAttribute('class','output');
+      outputPara.textContent = 'Résultat&nbsp;: ' + result;
+      outputDiv.appendChild(outputPara);
+      document.body.appendChild(outputDiv);
+
+      e.target.disabled = true;
+      e.target.parentNode.style.opacity = '0.5';
+
+      createInput()
+    }
+
+    createInput();
+
+  </script>
+</html>
+
+        
+        
+            <script>
+                let randomNumber = Math.floor(Math.random() * 100) + 1;
+
+let guesses = document.querySelector('.guesses');
+let lastResult = document.querySelector('.lastResult');
+let lowOrHi = document.querySelector('.lowOrHi');
+
+let guessSubmit = document.querySelector('.guessSubmit');
+let guessField = document.querySelector('.guessField');
+
+let guessCount = 1;
+let resetButton;
+
+function checkGuess() {
+  alert('Je suis un espace réservé');
+}
+
+checkGuess();
+
+let name = 'Bingo';
+name;
+let hello = ' dit bonjour&nbsp;!';
+hello;
+let greeting = name + hello;
+greeting;
+
+name += ' dit bonjour&nbsp;!';
+
+name = name + ' dit bonjour&nbsp;!';
+
+function checkGuess(){
+  let userGuess = Number(guessField.value);
+  if (guessCount === 1) {
+    guesses.textContent = 'Propositions précédentes&nbsp;: ';
+  }
+  guesses.textContent += userGuess + ' ';
+
+  if (userGuess === randomNumber) {
+    lastResult.textContent = 'Bravo, vous avez trouvé le nombre !';
+    lastResult.style.backgroundColor = 'green';
+    lowOrHi.textContent = '';
+    setGameOver();
+  } else if (guessCount === 10) {
+     lastResult.textContent = '!!! PERDU&nbsp;!!!';
+     setGameOver();
+  } else {
+     lastResult.textContent = 'Faux&nbsp;!';
+     lastResult.style.backgroundColor = 'red';
+     if (userGuess < randomNumber) {
+      lowOrHi.textContent = 'Le nombre saisi est trop petit !';
+     } else if (userGuess > randomNumber) {
+      lowOrHi.textContent = 'Le nombre saisi est trop grand !';
+     }
+  }
+
+  guessCount++;
+  guessField.value = '';
+  guessField.focus();
+}
+
+guessCount === 1
+
+guessSubmit.addEventListener('click', checkGuess);
+
+function setGameOver() {
+  guessField.disabled = true;
+  guessSubmit.disabled = true;
+  resetButton = document.createElement('button');
+  resetButton.textContent = 'Start new game';
+  document.body.appendChild(resetButton);
+  resetButton.addEventListener('click', resetGame);
+}
+
+function resetGame() {
+  guessCount = 1;
+
+  let resetParas = document.querySelectorAll('.resultParas p');
+  for (let i = 0 ; i < resetParas.length ; i++) {
+    resetParas[i].textContent = '';
+  }
+
+  resetButton.parentNode.removeChild(resetButton);
+
+  guessField.disabled = false;
+  guessSubmit.disabled = false;
+  guessField.value = '';
+  guessField.focus();
+
+  lastResult.style.backgroundColor = 'white';
+
+  randomNumber = Math.floor(Math.random() * 100) + 1;
+}
+
+for (let i = 1 ; i < 21 ; i++) { console.log(i) }
+
+let resetParas = document.querySelectorAll('.resultParas p');
+for (let i = 0 ; i < resetParas.length ; i++) {
+  resetParas[i].textContent = '';
+}
+
+guessField.focus();
+
+let guessField = document.querySelector('.guessField');
+
+guessField.focus();
+
+guessField.value = 'Hello';
+
+guesses.value
+
+guesses.textContent = 'Where is my paragraph?';
+
+guesses.style.backgroundColor = 'yellow';
+guesses.style.fontSize = '200%';
+guesses.style.padding = '10px';
+guesses.style.boxShadow = '3px 3px 6px black';
+
+            </script>
+        
+    </body>
+</html>

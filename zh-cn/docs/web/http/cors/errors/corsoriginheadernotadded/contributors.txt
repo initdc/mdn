@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/cors/errors/corsoriginheadernotadded/index.md
+
+# Original Wiki contributors
+luna666

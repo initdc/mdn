@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/vrdisplayconnect_event/index.md
+
+# Original Wiki contributors
+YujiSoftware
+wbamberg
+chrisdavidmills
+mfuji09
+rootx

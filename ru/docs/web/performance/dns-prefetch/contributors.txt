@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/performance/dns-prefetch/index.html
+
+# Original Wiki contributors
+iozee
+it4joy
+D.Lesnik

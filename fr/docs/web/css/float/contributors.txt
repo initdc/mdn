@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/float/index.md
+
+# Original Wiki contributors
+SphinxKnight
+tnga
+fscholz
+teoli
+FredB
+Mgjbot
+Nathymig
+Elethiomel
+Fredchat

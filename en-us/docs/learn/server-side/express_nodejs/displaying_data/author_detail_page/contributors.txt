@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/express_nodejs/displaying_data/author_detail_page/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+grancalavera
+oskaroldorf
+anorton
+david_ross

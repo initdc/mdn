@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/input/index.md
+
+# Original Wiki contributors
+Carllllo
+Rem486
+wxyads
+853419196
+JuliusKingsley
+zhangchen
+qihuanlu01
+zaixuzheng
+yangshang01
+yuyx91
+voidzhou
+hebby
+jiangseventeen
+fsx950223
+Tiaen
+xgqfrms-GitHub
+liaoyinglong
+adam198824
+liyongleihf2006
+AutumnFish
+luobotang
+gqqnbig
+Ivan_V
+zilong-thu
+Metalooze
+tiansh
+ziyunfei
+rnoka

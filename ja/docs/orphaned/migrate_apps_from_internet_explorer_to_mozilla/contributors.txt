@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/migrate_apps_from_internet_explorer_to_mozilla/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ethertank
+maripo

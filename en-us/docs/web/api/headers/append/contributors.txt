@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/headers/append/index.md
+
+# Original Wiki contributors
+Sheppy
+mfluehr
+fscholz
+Rob W
+ibnesayeed
+chrisdavidmills
+erikadoyle
+jpmedley
+kscarfone

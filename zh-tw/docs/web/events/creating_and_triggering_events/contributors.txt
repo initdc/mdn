@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/events/creating_and_triggering_events/index.md
+
+# Original Wiki contributors
+jackblackevo
+Shiyou

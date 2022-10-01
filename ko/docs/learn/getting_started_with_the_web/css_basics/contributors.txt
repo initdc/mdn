@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/getting_started_with_the_web/css_basics/index.md
+
+# Original Wiki contributors
+java2020007
+Silvermist
+manmyung
+jinah1000
+dolmoon
+limkukhyun
+galcyurio
+gobyoungil
+stitchworkingonthecode
+cs09g

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document_object_model/introduction/index.md
+
+# Original Wiki contributors
+JiLiangLai
+locknono
+ddtyjmyjm
+YyzclYang
+LiXin
+Noly1990
+lon
+lazurey
+gavinkwoe
+huozicheng
+leunggamciu
+arunpandianp
+ziyunfei
+ReyCG_sub
+Darrel.Hsu

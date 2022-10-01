@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/global_attributes/itemref/index.md
+
+# Original Wiki contributors
+mfuji09
+jpreuss
+sideshowbarker
+fscholz
+chharvey
+david_ross
+SphinxKnight
+rohanmahajan
+rolfedh
+duncanmcdonald

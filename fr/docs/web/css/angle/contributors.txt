@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/angle/index.md
+
+# Original Wiki contributors
+SphinxKnight
+dxsp
+Sebastianz
+Prinz_Rana
+fscholz
+teoli
+FredB
+tregagnon

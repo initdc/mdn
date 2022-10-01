@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/first_steps/what_is_javascript/index.html
+
+# Original Wiki contributors
+hisbvdis
+SphinxKnight
+Avdros
+ana-karp
+EugeneSvetlakov
+goyalion17
+AlexanderSpivak
+KrasPvP
+Kirill20123
+chrisdavidmills
+DmitryYev
+Sherxan
+DraXXX
+s0nly
+InternetShelteredBoy
+Jertej
+fragmentbyte
+YanaGord
+pathliving
+perevalova
+dkireev
+susov
+pust0ta
+Badpioneer
+MrCopying
+DRuslan
+Mikhail_Eltekov
+alekaru
+lawyer12

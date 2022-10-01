@@ -1,0 +1,3 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/xml/index.md
+

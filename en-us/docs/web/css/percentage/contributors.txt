@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/percentage/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+mfluehr
+ExE-Boss
+fscholz
+Sebastianz
+moali1.
+Prinz_Rana
+hashedhyphen
+jswisher
+sudheerDev
+jsx
+noe132
+teoli
+kscarfone
+roryokane
+zziccardi
+Sheppy
+gregtyler
+myakura
+Mgjbot
+BijuGC

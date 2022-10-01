@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/memory_management/index.md
+
+# Original Wiki contributors
+Jairgc
+sergio_p_d
+heliogabalo
+elenatorro
+JavierHspn
+cesaralvarado9

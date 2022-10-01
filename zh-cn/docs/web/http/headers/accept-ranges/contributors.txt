@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/accept-ranges/index.md
+
+# Original Wiki contributors
+Vincent-Hy
+km-c
+JianmingXia
+crper
+shevacjs

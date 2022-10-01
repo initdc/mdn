@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/css_layout/flexbox/index.md
+
+# Original Wiki contributors
+lhj767382286
+Damoness
+sanfusu
+Daazzer
+Deepmind
+LeoB-O
+codingJanson
+ssttii
+codeofjackie
+ZuanXiao
+Venus14
+xp44mm
+MingzhaoCN
+echoArray
+JohannLai
+hexianzhi
+xgqfrms-GitHub
+Ende93

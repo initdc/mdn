@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/django/generic_views/index.md
+
+# Original Wiki contributors
+hamishwillee
+chrisdavidmills
+Rafael_Green
+kruschk
+Vaiaro
+thiagojobson
+zvukmiro
+cndreisbach
+cristeaadrian
+christopherwilson1
+jdblischak
+jmkimani
+simon0863
+mvjoyner
+pineapplebug
+hackernewslibrary
+antonber
+hirosan
+shyam-sitaula
+alurodriguez
+stephaniehobson
+ecssiah
+codebicycle
+caspianstrider
+KadirTopal
+glasswalk3r
+Matt-1-2-3

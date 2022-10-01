@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-collapse/index.md
+
+# Original Wiki contributors
+ddbeck
+Sheppy
+wbamberg
+mfluehr
+pborenstein
+Jedeu
+erikadoyle
+Sebastianz
+fscholz
+jsx
+teoli
+J-Mackerel
+SiddharthBhatt
+kscarfone
+trevorh
+ethertank
+Rowno
+Jürgen Jeka
+BijuGC
+Mgjbot
+Nathymig
+Fredchat
+Backinblakk

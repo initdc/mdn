@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/python/index.md
+
+# Original Wiki contributors
+Guzmanr1
+ax16mr

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvasrenderingcontext2d/ispointinpath/index.md
+
+# Original Wiki contributors
+Kaiido
+dgervalle
+mfluehr
+fscholz
+nmve
+arronei
+erikadoyle
+notetienne

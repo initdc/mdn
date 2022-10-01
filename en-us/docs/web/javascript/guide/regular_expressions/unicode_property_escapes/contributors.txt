@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/guide/regular_expressions/unicode_property_escapes/index.md
+
+# Original Wiki contributors
+JNa0
+hinell
+wbamberg
+fscholz
+SphinxKnight
+dennisja
+chrisdavidmills
+Windrill
+Artoria2e5
+jpmedley

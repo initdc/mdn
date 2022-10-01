@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/symbol/iterator/index.md
+
+# Original Wiki contributors
+zhangchen
+Ende93
+ziyunfei
+Jacksunwei

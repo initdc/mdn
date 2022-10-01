@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/forms/html_forms_in_legacy_browsers/index.md
+
+# Original Wiki contributors
+mfuji09
+silverskyvicto
+Uemmra3
+T.Ukegawa
+chrisdavidmills
+yyss
+ethertank

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            p {
+  width: 300px;
+  border: 2px solid red;
+  padding:
+    env(safe-area-inset-top, 50px)
+    env(safe-area-inset-right, 50px)
+    env(safe-area-inset-bottom, 50px)
+    env(SAFE-AREA-INSET-LEFT, 50px);
+}
+
+padding: env(safe-area-inset-bottom, 50px); /* zero for all rectangular user agents */
+padding: env(Safe-area-inset-bottom, 50px); /* 50px because UA properties are case sensitive */
+padding: env(x, 50px 20px); /* as if padding: '50px 20px' were set because x is not a valid environment variable */
+padding: env(x, 50px, 20px); /* ignored because '50px, 20px' is not a valid padding value and x is not a valid environment variable */
+
+        </style>
+        
+        <title>env() - examples - code sample</title>
+    </head>
+    <body>
+        
+            <p>
+  If the <code>env()</code> function is supported in your browser,
+  this paragraph’s text will have 50px of padding between it and
+  the left border — but not the top, right and bottom.
+  This is because the accompanying CSS is the equivalent of
+  <code>padding: 0 0 0 50px</code>, because, unlike other CSS
+  properties, user agent property names are case-sensitive.
+</p>
+
+        
+        
+    </body>
+</html>

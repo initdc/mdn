@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/-webkit-device-pixel-ratio/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+lbphillipvose
+estelle
+mfluehr
+connorshea
+freginold
+Sebastianz
+rolfedh
+cvrebert

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/array/concat/index.md
+
+# Original Wiki contributors
+RamiTae
+bohyun611kim
+alattalatta
+KisukPark
+VBChunguk
+tmxkwkfgka

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/webdriver/index.md
+
+# Original Wiki contributors
+SphinxKnight
+renu96111
+chrisdavidmills
+keymou
+ato
+ExE-Boss
+kjb

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/webrtc_api/index.md
+
+# Original Wiki contributors
+Anonymous
+LeeJunyeol
+peacekimjapan
+YBHwang
+netcleaner
+hjs6877
+gustnxodjs
+Sheppy

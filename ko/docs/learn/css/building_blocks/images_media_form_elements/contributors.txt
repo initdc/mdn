@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/css/building_blocks/images_media_form_elements/index.md
+
+# Original Wiki contributors
+java2020007

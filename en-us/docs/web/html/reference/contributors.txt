@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/reference/index.md
+
+# Original Wiki contributors
+wbamberg
+JCodeg
+Sheppy
+sideshowbarker
+julio-elipse
+mfuji09
+dolorismachina
+mfluehr
+jswisher
+greatdevaks
+stingyong
+rogerxas
+Tee37
+teoli
+codemetro

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/beforeinstallprompt_event/index.md
+
+# Original Wiki contributors
+jpmedley
+Sheppy
+sideshowbarker
+rvuong
+connorshea
+wbamberg
+samthor
+chrisdavidmills
+teoli

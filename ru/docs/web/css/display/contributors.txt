@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/display/index.md
+
+# Original Wiki contributors
+bsergey
+warsan
+baradusov
+Sebastianz
+Aleksej
+teoli
+racer1933

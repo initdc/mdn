@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/javascript/first_steps/variables/index.md
+
+# Original Wiki contributors
+AntoineJT
+innocenzi
+smeden-lod
+chrisdavidmills
+Jim-Arby
+Jumper754
+Eric-ciccotti
+grandoc
+Dralyab
+tonybengue

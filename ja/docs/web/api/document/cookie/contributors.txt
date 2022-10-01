@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/document/cookie/index.md
+
+# Original Wiki contributors
+pcw
+mfuji09
+technohippy
+translucens
+makky3939
+YuichiNukiyama
+fscholz
+jsx
+xxxx7

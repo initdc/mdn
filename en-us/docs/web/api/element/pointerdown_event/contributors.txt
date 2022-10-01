@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/pointerdown_event/index.md
+
+# Original Wiki contributors
+Clarkkkk
+mfuji09
+wbamberg
+pyxarez
+chrisdavidmills
+fscholz
+RByers
+jpmedley
+rolfedh
+AFBarstow

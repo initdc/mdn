@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/objects/json/index.html
+
+# Original Wiki contributors
+Tatyana-c
+pm3512
+wind-of
+NikitaOstapenko1205
+boxa6
+Lirikklimov
+slychai85

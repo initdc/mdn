@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/community/contributing/getting_started/index.html
+
+# Original Wiki contributors
+ksam
+chrisdavidmills
+undgrnd
+tensegrity666
+PaRaD0XCORP
+iamvector
+zarabotaet
+wbamberg
+b1narykid
+VsTB
+denisbalyko
+BychekRU
+acidicMercury8
+vvscode
+klimovakristina
+vokaluk666
+uchayev
+Rale
+briliantovoe
+Aleksej
+Treder
+ilya
+Vovan

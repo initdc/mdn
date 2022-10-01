@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_writing_modes/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+SphinxKnight
+LiuYanandGithub
+mfluehr
+Sebastianz
+teoli

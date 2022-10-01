@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/history/length/index.md
+
+# Original Wiki contributors
+alattalatta
+Claas
+connorshea
+pandemm
+chinazhaghai
+erikadoyle
+ea1000
+fscholz
+kscarfone
+teoli

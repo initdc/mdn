@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/angle/index.md
+
+# Original Wiki contributors
+wass80
+mfuji09
+Hixhi
+mrstork
+fscholz
+teoli
+ethertank
+sosleepy
+FredB
+Marsf

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mdn/writing_guidelines/howto/write_a_new_entry_in_the_glossary/index.md
+
+# Original Wiki contributors
+wbamberg
+PhilippePerret

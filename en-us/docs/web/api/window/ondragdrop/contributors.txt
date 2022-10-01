@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/ondragdrop/index.md
+
+# Original Wiki contributors
+SphinxKnight
+hamoud333310
+Sheppy
+fscholz
+teoli
+cpigat
+libreGeekingKid
+Tprogers
+Tobi
+Nickolay
+alecananian

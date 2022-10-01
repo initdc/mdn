@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pointerevent/tilty/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+lpd-au
+chrisdavidmills
+abbycar
+jpmedley
+rolfedh
+AFBarstow

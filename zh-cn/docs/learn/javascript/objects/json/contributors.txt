@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/objects/json/index.md
+
+# Original Wiki contributors
+TonyKnight13
+imbant
+NonClockworkChen
+792521221
+ZJ_Ma
+NotDead-NotPerish
+bluekeroro
+Ray-Eldath
+shifengchen
+1013940326
+xgqfrms-GitHub
+VtanSen

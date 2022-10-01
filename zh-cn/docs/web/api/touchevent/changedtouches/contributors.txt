@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/touchevent/changedtouches/index.md
+
+# Original Wiki contributors
+poapoc
+Nick_Arron
+teoli
+khalid32
+ziyunfei
+hyspace

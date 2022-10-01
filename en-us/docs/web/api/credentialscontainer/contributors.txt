@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/credentialscontainer/index.md
+
+# Original Wiki contributors
+daniel.z.tg
+SphinxKnight
+jpmedley
+lwassermann
+krosylight
+fscholz
+chrisdavidmills
+apowers313
+hngnaig
+PushpitaPikuDey

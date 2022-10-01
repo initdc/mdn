@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/numbers_and_dates/index.md
+
+# Original Wiki contributors
+mfuji09
+mpcjazz
+hamasaki
+kenji-yamasaki
+Uemmra3
+chikoski
+Marsf
+yamaguchi-takayuki
+x2357
+shide55

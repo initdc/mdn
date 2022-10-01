@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/text-align/index.md
+
+# Original Wiki contributors
+niices
+wbamberg
+WhiteYin
+zhuangyin
+Guillaume-Heras
+Sebastianz
+fscholz
+FredWe
+fskuok
+ziyunfei

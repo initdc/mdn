@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/index.html
+
+# Original Wiki contributors
+SphinxKnight
+redondomoralesmelanny
+Dolacres
+boualidev
+Enesimus
+chrisdavidmills
+NavetsArev
+alazzuri
+IsraelFloresDGA
+lajaso
+arturoblack
+rogeliomtx
+anecto
+teoli
+Luis_Calvo
+alex_dm
+ethertank
+StripTM
+inma_610
+another_sam
+fscholz
+Wrongloop
+Nathymig
+Mgjbot
+Nukeador
+Jorolo
+Lopez
+Takenbot
+Manu
+Elrohir

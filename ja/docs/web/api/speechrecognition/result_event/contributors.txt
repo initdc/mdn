@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/speechrecognition/result_event/index.md
+
+# Original Wiki contributors
+yamachu
+Uemmra3
+takaneichinose

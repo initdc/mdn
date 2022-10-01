@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/replacechild/index.md
+
+# Original Wiki contributors
+Jorjon
+GijsKruitbosch
+Brettz9
+sideshowbarker
+chrisdavidmills
+mauskin
+mfluehr
+fscholz
+unscriptable
+szasohel
+djmarland
+anonyco
+flimzy
+cauburtin
+teoli
+kscarfone
+Khodaidad_Basharmand
+ethertank
+Sheppy
+maybe
+mattbasta
+ziyunfei
+MatrixFrog
+Mgjbot
+BenoitL
+Nickolay
+Jabez
+Dria
+Waldo
+Callek
+JesseW

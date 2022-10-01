@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-left-style/index.md
+
+# Original Wiki contributors
+rachelandrew
+ddbeck
+Sheppy
+mfuji09
+wbamberg
+teoli
+mfluehr
+elysdir1
+erikadoyle
+Sebastianz
+fscholz
+jsx
+trevorh
+J-Mackerel
+kscarfone
+SiddharthBhatt
+ethertank
+FredB
+Yuichiro
+Killerowski
+Mgjbot
+BijuGC

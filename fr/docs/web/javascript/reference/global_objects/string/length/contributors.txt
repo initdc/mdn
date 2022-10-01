@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/string/length/index.md
+
+# Original Wiki contributors
+SphinxKnight
+tregagnon
+ylerjen
+teoli
+Goofy

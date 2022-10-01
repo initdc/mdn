@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/svg_and_css/index.md
+
+# Original Wiki contributors
+leela52452
+Sebastianz
+estelle
+vriojtg
+eltabo
+chrisdavidmills
+ReliefCrew
+rtsinani
+teoli
+Jeremie
+kscarfone
+trevorh
+ethertank
+Sheppy
+jswisher
+SamB
+Korisu
+Verruckt
+BenoitL
+Rod Whiteley
+gandalf
+Nickolay
+Waldo

@@ -1,0 +1,41 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cssstylesheet/insertrule/index.md
+
+# Original Wiki contributors
+mfluehr
+mfuji09
+Tigt
+anonyco
+fscholz
+MikeMatusz
+Chris Chittleborough
+oooooo
+jpmedley
+bryanchu
+sendilkumarn
+roy-vanegas
+erikadoyle
+pcat
+Sebastianz
+hinell
+MexieAndCo
+kinglozzer
+nvc
+m.szepielak
+brunoais
+SpyMaster356
+teoli
+Brettz9
+jislotz
+TabAtkins
+kscarfone
+ethertank
+Sheppy
+jliu
+JaredWein
+ziyunfei
+kossnocorp
+Sevenspade
+Ptak82
+Dria
+JesseW

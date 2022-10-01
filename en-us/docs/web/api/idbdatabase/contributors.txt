@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbdatabase/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+sideshowbarker
+BDawgonnit
+wbamberg
+fscholz
+jpmedley
+arronei
+libbymc
+Sheppy
+teoli
+pdm
+amaneight
+ferjm
+ethertank
+madarche
+julienw
+Kyle Huey
+scottrowe
+grendel
+josiewern
+soswow
+jswisher

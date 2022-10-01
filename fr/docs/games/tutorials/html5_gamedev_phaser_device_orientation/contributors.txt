@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/games/tutorials/html5_gamedev_phaser_device_orientation/index.md
+
+# Original Wiki contributors
+wbamberg
+loella16
+mliatt
+PhilippeS
+Antoine

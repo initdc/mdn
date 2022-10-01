@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/htmlimageelement/index.md
+
+# Original Wiki contributors
+qiufeihong2018
+RainSlide
+LoveYZY
+aimiy
+zhenhua32

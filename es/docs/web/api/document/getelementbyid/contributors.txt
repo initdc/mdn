@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document/getelementbyid/index.md
+
+# Original Wiki contributors
+Enesimus
+jlpindado
+pclifecl
+OLiiver
+fscholz
+teoli
+tuxisma
+Juan c c q

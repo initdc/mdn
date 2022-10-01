@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/word-break/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+sideshowbarker
+chrisdavidmills
+mfuji09
+superburrito
+vnkt66
+hellomarker
+CShepartd
+wbamberg
+Konrud
+mfluehr
+netweb
+jswisher
+ErwinWessels
+arronei
+erikadoyle
+Sebastianz
+yisibl
+kiding
+JavierParra
+kscarfone
+ethertank
+Sheppy
+teoli
+figure002
+FredB
+DavidWalsh
+mkato
+JohnKarahalis

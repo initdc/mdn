@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/mozilla_extensions/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Sebastianz
+Prinz_Rana
+Ilphrin
+louuis
+teoli
+Fredchat
+Goofy

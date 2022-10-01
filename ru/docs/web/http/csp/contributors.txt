@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/http/csp/index.html
+
+# Original Wiki contributors
+muxmux.ryzhinskiy
+rufatpro
+aekarimov
+CupIvan
+vetraz
+mrpq
+DenKoren
+gudkovdanila

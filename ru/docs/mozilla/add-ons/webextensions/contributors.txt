@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mozilla/add-ons/webextensions/index.html
+
+# Original Wiki contributors
+georgiiankov38
+vasa-vasa66
+mazza100789
+SphinxKnight
+forUmen
+Liubava77
+vladimir-nikotin
+RealRedFox
+marinru
+T1mL3arn
+sergeiDruzhinin
+pk.prog
+Grinv

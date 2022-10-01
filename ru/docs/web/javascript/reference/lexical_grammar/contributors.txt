@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/lexical_grammar/index.html
+
+# Original Wiki contributors
+demid.kopan
+salaiyuliya
+almaceleste
+uxenus
+Vukto
+maxno62
+Pandemoniumus
+AlexeyVasilievE
+glum-psyche
+ValdemarTerte
+kdex
+pk.prog
+Frenk1
+MichaelBag
+gremlinLee

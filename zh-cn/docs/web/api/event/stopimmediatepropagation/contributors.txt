@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/event/stopimmediatepropagation/index.md
+
+# Original Wiki contributors
+BobGreen
+RainSlide
+rguanghui
+Bayes
+xiaojunjor
+xgqfrms-GitHub
+teoli
+ziyunfei

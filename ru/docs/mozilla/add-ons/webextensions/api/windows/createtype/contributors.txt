@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mozilla/add-ons/webextensions/api/windows/createtype/index.html
+
+# Original Wiki contributors
+VivatRafa

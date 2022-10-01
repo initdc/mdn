@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/firefox/releases/3/index.md
+
+# Original Wiki contributors
+wbamberg
+teoli
+fscholz
+Mgjbot
+Nukeador
+Surferosx
+Nathymig
+Dfier
+Wrongloop
+Garlock
+Brahiam
+Mariano
+HenryGR
+Jseldon

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/accessibility/aria/aria_live_regions/index.md
+
+# Original Wiki contributors
+movegun1027

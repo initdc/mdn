@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/authentication/index.html
+
+# Original Wiki contributors
+minijaypark
+rubysoho07
+chj1768

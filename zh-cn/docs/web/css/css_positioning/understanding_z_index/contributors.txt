@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_positioning/understanding_z_index/index.md
+
+# Original Wiki contributors
+zhangchen
+ZQH
+Go7hic
+ziyunfei
+teoli
+ArthasTree

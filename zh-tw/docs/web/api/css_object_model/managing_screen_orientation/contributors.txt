@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/css_object_model/managing_screen_orientation/index.md
+
+# Original Wiki contributors
+jackblackevo
+MashKao

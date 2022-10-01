@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/serviceworkerregistration/shownotification/index.md
+
+# Original Wiki contributors
+Wind1808
+jpmedley
+SuperAL
+AlexLisenkov
+jansauer
+mhadaily
+sideshowbarker
+joostme
+connorshea
+ExE-Boss
+abbycar
+chrisdavidmills
+phalconjohy
+coox
+kitcambridge
+marco-c
+miguelgarciaarribas
+Sheppy

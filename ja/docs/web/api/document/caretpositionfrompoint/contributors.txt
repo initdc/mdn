@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/document/caretpositionfrompoint/index.md
+
+# Original Wiki contributors
+eltociear

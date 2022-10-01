@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/xpath/index.md
+
+# Original Wiki contributors
+Jemmy4s
+ExE-Boss
+Fredchat
+Delapouite
+fscholz
+Mgjbot
+Celelibi
+Chbok
+BenoitL

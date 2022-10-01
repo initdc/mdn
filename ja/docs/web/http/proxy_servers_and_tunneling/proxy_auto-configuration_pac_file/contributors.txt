@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/proxy_servers_and_tunneling/proxy_auto-configuration_pac_file/index.md
+
+# Original Wiki contributors
+mfuji09
+hamasaki
+t-ataku
+j15338tn
+orisano

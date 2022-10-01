@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/getboundingclientrect/index.md
+
+# Original Wiki contributors
+wzj8888888
+AnthonyWang
+LinStan
+HermitSun
+RainSlide
+SphinxKnight
+Shangleizll
+Kongz233
+c4605
+allcky
+Ende93
+Skyang
+kangmingxuan
+linkarys
+teoli
+zldream1106

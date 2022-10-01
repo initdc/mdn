@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/column-gap/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+mfuji09
+Sheppy
+ExE-Boss
+connorshea
+estelle
+stephepush
+mfluehr
+ddbeck
+chrisdavidmills
+erikadoyle
+jpmedley
+Sebastianz
+Prinz_Rana
+fscholz
+jsx
+kscarfone
+teoli
+ethertank
+brianloveswords
+plapier
+kuvik3
+Marsf
+Jürgen Jeka
+DBaron
+BijuGC

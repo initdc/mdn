@@ -1,0 +1,17 @@
+User-agent: *
+Sitemap: https://developer.mozilla.org/sitemap.xml
+
+Disallow: /api/
+Disallow: /*/files/
+Disallow: /media
+Disallow: /de/search
+Disallow: /en-US/search
+Disallow: /es/search
+Disallow: /fr/search
+Disallow: /ja/search
+Disallow: /ko/search
+Disallow: /pl/search
+Disallow: /pt-BR/search
+Disallow: /ru/search
+Disallow: /zh-CN/search
+Disallow: /zh-TW/search

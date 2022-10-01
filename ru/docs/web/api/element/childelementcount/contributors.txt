@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/element/childelementcount/index.html
+
+# Original Wiki contributors
+Yialo
+vitya-ne
+alexsakhnov
+In4in

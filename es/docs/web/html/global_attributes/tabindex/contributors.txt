@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/global_attributes/tabindex/index.md
+
+# Original Wiki contributors
+ChrisMHM
+bamvoo
+cabetancourtc
+StripTM
+jcr4

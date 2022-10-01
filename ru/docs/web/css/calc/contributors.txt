@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/calc/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ivan.ferenchuk
+hisbvdis
+8Suomi8
+mzelensky
+coolder
+AlKach
+Landlord
+alpha-kappa
+trubenko
+mrstork
+prayash
+teoli
+UmanShield
+ukarim

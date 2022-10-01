@@ -1,0 +1,47 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/getelementsbyclassname/index.md
+
+# Original Wiki contributors
+Dorward
+TCGM
+mfuji09
+chrisdavidmills
+sideshowbarker
+mkenigs
+anonyco
+mfluehr
+roryokane
+fscholz
+mottykohn
+naturallucky
+erikadoyle
+anbang
+teoli
+Alexsey
+teemu
+BobHensley
+JoshStrobl
+onei
+Daniel Hug
+GiviKDev
+WP-Makyen
+Sheppy
+kscarfone
+Khodaidad_Basharmand
+BrianDiPalma
+MTonly
+mattbasta
+shufenghua
+ryan953
+ethertank
+Marcoos
+Joneff
+Brettz9
+Bzbarsky
+Johnjbarton
+Randall Farmer
+Mgjbot
+BenoitL
+Nickolay
+Mw22
+Jresig

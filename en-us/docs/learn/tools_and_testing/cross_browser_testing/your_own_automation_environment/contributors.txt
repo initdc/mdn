@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/tools_and_testing/cross_browser_testing/your_own_automation_environment/index.md
+
+# Original Wiki contributors
+BBC-Radiance
+Rafael_Green
+UnorthodoxThing
+chrisdavidmills
+liviulupei
+SphinxKnight
+sjain1992
+kruschk
+jochendelabie
+harshitpaul
+mburleigh
+gabolato
+stephaniehobson
+martianyi
+paulinas

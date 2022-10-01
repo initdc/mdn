@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/htmlelement/dragend_event_2823bae8fed3efe03a09d01597d1cde8/index.md
+
+# Original Wiki contributors
+silverskyvicto
+mfuji09

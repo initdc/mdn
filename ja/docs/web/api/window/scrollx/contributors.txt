@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/scrollx/index.md
+
+# Original Wiki contributors
+yyss
+mamodayo
+teoli
+jsx
+ethertank
+nobuoka
+Potappo

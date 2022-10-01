@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/common_questions/available_text_editors/index.md
+
+# Original Wiki contributors
+callpri
+GCCSheep
+blueblots
+iigmir
+rashmimalpande
+chrisdavidmills
+funnyChinese
+SphinxKnight
+Jeremie
+Andrew_Pfeiffer
+fmarier

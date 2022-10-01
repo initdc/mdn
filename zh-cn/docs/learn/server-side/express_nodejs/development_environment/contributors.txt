@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/express_nodejs/development_environment/index.md
+
+# Original Wiki contributors
+snaildarter
+phili-p
+Roy-Tian
+sun603
+yijie_sun
+yaoqtan
+jianchao_xue
+edgar-chen
+BarryLiu1995

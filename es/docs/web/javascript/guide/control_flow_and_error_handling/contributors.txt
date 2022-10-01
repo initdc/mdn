@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/guide/control_flow_and_error_handling/index.md
+
+# Original Wiki contributors
+Nachec
+AmazonianCodeGuy
+sergioqa123
+Parziva_1
+dcarmal-dayvo
+Rovis
+Enesimus
+abelosky
+Alfacoy
+ashanterius
+enriqueabsurdum
+D4nny-dev
+roadavid
+eljonims
+Nanyin
+Igomezd
+leandropio
+MaFranceschi
+Cleon
+humbertaco
+fscholz
+isnardi

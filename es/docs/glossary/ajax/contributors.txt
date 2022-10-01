@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/ajax/index.md
+
+# Original Wiki contributors
+zgreco2000
+hello
+hectoraldairah
+tonyrodrigues
+memotronix
+ekros

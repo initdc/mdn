@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/input/button/index.md
+
+# Original Wiki contributors
+Thr0TT1e

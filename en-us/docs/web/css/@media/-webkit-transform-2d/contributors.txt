@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/-webkit-transform-2d/index.md
+
+# Original Wiki contributors
+Sheppy
+chrisdavidmills
+wbamberg
+teoli
+mfuji09
+connorshea
+mfluehr
+mrenty
+sraghav
+cvrebert

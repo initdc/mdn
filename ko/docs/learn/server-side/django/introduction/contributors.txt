@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/server-side/django/introduction/index.md
+
+# Original Wiki contributors
+myanjini
+NealLab
+shineYi
+skim0726
+JeonghoonChoi
+KSYong
+gaonK
+dinobei
+teddyc
+honggaruy
+LeeJunyeol
+RyuGeunYeol
+seokhoonhong
+ChanghwaLee

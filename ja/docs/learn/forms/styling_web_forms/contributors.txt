@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/forms/styling_web_forms/index.md
+
+# Original Wiki contributors
+wlt
+BBC-Radiance
+mfuji09
+Uemmra3
+silverskyvicto
+tkhsh
+chrisdavidmills
+yyss
+ethertank

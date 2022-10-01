@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/scrollleft/index.md
+
+# Original Wiki contributors
+zhangchen
+SphinxKnight
+weiqinl
+ChanShuYi

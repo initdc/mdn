@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/time/index.md
+
+# Original Wiki contributors
+wbamberg
+RandyOu
+xunmorl
+hxl
+ziyunfei

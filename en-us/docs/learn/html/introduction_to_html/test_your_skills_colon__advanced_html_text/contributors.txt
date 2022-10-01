@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/introduction_to_html/test_your_skills_colon__advanced_html_text/index.md
+
+# Original Wiki contributors
+SnakeWhisperer
+onurbasturk
+chrisdavidmills

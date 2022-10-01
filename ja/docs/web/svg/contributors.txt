@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/index.md
+
+# Original Wiki contributors
+mfuji09
+silverskyvicto
+hysryt
+Uemmra3
+shuuji3
+hamasaki
+knagato
+manzyun
+ethertank
+yyss
+saneyuki
+Kohei
+Verruckt
+Okome
+Mgjbot
+Takenbot
+Taken Bot
+Taken
+Shimono

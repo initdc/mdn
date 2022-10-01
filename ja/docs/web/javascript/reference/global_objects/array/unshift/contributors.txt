@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/array/unshift/index.md
+
+# Original Wiki contributors
+mfuji09
+woodmix
+YuichiNukiyama
+teoli
+ethertank
+Potappo
+Shoot
+Mgjbot
+Yuichirou

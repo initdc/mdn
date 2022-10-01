@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/deviceorientationevent/index.md
+
+# Original Wiki contributors
+rakuco
+fscholz
+lucian95
+Mrluobo
+jpmedley
+erikadoyle
+zeke
+kollishivagangadhar
+teoli
+Maroosko
+kscarfone
+justinpotts
+Jeremie

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document_object_model/traversing_an_html_table_with_javascript_and_dom_interfaces/index.md
+
+# Original Wiki contributors
+ruiyang0012
+crowphy
+newued
+helloguangxue
+Jcrjia
+Transfan
+Laser
+Carrie zhxj
+Mgjbot
+Surfchen
+Kakurady
+Heagle

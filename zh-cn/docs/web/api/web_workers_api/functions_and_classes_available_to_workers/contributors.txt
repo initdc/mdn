@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/web_workers_api/functions_and_classes_available_to_workers/index.md
+
+# Original Wiki contributors
+sunstaotao
+Syclover-u2400
+DoubleK2013
+xgqfrms-GitHub

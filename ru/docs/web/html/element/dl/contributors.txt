@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/dl/index.md
+
+# Original Wiki contributors
+LoafWithCream
+fuggy
+Grawl
+ahtohbi4

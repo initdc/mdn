@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/datatransfer/index.md
+
+# Original Wiki contributors
+HandyCC
+Carllllo
+Pada
+hehe1111
+Axue
+TechQuery
+JohnsonBryant
+plter
+ifredom
+wangxb

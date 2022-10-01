@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/sgml/index.md
+
+# Original Wiki contributors
+loella16
+Hell_Carlito
+sebastien-bartoli
+SphinxKnight

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/stroke-linecap/index.md
+
+# Original Wiki contributors
+cdoublev
+jkjustjoshing
+Jeremie
+connorshea
+GamerWang
+trevorh

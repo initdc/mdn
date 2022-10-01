@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pannernode/distancemodel/index.md
+
+# Original Wiki contributors
+sideshowbarker
+jakubfiala
+fscholz
+abbycar
+chrisdavidmills

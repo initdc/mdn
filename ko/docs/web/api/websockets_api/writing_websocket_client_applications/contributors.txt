@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/websockets_api/writing_websocket_client_applications/index.md
+
+# Original Wiki contributors
+CJ_Lee
+VBChunguk
+michellehuh
+pjc0247
+rutesun

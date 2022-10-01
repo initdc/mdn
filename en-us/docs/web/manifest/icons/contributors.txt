@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/manifest/icons/index.md
+
+# Original Wiki contributors
+NotWoods
+mfuji09
+stenrap
+wbamberg
+chrisdavidmills
+bershanskiy

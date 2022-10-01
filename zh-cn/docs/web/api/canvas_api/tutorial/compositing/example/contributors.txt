@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvas_api/tutorial/compositing/example/index.md
+
+# Original Wiki contributors
+lakeinchina
+JinRong.Yang
+zhangchen
+Iwakura-Lain
+blackmomo
+Akimyou

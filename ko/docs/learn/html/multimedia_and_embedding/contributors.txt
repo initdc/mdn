@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/html/multimedia_and_embedding/index.md
+
+# Original Wiki contributors
+enfroze
+dave1502
+genzuby
+chrisdavidmills

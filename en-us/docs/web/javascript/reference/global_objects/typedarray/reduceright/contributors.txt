@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/typedarray/reduceright/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+sideshowbarker
+David_Gilbertson
+eduardoboucas
+kscarfone
+arai

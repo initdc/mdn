@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/initevent/index.md
+
+# Original Wiki contributors
+sideshowbarker
+alattalatta
+fscholz
+bradleyflood
+erikadoyle
+teoli
+MHasan
+jswisher
+MoOx
+kscarfone
+Sheppy
+Ms2ger
+ethertank
+trevorh
+Matej Lednar
+Johnjbarton
+Kohei
+Mgjbot
+Nickolay
+Jabez
+Ptak82
+RobG
+Maian
+Dria
+JesseW

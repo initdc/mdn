@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/svg/element/radialgradient/index.html
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+caio

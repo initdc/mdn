@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/attributes/index.md
+
+# Original Wiki contributors
+pikeraft
+chrisdavidmills
+SedovDP
+Aleksej
+ldone

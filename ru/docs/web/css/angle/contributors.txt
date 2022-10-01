@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/angle/index.md
+
+# Original Wiki contributors
+ekirpichyov
+Akh-rman
+ChristinaKrapivina
+Sebastianz
+andreww2012

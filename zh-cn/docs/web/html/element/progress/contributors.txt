@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/progress/index.md
+
+# Original Wiki contributors
+wonschangge
+mkckr0
+fscholz
+wbamberg
+ziyunfei
+ethertank

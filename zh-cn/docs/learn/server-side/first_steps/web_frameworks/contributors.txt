@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/first_steps/web_frameworks/index.md
+
+# Original Wiki contributors
+mojiangyuan
+DaniellaAngel
+hikigaya58
+tongwenwu
+zhuzhangliang
+edgar-chen
+JamesZhange
+ddtyjmyjm
+Phoenixkaze
+Jhongwun
+Stevenhwang
+yinzhuoya
+old2sun
+Zeng

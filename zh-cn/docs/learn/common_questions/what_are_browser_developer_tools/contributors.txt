@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/common_questions/what_are_browser_developer_tools/index.md
+
+# Original Wiki contributors
+DarkStory
+eelord
+ziyouwa
+Atractylodes
+wth
+ziyunfei
+zhaoy875

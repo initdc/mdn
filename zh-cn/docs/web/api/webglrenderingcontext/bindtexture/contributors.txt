@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webglrenderingcontext/bindtexture/index.md
+
+# Original Wiki contributors
+hellorayza
+Sylvia_Y
+C0DE_MONKEY

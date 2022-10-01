@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/x-dns-prefetch-control/index.md
+
+# Original Wiki contributors
+mozdevcontrib
+mfuji09
+jswisher
+Violapark-droid
+fscholz
+groovecoder
+teoli
+snatalini
+rolfedh
+PushpitaPikuDey
+hiddo32
+davidillsley
+Znerd
+Sheppy

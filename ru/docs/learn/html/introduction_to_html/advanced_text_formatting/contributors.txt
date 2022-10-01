@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/html/introduction_to_html/advanced_text_formatting/index.html
+
+# Original Wiki contributors
+valandis
+avdalyan
+Ivan961
+streetsummit
+dkrukouski
+boxa6
+Bodyhealer
+s.g.matinyan
+Dzhabarovm
+xap
+Chugou9
+slychai85
+glebsc
+pythonmag
+FeruzOripov

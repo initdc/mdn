@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/django/skeleton_website/index.md
+
+# Original Wiki contributors
+Nel
+xixilog
+ddtyjmyjm
+MengLingqin
+chinanf-boy
+hstaoqian

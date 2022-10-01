@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/introduction_to_html/advanced_text_formatting/index.md
+
+# Original Wiki contributors
+SnakeWhisperer
+ZO14
+vodov
+mrmurtazaabbasi
+vgiffin
+avivmu
+onurbasturk
+chrisdavidmills
+tayyabalishan
+choudh70
+SphinxKnight
+famees
+markwood87
+Yachi_Huang
+Jesssie
+imi-tating
+suterj
+stephaniehobson
+Nintendao
+agnelvishal
+rarevans
+vkweb
+wilhelmtell
+flash4syth
+GowthamPrakaash
+Wispring
+CatalinMengheris
+waldr
+robinfromsps
+AmazingJamesLee
+goto.prototype
+amins
+richardzacur

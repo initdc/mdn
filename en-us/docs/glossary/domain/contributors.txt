@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/domain/index.md
+
+# Original Wiki contributors
+Sheppy
+janpeuker
+Sodan
+Andrew_Pfeiffer
+klez
+hbloomer

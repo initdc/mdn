@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transform-function/scale/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+rachelandrew
+ramiy
+wbamberg
+mfuji09
+Sheppy
+komalbharadiya
+mfluehr
+jpaugh
+Sebastianz
+Jack-Q
+knod
+moali1.
+SphinxKnight

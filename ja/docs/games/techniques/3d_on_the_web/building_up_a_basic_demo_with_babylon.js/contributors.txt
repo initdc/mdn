@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/games/techniques/3d_on_the_web/building_up_a_basic_demo_with_babylon.js/index.md
+
+# Original Wiki contributors
+xianheiba
+wbamberg

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/element/innerhtml/index.md
+
+# Original Wiki contributors
+spirival
+loella16
+sami.boukortt
+fscholz
+teoli
+scaillerie
+khalid32
+ethertank
+grafik.muzik
+Mgjbot
+BenoitL
+Takenbot
+Anonymous

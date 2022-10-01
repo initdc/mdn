@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/guide/control_flow_and_error_handling/index.md
+
+# Original Wiki contributors
+limkukhyun
+KSH-code
+afterglows
+charyum.park
+jadestern
+sshplendid
+wertgw
+woochankim
+SooYeonKim

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/guide/audio_and_video_delivery/index.md
+
+# Original Wiki contributors
+lizzxc
+chrisdavidmills

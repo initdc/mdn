@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/express_nodejs/displaying_data/index.md
+
+# Original Wiki contributors
+hamishwillee
+kruschk
+gerganzh
+oskaroldorf
+chrisdavidmills
+david_ross
+neobyteUK
+stephaniehobson
+nkalvi
+dhcodes
+martisj
+TosinHub
+2JN
+jjhampton
+JonathanPool
+jpv8

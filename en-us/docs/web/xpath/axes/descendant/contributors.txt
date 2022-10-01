@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xpath/axes/descendant/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Fredchat
+Sheppy
+Mgjbot
+Ptak82
+CitizenK
+Dria

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/guide/loops_and_iteration/index.md
+
+# Original Wiki contributors
+sofi8825
+Asj-code
+edutangoeap
+Nachec
+AmazonianCodeGuy
+Leopohf
+Daniel_Martin
+SphinxKnight
+hmorv
+01luisrene
+danielfer
+Pablo_Ivan
+joanvasa

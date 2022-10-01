@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/exslt/index.md
+
+# Original Wiki contributors
+ExE-Boss
+SphinxKnight
+gyuris
+Sheppy
+sicking
+Ptak82
+Jwp
+Potappo
+Mgjbot

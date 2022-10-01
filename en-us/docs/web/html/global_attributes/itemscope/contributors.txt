@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/global_attributes/itemscope/index.md
+
+# Original Wiki contributors
+mfuji09
+alattalatta
+jpreuss
+wbamberg
+sideshowbarker
+Porges
+fscholz
+JamesCatt
+tikaro
+jeremy-french
+gilbertginsberg
+SphinxKnight
+rolfedh
+duncanmcdonald
+jkronika
+ClompenSander
+teoli
+dkocho4
+sotos
+neotam

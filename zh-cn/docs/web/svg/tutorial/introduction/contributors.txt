@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/tutorial/introduction/index.md
+
+# Original Wiki contributors
+antimonyGu
+Jamie0327
+daGaiGuanYu
+XHMM
+ZeroJsus
+shuihuo
+ezirmusitua
+xgqfrms
+fanxiaojie
+charlie
+teoli
+ziyunfei
+Dx.Yang

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/objects/object_building_practice/index.md
+
+# Original Wiki contributors
+Roy-Tian
+gqbre
+qiubite-name
+Gotheir
+yuyisuo
+NotDead-NotPerish
+SummerVibes
+shifengchen
+Zeng

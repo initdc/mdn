@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/glossary/first-class_function/index.md
+
+# Original Wiki contributors
+alattalatta
+henry_hwang
+skatpgusskat
+cs09g
+seflix

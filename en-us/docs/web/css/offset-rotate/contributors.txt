@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/offset-rotate/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+rachelandrew
+chrisdavidmills
+mfuji09
+dancwilson
+ExE-Boss
+jihyerish
+jpmedley
+rolfedh
+SphinxKnight

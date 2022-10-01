@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/offscreencanvas/index.md
+
+# Original Wiki contributors
+hamishwillee
+kebo
+jaffathecake
+paulpiraat
+ChumpChief
+some-body
+gmanpersona
+fscholz
+PawelAP
+adria
+dtipson

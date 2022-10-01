@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/accept-encoding/index.md
+
+# Original Wiki contributors
+xiaozhaofu
+WayneCui
+felixwang-1989
+yt449
+xgqfrms-GitHub

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/adjacent_sibling_combinator/index.md
+
+# Original Wiki contributors
+peterbe
+XiangHongAi
+tss1006
+ExE-Boss
+zhangqiangoffice
+Ricardo-Ke
+fscholz
+teoli
+alimon

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlhttprequest/open/index.md
+
+# Original Wiki contributors
+RainSlide
+Narvey
+mfuji09
+Sheppy
+ExE-Boss
+wbamberg
+Makyen
+erikadoyle
+teoli
+Majr
+nadih
+MashKao
+jsx

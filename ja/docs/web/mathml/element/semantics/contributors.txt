@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/mathml/element/semantics/index.md
+
+# Original Wiki contributors
+cmplstofB
+monman53
+momdo

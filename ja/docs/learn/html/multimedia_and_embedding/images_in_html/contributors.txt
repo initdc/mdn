@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/html/multimedia_and_embedding/images_in_html/index.md
+
+# Original Wiki contributors
+dote-tomo-mic
+silverskyvicto
+Wind1808

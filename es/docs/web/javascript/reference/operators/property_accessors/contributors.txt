@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/operators/property_accessors/index.md
+
+# Original Wiki contributors
+fpoumian
+MarkelCuesta
+SphinxKnight
+teoli
+Talisker

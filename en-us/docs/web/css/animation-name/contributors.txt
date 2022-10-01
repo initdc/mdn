@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/animation-name/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+Sheppy
+estelle
+ddbeck
+chrisdavidmills
+muhamadsobari198
+mfuji09
+fscholz
+mfluehr
+llkk
+erikadoyle
+Sebastianz
+teoli
+jpmedley
+jsx
+kscarfone
+Salem874
+unruthless
+ethertank
+diamond5555
+CutenessOverload
+enderandpeter
+FredB
+yyss
+myakura
+Marcoos

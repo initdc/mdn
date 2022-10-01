@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/redirections/index.md
+
+# Original Wiki contributors
+RoXoM
+BobGreen
+shevacjs
+yenshen
+WayneCui
+ziyunfei
+mushang11
+zhi.lin
+ZhongyiChen

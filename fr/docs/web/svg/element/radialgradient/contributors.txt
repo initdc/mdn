@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/element/radialgradient/index.md
+
+# Original Wiki contributors
+AlexisColin
+Gauths

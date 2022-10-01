@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webrtc_api/session_lifetime/index.md
+
+# Original Wiki contributors
+Sheppy
+guo-sun
+ajayullal
+teoli
+Null
+rvighne
+Jeremie
+Laurentj
+ziyunfei
+wuxiaolan91
+Joshua-S
+scottrowe
+rillian
+forumAdict

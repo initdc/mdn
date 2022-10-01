@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/47/index.md
+
+# Original Wiki contributors
+tirein
+wbamberg
+Sebastianz
+kdex
+teoli
+Sheppy
+Chealer
+yisibl
+Hsivonen
+ntim
+fscholz
+chrisdavidmills
+arai

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/proxy/proxy/getownpropertydescriptor/index.md
+
+# Original Wiki contributors
+

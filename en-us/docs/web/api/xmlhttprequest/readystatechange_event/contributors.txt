@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlhttprequest/readystatechange_event/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+Konservator-mn
+anonyco
+ikarasz
+vapier
+SteveVS
+ExE-Boss
+nolcay
+erikadoyle
+Ende93
+david_ross
+merksam
+kaashan
+sean-roberts
+afrianjunior
+MashKao
+.
+jsx
+maybe
+akinjide
+teoli
+imme_emosol
+JiangSheng
+mlcheng

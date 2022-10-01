@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/common_questions/design_for_all_types_of_users/index.md
+
+# Original Wiki contributors
+xianheiba
+silverskyvicto

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/webassembly/using_the_javascript_api/index.html
+
+# Original Wiki contributors
+deadblackclover
+vkorniiko

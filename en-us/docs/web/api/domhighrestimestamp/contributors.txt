@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domhighrestimestamp/index.md
+
+# Original Wiki contributors
+Sheppy
+sideshowbarker
+cahitihac
+hinell
+roy-vanegas
+fscholz
+aerze
+ryanve
+jestingrabbit
+aarongoa
+AFBarstow
+jsx
+chrisdavidmills
+teoli
+MattBrubeck

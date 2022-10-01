@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/table_wrapper_box/index.md
+
+# Original Wiki contributors
+

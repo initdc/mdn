@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/web_animations_api/index.md
+
+# Original Wiki contributors
+yangzi
+xgqfrms-GitHub
+Taoja

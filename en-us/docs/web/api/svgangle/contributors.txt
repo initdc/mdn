@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svgangle/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+fscholz
+abbycar
+Sebastianz
+kscarfone
+Sheppy
+Jeremie

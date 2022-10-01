@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/background-image/index.md
+
+# Original Wiki contributors
+BuluGuy
+LARE
+tanpopo
+RainSlide
+ssttii
+marsorsun
+xuxun
+liwangft_tf
+dche
+Sebastianz
+amghost
+SphinxKnight
+teoli
+fscholz
+FredWe
+JeanLee
+ziyunfei
+Mickeyboy

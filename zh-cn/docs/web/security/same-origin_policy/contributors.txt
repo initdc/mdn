@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/security/same-origin_policy/index.md
+
+# Original Wiki contributors
+H3lloTom
+dingziqi
+769344359
+AOYE
+LvChengbin
+Jerry4013
+Syclover-u2400
+iceytea
+moyamoyarua
+LeezQ
+Akiq2016
+zhuangyin
+heekei
+sqchenxiyuan
+firedent
+orangle
+xgqfrms-GitHub
+Ende93
+Jim_Chen
+lyhper
+linzhixiong
+J22Melody
+codinglion
+ziyunfei
+Taro
+mr3
+teoli
+monjer
+kusamba
+Ghostheaven

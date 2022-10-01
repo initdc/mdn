@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/index.md
+
+# Original Wiki contributors
+Uemmra3
+usk
+silverskyvicto
+Raysphere24
+naturallucky
+hashedhyphen
+dskmori
+hamasaki
+lv7777

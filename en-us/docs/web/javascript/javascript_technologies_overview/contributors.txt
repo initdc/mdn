@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/javascript_technologies_overview/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+CyberdineSystems
+alattalatta
+sigoa
+kdex
+x2357
+kentcdodds
+cmasekar
+lunix01
+Andrew_Pfeiffer
+dbruant
+xfq
+openjck
+Jeremie
+Nickolay
+velvel53
+ChaitanyaGSNR
+Sheppy
+Norbert
+teoli
+yongkek@gmail.com
+phpguru
+ethertank
+terkjard
+syssgx
+brtk
+Ms2ger

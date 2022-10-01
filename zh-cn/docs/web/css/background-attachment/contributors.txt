@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/background-attachment/index.md
+
+# Original Wiki contributors
+XiuYingLingFeng
+zjffun
+SphinxKnight
+SamuraiMe
+teoli
+Sebastianz
+fscholz
+FredWe
+TigerSoldier
+Mickeyboy

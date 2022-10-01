@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/conflicting/web/api/geolocation/getcurrentposition/index.md
+
+# Original Wiki contributors
+fscholz
+LeoHirsch
+lupomontero

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/statements/switch/index.md
+
+# Original Wiki contributors
+mfuji09
+silverskyvicto
+lv7777
+yyss
+vikohone
+teoli
+ethertank
+Mgjbot
+Nanto vi

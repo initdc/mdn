@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/nextsibling/index.md
+
+# Original Wiki contributors
+krosylight
+wbamberg
+Tigt
+fscholz
+chrisveness
+teoli
+MadaraUchiha
+kscarfone
+Reachmeatshivam
+Sheppy
+ethertank
+GavinSharp
+Mgjbot
+Nickolay
+Ptak82
+RobG
+DBaron
+BenoitL
+Dria
+Callek
+JesseW

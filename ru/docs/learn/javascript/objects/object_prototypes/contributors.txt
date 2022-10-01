@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/objects/object_prototypes/index.html
+
+# Original Wiki contributors
+wind-of
+sahmildzhakeev
+injashkin
+Aparin
+kplatova
+NooNoo1337
+VaselisaS
+slychai85
+arnoldovich
+AndreySushentsov

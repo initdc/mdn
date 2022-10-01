@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/nan/index.md
+
+# Original Wiki contributors
+wallena3
+HuangXin
+caofei6
+zxsunrise
+EthanOrange
+Jiang-Xuan
+Ende93
+yenshen
+SphinxKnight
+ziyunfei
+AlexChao
+teoli
+zhangyaochun1987

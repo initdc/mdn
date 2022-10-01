@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/_colon_any-link/index.md
+
+# Original Wiki contributors
+niki-timofe
+opereverzeva
+talgautb

@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/webkit_extensions/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+Malvoz
+estelle
+mfluehr
+ExE-Boss
+Sheppy
+mfuji09
+upsuper
+tobias47n9e
+Sebastianz
+teoli
+yisibl
+teo1978
+y0ssar1an
+abdullahasseiri
+aneesh.mb
+Rob W
+Jeremie
+Inkbug
+ziyunfei

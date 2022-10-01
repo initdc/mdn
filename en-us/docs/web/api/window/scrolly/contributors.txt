@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/scrolly/index.md
+
+# Original Wiki contributors
+alattalatta
+connorshea
+amityb
+Sheppy
+sarafec
+opr
+alexandrudima
+jpmedley
+cvrebert
+fscholz
+u_7cc
+teoli
+iamanupmenon
+ethertank
+Shelby
+Waldo
+Mgjbot
+Dria
+JesseW

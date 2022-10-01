@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/grid/index.html
+
+# Original Wiki contributors
+Zver64
+boxa6
+Paul_Yuhnovich

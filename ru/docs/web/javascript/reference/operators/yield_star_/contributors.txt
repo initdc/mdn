@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/yield_star_/index.html
+
+# Original Wiki contributors
+ialexi-bl
+utlov
+d4rkm3z

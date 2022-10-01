@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/firefox/releases/3/updating_extensions/index.md
+
+# Original Wiki contributors
+wbamberg
+SphinxKnight
+Pgulijczuk
+deimidis
+flaviog
+Nukeador
+Giovanisf13
+Firewordy
+Dfier
+Rumont
+Wrongloop
+Mgjbot

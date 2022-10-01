@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/writers-homepage/index.scss"],"names":[],"mappings":"AACE,iCACE,kBAAA","file":"20.39e185ef.chunk.css","sourcesContent":["#writers-homepage {\n  .header-search {\n    margin-bottom: 60px;\n  }\n}\n"]}

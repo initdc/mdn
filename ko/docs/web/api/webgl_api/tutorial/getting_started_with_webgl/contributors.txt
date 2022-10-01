@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/webgl_api/tutorial/getting_started_with_webgl/index.md
+
+# Original Wiki contributors
+kjh9348
+psj3205
+joeunha
+fscholz
+teoli
+sangwoo
+JeongSeongDae

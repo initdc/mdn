@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/array/reduce/index.md
+
+# Original Wiki contributors
+Kisaragi
+mpcjazz
+mfuji09
+segayuu
+elkurin
+yuna
+sunvisor
+mizozobu
+woodmix
+uknmr
+teoli
+ethertank
+Mgjbot
+Potappo

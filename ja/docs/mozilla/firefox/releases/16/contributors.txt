@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/16/index.md
+
+# Original Wiki contributors
+Marsf
+mrstork
+ethertank
+yyss
+Potappo

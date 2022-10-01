@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/common_questions/common_web_layouts/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+SphinxKnight
+Jeremie
+Sheppy
+Kathrincolyn
+Andrew_Pfeiffer
+mehmetaergun
+anistark
+rhyne24

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/statements/const/index.md
+
+# Original Wiki contributors
+jorgetoloza
+Daniel_Martin
+SphinxKnight
+calbertts
+IsaacAaron
+MarkelCuesta
+zucchinidev
+teoli
+Scipion

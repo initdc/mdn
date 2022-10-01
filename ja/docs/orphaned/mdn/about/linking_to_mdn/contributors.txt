@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/mdn/about/linking_to_mdn/index.md
+
+# Original Wiki contributors
+

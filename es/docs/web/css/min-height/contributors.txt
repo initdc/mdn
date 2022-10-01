@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/min-height/index.html
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+teoli
+Nathymig

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/writing_guidelines/howto/write_an_api_reference/information_contained_in_a_webidl_file/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Bzbarsky
+fscholz
+wbamberg
+Sheppy
+xfq
+teoli
+overholt
+markg
+jswisher
+jryans

@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/functions/index.md
+
+# Original Wiki contributors
+mpcjazz
+xfq
+hori-ryota
+karamarimo
+kaiji
+hysryt
+Uemmra3
+dskmori
+kenji-yamasaki
+Arakaki
+x2357
+lv7777
+ethertank
+yyss
+happysadman
+Potappo
+electrolysis

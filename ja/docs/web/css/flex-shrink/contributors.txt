@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/flex-shrink/index.md
+
+# Original Wiki contributors
+mfuji09
+sutara79
+Sebastianz
+yyss
+fscholz
+teoli
+ethertank

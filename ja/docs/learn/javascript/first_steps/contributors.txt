@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/first_steps/index.md
+
+# Original Wiki contributors
+eldesh
+mpcjazz
+hamasaki
+silverskyvicto
+thinking-capybara
+kaiji
+hysryt
+dskmori
+isari
+T.Ukegawa
+Elllenn

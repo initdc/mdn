@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/your_second_webextension/index.md
+
+# Original Wiki contributors
+rebloor
+potterwrit
+SphinxKnight
+GomiGuchi
+hiiwave
+Prathik-Jain
+wbamberg
+StephenDittoe
+andrewtruongmoz
+ptudan
+juanescobar
+kerolos-sss
+kumar303
+Morgorth
+xfq
+tiborbarsi
+DineshMv
+Sheppy
+bsilverberg
+mstriemer
+Jorge.villalobos
+ccarruitero

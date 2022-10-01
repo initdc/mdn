@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/mvc/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ezrinjaz
+Llamaless
+jamesdhurd
+lilian1029
+hellozsh
+sideshowbarker
+Jenna59
+iigmir

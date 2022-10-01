@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_columns/index.md
+
+# Original Wiki contributors
+wbamberg
+SphinxKnight
+Syamsul88
+estelle
+rachelandrew
+mfluehr
+Sheppy
+fscholz
+Sebastianz
+teoli

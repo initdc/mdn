@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/http/index.html
+
+# Original Wiki contributors
+Mikhail_Kozachkov
+e-evdokimov
+stonetrooper
+djigach
+pk.prog
+warnabas
+nilfalse
+lerniri
+Sheppy

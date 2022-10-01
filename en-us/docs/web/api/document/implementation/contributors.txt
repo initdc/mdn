@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/implementation/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+fscholz
+teoli
+MHasan
+kscarfone
+Khodaidad_Basharmand
+Sheppy
+ethertank
+dbruant
+Brettz9
+Jürgen Jeka
+George3
+Ptak82
+GpxMo2
+Jabez
+Dria
+JesseW

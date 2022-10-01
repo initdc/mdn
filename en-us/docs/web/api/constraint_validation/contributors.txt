@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/constraint_validation/index.md
+
+# Original Wiki contributors
+perfmattersconf
+estelle
+Cuttsy27
+cheyannagraham
+jswisher
+chrisdavidmills

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/background-blend-mode/index.md
+
+# Original Wiki contributors
+Akh-rman
+ExE-Boss
+andreww2012
+mrstork
+Sebastianz
+ruslanchek

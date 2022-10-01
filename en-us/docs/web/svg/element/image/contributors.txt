@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/image/index.md
+
+# Original Wiki contributors
+mfuji09
+foolip
+severo
+SphinxKnight
+poisn
+Jürgen Jeka
+anonyco
+ZaneHannanAU
+shayneo
+ognarb
+matt_adams
+ExE-Boss
+gverni
+garwoodpr
+Tigt
+abbycar
+Sebastianz
+OviOvocny
+kscarfone
+Jeremie
+kperch
+Manuel_Strehl

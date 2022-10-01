@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/resources_and_specifications/index.md
+
+# Original Wiki contributors
+dilyanpalauzov
+jpmedley
+Baptouuuu
+fscholz
+teoli

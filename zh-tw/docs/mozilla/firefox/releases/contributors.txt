@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/firefox/releases/index.md
+
+# Original Wiki contributors
+wbamberg
+RJ_Hsiao
+ziyunfei

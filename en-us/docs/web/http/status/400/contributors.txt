@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/status/400/index.md
+
+# Original Wiki contributors
+sideshowbarker
+yaram
+cpirvu1945
+fatane.khani.mazleghani
+JanickZa
+mfuji09
+bobo.debila
+jriverak37
+dedonche4
+irbisz
+flopes
+RayannTedds
+haroldfredshort
+fscholz

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/will-change/index.md
+
+# Original Wiki contributors
+Sebastianz
+ziyunfei
+TooBug

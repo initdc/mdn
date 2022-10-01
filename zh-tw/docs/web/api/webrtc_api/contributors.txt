@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/webrtc_api/index.md
+
+# Original Wiki contributors
+LeonH
+VirtualDruid
+jackblackevo

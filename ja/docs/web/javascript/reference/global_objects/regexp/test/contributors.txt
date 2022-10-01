@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/regexp/test/index.md
+
+# Original Wiki contributors
+mfuji09
+Uemmra3
+segayuu
+YuichiNukiyama
+teoli
+ethertank
+Fajrovulpo
+Potappo
+Mgjbot

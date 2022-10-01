@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/accessibility/what_is_accessibility/index.md
+
+# Original Wiki contributors
+Uemmra3
+Wind1808
+silverskyvicto
+yuheiy
+karaage-kun

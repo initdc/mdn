@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/first_steps/arrays/index.md
+
+# Original Wiki contributors
+PYGC
+42
+rxliuli
+codeofjackie
+caifx
+Enigma1912
+lihaoyuan
+yzweb2018
+ddtyjmyjm
+DaduCC
+zjj1392372716
+Hysian
+wanqing19954

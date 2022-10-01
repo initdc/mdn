@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/touch-action/index.md
+
+# Original Wiki contributors
+mfluehr
+wbamberg
+mfuji09
+ddbeck
+fscholz
+sideshowbarker
+vickera
+dominicegginton
+lpd-au
+Malvoz
+CITguy
+Tigt
+ericwbailey
+marsjaninzmarsa
+jpmedley
+staktrace
+RByers
+mustaqahmed
+sgomes
+patrickhlauke
+Sebastianz
+dtapuska
+erikadoyle
+Sheppy
+bethge
+teoli
+yisibl
+mkato
+AFBarstow
+cvrebert
+Syle91
+jithin0001

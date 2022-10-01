@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/exslt/str/tokenize/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ExE-Boss
+Talisker

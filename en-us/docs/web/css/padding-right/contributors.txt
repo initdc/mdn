@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/padding-right/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+Malvoz
+sideshowbarker
+alattalatta
+ddbeck
+mfluehr
+chrisdavidmills
+Wliu
+erikadoyle
+Sebastianz
+Prinz_Rana
+teoli
+kscarfone
+Sheppy
+ethertank
+FredB
+grendel
+jojomojo
+Yuichiro
+BijuGC

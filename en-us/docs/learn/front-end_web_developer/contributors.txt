@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/front-end_web_developer/index.md
+
+# Original Wiki contributors
+SphinxKnight
+iamkiing2000
+gammlerfranz
+niceby.collectvibe
+thewebsolinterns
+chrisdavidmills
+ohaver
+davidmichaelgregg
+roshan0708

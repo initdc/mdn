@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/html/element/label/index.md
+
+# Original Wiki contributors
+Edionay
+jyrodrigues
+DavidL_Santos
+teoli
+Nathalino_Pacheco

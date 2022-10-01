@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/index.md
+
+# Original Wiki contributors
+spe-shun
+cy234
+c1er
+Bayes
+Jacksonary
+rikkif
+Weix
+xgqfrms-GitHub
+AlenQi
+linzhixiong

@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/overflow-x/index.md
+
+# Original Wiki contributors
+ddbeck
+wbamberg
+mfuji09
+fscholz
+chrisdavidmills
+dshelters
+mildsunrise
+krosylight
+mfluehr
+pborenstein
+erikadoyle
+Sebastianz
+pallxk
+teoli
+cvrebert
+kokuou
+something
+sammyjayuk
+kscarfone
+Sheppy
+ethertank
+MajorYe
+jeroenp
+Jürgen Jeka

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/webassembly/caching_modules/index.md
+
+# Original Wiki contributors
+Potappo
+mfuji09
+kenji-yamasaki
+silverskyvicto
+ukyo

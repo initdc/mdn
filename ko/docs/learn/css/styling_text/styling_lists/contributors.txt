@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/css/styling_text/styling_lists/index.md
+
+# Original Wiki contributors
+java2020007

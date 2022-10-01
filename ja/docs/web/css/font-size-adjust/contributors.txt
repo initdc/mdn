@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/font-size-adjust/index.md
+
+# Original Wiki contributors
+mfuji09
+yyss
+fscholz
+Sebastianz
+ethertank
+sosleepy

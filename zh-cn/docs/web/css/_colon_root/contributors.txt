@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/_colon_root/index.md
+
+# Original Wiki contributors
+mingzhang6
+PoppinL
+keqingrong
+movinghorse

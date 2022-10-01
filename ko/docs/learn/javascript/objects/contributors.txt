@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/objects/index.md
+
+# Original Wiki contributors
+cs09g
+hyunkwon_88_cho
+Parcovia
+beowolf9
+dsma73
+Yoonjoo

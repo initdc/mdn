@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document/cookie/index.md
+
+# Original Wiki contributors
+atiliopereira
+Skattspa
+aralvarez
+SphinxKnight
+khalid32
+Ogquir
+strongville
+Ciencia Al Poder
+Markens
+DR

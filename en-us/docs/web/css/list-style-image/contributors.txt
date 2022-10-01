@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/list-style-image/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Sheppy
+estelle
+ericwilligers
+ddbeck
+mfluehr
+fscholz
+Arty-chan
+Sebastianz
+erikadoyle
+vanjacosic
+wizAmit
+SphinxKnight
+ronakkhunt
+kscarfone
+teoli
+ethertank
+McGurk
+grendel
+Alex Lakatos
+Jürgen Jeka
+Nathymig
+BijuGC
+DBaron
+Mgjbot
+Ptak82
+alecananian

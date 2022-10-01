@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/instanceof/index.html
+
+# Original Wiki contributors
+iGanza429
+dima74
+vitaliylag
+lenkasoft
+c01nd01r
+spmpl

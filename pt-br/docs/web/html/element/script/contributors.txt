@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/html/element/script/index.md
+
+# Original Wiki contributors
+Aldrei
+icaromh
+wellington1993
+Cloves23
+kvnol

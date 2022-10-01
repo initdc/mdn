@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_transforms/using_css_transforms/index.md
+
+# Original Wiki contributors
+WangYiCong
+RainSlide
+zsxeee
+kyriejoshua
+funnyChinese
+fscholz
+troywith77
+FredWe
+ziyunfei
+teoli
+TimZhao
+xcffl

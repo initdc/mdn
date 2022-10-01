@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/hoisting/index.md
+
+# Original Wiki contributors
+liguorain
+Randysheng
+RainSlide
+frankfang1990
+HermitSun
+Jingle
+Lucky4
+liushengxin
+johncido
+null-br
+xgqfrms-GitHub
+ziyunfei

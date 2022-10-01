@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/html/element/canvas/index.html
+
+# Original Wiki contributors
+alattalatta
+ExE-Boss
+chrisdavidmills
+cs09g
+azunyan3
+AlwaysOnce

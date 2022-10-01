@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/sign/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+ayunas
+jhpratt
+ashearer
+Tigt
+anonyco
+jameshkramer
+tiansh
+rwaldron
+Peppesterest
+lbud
+tgoyer
+eduardoboucas
+Mingun
+realityking
+claudepache
+arai
+kchapelier
+evinugur
+ziyunfei

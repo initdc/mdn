@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/firstelementchild/index.md
+
+# Original Wiki contributors
+Krinkle
+akovantsev
+Mems
+ExE-Boss
+K-Gun
+kevin_martinez
+Alhadis
+fscholz
+kollishivagangadhar
+Loiro
+khushboo_Dwivedi
+teoli
+Sheppy
+ziyunfei
+Jürgen Jeka

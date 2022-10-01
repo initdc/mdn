@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/xml/xml_introduction/index.md
+
+# Original Wiki contributors
+Whitetea00
+Joria0414
+fish-inu
+ExE-Boss
+DarrenZhang01
+pluwen
+xgqfrms-GitHub
+Y001
+Mgjbot
+Gelihui
+Kakurady
+Dbseti

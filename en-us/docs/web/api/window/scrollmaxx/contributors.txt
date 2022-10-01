@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/scrollmaxx/index.md
+
+# Original Wiki contributors
+mfuji09
+mfluehr
+connorshea
+Ac1521
+cvrebert
+fscholz
+teoli
+iamanupmenon
+ethertank
+Sheppy
+shelbymoore3
+Mgjbot
+Potappo
+20after4
+Mw22

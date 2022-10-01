@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xslt/transforming_xml_with_xslt/the_netscape_xslt_xpath_reference/axes/descendant/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+CitizenK

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/reference/index.md
+
+# Original Wiki contributors
+bezik
+irakliykech
+TaKo13
+skyline1341
+warsan
+SnejUgal
+BychekRU
+Aleksej
+teoli
+scr1be

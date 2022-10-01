@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/storage/setitem/index.md
+
+# Original Wiki contributors
+mfluehr
+Sheppy
+fscholz
+Loadmaster
+chrisdavidmills
+abbycar
+Aurora49
+jakub-g
+teoli
+scunliffe

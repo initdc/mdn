@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/guide/css/block_formatting_context/index.md
+
+# Original Wiki contributors
+alattalatta
+moolow
+corps99

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/server-side/express_nodejs/displaying_data/date_formatting_using_moment/index.md
+
+# Original Wiki contributors
+silverskyvicto

@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/reflect/index.md
+
+# Original Wiki contributors
+tita0x00
+LeonDWong
+z1948296027
+ZhangWei-KUMO
+Akenokoru
+Ende93
+AlixWang
+tanggd
+Tommy-White
+linzx1993
+RoXoM
+zhangchen
+xgqfrms-GitHub
+mo-n
+wzx
+ziyunfei

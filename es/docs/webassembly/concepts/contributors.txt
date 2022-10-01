@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/webassembly/concepts/index.md
+
+# Original Wiki contributors
+Sergio_Gonzalez_Collado
+mastertrooper

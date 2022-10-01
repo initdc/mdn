@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/javascript/reference/errors/unexpected_type/index.md
+
+# Original Wiki contributors
+YuichiNukiyama

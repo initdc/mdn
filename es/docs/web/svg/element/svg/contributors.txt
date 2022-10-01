@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/svg/element/svg/index.md
+
+# Original Wiki contributors
+hardy.rafael17
+Mcch
+diegovinie
+BubuAnabelas
+mbenitez01

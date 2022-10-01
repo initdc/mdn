@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/a/index.md
+
+# Original Wiki contributors
+brussens
+nikolai-shabalin
+JCodeg
+SphinxKnight
+tonyfresher
+CuriousLynx
+alexander_kuranoff
+SnejUgal
+Kolotushkin
+teoli
+pepyaka
+Softwayer

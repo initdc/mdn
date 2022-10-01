@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/serviceworkerglobalscope/index.md
+
+# Original Wiki contributors
+alattalatta
+Rumyra
+mfuji09
+jpmedley
+fscholz
+chrisdavidmills
+Sheppy
+sideshowbarker
+duduindo
+foolip
+timruffles
+isonic
+Sebastianz
+Speculative
+teoli
+Meggin

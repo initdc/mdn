@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/html/introduction_to_html/html_text_fundamentals/index.md
+
+# Original Wiki contributors
+dlwe
+saitouena
+sideshowbarker
+pandaman64
+silverskyvicto
+Yokoyama-go
+y-nishi
+bob_27
+Uemmra3
+peach1248

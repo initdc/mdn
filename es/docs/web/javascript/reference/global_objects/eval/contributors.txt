@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/eval/index.html
+
+# Original Wiki contributors
+driera
+sergio_p_d
+_cuco_
+ericmartinezr
+SphinxKnight
+teoli
+Mgjbot
+Talisker
+Sheppy

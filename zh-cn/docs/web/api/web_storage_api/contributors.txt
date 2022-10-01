@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/web_storage_api/index.md
+
+# Original Wiki contributors
+fzhyzamt
+CaTmmao
+CuriosityLxn
+Dafrok
+xgqfrms-GitHub
+FideoJ
+xgqfrms
+y3093
+WentaoMa
+williamchu123
+Naijing
+HereChen
+lijunchengbeyond
+zhaofengli11
+chrisdavidmills

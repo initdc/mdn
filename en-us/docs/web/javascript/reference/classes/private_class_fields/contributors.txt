@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/classes/private_class_fields/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+borisbokan
+SebastianSimon
+mfluehr
+vzvu3k6k
+NemoStein
+johnpuaoitech
+trusktr
+bergus
+wbamberg
+fscholz

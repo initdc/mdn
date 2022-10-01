@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/padding-top/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+Malvoz
+sideshowbarker
+estelle
+alattalatta
+ddbeck
+mfluehr
+chrisdavidmills
+Wliu
+stephaniehobson
+erikadoyle
+Prinz_Rana
+Sebastianz
+trevorh
+kscarfone
+teoli
+Sheppy
+ethertank
+grendel
+jojomojo
+Yuichiro
+BijuGC

@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvas_api/manipulating_video_using_canvas/index.md
+
+# Original Wiki contributors
+severo
+Sheppy
+rohithill
+yuan81777
+wbamberg
+fscholz
+Magistern
+Enopoletus
+tsyzthh
+nmve
+McQuinTrix
+rogerxas
+teoliTest2
+teoli
+jswisher
+inma_610
+Jürgen Jeka

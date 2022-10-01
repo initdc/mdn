@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/tools/kumascript/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+ExE-Boss
+fscholz
+wbamberg
+AndreDea
+jwhitlock
+pcat
+jswisher
+Sebastianz
+xfq
+escattone
+Sheppy
+AFBarstow
+florent.maitralain
+maybe
+trevorh
+lmorchard
+groovecoder
+Nickolay
+kscarfone
+edymtt
+ashish_dgp
+ethertank
+teoli
+Inkbug
+markg

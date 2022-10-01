@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/promise/reject/index.html
+
+# Original Wiki contributors
+edeyglez95
+kalozoya
+giturra

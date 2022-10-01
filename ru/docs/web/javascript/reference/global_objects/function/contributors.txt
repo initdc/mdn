@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/function/index.md
+
+# Original Wiki contributors
+benzin_kanister
+Yialo
+CROGOT
+boxa6
+Mingun
+teoli
+Skorney

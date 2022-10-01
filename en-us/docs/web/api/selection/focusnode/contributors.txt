@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/focusnode/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+ddbeck
+abbycar
+tzilliox
+TIMUR-11
+BenjamP
+fscholz
+teoli
+kosvrouvas
+kscarfone
+chitra_lakhotia
+Sheppy
+DR
+Federico
+Rev
+Mw22
+Jonnyq

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/installing_extensions_and_themes_from_web_pages/index.md
+
+# Original Wiki contributors
+

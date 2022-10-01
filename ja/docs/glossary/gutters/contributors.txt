@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/gutters/index.md
+
+# Original Wiki contributors
+shuuji3
+applejam9029
+mfuji09
+dynamis

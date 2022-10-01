@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/webassembly/c_to_wasm/index.md
+
+# Original Wiki contributors
+CGerAJ
+zhanyuzhang
+xinghuolei
+rui-space
+jinliming2
+johncido
+eeve
+kingysu
+hungtcs
+AdrianDuan
+disoul

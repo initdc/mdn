@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/regular_expressions/groups_and_backreferences/index.md
+
+# Original Wiki contributors
+Potappo
+dlwe
+segayuu

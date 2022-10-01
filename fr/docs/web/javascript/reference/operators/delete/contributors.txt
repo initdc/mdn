@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/operators/delete/index.md
+
+# Original Wiki contributors
+Protectator
+SphinxKnight
+Mahabarata
+edspeedy
+yasakura_
+teoli
+Jeremie
+gregoiredavid
+BenoitL

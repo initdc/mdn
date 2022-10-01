@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/tr/index.md
+
+# Original Wiki contributors
+antoineveldhoven
+brianjenkins94
+JamesCatt
+jswisher
+HTMLValidator
+mfuji09
+SphinxKnight
+devdad
+ExE-Boss
+wbamberg
+massic80
+Sheppy
+teoli
+JeremyRedhead
+Martin.Kraft
+sideshowbarker
+speedyhoon
+arronei
+libbymc
+fscholz
+dio
+kscarfone
+ethertank
+trevorh
+McGurk
+Ms2ger

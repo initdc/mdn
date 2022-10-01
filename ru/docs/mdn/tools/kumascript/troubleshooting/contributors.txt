@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/tools/kumascript/troubleshooting/index.html
+
+# Original Wiki contributors
+fuggy
+wbamberg
+MariyaSka
+cpigat

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/undefined/index.md
+
+# Original Wiki contributors
+yuta0801
+Uemmra3
+x2357

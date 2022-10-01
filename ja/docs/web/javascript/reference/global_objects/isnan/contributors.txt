@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/isnan/index.md
+
+# Original Wiki contributors
+mfuji09
+segayuu
+peroxyacyl
+bluetata
+x2357
+teoli
+ethertank
+Potappo
+高橋純一
+Mgjbot

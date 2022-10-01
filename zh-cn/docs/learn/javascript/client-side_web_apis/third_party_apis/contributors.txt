@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/client-side_web_apis/third_party_apis/index.md
+
+# Original Wiki contributors
+AdjWang
+notthstar
+grape
+yinpeng123
+aopstudio
+agoreal
+HashiKudo
+tomcat1234
+ddr901
+Mal_akh
+goodstudy
+yuyx91

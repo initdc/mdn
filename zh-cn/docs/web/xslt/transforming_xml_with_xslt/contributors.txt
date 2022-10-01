@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/xslt/transforming_xml_with_xslt/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ziyunfei
+Freeopen

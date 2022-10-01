@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mdn/community/contributing/getting_started/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+brizer
+RainSlide
+秋色楓
+心斩心鬼
+4325612
+shiguang
+assasai
+cosformula
+Azurak
+wbamberg
+kite-js
+garyhe0780
+liangjia
+boltyu
+Gszekt
+yzweb2018
+BearZ
+zs808
+woshichenyaofei
+xiyifenheart
+maksyuki
+zsusyt
+Jeery
+Feihei
+followgiant
+civilian
+yenshen
+Sbabey
+ziyunfei
+Simpozigh

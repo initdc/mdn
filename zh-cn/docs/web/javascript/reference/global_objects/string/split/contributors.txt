@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/split/index.md
+
+# Original Wiki contributors
+real-Row
+SageX
+WindLo
+gentlecoder
+42
+hongxu.Wei
+laampui
+Jiang-Xuan
+YISHI
+JuFoFu
+ZQH
+xgqfrms-GitHub
+Bitzo
+uestcNaldo
+zhuangyin
+mooyxu
+Hugh
+auroraeffect
+azhi09
+helloguangxue
+horizon0514
+AlexChao

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/rtcpeerconnection/cantrickleicecandidates/index.md
+
+# Original Wiki contributors
+matiaslopezd
+sideshowbarker
+Sheppy
+fscholz
+fippo
+jpmedley
+abbycar
+m_t
+teoli

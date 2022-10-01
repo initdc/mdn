@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/videoplaybackquality/corruptedvideoframes/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Sheppy
+fscholz
+erikadoyle
+nmve
+chrisdavidmills
+kscarfone
+teoli

@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/fgcolor/index.md
+
+# Original Wiki contributors
+SphinxKnight
+mfuji09
+mfluehr
+fscholz
+valtlai
+teoli
+MHasan
+kscarfone
+namolmes
+Sheppy
+ethertank
+ziyunfei
+Matej Lednar
+George3
+Ptak82
+Dria
+JesseW

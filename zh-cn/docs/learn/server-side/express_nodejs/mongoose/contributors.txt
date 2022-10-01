@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/express_nodejs/mongoose/index.md
+
+# Original Wiki contributors
+Dazhuzhu-github
+vpstarter
+百里笙歌
+socovo
+Roy-Tian
+edgar-chen

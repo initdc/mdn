@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/headers/etag/index.html
+
+# Original Wiki contributors
+Taehee_Kim
+Nept-una
+joshua1988

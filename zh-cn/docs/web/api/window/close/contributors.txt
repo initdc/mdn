@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/close/index.md
+
+# Original Wiki contributors
+RainSlide
+SphinxKnight
+tiansh
+teoli
+khalid32
+ziyunfei

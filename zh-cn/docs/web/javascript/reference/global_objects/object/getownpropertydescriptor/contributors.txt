@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/getownpropertydescriptor/index.md
+
+# Original Wiki contributors
+Damoness
+274659281
+RoXoM
+liuyangjoker
+usernameisMan
+Ende93
+teoli
+AlexChao
+ArthasTree
+ziyunfei
+nightire

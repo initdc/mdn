@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webvr_api/index.md
+
+# Original Wiki contributors
+RomainLanz
+chrisdavidmills
+Sheppy
+ExE-Boss
+bershanskiy
+wbamberg
+fscholz
+ngokevin
+jpmedley
+plinton
+abbycar
+rabimba
+David_Gilbertson
+diekus
+teoli
+Sebastianz
+bboyle

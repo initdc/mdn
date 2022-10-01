@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/bezier_curve/index.html
+
+# Original Wiki contributors
+regeneratorl

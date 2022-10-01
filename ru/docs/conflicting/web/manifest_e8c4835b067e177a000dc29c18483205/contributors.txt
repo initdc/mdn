@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/conflicting/web/manifest_e8c4835b067e177a000dc29c18483205/index.html
+
+# Original Wiki contributors
+almaceleste
+chrisdavidmills

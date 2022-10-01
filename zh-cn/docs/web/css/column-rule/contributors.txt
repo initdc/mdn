@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/column-rule/index.md
+
+# Original Wiki contributors
+淡空醉花
+Dennis273
+Sebastianz
+fscholz
+FredWe

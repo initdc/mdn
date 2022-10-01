@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/javascript/objects/index.md
+
+# Original Wiki contributors
+alejandro.fca
+pablojp
+ivanagui2
+clarii
+Irwin1985
+jsanpedror
+blaipas
+Tzikin100
+edu1464
+chrisdavidmills

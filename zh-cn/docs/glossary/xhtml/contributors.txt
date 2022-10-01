@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/xhtml/index.md
+
+# Original Wiki contributors
+SQibang
+ziyunfei
+Jiangyuanmil
+Jiao7zhe8
+Unest

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/number/isnan/index.md
+
+# Original Wiki contributors
+RainSlide
+polunzh
+daihaoxin
+xgqfrms-GitHub
+AlexChao
+yenshen
+teoli
+yufeng
+ziyunfei

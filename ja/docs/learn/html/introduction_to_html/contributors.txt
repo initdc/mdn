@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/html/introduction_to_html/index.md
+
+# Original Wiki contributors
+snakada
+silverskyvicto
+Uemmra3
+t-eimizu

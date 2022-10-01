@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/regexp/lastindex/index.md
+
+# Original Wiki contributors
+zrw354
+fscholz
+mfuji09
++
+Erutuon
+schalkneethling
+arai
+AshrafChu
+SphinxKnight
+Sevenspade
+Mingun
+aaco
+Sheppy
+ethertank
+Nfroidure
+Mgjbot
+Maian
+Prodoc
+Dria

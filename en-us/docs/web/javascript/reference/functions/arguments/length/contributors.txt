@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/functions/arguments/length/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+Odd
+IshtmeetSingh
+BychekRU
+ramonsnir
+Delapouite
+Sheppy
+hajunge
+ethertank
+evilpie
+Mgjbot
+Ptak82
+Maian
+Prodoc
+Dria

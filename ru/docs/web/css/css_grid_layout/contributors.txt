@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/css_grid_layout/index.md
+
+# Original Wiki contributors
+alexphilin
+RomanBush
+Kamye
+SavkovCG
+dblokhin
+Renatdk
+Fgeniy
+igor-klymenok
+InkFaust
+SHOOROOP

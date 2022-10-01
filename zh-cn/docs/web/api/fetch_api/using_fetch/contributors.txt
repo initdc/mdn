@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/fetch_api/using_fetch/index.md
+
+# Original Wiki contributors
+WangXBruc
+RainSlide
+ycwangrd
+九千鸦
+symant233
+zy_2071
+shawtung
+Soyaine
+tangtangtangtangtang
+iFish
+StudentMain
+akong
+zhuangyin
+zhangchen
+luneice
+xgqfrms-GitHub
+hurleyfov
+flowfire
+semlinker
+xinx1n
+jfw10973
+zhso
+Howard.Chen
+CarlJia
+a1528zhang
+Azleal
+xcatliu

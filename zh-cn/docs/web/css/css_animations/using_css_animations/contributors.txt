@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_animations/using_css_animations/index.md
+
+# Original Wiki contributors
+xgqfrms-GitHub
+SphinxKnight
+teoli
+ChanYuLeung
+johncido
+hutuxu

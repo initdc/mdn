@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/audionode/index.md
+
+# Original Wiki contributors
+Climber22
+jily2k
+chikoski

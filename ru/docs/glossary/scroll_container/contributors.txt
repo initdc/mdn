@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/scroll_container/index.html
+
+# Original Wiki contributors
+hisbvdis

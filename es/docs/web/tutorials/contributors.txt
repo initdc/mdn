@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/tutorials/index.html
+
+# Original Wiki contributors
+blanchart
+mastertrooper
+Enesimus
+ewan-m
+Yes197
+VlixesItaca
+pucherico
+CristopherAE
+fperaltaN
+isabelcarrod
+Sheppy
+iKenshu
+JuanC_01
+ubermensch79
+cynthia
+rubencidlara
+fmagrosoto
+CarlosQuijano
+diegogaysaez

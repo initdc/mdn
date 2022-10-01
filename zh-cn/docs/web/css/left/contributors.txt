@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/left/index.md
+
+# Original Wiki contributors
+Zhang-Junzhi
+uniquexiaobai
+Elity
+zhangchen
+xupea
+1136863240
+zhengxinxin

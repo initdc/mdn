@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/this/index.md
+
+# Original Wiki contributors
+Clarkkkk
+imbant
+laampui
+ldsyzjb
+aaaxiu
+frankchia
+usernameisMan
+Xuemuyang
+luoxzhg
+Akiq2016
+secretmadonna
+zhangchen
+jasonwithjs
+rollinhup
+anderson_liu
+KngZhi
+xgqfrms-GitHub
+JJPandari
+07akioni
+Cmen
+bodii
+Ende93
+eric183
+floraLam
+teoli
+haodut
+zhanglun
+jaka
+JinZheng
+DaoG

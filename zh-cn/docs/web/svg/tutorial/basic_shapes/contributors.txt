@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/tutorial/basic_shapes/index.md
+
+# Original Wiki contributors
+nyz123
+0229xiang
+851091009
+VicYu
+fanxiaojie
+zldream1106
+act262

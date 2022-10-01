@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/accessibility/html/index.md
+
+# Original Wiki contributors
+hamishwillee
+voiceofrae
+NatJT
+chrisdavidmills
+rolfedh
+garrettbsettles
+Anonymous
+osamak
+kruschk
+LeonFrempong
+estelle
+irenesmith
+mizodo
+rachelcarmena
+dev-dongwon
+seanc
+kiiran
+Thai
+imi-tating
+Hnakamur
+stephaniehobson
+AnnaMhairi
+snazziness
+scottaohara
+hadleyel
+jasper2virtual
+unused

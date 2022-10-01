@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/window/popstate_event/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+irenesmith
+fscholz
+Hell_Carlito
+DuaelFr

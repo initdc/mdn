@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/selectors/attribute_selectors/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+SaquibAsghar
+fazl
+rachelandrew
+83C10
+mikemorr
+RoyZhu

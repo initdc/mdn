@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/idledeadline/index.md
+
+# Original Wiki contributors
+xueliang
+Ende93
+a372210777

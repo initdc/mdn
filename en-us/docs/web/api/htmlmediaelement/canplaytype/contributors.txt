@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmediaelement/canplaytype/index.md
+
+# Original Wiki contributors
+Sheppy
+wbamberg
+sideshowbarker
+estelle
+fscholz
+erikadoyle
+markg

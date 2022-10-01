@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/letter-spacing/index.md
+
+# Original Wiki contributors
+rachelandrew
+yisibl
+Sebastianz
+connorshea
+Volker-E
+Tigt
+Druzion
+jonathaneunice
+Jeremie

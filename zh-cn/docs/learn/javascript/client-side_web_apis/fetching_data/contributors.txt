@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/client-side_web_apis/fetching_data/index.md
+
+# Original Wiki contributors
+Xugen-Ma
+oceanMIH
+yinpeng123
+oubinke
+Kavelaa
+lscnet
+Zheng7426
+baoliujifeng
+Mr.ma
+Lyra007
+whocare
+moozhu
+NotDead-NotPerish
+xgqfrms-GitHub
+SphinxKnight

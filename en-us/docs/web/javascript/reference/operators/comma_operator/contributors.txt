@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/comma_operator/index.md
+
+# Original Wiki contributors
+fscholz
+Sheppy
+RicardsVeveris
+alattalatta
+Konrud
+BrewMasterMD
+wbamberg
+jameshkramer
+nmve
+Chealer
+SphinxKnight
+Brettz9
+Sebastianz
+drose
+cirocosta
+rvighne
+evan.petridis
+Havvy
+ethertank
+pimvdb
+Potappo
+IgorKitsa
+Mgjbot
+Dklt
+Ptak82
+Dria

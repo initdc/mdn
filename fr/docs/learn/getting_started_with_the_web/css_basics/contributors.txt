@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/getting_started_with_the_web/css_basics/index.md
+
+# Original Wiki contributors
+Melanie.Almeida
+Dralyab
+Ilphrin
+loella16
+Mozinet
+marie-ototoi
+bl4n
+SphinxKnight

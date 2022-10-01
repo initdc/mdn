@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/console/time/index.md
+
+# Original Wiki contributors
+loella16
+mireero
+fscholz
+khalid32
+fvelcker

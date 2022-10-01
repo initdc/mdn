@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/eventtarget/addeventlistener/index.md
+
+# Original Wiki contributors
+mfuji09
+SphinxKnight
+woodmix
+kei-itof
+.Hiroya
+shuuji3
+dskmori
+lv7777
+blp1526
+regepan
+fscholz
+AshfaqHossain
+ethertank
+dextra
+kohei.yoshino
+Potappo

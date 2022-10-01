@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/server-sent_events/using_server-sent_events/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Watilin
+tartinesKiller
+duchesne.andre
+ygarbage
+QuentinChx
+mikadev

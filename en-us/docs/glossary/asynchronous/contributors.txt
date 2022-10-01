@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/asynchronous/index.md
+
+# Original Wiki contributors
+mariusmucenicu
+FrancisCalizo
+Sheppy
+chrisdavidmills
+klez
+Andrew_Pfeiffer

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/scrollintoviewifneeded/index.md
+
+# Original Wiki contributors
+goldsamantha
+fscholz
+teoli
+cvrebert
+foolip
+Sebastianz
+Sheppy
+asos-massimo

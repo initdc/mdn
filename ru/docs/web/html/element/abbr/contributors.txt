@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/abbr/index.md
+
+# Original Wiki contributors
+ekirpichyov
+niktariy
+talgautb
+Aleksej
+fscholz
+teoli
+Norville

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/first_steps/how_css_works/index.md
+
+# Original Wiki contributors
+ChongyouXu
+shizigood
+dlnb526
+SirnoChan
+pacexy
+kuhnpku
+FrankYuanhao
+0x79b9
+SphinxKnight
+xcxAscar

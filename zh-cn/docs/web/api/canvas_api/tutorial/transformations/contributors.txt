@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvas_api/tutorial/transformations/index.md
+
+# Original Wiki contributors
+WindStormrage
+kongkgng
+Ende93
+purp1e
+rulanfenghua
+andylala-Veneno
+mliqian
+youyouzh
+crazy_snow
+chengkai
+Dengjiansheng
+loraine
+fscholz
+ziyunfei
+zhongsheng
+vinqon
+YanLing
+leegorous

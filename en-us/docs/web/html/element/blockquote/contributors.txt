@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/blockquote/index.md
+
+# Original Wiki contributors
+mfuji09
+JamesCatt
+takeru0430
+SphinxKnight
+johnnyagerard
+Sheppy
+teoli
+sideshowbarker
+libbymc
+Sebastianz
+aftab123
+zziccardi
+charmander
+kscarfone
+justleroy
+tregagnon
+medicdude
+ethertank
+cers
+hobophobe
+jswisher
+Ptak82
+IcuOs0
+Waldo
+Den layer
+PablO
+alecananian

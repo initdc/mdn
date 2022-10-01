@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/abbr/index.md
+
+# Original Wiki contributors
+Astroleander
+shuihuo
+greyyyyy
+RainSlide
+xianshenglu
+Ende93
+xgqfrms-GitHub
+fscholz
+xingzhi
+ziyunfei
+jessiecaisme

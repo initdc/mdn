@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/object/keys/index.md
+
+# Original Wiki contributors
+jose-setaworkshop
+SphinxKnight
+animanoir
+D3Portillo
+_cuco_
+MarkelCuesta
+kdex
+andrpueb
+PBartrina
+Sanuzzi
+cristianjav
+rcchristiane

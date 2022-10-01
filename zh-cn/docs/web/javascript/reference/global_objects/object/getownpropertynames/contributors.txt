@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/getownpropertynames/index.md
+
+# Original Wiki contributors
+woyaohaohaoxuexi
+ywjco
+zhangchen
+C_Kite
+kdex
+Ende93
+RandyOu
+ChrisCindy
+helinjiang
+teoli
+AlexChao
+ziyunfei
+Arenwisdom

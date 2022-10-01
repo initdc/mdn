@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/css/css_backgrounds_and_borders/using_multiple_backgrounds/index.md
+
+# Original Wiki contributors
+sss63232
+Shiyou
+teoli
+alk03073135

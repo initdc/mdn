@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/text-orientation/index.md
+
+# Original Wiki contributors
+ddbeck
+fscholz
+mfuji09
+langdon-holly
+Malvoz
+wbamberg
+mfluehr
+ryanve
+DailyAlice
+Sebastianz
+teoli
+jpmedley
+gotchago

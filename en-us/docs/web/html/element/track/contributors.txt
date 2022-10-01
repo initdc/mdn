@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/track/index.md
+
+# Original Wiki contributors
+Pablo-No
+JamesCatt
+chrisdavidmills
+mfuji09
+Sheppy
+estelle
+sideshowbarker
+SphinxKnight
+Malvoz
+VonClownstick
+teoli
+Wliu
+arronei
+libbymc
+jpmedley
+codercurtis
+Sebastianz
+Andrew_Pfeiffer
+moughamir
+tyrann0us
+Jeremie
+rillian
+kohei.yoshino
+snowmantw
+kscarfone
+krosylight
+buddhaful2b@yahoo.com
+scottrowe
+allergic
+medicdude
+ethertank

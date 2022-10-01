@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/enablestylesheetsforset/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+mfluehr
+fscholz
+teoli
+kscarfone
+namolmes
+Sheppy

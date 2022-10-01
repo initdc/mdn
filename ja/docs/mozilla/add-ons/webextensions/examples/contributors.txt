@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/examples/index.md
+
+# Original Wiki contributors
+YUUKIToriyama
+Uemmra3
+takubokudori
+mfuji09
+hamasaki
+hashedhyphen

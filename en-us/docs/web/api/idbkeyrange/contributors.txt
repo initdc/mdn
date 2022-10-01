@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbkeyrange/index.md
+
+# Original Wiki contributors
+masoud-msk
+sideshowbarker
+gkalpak
+fscholz
+jpmedley
+chrisdavidmills
+arronei
+libbymc
+jwhitlock
+trevorh
+pdm
+teoli
+scottrowe
+grendel
+hansw
+tilgovi
+jswisher

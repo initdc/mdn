@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/fround/index.md
+
+# Original Wiki contributors
+mfuji09
+Artoria2e5
+wbamberg
+fscholz
+anonyco
+SphinxKnight
+shicks
+schlagi123
+Jedipedia
+jameshkramer
+eduardoboucas
+Permutator
+isiahmeadows
+xfq
+Mingun
+ziyunfei
+realityking

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            #highlight {
+  background: yellow;
+  position: absolute;
+  z-index: -1;
+}
+
+p {
+  width: 200px;
+}
+
+        </style>
+        
+        <title>Range.getBoundingClientRect() - example - code sample</title>
+    </head>
+    <body>
+        
+            <div id="highlight"></div>
+<p>This example positions a "highlight" rectangle behind the contents of a range. The range's content <b>starts here</b> and continues on until it <b>ends here</b>. The bounding client rectangle contains everything selected in the range.</p>
+
+        
+        
+            <script>
+                const range = document.createRange();
+range.setStartBefore(document.getElementsByTagName('b').item(0), 0);
+range.setEndAfter(document.getElementsByTagName('b').item(1), 0);
+
+const clientRect = range.getBoundingClientRect();
+const highlight = document.getElementById('highlight');
+highlight.style.left = `${clientRect.x}px`;
+highlight.style.top = `${clientRect.y}px`;
+highlight.style.width = `${clientRect.width}px`;
+highlight.style.height = `${clientRect.height}px`;
+
+            </script>
+        
+    </body>
+</html>

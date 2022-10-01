@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/letter-spacing/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Sheppy
+sideshowbarker
+ddbeck
+chrisdavidmills
+ericwbailey
+mfluehr
+fscholz
+pborenstein
+erikadoyle
+elomatreb
+Prinz_Rana
+JKillian
+Sebastianz
+aershov
+z0r
+HTMLValidator
+teoli
+kscarfone
+groovecoder
+ethertank
+cohadar
+brianloveswords
+FredB
+syssgx
+grendel
+Jeremie
+Jürgen Jeka
+Mgjbot
+BijuGC

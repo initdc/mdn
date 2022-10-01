@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/index.md
+
+# Original Wiki contributors
+mfuji09
+snakada
+silverskyvicto
+isdh
+dskmori
+Uemmra3
+oasis-forever
+myakura
+yyss
+hamasaki
+ethertank

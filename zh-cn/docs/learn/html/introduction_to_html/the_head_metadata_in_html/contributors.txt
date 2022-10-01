@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/introduction_to_html/the_head_metadata_in_html/index.md
+
+# Original Wiki contributors
+zrzjohn
+wayne_lau
+Roy-Tian
+Sphish
+PYGC
+WoodCube
+fangfangfanga
+eagle1949
+Metaloe
+HolaForce
+qinruiy
+codeofjackie
+CaTmmao
+yevivid
+Willian.G
+Milktea
+anan0v0
+zhaoqize
+fengkx
+oldpotter
+littledust
+hjb912
+tianhu288
+Mac_zhang
+BarryLiu1995
+HashubWang
+littermark
+igigi
+876843240
+mhengrui
+Daryl.L
+chinazhaghai
+sisyphus-zhou

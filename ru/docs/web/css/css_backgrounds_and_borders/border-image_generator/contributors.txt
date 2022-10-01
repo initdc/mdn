@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/css_backgrounds_and_borders/border-image_generator/index.md
+
+# Original Wiki contributors
+BychekRU

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/navigator/registerprotocolhandler/index.md
+
+# Original Wiki contributors
+Fluorinx
+fscholz
+teoli
+khalid32
+BenoitL
+Mgjbot

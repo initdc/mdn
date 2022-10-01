@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/access-control-max-age/index.md
+
+# Original Wiki contributors
+mfuji09
+philfreo
+gabrielweyer
+fscholz
+mushang11
+Jothay
+teoli

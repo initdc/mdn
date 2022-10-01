@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlmediaelement/currentsrc/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+KingMob
+erikadoyle
+primozcigler
+Sheppy
+markg

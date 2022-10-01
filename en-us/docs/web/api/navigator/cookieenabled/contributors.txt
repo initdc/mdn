@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/cookieenabled/index.md
+
+# Original Wiki contributors
+mfuji09
+Malvoz
+jakub-g
+connorshea
+jpmedley
+Tigt
+fmarier
+abbycar
+Sebastianz
+anthonyryan1
+teoli
+MHasan
+kscarfone
+DD0101
+Shraddha_Magdum
+Prachi_Dighe
+Sheppy
+ziyunfei
+Mgjbot
+Nickolay
+Diablownik
+Dria
+JesseW

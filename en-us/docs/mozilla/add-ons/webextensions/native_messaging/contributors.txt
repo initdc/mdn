@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/native_messaging/index.md
+
+# Original Wiki contributors
+OhLookADoor
+rebloor
+pyrho
+tgiardina
+Zearin_Galaurum
+SphinxKnight
+rick3162
+seanlinsley_
+mgarg1
+chrisdavidmills
+codyfish
+e2e8
+mwgamera
+wbamberg
+Allasso
+ThiefMaster
+nulldivisor
+andrewtruongmoz
+TaylorM
+urmet
+kmaglione
+nemoload

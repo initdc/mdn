@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/descendant_combinator/index.md
+
+# Original Wiki contributors
+zhuangyin
+ExE-Boss
+RainSlide
+fscholz
+teoli
+alimon

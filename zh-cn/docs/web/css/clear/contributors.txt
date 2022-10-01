@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/clear/index.md
+
+# Original Wiki contributors
+XSun771
+happyLiGoGo
+Ende93
+Bayes
+luneice
+xgqfrms-GitHub
+yrk0556
+Lingfighting
+fscholz
+Sebastianz
+sartrey
+Hey-Ray

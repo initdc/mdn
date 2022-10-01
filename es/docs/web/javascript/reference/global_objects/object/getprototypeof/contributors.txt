@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/object/getprototypeof/index.md
+
+# Original Wiki contributors
+tutugordillo
+Siro_Diaz

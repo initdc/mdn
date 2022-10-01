@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/arraybuffer/slice/index.md
+
+# Original Wiki contributors
+Black-Kitsune-Gold-Tail
+mfuji09
+alattalatta
+fscholz
+wbamberg
+jameshkramer
+roryokane

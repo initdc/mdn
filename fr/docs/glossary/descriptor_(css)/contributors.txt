@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/glossary/descriptor_(css)/index.md
+
+# Original Wiki contributors
+loella16

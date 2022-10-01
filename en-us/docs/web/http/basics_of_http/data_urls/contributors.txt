@@ -1,0 +1,46 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/basics_of_http/data_urls/index.md
+
+# Original Wiki contributors
+simon04
+idleray
+pygy
+cvickery
+hinell
+mfuji09
+aetonsi
+Peppesterest
+Alpha
+chrisdavidmills
+Ethan
+fscholz
+DomenicDenicola
+HTMLValidator
+teoli
+Jonathan_Watt
+oldhill
+groovecoder
+ajdavdson1
+ModMaker
+jsx
+Butterfly87
+Delapouite
+valentin.gosu
+Sheppy
+Emmanuel_Vallois
+Null
+jwhittaker
+kscarfone
+fusionchess
+brianblakely
+ziyunfei
+Rob W
+nK0de
+jreschke
+boaz
+toja
+Sevenspade
+Sephr
+Nickolay
+Np
+Waldo

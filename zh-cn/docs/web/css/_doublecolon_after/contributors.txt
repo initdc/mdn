@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/_doublecolon_after/index.md
+
+# Original Wiki contributors
+HayashiMei
+wink
+xgqfrms-GitHub
+liubobuzhidao
+lixinxin93
+shuihuo
+LichMscy
+FredWe
+fskuok
+teoli
+ziyunfei

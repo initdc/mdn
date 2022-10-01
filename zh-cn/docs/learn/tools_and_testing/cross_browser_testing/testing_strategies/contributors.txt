@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/tools_and_testing/cross_browser_testing/testing_strategies/index.md
+
+# Original Wiki contributors
+wangfangping
+YaoLIII
+ty4z2008

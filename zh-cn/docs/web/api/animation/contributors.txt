@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/animation/index.md
+
+# Original Wiki contributors
+1v9
+xgqfrms-GitHub
+Taoja
+wth
+fiona23
+thanos

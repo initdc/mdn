@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/null/index.md
+
+# Original Wiki contributors
+wallena3
+RainSlide
+GreedyPig
+zxsunrise
+zhuangyin
+Jiang-Xuan
+SphinxKnight
+ziyunfei
+AlexChao
+teoli

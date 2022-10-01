@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/security/subdomain_takeovers/index.md
+
+# Original Wiki contributors
+jswisher

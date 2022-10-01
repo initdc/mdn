@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mdn/mdn_product_advisory_board/membership/index.md
+
+# Original Wiki contributors
+wbamberg
+liminjun

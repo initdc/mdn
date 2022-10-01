@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/performance/what_is_web_performance/index.md
+
+# Original Wiki contributors
+estelle
+chrisdavidmills
+kiyayo
+walonge
+anthoniaocc
+minas1
+spencercorwin
+sanunes

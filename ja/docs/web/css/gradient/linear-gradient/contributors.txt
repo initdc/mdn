@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/gradient/linear-gradient/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+SphinxKnight
+Sebastianz
+Simplexible
+wizAmit
+slayslot
+prayash
+ethertank
+sosleepy
+Level
+FredB

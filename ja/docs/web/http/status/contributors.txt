@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/status/index.md
+
+# Original Wiki contributors
+mfuji09
+saitouena
+silverskyvicto
+yoshinag
+mdmss37
+yyss
+fscholz
+hamasaki

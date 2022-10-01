@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvas_api/tutorial/drawing_text/index.md
+
+# Original Wiki contributors
+stephaniehobson
+RegalVapor
+nmve
+teoli
+fscholz
+Jeremie
+ethertank
+Sheppy
+markg
+jviereck
+lmorchard
+ernestd
+CyberShadow
+Brettz9
+Taken
+bgalbs
+Superbeach
+gandalf
+Adx
+BenoitL
+Mgjbot
+Nickolay
+robarnold

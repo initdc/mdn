@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/justify-content/index.md
+
+# Original Wiki contributors
+serj-by
+Radragon
+HImichun
+IgorPuchkov2003
+Connor-CopLand
+PaulineNemchak
+SelenIT
+talgautb
+AlexSND
+davidyuk
+FeliciaJess
+alexandrtovmach

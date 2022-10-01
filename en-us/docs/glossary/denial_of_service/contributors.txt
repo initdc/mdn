@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/denial_of_service/index.md
+
+# Original Wiki contributors
+Andrew_Pfeiffer
+prox
+Jeremie
+Biraj
+SphinxKnight

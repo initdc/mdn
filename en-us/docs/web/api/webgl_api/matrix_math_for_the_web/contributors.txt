@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webgl_api/matrix_math_for_the_web/index.md
+
+# Original Wiki contributors
+Wind1808
+RoutinePoutine
+Sheppy
+pengdlzn
+DrGaud
+wbamberg
+mfluehr
+nmve
+gregtatum
+chrisdavidmills

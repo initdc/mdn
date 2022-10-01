@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/adobe_flash/index.md
+
+# Original Wiki contributors
+darby
+mfuji09
+chrisdavidmills
+jonathan-barrios
+klez
+Andrew_Pfeiffer
+hbloomer
+Jeremie

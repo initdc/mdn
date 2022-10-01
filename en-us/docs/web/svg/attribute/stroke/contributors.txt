@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/stroke/index.md
+
+# Original Wiki contributors
+aplaice
+ExE-Boss
+Jeremie
+connorshea
+Jonathan_Watt
+chrisdavidmills
+tonedef
+ntinsley78
+elindie
+netsurfer912

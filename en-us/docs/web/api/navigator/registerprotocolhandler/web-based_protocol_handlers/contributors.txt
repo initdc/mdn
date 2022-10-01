@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/registerprotocolhandler/web-based_protocol_handlers/index.md
+
+# Original Wiki contributors
+sundevour
+chrisdavidmills
+thgh
+ObooChin
+Jeremie
+groovecoder
+teoli
+staktrace
+ethertank
+Skierpage
+sebmozilla
+Crash
+tito
+Brettz9
+Chris Chittleborough
+Sheppy
+Dabear
+Mgjbot
+Varmaa
+Potappo
+Shamrin
+Dmose
+MarkFinkle
+Mcaruso
+Callek

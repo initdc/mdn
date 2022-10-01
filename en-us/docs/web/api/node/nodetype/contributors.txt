@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/nodetype/index.md
+
+# Original Wiki contributors
+bathos
+Tigt
+JonathanPool
+mfluehr
+ExE-Boss
+fscholz
+chadchabot
+sjakthol
+teoli
+Delapouite
+kscarfone
+Reachmeatshivam
+Scimonster
+Sheppy
+freddyb
+ethertank
+ziyunfei
+evilpie
+Matej Lednar
+Mgjbot
+Federico
+Nickolay
+Jabez
+Ptak82
+BenoitL
+Pmsyyz
+Callek
+JesseW

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/button/index.html
+
+# Original Wiki contributors
+MarielaBR
+evaferreira
+Sebastianz
+jigs12
+oece
+teoli
+ethertank
+Jorolo

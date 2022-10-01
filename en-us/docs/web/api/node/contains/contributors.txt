@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/contains/index.md
+
+# Original Wiki contributors
+fscholz
+Nickolay
+abbycar
+Sebastianz
+gluecksmelodie
+JacksonGL
+teoli
+JamesGreene
+bwrrp
+kscarfone
+namolmes
+t0dd.moz
+Sheppy
+peter_mclarnan
+JorisW
+ethertank
+mattcg
+ziyunfei
+gilesburdett
+RobertWHurst
+Bzbarsky
+paul.irish

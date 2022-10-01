@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/tutorial/positions/index.md
+
+# Original Wiki contributors
+LennyObez
+Jean-MariePETIT
+teoli
+PetiPandaRou
+Goofy

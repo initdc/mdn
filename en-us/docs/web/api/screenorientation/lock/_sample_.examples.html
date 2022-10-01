@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>ScreenOrientation.lock() - examples - code sample</title>
+    </head>
+    <body>
+        
+            <div id="example_container">
+  <button id="fullscreen_button">Fullscreen</button>
+  <button id="lock_button">Lock</button>
+  <button id="unlock_button">Unlock</button>
+  <textarea id="log" rows="7" cols="85"></textarea>
+</div>
+
+        
+        
+            <script>
+                const log = document.getElementById("log");
+
+// Lock button: Lock the screen to the other orientation (rotated by 90 degrees)
+const rotate_btn = document.querySelector('#lock_button');
+rotate_btn.addEventListener('click', () => {
+  log.textContent+=`Lock pressed \n`;
+
+  const oppositeOrientation = screen.orientation.type.startsWith("portrait") ? "landscape" : "portrait";
+  screen.orientation.lock(oppositeOrientation)
+    .then(() => {
+      log.textContent = `Locked to ${oppositeOrientation}\n`
+      }
+    )
+    .catch((error) => {
+      log.textContent += `${error}\n`;
+    });
+});
+
+// Unlock button: Unlock the screen orientation (if locked)
+const unlock_btn = document.querySelector('#unlock_button');
+unlock_btn.addEventListener('click', () => {
+  log.textContent+='Unlock pressed \n';
+  screen.orientation.unlock();
+} );
+
+// Full screen button: Set the example to fullscreen.
+const fullscreen_btn = document.querySelector('#fullscreen_button');
+fullscreen_btn.addEventListener('click', () => {
+  log.textContent+='Fullscreen pressed \n';
+  const container = document.querySelector("#example_container");
+  container.requestFullscreen().catch((error) => {
+      log.textContent += `${error}\n`
+  });
+} );
+
+            </script>
+        
+    </body>
+</html>

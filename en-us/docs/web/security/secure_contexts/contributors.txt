@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/security/secure_contexts/index.md
+
+# Original Wiki contributors
+hamishwillee
+sideshowbarker
+Malvoz
+mfuji09
+jamesdhurd
+fscholz
+brightghost
+david_ross
+Ajimi
+Sheppy
+chrisdavidmills
+Jonathan_Watt
+mnoorenberghe
+johannh
+jonathanKingston
+cpeterson
+rolfedh
+PushpitaPikuDey

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/mime_type/index.html
+
+# Original Wiki contributors
+an5000
+elvin666666
+margaritashvetsov
+ilia-valchenko

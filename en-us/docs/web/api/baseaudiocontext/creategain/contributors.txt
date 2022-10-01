@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/baseaudiocontext/creategain/index.md
+
+# Original Wiki contributors
+bershanskiy
+ollpu
+daniil-loban
+fredericmarx
+fscholz
+ixth
+MysteryPancake
+chrisdavidmills
+Sheppy
+erikadoyle
+teoli

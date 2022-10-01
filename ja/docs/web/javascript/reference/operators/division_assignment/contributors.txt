@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/operators/division_assignment/index.md
+
+# Original Wiki contributors
+dskmori
+mfuji09

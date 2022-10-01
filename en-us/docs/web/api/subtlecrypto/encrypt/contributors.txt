@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/subtlecrypto/encrypt/index.md
+
+# Original Wiki contributors
+wbamberg
+therealadityashankar
+geoctrl
+Sheppy
+danog
+jamieS95
+Ecostack
+chrisdavidmills
+rugk
+stojce
+earwig
+fscholz
+getify
+Skwai
+JFrankfurt
+microshine
+Dans24
+chrisveness
+abbycar
+Wladimir_Palant
+pstricker
+TheRealJZ
+teoli
+kjannis

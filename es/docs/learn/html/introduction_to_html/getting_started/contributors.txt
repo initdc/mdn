@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/html/introduction_to_html/getting_started/index.md
+
+# Original Wiki contributors
+nilo15
+Nachec
+UOCccorcoles
+maodecolombia
+Enesimus
+editorUOC
+narvmtz
+dmipaguirre
+BubuAnabelas
+marlabarbz
+erllanosr
+r2fv
+jonasmreza
+Cjpertuz
+yan-vega
+Armando-Cruz
+felixgomez
+olvap
+emermao
+soedrego
+Abihu
+mitocondriaco
+nahuelsotelo
+dayamll
+JimP99
+EdwinTorres
+salvarez1988
+cizquierdof
+juanluis
+welm

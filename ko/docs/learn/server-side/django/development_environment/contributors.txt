@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/server-side/django/development_environment/index.md
+
+# Original Wiki contributors
+myanjini
+honggaruy
+KSYong
+SYCHOI
+kyueunQ
+JieunKim

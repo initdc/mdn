@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/element/index.md
+
+# Original Wiki contributors
+JNa0
+NacimHarfouche
+fscholz
+loella16
+teoli
+soumya
+Delapouite
+Julien.stuby
+BenoitL
+Mgjbot
+Fredchat
+Sam.bree
+Takenbot
+GT
+Anonymous

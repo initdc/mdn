@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/formdata/using_formdata_objects/index.md
+
+# Original Wiki contributors
+mountainsky13189
+YogurtQ
+Bayes
+wuchunxu
+weilong
+banli17
+tyw2015
+TYPE-O56
+ziv.zjc

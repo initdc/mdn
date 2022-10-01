@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/range/intersectsnode/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+jsx
+ethertank

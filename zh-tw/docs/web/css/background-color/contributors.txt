@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/css/background-color/index.md
+
+# Original Wiki contributors
+SphinxKnight
+s10750257
+Sebastianz
+Shiyou

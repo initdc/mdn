@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/webassembly/c_to_wasm/index.md
+
+# Original Wiki contributors
+limkukhyun
+jung-han
+04SeoHyun
+nakyong

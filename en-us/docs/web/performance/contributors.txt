@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/performance/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+hallb9
+estelle
+TheBox193
+irenesmith
+anthoniaocc
+Maxgy
+christopherwilson1

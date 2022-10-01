@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/reflect/get/index.md
+
+# Original Wiki contributors
+kongaraju
+mfuji09
+Soupedenuit
+fscholz
+Zearin_Galaurum
+alattalatta
+saintstarrow
+wbamberg
+chrisdavidmills
+Bolinhozz
+jameshkramer
+nmve
+kdex
+bsara
+eduardoboucas
+gingerik

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/css_flow_layout/intro_to_formatting_contexts/index.md
+
+# Original Wiki contributors
+Radragon

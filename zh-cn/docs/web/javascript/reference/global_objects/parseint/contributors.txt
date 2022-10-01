@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/parseint/index.md
+
+# Original Wiki contributors
+熊英明
+liuy666
+zhuguibiao
+SAYHISAYHI
+jjc
+frankfang1990
+pantao
+liuzhengdong
+lmislm
+Roland_Reed
+Eurkidu
+Mars687
+cyancity
+BrightLD
+hua03
+ywjco
+lcxmaple
+weicaiyue
+righttoe
+xgqfrms-GitHub
+xiaohangJose
+PengyuanJiang
+xuzhijun
+du0m0
+XingxianLI
+teoli
+AlexChao
+Mickeyboy

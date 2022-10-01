@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/append/index.md
+
+# Original Wiki contributors
+TrevorKarjanis
+mfuji09
+beingmrkenny
+Zearin_Galaurum
+timtim17
+matthewp
+mfluehr
+ExE-Boss
+raidiun
+stevenwdv
+Delapouite
+gretencord
+jszhou
+valtlai
+jpmedley
+fscholz

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/server-side/node_server_without_framework/index.md
+
+# Original Wiki contributors
+Chuji-volunteer
+silverskyvicto

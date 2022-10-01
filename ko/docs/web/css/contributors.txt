@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/index.md
+
+# Original Wiki contributors
+alattalatta
+SphinxKnight
+dbwodlf3
+Netaras
+jaeminkim87
+teoli
+jaemin_jo
+Ioseph
+Sebuls
+Jiyoon
+Channy

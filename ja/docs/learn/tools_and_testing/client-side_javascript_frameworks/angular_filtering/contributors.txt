@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/tools_and_testing/client-side_javascript_frameworks/angular_filtering/index.md
+
+# Original Wiki contributors
+

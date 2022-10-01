@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webgl_api/tutorial/index.md
+
+# Original Wiki contributors
+wxyads
+doodlewind
+BeastHan
+lunix01
+JoshuaLee
+zhe13
+Will.Fan
+fscholz

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/nav/index.md
+
+# Original Wiki contributors
+benito-san
+DagoGuevara
+driconmax
+teoli
+martinbarce
+makoescalzo

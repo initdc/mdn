@@ -1,0 +1,43 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xslt/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+sujaynarayan2
+SphinxKnight
+mfuji09
+kammasreenew
+wbamberg
+leela52452
+smoothie1998
+jpaugh
+ExE-Boss
+ggggjhghh
+lfaraone
+Sheppy
+ethertank
+Yecril
+sicking
+fscholz
+Gaaga
+Brettz9
+Verruckt
+Sebuls
+Okome
+Federico
+Nukeador
+Ptak82
+Dria
+Justdave
+Serginandr
+Adriannecurry
+Robindranatt
+Kynilyator
+Pizdorvanec
+Shimono
+Arzach
+Chbok
+Nickolay
+RuiMaciel
+gandalf
+Mathieu Deaudelin

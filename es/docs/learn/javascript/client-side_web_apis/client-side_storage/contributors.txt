@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/javascript/client-side_web_apis/client-side_storage/index.md
+
+# Original Wiki contributors
+Nachec
+Enesimus

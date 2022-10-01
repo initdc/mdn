@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  /* 例でユーザーがテキストを選択するのを防ぐ */
+  user-select: none;
+}
+
+#draggable {
+  text-align: center;
+  background: white;
+}
+
+.dropzone {
+  width: 200px;
+  height: 20px;
+  background: blueviolet;
+  margin: 10px;
+  padding: 10px;
+}
+
+        </style>
+        
+        <title>HTMLElement: dragover イベント - a_minimal_drag_and_drop_example - code sample</title>
+    </head>
+    <body>
+        
+            <div class="dropzone">
+  <div id="draggable" draggable="true">
+    この div はドラッグ可
+  </div>
+</div>
+<div class="dropzone" id="droptarget"></div>
+
+        
+        
+            <script>
+                let dragged = null;
+
+const source = document.getElementById("draggable");
+source.addEventListener("dragstart", event => {
+  // ドラッグ中の要素の参照を保存
+  dragged = event.target;
+});
+
+const target = document.getElementById("droptarget");
+target.addEventListener("dragover", event => {
+  // ドロップできるように既定の動作を停止
+  event.preventDefault();
+});
+
+target.addEventListener("drop", event => {
+  // 既定の動作（一部の要素でリンクとして開く）を行わないようにする。
+  event.preventDefault();
+  // ドラッグした要素を選択されたドロップターゲットに移動する
+  if (event.target.className == "dropzone") {
+    dragged.parentNode.removeChild(dragged);
+    event.target.appendChild(dragged);
+  }
+});
+
+            </script>
+        
+    </body>
+</html>

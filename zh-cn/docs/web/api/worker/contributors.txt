@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/worker/index.md
+
+# Original Wiki contributors
+liguorain
+zsirfs
+LeoSpark
+Syclover-u2400
+hl4a
+xuxun
+Jiang-Xuan
+xgqfrms-GitHub
+Alphmega
+khalid32
+ziyunfei
+sunnylost

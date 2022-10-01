@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/proxy/proxy/preventextensions/index.md
+
+# Original Wiki contributors
+jinwanmian
+wonschangge
+zxh19890103
+RoXoM
+varcat

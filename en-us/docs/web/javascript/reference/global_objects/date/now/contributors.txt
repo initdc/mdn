@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/now/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+RainSlide
+janlat
+STerziev
+SphinxKnight
+Sheppy
+schalkneethling
+rileym7
+jameshkramer
+eddiejhong
+eduardoboucas
+Mingun
+kscarfone
+ethertank
+MykMelez
+MattBrubeck
+max_overdrive
+haroldb
+trevorh
+firefoxman1
+dbruant
+evilpie
+Waldo
+Potappo
+Mgjbot
+Talisker
+Ptak82
+BenoitL
+Andreas Wuest

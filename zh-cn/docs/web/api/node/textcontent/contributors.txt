@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/node/textcontent/index.md
+
+# Original Wiki contributors
+Carllllo
+Jamie0327
+mokunshao
+zhuangyin
+xgqfrms-GitHub
+Wushaowei
+AlexChao
+teoli
+chyingp

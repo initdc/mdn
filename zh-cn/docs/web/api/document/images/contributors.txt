@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/images/index.md
+
+# Original Wiki contributors
+aronlee
+birdway
+teoli
+arunpandianp
+ziyunfei

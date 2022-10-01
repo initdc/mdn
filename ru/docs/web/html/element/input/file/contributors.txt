@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/input/file/index.md
+
+# Original Wiki contributors
+AlexeiBelov
+danvop
+oxmap
+nernerstudios
+ahtohbi4

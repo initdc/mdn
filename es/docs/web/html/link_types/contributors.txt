@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/link_types/index.html
+
+# Original Wiki contributors
+cmmp0112
+_delta_
+moisesalmonte
+alvaromontoro
+ivansx
+vltamara

@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/title/index.md
+
+# Original Wiki contributors
+fscholz
+JamesCatt
+alattalatta
+SphinxKnight
+zhoulongwow
+Koavf
+mfuji09
+jswisher
+KLIWONJagung
+edent
+JCodeg
+Sheppy
+dsmatlak
+sinistersnare
+ericwbailey
+snuggs
+sideshowbarker
+libbymc
+Tigt
+teoli
+Jeremie
+love21pink
+kscarfone
+medicdude
+ethertank
+enderandpeter
+McGurk
+Ms2ger

@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/introduction_to_html/advanced_text_formatting/index.md
+
+# Original Wiki contributors
+kuailekai
+Chell
+Roy-Tian
+MorrisLi
+CesarChang
+kenneth55555
+cetewhale
+xq20160912
+monkey-king
+imba-tjd
+kaka4NERV
+HolaForce
+codeofjackie
+jwhitlock
+anlien
+eelord
+lihaoyuan
+superkuang
+zhaoqize
+023Sparrow
+yydzxz
+dirringx
+HashubWang
+xiaofei86
+luwudang
+weikunzz

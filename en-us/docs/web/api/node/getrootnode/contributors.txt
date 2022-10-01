@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/getrootnode/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+mfluehr
+ExE-Boss
+jpmedley
+Krinkle
+bede
+mkutny
+jszhou

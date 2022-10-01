@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/server-side/express_nodejs/index.md
+
+# Original Wiki contributors
+Uemmra3
+Potappo
+silverskyvicto
+thinking-capybara
+lol-russo

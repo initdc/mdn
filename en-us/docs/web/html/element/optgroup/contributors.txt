@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/optgroup/index.md
+
+# Original Wiki contributors
+escattone
+JamesCatt
+chrisdavidmills
+sideshowbarker
+jabcreations
+mfuji09
+SphinxKnight
+teoli
+libbymc
+Sebastianz
+yyss
+kscarfone
+joflynn
+tregagnon
+Sheppy
+medicdude
+ethertank
+cers
+hobophobe
+osdm
+jswisher
+bradleymeck

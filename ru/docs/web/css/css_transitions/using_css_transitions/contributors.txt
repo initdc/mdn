@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/css_transitions/using_css_transitions/index.md
+
+# Original Wiki contributors
+Sakayama
+LFFATE
+Sajag
+ldolohov
+TicTacVengria
+agoge
+BychekRU

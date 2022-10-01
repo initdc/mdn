@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/article/index.md
+
+# Original Wiki contributors
+SphinxKnight
+edspeedy
+Hell_Carlito
+jumperparis
+marie-ototoi
+louuis
+teoli
+tregagnon
+SwordArMor

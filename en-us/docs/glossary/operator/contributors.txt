@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/operator/index.md
+
+# Original Wiki contributors
+jdblischak
+emyarod
+chrisdavidmills
+hbloomer
+Andrew_Pfeiffer
+klez
+dminca
+kscarfone
+panaggio

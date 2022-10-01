@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/showmodaldialog/index.md
+
+# Original Wiki contributors
+mfuji09
+Tigt
+SphinxKnight
+lucian95
+chrisdavidmills
+teoli
+cvrebert
+jpmedley
+fscholz
+dhodder
+jain.arpit.r
+Rugby
+kohei.yoshino
+iamanupmenon
+ethertank
+Sheppy
+Neil
+George3
+Mgjbot

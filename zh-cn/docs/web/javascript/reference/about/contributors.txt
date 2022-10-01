@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/about/index.md
+
+# Original Wiki contributors
+Jack-Q
+lunix01
+qlxiao520
+ziyunfei
+yenshen

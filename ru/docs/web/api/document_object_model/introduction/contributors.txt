@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/document_object_model/introduction/index.html
+
+# Original Wiki contributors
+shmel3
+newbornfrontender
+GraceAredel
+hardsoncore
+Flaeron
+paxarpp
+rapaich
+miirinjej
+tavira
+sersalex
+tvitcom
+Y-Taras
+Azijkes

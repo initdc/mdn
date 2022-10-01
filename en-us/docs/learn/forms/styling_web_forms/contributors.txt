@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/forms/styling_web_forms/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Lisadot
+A.Faturechi
+SKempin
+Dyomba
+Arudarin
+frontendlane
+Rob_Belics
+estelle
+wbamberg
+ferrysdayoff
+stephaniehobson
+clambodile
+david_ross
+longdoggo
+CarissaLynn73
+l1n
+stuart
+Jeremie
+kscarfone
+teoli
+Sheppy
+notabene

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/createelement/index.md
+
+# Original Wiki contributors
+oz9876
+yyyang1996
+RainSlide
+VacantThinker
+toBeTheLight
+Nygma
+xgqfrms-GitHub
+Power-kxLee
+Dcfm
+gaowanxiang
+holynewbie
+kedgeree
+FredWe

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/serviceworker/index.md
+
+# Original Wiki contributors
+alattalatta
+sideshowbarker
+jpmedley
+mfuji09
+dns2utf8
+duduindo
+ExE-Boss
+rowan_m
+chrisdavidmills
+Ehsan
+Sebastianz
+teoli
+kscarfone

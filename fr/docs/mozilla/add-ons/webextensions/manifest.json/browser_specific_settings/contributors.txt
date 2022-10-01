@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/manifest.json/browser_specific_settings/index.md
+
+# Original Wiki contributors
+hellosct1
+ExE-Boss
+loella16
+Goofy
+Bat

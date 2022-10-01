@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/canvas_api/index.html
+
+# Original Wiki contributors
+antas
+ivaskonyan
+MuradAz
+klimov-rv
+PiN
+uleming
+askolt
+fscholz
+3bl3gamer
+Neir
+teoli

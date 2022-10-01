@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/math/abs/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+alattalatta
+ashwaniraaz25
+wbamberg
+sfeldkamp
+SphinxKnight
+VanDjango
+jameshkramer
+timtjtim
+eduardoboucas
+jalexanderfox
+tiansh
+Mingun
+Agamemnus
+fred.wang
+Sheppy
+ethertank
+simevidas
+evilpie
+Sevenspade
+Waldo
+Alevensalor
+Mgjbot
+Kyodev
+Maian
+Marcoos
+Dria

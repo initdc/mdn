@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/textencoder/encode/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+gfx2017
+chrisdavidmills
+besciualex
+ExE-Boss
+fscholz
+Peppesterest
+gregtatum
+giffeler
+realityking
+kscarfone
+teoli

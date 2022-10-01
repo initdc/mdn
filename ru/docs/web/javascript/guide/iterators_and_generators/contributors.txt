@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/guide/iterators_and_generators/index.html
+
+# Original Wiki contributors
+AlexanderShushunov
+rinbik
+sivashev
+deman
+Megabyteceer
+pashutk
+kav137
+zgordan-vv
+danratnikov
+djsuprin
+uhomira

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/analysernode/fftsize/index.md
+
+# Original Wiki contributors
+dreitzner
+Jedipedia
+fscholz
+lukehorvat
+robert.rypula
+erikadoyle
+teoli
+chrisdavidmills

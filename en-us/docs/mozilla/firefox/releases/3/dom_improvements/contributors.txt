@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/3/dom_improvements/index.md
+
+# Original Wiki contributors
+wbamberg
+smalllong
+teoli
+trevorh
+Sheppy
+Masayuki
+Potappo
+Mgjbot
+Brettz9

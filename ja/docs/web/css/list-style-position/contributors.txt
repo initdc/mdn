@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/list-style-position/index.md
+
+# Original Wiki contributors
+mfuji09
+sutara79
+momdo
+teoli
+SphinxKnight
+Sebastianz
+ethertank
+sosleepy

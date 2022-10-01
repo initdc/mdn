@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/@font-face/index.md
+
+# Original Wiki contributors
+WDD
+gudkovdanila
+Luboshenko
+Fapalz
+wbamberg

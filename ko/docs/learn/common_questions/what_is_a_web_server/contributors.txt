@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/common_questions/what_is_a_web_server/index.md
+
+# Original Wiki contributors
+yr4978
+rshk2002
+doong-jo
+ghkdxofla
+jisup
+namwoo
+woojin.jo

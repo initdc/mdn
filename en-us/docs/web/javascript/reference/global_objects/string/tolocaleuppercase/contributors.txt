@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/tolocaleuppercase/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+twothe
+jameshkramer
+eduardoboucas
+Mingun
+Sheppy
+Norbert
+evilpie
+Brettz9

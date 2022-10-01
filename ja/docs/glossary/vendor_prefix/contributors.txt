@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/vendor_prefix/index.md
+
+# Original Wiki contributors
+Uemmra3
+CFLAT
+momdo
+mfuji09
+lefb766
+hamasaki
+aokashi

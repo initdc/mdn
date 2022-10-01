@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/stop/index.md
+
+# Original Wiki contributors
+Tigt
+lucian95
+momdo
+cvrebert
+fscholz
+teoli
+SphinxKnight
+Charlie74
+amaneight
+iamanupmenon
+Sheppy
+ethertank
+Mgjbot
+Dria
+JesseW

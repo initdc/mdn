@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/canvas_api/tutorial/basic_usage/index.md
+
+# Original Wiki contributors
+kbsbroad
+OkHyeon
+sujilee91
+MuhunKim

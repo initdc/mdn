@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/sharedworkerglobalscope/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+ExE-Boss
+fscholz
+Sebastianz
+teoli
+Iiro
+kscarfone

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/document_object_model/how_to_create_a_dom_tree/index.md
+
+# Original Wiki contributors
+seantw

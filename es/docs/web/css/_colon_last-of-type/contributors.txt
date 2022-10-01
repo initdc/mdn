@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/_colon_last-of-type/index.md
+
+# Original Wiki contributors
+lajaso
+teoli
+jesanchez
+jsalinas

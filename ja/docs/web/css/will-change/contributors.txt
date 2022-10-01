@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/will-change/index.md
+
+# Original Wiki contributors
+mfuji09
+chooblarin
+Uemmra3
+momdo
+hamasaki
+YuichiNukiyama
+lv7777

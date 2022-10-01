@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/notificationevent/index.md
+
+# Original Wiki contributors
+mfuji09
+Wind1808
+jpmedley
+gkalpak
+duduindo
+fscholz
+chrisdavidmills
+rolfedh

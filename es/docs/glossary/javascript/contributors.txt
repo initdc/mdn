@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/javascript/index.md
+
+# Original Wiki contributors
+Nachec
+c9009
+missmakita
+sergio_p_d
+gorrotowi

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/methods/options/index.md
+
+# Original Wiki contributors
+Tigt
+mfuji09
+BenzaitenS
+gshutler
+geoffbass
+vanillajonathan
+scooter3
+fscholz
+mgold
+teoli

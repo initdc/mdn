@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/writing-mode/index.md
+
+# Original Wiki contributors
+SphinxKnight
+YoruNoHikage
+L2o
+teoli
+FredB

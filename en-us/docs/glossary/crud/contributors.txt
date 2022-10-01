@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/crud/index.md
+
+# Original Wiki contributors
+SphinxKnight
+AlanSyue
+hbloomer
+openmando
+klez
+ruthemmanuelle
+Andrew_Pfeiffer

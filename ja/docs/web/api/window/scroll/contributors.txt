@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/scroll/index.md
+
+# Original Wiki contributors
+Kite0301
+nerikeshi-k
+u_7cc
+teoli
+AshfaqHossain
+ethertank
+Potappo

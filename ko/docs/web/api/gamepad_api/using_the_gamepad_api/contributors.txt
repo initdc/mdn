@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/gamepad_api/using_the_gamepad_api/index.md
+
+# Original Wiki contributors
+lololtoday
+alattalatta
+khg0712

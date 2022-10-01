@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/history/replacestate/index.md
+
+# Original Wiki contributors
+GKFX
+AndreasGS
+apd
+alattalatta
+p-syche
+sideshowbarker
+babenzele
+mnoorenberghe
+irenesmith

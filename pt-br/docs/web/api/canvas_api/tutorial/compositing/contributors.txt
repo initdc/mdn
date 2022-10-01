@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/canvas_api/tutorial/compositing/index.md
+
+# Original Wiki contributors
+CarlosRodrigues
+Fernandolrs
+mak213k

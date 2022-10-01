@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/display/two-value_syntax_of_display/index.md
+
+# Original Wiki contributors
+

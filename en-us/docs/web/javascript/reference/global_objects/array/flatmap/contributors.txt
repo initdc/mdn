@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/array/flatmap/index.md
+
+# Original Wiki contributors
+OtterOne
+zrw354
+wbamberg
+fscholz
+sideshowbarker
+Baptistou
+SphinxKnight
+MohammedEssehemy
+dns2utf8
+zbjornson
+joshuakelly
+behnammodi
+HaveF
+nspur
+mikesherov
+justin0022
+mfluehr
+Konrud
+sunnykgupta
+LJHarb
+wmsbill

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/_colon_not/index.md
+
+# Original Wiki contributors
+skywalker_z
+jaredhan418
+RainSlide
+Ritr
+ly525
+nick-ChenZe
+FredWe

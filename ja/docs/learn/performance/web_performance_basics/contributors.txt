@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/performance/web_performance_basics/index.md
+
+# Original Wiki contributors
+silverskyvicto
+shin1810

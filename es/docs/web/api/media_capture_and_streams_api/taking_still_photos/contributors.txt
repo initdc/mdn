@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/media_capture_and_streams_api/taking_still_photos/index.html
+
+# Original Wiki contributors
+robertoasq
+maedca

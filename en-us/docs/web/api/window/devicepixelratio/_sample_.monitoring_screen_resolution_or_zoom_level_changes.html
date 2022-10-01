@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  font: 22px arial, sans-serif;
+}
+
+.container {
+  top: 2em;
+  width: 22em;
+  height: 14em;
+  border: 2px solid #22d;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #a9f;
+}
+
+.inner-container {
+  padding: 1em 2em;
+  text-align: justify;
+  text-justify: auto;
+}
+
+.pixel-ratio {
+  position: relative;
+  margin: auto;
+  height: 1.2em;
+  text-align: right;
+  bottom: 0;
+  right: 1em;
+  font-weight: bold;
+}
+
+        </style>
+        
+        <title>Window.devicePixelRatio - monitoring_screen_resolution_or_zoom_level_changes - code sample</title>
+    </head>
+    <body>
+        
+            <div class="container">
+  <div class="inner-container">
+    <p>
+      This example demonstrates the effect of zooming the page in and out (or
+      moving it to a screen with a different scaling factor) on the value of the
+      property <code>Window.devicePixelRatio</code>. Try it and watch what
+      happens!
+    </p>
+  </div>
+  <div class="pixel-ratio"></div>
+</div>
+
+        
+        
+            <script>
+                let pixelRatioBox = document.querySelector(".pixel-ratio");
+
+const updatePixelRatio = () => {
+  let pr = window.devicePixelRatio;
+  let prString = (pr * 100).toFixed(0);
+  pixelRatioBox.innerText = `${prString}% (${pr.toFixed(2)})`;
+  matchMedia(`(resolution: ${pr}dppx)`).addEventListener("change", updatePixelRatio, { once: true })
+}
+
+updatePixelRatio();
+
+            </script>
+        
+    </body>
+</html>

@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/uint8clampedarray/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+Azin
+jameshkramer
+JonMarkPerry
+kdex
+taiyaki32lp64
+jfirebaugh
+arai
+liamcmitchell
+Sheppy
+kscarfone
+teoli
+nkron
+ethertank
+fusionchess

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/box-flex-group/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+Sheppy
+ExE-Boss
+mfuji09
+teoli
+fscholz
+mfluehr
+Sebastianz
+jwhitlock
+Jeremie
+velvel53
+scottrowe

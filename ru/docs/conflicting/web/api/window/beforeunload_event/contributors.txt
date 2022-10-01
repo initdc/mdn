@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/conflicting/web/api/window/beforeunload_event/index.html
+
+# Original Wiki contributors
+bershanskiy
+Khich
+mcmimik
+R.A.S.
+sumthief
+WispProxy
+vitalyzhakov
+artemderzkiy
+rtf-const

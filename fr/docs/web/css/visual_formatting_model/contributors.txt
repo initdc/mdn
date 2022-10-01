@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/visual_formatting_model/index.md
+
+# Original Wiki contributors
+devscipline
+echayotte
+SphinxKnight

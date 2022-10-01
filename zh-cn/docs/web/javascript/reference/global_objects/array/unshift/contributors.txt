@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/unshift/index.md
+
+# Original Wiki contributors
+benngai123
+No_risk_atpresent
+jinger7281
+heeronchang
+RainSlide
+L9m
+zhangchen
+fscholz
+xgqfrms-GitHub
+AlexChao
+ziyunfei
+teoli
+xfeng

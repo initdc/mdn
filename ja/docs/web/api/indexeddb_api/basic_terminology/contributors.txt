@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/indexeddb_api/basic_terminology/index.md
+
+# Original Wiki contributors
+Uemmra3
+Wind1808
+wbamberg
+SphinxKnight
+mandel59
+yyss

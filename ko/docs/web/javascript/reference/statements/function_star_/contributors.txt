@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/statements/function_star_/index.md
+
+# Original Wiki contributors
+alattalatta
+SphinxKnight
+silmari
+kdex
+resoliwan
+KisukPark
+AHNJAEHA
+preco21
+JaehaAhn

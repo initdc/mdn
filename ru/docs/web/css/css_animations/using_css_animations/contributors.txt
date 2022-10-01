@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/css_animations/using_css_animations/index.md
+
+# Original Wiki contributors
+dmarkin
+trman
+KatyaRyazantseva
+Inqanter
+pseudoliza
+ShadF0x
+verbaux
+SphinxKnight
+mrkorsar
+teoli
+ukarim

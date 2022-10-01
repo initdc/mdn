@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/symbol/description/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+ddbeck
+sideshowbarker
+ExE-Boss
+turtlemaster19
+LJHarb

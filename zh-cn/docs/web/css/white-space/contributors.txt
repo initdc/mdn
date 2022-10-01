@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/white-space/index.md
+
+# Original Wiki contributors
+linxz_
+yatsov
+Zhang-Junzhi
+zhangchen
+yuansu
+OlafCheng
+changjingli
+fscholz
+Sebastianz
+FredWe
+paddingme
+szmtcjm

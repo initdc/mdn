@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/orphaned/web/progressive_web_apps/developer_guide/index.html
+
+# Original Wiki contributors
+Deng_C1

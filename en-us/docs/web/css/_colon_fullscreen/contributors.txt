@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_fullscreen/index.md
+
+# Original Wiki contributors
+wbamberg
+dominicegginton
+kslstn
+Sheppy
+fscholz
+mfluehr
+alberts+
+chrisdavidmills
+erikadoyle
+Sebastianz
+fcard
+Lemondoge
+yisibl
+cvrebert
+mattbrundage
+jwhitlock
+teoli
+dstorey
+themitchy
+bradleyflood
+HTMLValidator
+Bhojendra
+kscarfone
+dhritzkiv

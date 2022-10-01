@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/18/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+kdex
+fscholz
+kohei.yoshino
+teoli
+dbruant
+ethertank
+Sheppy
+DroidTomTom
+mattbrundage
+Bzbarsky
+vyv03354
+dynamis
+jduell
+myakura
+gesys@tiscali.it
+trevorh
+evilpie
+mkato
+GPHemsley
+claudepache

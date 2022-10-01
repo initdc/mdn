@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/community/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Dicklessgreat
+mfuji09
+jswisher
+wbamberg
+SphinxKnight
+mkato
+yyss
+dskmori
+Uemmra3
+KKcompany39

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/learn/javascript/objects/object_prototypes/index.md
+
+# Original Wiki contributors
+tangerine1202
+roycrxtw
+MashKao

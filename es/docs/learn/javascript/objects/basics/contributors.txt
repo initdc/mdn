@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/javascript/objects/basics/index.md
+
+# Original Wiki contributors
+Nachec
+Fernando-Funes
+pmusetti
+ivanagui2
+djdouta
+seba2305
+B1tF8er
+kevin-loal98

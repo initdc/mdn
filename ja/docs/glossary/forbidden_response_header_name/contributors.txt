@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/forbidden_response_header_name/index.md
+
+# Original Wiki contributors
+unarist

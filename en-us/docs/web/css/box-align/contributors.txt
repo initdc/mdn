@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/box-align/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+fscholz
+Thorn
+mfluehr
+jswisher
+jaynalocke
+erikadoyle
+Siilwyn
+Sebastianz
+kscarfone
+ethertank
+sawrubh
+MattBrubeck
+scottrowe
+thogarth
+jungundwillich
+ernestd
+kurrik
+BijuGC
+Fredchat
+Ptak82
+DBaron
+Rod Whiteley

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/eventtarget/removeeventlistener/index.md
+
+# Original Wiki contributors
+mfuji09
+isdh
+Dolphin_Wood
+yyss
+jgs
+fscholz
+khalid32
+ethertank
+Potappo

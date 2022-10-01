@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/number/index.md
+
+# Original Wiki contributors
+mfuji09
+yuta0801
+x2357

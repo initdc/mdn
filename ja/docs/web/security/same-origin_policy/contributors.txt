@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/security/same-origin_policy/index.md
+
+# Original Wiki contributors
+mfuji09
+commis1059
+hashedhyphen
+hamasaki
+yyss
+geckotang+gh
+ethertank
+Ghostheaven
+Potappo
+Kohei

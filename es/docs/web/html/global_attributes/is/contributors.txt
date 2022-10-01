@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/global_attributes/is/index.md
+
+# Original Wiki contributors
+daniel.duarte

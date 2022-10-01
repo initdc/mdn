@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>NamedNodeMap.setNamedItemNS() - example - code sample</title>
+    </head>
+    <body>
+        
+            <span ob:one="one"></span>
+<pre></pre>
+
+        
+        
+            <script>
+                const parser = new DOMParser();
+// ob:one in <span> is not in a namespace, while ob:one in <warning>, is.
+const xmlString = '<warning ob:one="test" xmlns:ob="http://www.example.com/ob">Beware!</warning>';
+const doc = parser.parseFromString(xmlString, "application/xml");
+
+const span = document.getElementsByTagName("span")[0];
+const pre = document.getElementsByTagName("pre")[0];
+const warning = doc.getElementsByTagName("warning")[0];
+const attrMap = span.attributes;
+
+let result = `The '<span>' element initially contains ${attrMap.length} attribute.\n\n`;
+
+result += "We remove `one` from '<span>' and adds it to '<pre>'.\n";
+const one = warning.attributes.removeNamedItemNS("http://www.example.com/ob", "one");
+attrMap.setNamedItemNS(one);
+result += `The '<span>' element now contains ${span.attributes.length} attributes:\n\n`;
+result += "Prefix\tLocal name\tQualified name\n";
+result += "=========================================\n";
+
+for (const attr of attrMap) {
+  result += `${attr.prefix}\t${attr.localName}\t\t${attr.name}\n`;
+}
+
+pre.textContent = result;
+
+            </script>
+        
+    </body>
+</html>

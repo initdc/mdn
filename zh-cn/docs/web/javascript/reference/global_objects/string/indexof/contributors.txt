@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/indexof/index.md
+
+# Original Wiki contributors
+sunchengpeng
+LaiTaoGDUT
+inlym
+Heaan
+kingsley2036
+RainSlide
+a-x
+xgqfrms-GitHub
+Ende93
+AlexChao

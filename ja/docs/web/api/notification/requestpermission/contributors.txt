@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/notification/requestpermission/index.md
+
+# Original Wiki contributors
+mfuji09
+dskmori
+sunya9
+01397
+YuichiNukiyama

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/routers/index.md
+
+# Original Wiki contributors
+iigmir
+roshan0708
+j9t
+ElliotHawkins
+Iqbalh11
+hirolemo

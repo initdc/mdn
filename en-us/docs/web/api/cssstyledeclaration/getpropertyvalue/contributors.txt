@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cssstyledeclaration/getpropertyvalue/index.md
+
+# Original Wiki contributors
+bershanskiy
+eps1lon
+connorshea
+chaser
+Mats.Palmgren
+david_ross
+Qantas94Heavy

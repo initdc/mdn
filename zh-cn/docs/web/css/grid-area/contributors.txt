@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/grid-area/index.md
+
+# Original Wiki contributors
+knightyun
+L9m
+huasheng

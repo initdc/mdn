@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/removeattribute/index.md
+
+# Original Wiki contributors
+pyt111
+yagnlei
+czmecah
+RainSlide
+RoXoM
+SmallBusy
+xgqfrms-GitHub
+teoli
+ziyunfei
+Xiaobian

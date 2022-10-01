@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/css_font_loading_api/index.md
+
+# Original Wiki contributors
+hamishwillee
+mfuji09
+wbamberg
+sideshowbarker
+freginold
+fscholz
+YoruNoHikage
+craigkovatch
+jpmedley
+rolfedh
+teoli
+Sebastianz

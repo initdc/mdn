@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/gradient/repeating-linear-gradient/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ramiy
+wbamberg
+mfuji09
+estelle
+fscholz
+mfluehr
+yisibl
+cpplearner
+Sebastianz
+Prinz_Rana
+wizAmit
+prayash
+MichaelZalla
+teoli
+opm3
+phistuck
+kscarfone
+FredB
+xdhmoore
+riccieri
+Sheppy
+0b10011
+CutenessOverload
+Huan
+kathyw
+grendel
+dpashkevich
+cers

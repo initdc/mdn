@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/svg/element/a/index.md
+
+# Original Wiki contributors
+alattalatta
+Sebastianz
+dewey94esb

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/first_steps/arrays/index.html
+
+# Original Wiki contributors
+SphinxKnight
+Immdevrov
+chergav
+ConstantineZz
+maksolimp
+AliyevHrn
+slychai85
+10486
+samofand
+ArtyomIv

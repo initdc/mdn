@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/array/concat/index.md
+
+# Original Wiki contributors
+mfuji09
+unarist
+segayuu
+Kite0301
+woodmix
+shootaroo
+YuichiNukiyama
+teoli
+ethertank
+Yuichirou
+Mgjbot

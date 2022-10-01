@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/content-security-policy/default-src/index.md
+
+# Original Wiki contributors
+hamishwillee
+mfuji09
+sideshowbarker
+jswisher
+liyikun
+leela52452
+Malvoz
+Sheppy
+vrana
+TVke
+jpmedley
+fscholz
+stuajc
+teoli
+sergiferran

@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/javascript/index.html
+
+# Original Wiki contributors
+moukinchung
+Chanpt
+daniel-neiva
+BeatrizCavallieri
+leanfj
+Takeshi-S
+Abraham.G.
+wcqueiroz
+paulopompeu
+CarlosFariass
+leticiacampanharo
+helton-mori-dev
+SphinxKnight
+gucaveira
+aoc85
+7aylors
+gabrielrosa2004
+byxande
+amc97
+Velasco
+marcio-ti
+Victorfm2167
+diogoslima
+deyvid0123

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/introduction_to_html/debugging_html/index.md
+
+# Original Wiki contributors
+Roy-Tian
+aaazz47
+Yang_Hanlin
+huaouo
+HolaForce
+lihaoyuan
+zhaoqize
+littledust
+Zeng
+huixiaomu

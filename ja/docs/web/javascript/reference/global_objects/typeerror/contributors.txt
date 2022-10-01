@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/typeerror/index.md
+
+# Original Wiki contributors
+mfuji09
+Uemmra3
+yyss
+teoli
+ethertank
+Potappo
+Hfjapancom

@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/index.html
+
+# Original Wiki contributors
+Jethrotul
+yohanolmedo
+JoseGB
+lajaso
+Imvi10
+chavesrdj
+SphinxKnight
+teoli
+KENARKI
+chebit
+ethertank
+Garf
+tiangolo
+Sheppy
+Nathymig
+Mgjbot

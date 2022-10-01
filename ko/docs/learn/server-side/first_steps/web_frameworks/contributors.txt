@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/server-side/first_steps/web_frameworks/index.md
+
+# Original Wiki contributors
+proost
+shotbyshot
+bcc829
+Je-Gwan
+hongroba

@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/using_promises/index.md
+
+# Original Wiki contributors
+Radix10
+xuquentinyang
+HashiKudo
+brizer
+iEmcc
+johnao
+abellong
+SAM.L
+RainSlide
+VickyJin
+jessica1990
+TeabugCC
+zhuangyin
+ujsxn
+huixisheng
+yulongjing
+rxliuli
+yonoel
+DevOps
+brandonhyc
+eeeecw
+zotille
+xuziang111
+NN708
+xuxun
+zhangchen
+Evoque
+Pythonofsdc
+vanishcode
+winjeysong
+cwc7233
+TimmyKingFree

@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/change_event/index.md
+
+# Original Wiki contributors
+michaelts1
+escattone
+mfuji09
+vinyldarkscratch
+Marriaud
+mfluehr
+wbamberg
+zbjornson
+LIXiangChen
+sideshowbarker
+mnoorenberghe
+Sheppy
+fscholz
+jalbertbowden
+manngo
+erikadoyle
+Sebastianz
+DuBistKomisch
+Nickolay
+spiegelp
+LouisLazaris
+teoli
+joeytwiddle
+PixievoltNo1
+ethertank
+louisremi

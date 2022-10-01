@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/media_capabilities_api/using_the_media_capabilities_api/index.md
+
+# Original Wiki contributors
+Wind1808
+darby
+Sheppy
+ExE-Boss
+welenofsky
+chrisdavidmills
+jwhitlock
+estelle

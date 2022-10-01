@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/baseaudiocontext/createpanner/index.md
+
+# Original Wiki contributors
+bershanskiy
+fscholz
+MysteryPancake
+chrisdavidmills
+erikadoyle
+Sheppy
+padenotmoz
+teoli
+anirudh_venkatesh

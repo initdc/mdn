@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/global_objects/json/parse/index.md
+
+# Original Wiki contributors
+jacko1114
+bigbitesaint
+matthung0807
+iigmir
+kuolun

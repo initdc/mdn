@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/parsing_and_serializing_xml/index.md
+
+# Original Wiki contributors
+lionel-rowe
+tjallingt
+jabcreations
+Sheppy
+sideshowbarker
+mikerissi
+tonyfinn
+Mkmelin
+RomainLanz
+rolfedh
+southpolesteve
+teoli
+kscarfone
+Tim_Morgan
+gal007
+ethertank
+fusionchess
+ziyunfei
+Hsivonen
+pincopalla
+akorchev
+kmaglione
+Reno Greenleaf
+lgreco
+Brettz9
+Kirschkern
+ericjung
+Mgjbot
+Nickolay
+IsNull
+FST777
+Nightstrike

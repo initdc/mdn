@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/polyfill/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+RafeyIqbalRahman
+edwinlin
+Iqbalh11
+saranshgupta1995
+hawkinsw
+SphinxKnight
+Will-Peterson
+anonyco
+battaglr
+mrenty
+openmando
+klez

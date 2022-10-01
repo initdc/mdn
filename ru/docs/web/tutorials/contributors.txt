@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/tutorials/index.html
+
+# Original Wiki contributors
+Termaro
+mmbl
+ukrlex01
+rhiter
+anastasiya-solodkaya
+GraceAredel
+Tihoem
+uleming
+Steln
+aleks_root

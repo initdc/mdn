@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/events/index.md
+
+# Original Wiki contributors
+lc15011977647
+pe4ch
+RainSlide
+wbamberg
+zhangchen
+purcy
+WjmNightingale
+plter
+XiaoyaoChen
+BobGreen
+xgqfrms-GitHub
+zliy
+tcatche
+Ende93
+ziyunfei
+ReyCG_sub
+louisremi

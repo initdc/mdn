@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/overview/index.md
+
+# Original Wiki contributors
+pocketdr
+bkuke
+hehe1111
+Umryuan
+yuyuanqiu
+psaren
+wakaoniganma
+BobGreen
+hiyoushu
+LuoYun
+RayJune
+Akiq2016
+zihengCat
+usernameisMan
+Ende93
+w11th
+joezheng
+MagicLee

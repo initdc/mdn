@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/caption/index.html
+
+# Original Wiki contributors
+camilai
+Sebastianz
+jigs12
+teoli
+Jorolo

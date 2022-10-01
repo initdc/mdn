@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/node/selectstart_event/index.md
+
+# Original Wiki contributors
+oreno4649

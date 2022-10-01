@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/css_lists_and_counters/index.md
+
+# Original Wiki contributors
+mfuji09

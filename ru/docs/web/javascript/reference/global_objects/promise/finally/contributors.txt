@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/promise/finally/index.html
+
+# Original Wiki contributors
+kir.gimranov
+mshipov
+RussianPhotoGraf
+IhnatsiS
+NoviceBlunderer
+Zudwa
+x1unix

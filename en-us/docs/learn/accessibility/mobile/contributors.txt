@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/accessibility/mobile/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+vgiffin
+RafeyIqbalRahman
+valgrimm
+estelle
+jamesdhurd
+CheungJ
+stephaniehobson
+shenshaohui1991
+newyork-anthonyng
+qdirks

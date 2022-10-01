@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            .joli {
+  text-align: center;
+
+  /* On utilise la même astuce que pour
+     cercles vus avant */
+  box-sizing: border-box;
+  width     : 150px;
+  height    : 150px;
+  padding   : 80px 1em 0 1em;
+
+  /* On fait de la place pour les « oreilles »
+     du nuage */
+  margin    : 0 100px;
+
+  position: relative;
+
+  background-color: #A4C9CF;
+
+  /* Enfin, le cercle n'est pas tout à fait complet
+     car on veut que la base soit plate.
+     Vous pouvez adapter ici comme bon vous semble
+     si vous souhaitez que la base ne soit pas
+     linéaire */
+  border-radius: 100% 100% 0 0;
+}
+
+/* Voici les styles qu'on appliquera aux deux
+   pseudo-éléments ::before et ::after. */
+.joli::before,
+.joli::after {
+  /* Cette déclaration est nécessaire pour afficher
+     les pseudo-éléments même si leur valeur est la
+     chaîne vide */
+  content: '';
+
+  /* On positionne les pseudo-éléments à droite et à
+     gauche de la boîte mais toujours en bas */
+  position: absolute;
+  bottom  : 0;
+
+  /* On s'assure que les pseudo-éléments passent sous
+     le contenu qu'il y aurait. */
+  z-index : -1;
+
+  background-color: #A4C9CF;
+  border-radius: 100%;
+}
+
+.joli::before {
+  /* Voici la taille pour l'oreille gauche
+     du nuage */
+  width  : 125px;
+  height : 125px;
+
+  /* On la décale un peu à gauche */
+  left    : -80px;
+
+  /* Pour que le bas du nuage reste droit, il
+     faut s'assurer que le coin en bas à gauche
+     soit bien un angle droit. */
+  border-bottom-right-radius: 0;
+}
+
+.joli::after {
+  /* Voici la taille pour l'oreille droite */
+  width  : 100px;
+  height : 100px;
+
+  /* On la décale un peu à droite */
+  right   : -60px;
+
+ /* Pour que le bas du nuage reste droit, il
+    faut s'assurer que le coin en bas à droite
+    soit bien un angle droit. */
+  border-bottom-left-radius: 0;
+}
+
+        </style>
+        
+        <title>Créer de belles boîtes - un_nuage - code sample</title>
+    </head>
+    <body>
+        
+            <div class="joli">Coucou ! Je veux être joli.</div>
+
+        
+        
+    </body>
+</html>

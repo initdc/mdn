@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/top/index.md
+
+# Original Wiki contributors
+btea
+HuangXin
+Zhang-Junzhi
+xupea
+superkuang
+Sebastianz
+fscholz
+FredWe

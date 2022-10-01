@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/domrectreadonly/fromrect/index.md
+
+# Original Wiki contributors
+idreyn
+fscholz
+connorshea
+david_ross
+jpmedley

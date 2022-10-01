@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/history/pushstate/index.md
+
+# Original Wiki contributors
+iamsjh
+Junezm
+bobzhen
+bazinga-web
+RainSlide
+zhangchen
+woody-li
+Rudy24
+Atester
+zhe13

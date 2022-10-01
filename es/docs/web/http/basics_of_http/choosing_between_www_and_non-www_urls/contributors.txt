@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/basics_of_http/choosing_between_www_and_non-www_urls/index.html
+
+# Original Wiki contributors
+Adorta4
+carlosgocereceda

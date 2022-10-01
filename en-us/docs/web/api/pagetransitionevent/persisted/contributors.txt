@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pagetransitionevent/persisted/index.md
+
+# Original Wiki contributors
+mfluehr
+sideshowbarker
+fscholz
+Claas

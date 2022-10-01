@@ -1,0 +1,40 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/z-index/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ddbeck
+fscholz
+Lance-DC
+sideshowbarker
+mfluehr
+scarlac
+matsaman
+wbamberg
+arronei
+erikadoyle
+roryokane
+NicolasGoudry
+Sebastianz
+LightGuard
+mdrburke
+Manojkr
+Syle91
+Mats.Palmgren
+null---
+polarix
+tregagnon
+kscarfone
+teoli
+Sheppy
+ethertank
+cohadar
+Jürgen Jeka
+BijuGC
+Kyodev
+Nickolay
+DBaron
+Waltonad0283
+Mgjbot
+Mozcerize
+Edoceo

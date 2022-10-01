@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/location/index.md
+
+# Original Wiki contributors
+Rumyra
+jridgewell
+axg
+dd-pardal
+sideshowbarker
+anonyco
+chrisdavidmills
+alattalatta
+xyious
+mfuji09
+fscholz
+guchengjie
+depthdev
+sauerbraten
+BrodaNoel
+David_Gilbertson
+Jonathan_Watt
+libbymc
+bakotaco
+Sheppy
+Loadmaster
+teoli
+madarche
+AlexAngas
+kohei.yoshino
+fkling42

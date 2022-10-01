@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/status/405/index.md
+
+# Original Wiki contributors
+wonerlilo
+sideshowbarker
+lesikolerina23
+nicholascw
+yuankunzhang

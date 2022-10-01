@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/date/tolocaledatestring/index.md
+
+# Original Wiki contributors
+mfuji09
+segayuu
+Marsf
+FumioNonaka
+x2357
+shide55

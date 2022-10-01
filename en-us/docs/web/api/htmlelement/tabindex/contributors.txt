@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/tabindex/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+sideshowbarker
+Wind1808
+mfluehr
+fscholz
+momdo
+erikadoyle
+bchuchua
+Jeremie
+teoli
+mikemaccana
+ajaybhat
+kscarfone
+Sheppy
+ethertank
+kitchin
+ziyunfei
+dextra
+George3
+Callek
+Mw22
+Mgjbot
+Ptak82
+Dria
+JesseW

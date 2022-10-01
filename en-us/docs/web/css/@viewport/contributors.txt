@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@viewport/index.md
+
+# Original Wiki contributors
+wbamberg
+chrisdavidmills
+Kinan-Diraneyya
+sideshowbarker
+Zhang-Junzhi
+ExE-Boss
+mfluehr
+fscholz
+Sheppy
+erikadoyle
+cvrebert
+Sebastianz
+teoli
+hexalys
+miller9904
+nishanths
+jswisher

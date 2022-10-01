@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_grid_layout/relationship_of_grid_layout/index.md
+
+# Original Wiki contributors
+Hermedius
+comehope
+Liiked
+wolf-wolf
+Marsh
+eliseguilian
+fskuok
+ucev

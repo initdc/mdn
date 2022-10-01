@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/express_nodejs/routes/index.md
+
+# Original Wiki contributors
+hamishwillee
+MathsFan
+kruschk
+yunirsip
+prgtrdr
+WofWca
+icehongssii
+Zamy97
+chrisdavidmills
+marcelobonatto
+robertgz
+muxuezi
+wm1215
+michaeljgut
+vers10ne
+stephaniehobson
+buoyantair
+nkalvi
+erik1909hp
+dhcodes
+iamchrissmith
+imcodingideas
+JonathanPool
+wsvincent

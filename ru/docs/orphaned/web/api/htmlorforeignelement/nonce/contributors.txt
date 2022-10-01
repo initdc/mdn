@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/orphaned/web/api/htmlorforeignelement/nonce/index.html
+
+# Original Wiki contributors
+ellizii

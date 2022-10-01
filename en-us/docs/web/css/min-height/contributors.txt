@@ -1,0 +1,45 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/min-height/index.md
+
+# Original Wiki contributors
+mfuji09
+Zhurchick
+tanapok
+wbamberg
+Sheppy
+Konrud
+sideshowbarker
+rachelandrew
+FWDekker
+alattalatta
+fscholz
+mfluehr
+DailyAlice
+arronei
+erikadoyle
+duckydreams
+nkron
+Simplexible
+Sebastianz
+Prinz_Rana
+yisibl
+teoli
+cvrebert
+Nickolay
+kscarfone
+Dholbert
+dag0911
+parthiv
+FredB
+aaaidan
+trevorh
+ethertank
+ziyunfei
+scottrowe
+McGurk
+grendel
+Jürgen Jeka
+BijuGC
+Nathymig
+Fredchat
+Waldo

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/stylesheet/index.html
+
+# Original Wiki contributors
+diegovinie
+SphinxKnight
+fscholz
+khalid32
+teoli
+HenryGR

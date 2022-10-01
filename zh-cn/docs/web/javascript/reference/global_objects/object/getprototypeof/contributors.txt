@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/getprototypeof/index.md
+
+# Original Wiki contributors
+futurefeeling
+ywjco
+zhangchen
+xgqfrms-GitHub
+teoli
+AlexChao
+paddingme
+ziyunfei

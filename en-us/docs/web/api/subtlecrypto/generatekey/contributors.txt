@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/subtlecrypto/generatekey/index.md
+
+# Original Wiki contributors
+Sheppy
+cgilpatrick
+wbamberg
+chrisdavidmills
+fscholz
+kalitine
+michaelfward
+Dans24
+abbycar
+Dejmek
+teoli

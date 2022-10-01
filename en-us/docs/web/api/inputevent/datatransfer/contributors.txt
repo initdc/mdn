@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/inputevent/datatransfer/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+hoang4
+fscholz
+jpmedley

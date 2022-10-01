@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/fill/index.md
+
+# Original Wiki contributors
+TrevorKarjanis
+ExE-Boss
+stevenwdv
+Jeremie
+connorshea
+tshinnic
+Jonathan_Watt
+chrisdavidmills
+jalbertbowden
+ahvigil
+Daniel Hug

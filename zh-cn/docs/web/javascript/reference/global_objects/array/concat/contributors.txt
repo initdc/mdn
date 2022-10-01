@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/concat/index.md
+
+# Original Wiki contributors
+likev
+SageX
+qiannianchong25
+zhangchen
+fscholz
+lijinwenhg
+web-gm
+fisker
+badfl
+xgqfrms-GitHub
+Ende93
+Aralic
+borishuai
+ziyunfei
+teoli
+Chajn

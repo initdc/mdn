@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/baseaudiocontext/createoscillator/index.md
+
+# Original Wiki contributors
+fscholz
+MysteryPancake
+Jedipedia
+chrisdavidmills
+MaxPleaner
+erikadoyle
+teoli
+anirudh_venkatesh

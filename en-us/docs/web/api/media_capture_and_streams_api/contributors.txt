@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/media_capture_and_streams_api/index.md
+
+# Original Wiki contributors
+alattalatta
+Norst
+Sheppy
+jpmedley
+chrisdavidmills
+fscholz
+sideshowbarker
+tocretpa
+SphinxKnight
+Bodo1445
+erikadoyle
+Jib
+datitisev
+jihyerish
+myakura
+teoli
+kscarfone
+lukasklein
+A0F3C1A575D1
+Jeremie
+ScottMichaud
+scottrowe

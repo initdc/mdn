@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_columns/styling_columns/index.md
+
+# Original Wiki contributors
+SphinxKnight
+StanLindsey
+mfuji09
+ExE-Boss
+ausi
+estelle
+rachelandrew

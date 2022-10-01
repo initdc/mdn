@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/functions/set/index.md
+
+# Original Wiki contributors
+wallena3
+fscholz
+Austaras
+zhangchen
+xgqfrms-GitHub
+Go7hic
+teoli
+nyx2014
+LinusYu

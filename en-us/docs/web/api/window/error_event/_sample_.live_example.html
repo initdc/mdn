@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  display: grid;
+  grid-template-areas: "control log";
+}
+
+.controls {
+  grid-area: control;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.event-log {
+  grid-area: log;
+}
+
+.event-log-contents {
+  resize: none;
+}
+
+label,
+button {
+  display: block;
+}
+
+button {
+  height: 2rem;
+  margin: 0.5rem;
+}
+
+img {
+  width: 0;
+  height: 0;
+}
+
+        </style>
+        
+        <title>Window: error event - live_example - code sample</title>
+    </head>
+    <body>
+        
+            <div class="controls">
+  <button id="script-error" type="button">Generate script error</button>
+  <img class="bad-img" />
+</div>
+
+<div class="event-log">
+  <label for="eventLog">Event log:</label>
+  <textarea
+    readonly
+    class="event-log-contents"
+    rows="8"
+    cols="30"
+    id="eventLog"></textarea>
+</div>
+
+        
+        
+            <script>
+                const log = document.querySelector(".event-log-contents");
+
+window.addEventListener("error", (event) => {
+  log.textContent = `${log.textContent}${event.type}: ${event.message}\n`;
+  console.log(event);
+});
+
+const scriptError = document.querySelector("#script-error");
+scriptError.addEventListener("click", () => {
+  const badCode = "const s;";
+  eval(badCode);
+});
+
+            </script>
+        
+    </body>
+</html>

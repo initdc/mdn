@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/client/index.md
+
+# Original Wiki contributors
+rus
+Wind1808

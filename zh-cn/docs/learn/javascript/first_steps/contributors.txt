@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/first_steps/index.md
+
+# Original Wiki contributors
+mianlang
+14Mars
+AlexRen94
+WilsonQu
+xlongwang
+zsxeee
+Hysian
+ArcherGrey
+ZayneLiu
+GHLgh
+Roy1993sun
+chrisdavidmills

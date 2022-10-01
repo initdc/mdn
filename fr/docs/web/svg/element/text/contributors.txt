@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/element/text/index.md
+
+# Original Wiki contributors
+Sebastianz
+GrandSchtroumpf
+SphinxKnight
+ylerjen
+B_M

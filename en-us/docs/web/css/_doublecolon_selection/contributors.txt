@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_doublecolon_selection/index.md
+
+# Original Wiki contributors
+wbamberg
+hinell
+ramiy
+mfuji09
+Tigt
+ExE-Boss
+ericwbailey
+SphinxKnight
+chrisdavidmills
+fscholz
+mfluehr
+erikadoyle
+cvrebert
+Sebastianz
+floEdelmann
+gravgun
+amitabha197
+LouisLazaris
+kscarfone
+Sheppy
+plapier
+FredB
+teoli
+jswisher
+paul.irish
+ebidel
+rubena
+Jürgen Jeka
+juergen jeka
+j.j.
+BijuGC

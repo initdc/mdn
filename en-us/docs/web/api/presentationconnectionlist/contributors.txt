@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/presentationconnectionlist/index.md
+
+# Original Wiki contributors
+bershanskiy
+lucian95
+jpmedley
+david_ross
+jeremy-french
+MashKao

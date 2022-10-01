@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/label/index.md
+
+# Original Wiki contributors
+Carllllo
+plusmultiply0
+one-day-day
+kuei0221
+yuyuanqiu
+loveyunk
+Ende93
+tinunkai
+codevvvv9
+yinsang
+xgqfrms-GitHub
+TooBug
+ObooChin
+JulieLee77

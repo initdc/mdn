@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/functions/method_definitions/index.html
+
+# Original Wiki contributors
+Grijander81

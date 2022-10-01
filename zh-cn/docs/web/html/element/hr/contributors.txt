@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/hr/index.md
+
+# Original Wiki contributors
+mitaosi
+tanshaobo
+gafish
+lucoo01
+azheng
+nicholas-yangding
+Ende93
+pantao

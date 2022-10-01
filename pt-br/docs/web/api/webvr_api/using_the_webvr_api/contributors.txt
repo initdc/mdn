@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/webvr_api/using_the_webvr_api/index.md
+
+# Original Wiki contributors
+Cleide724

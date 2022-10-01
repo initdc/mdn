@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/endswith/index.md
+
+# Original Wiki contributors
+laampui
+RainSlide
+Veneno
+LasyIsLazy
+hongxu.Wei
+terasum
+SphinxKnight
+percy507
+teoli
+ziyunfei

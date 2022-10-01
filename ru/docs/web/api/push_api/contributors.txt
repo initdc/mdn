@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/push_api/index.md
+
+# Original Wiki contributors
+KR1470R
+MuradAz
+olvin-hh
+michael_v92
+vladislav251990
+Haosik
+savelichalex
+sosnovskyas
+AlexKart86
+idelpivnitskiy
+vadimilin888

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/compile/index.md
+
+# Original Wiki contributors
+dskmori
+yuna
+Uemmra3
+karaage-kun

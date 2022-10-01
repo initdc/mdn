@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/push_api/index.md
+
+# Original Wiki contributors
+VictorDu
+flyingsouthwind
+vankai
+xgqfrms-GitHub
+jiraiya
+ziyunfei
+BettyCHEN

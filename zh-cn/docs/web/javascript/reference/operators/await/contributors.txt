@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/await/index.md
+
+# Original Wiki contributors
+zzzimaple
+shifenjiandan
+Syclover-u2400
+chang-shuai
+i850
+shhider
+xgqfrms-GitHub
+chenlexing
+x-cold
+liuqipeng417

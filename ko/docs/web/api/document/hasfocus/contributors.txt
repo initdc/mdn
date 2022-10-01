@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/document/hasfocus/index.md
+
+# Original Wiki contributors
+alattalatta
+PineMt
+fscholz
+khalid32
+teoli
+Suguni

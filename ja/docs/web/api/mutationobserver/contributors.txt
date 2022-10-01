@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/mutationobserver/index.md
+
+# Original Wiki contributors
+gtk2k
+isdh
+dlwe
+hashedhyphen
+ethertank
+kohei.yoshino

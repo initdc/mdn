@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/pre/index.md
+
+# Original Wiki contributors
+gafish
+xgqfrms-GitHub
+jiangseventeen
+VdoG
+Ende93
+pengliheng

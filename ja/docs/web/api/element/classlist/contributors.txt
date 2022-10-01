@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/element/classlist/index.md
+
+# Original Wiki contributors
+kotonoha89
+mfuji09
+karamarimo
+fscholz
+AshfaqHossain
+pocotan001
+ethertank
+Marsf

@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/eval/index.md
+
+# Original Wiki contributors
+amzrk2
+mrzhouxu
+chrislung
+laampui
+yasen-wolf
+RainSlide
+jinhuiWong
+Akiq2016
+extending
+icepro
+eeeeeeeason
+JX-Zhuang
+yanpengxiang
+SiberianMark
+Jiang-Xuan
+Hugh
+Binly42
+ziyunfei
+fscholz
+qianjiahao
+teoli
+huguowei
+Mgjbot
+Laser

@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/indexof/index.md
+
+# Original Wiki contributors
+SageX
+Xmader
+fscholz
+futurefeeling
+jiankian
+big-dinner
+xgqfrms-GitHub
+lanezhao
+keqingrong
+Ende93
+paddingme
+AlexChao
+ziyunfei
+focus
+teoli
+eric.yuan

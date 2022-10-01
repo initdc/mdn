@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/subtlecrypto/digest/index.md
+
+# Original Wiki contributors
+mfuji09
+Sheppy
+groenborg
+chrisveness
+rugk
+mikestead
+wbamberg
+chrisdavidmills
+javseis
+gregtatum
+fscholz
+vitaly-zdanevich
+fhenneke
+programmer5000
+tophf
+bergus
+abbycar
+teemuremes
+pstricker
+Sebastianz
+GaspardP
+ttaubert
+tOkeshu
+teoli
+mesh.a

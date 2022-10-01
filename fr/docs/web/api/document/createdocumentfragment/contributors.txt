@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/createdocumentfragment/index.md
+
+# Original Wiki contributors
+loella16
+JNa0
+P45QU10U
+fscholz
+jsx
+AshfaqHossain
+teoli
+jdvauguet

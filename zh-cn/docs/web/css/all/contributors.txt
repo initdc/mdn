@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/all/index.md
+
+# Original Wiki contributors
+zhangchen
+RainSlide
+shuihuo
+Sebastianz
+fskuok

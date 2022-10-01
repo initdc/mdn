@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/analysernode/index.md
+
+# Original Wiki contributors
+vivimice
+sfilata
+stonehuang
+luojia
+maicss
+yvan0423
+WhiteMind
+Ambar
+shanghui
+teoli
+Darrel.Hsu

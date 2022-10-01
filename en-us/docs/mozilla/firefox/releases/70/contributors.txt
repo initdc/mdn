@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/70/index.md
+
+# Original Wiki contributors
+hamishwillee
+rebloor
+chrisdavidmills
+fscholz
+Whimboo
+Sheppy
+irenesmith
+digitarald
+jswisher
+Zefling
+rachelandrew
+yisibl
+Sebastianz
+past
+ExE-Boss

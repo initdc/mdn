@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/file_and_directory_entries_api/introduction/index.md
+
+# Original Wiki contributors
+mfuji09
+silverskyvicto

@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/meta/index.md
+
+# Original Wiki contributors
+RainSlide
+Carllllo
+chanvin
+dlnb526
+vanestone
+xq20160912
+ceido
+Bayes
+VdoG
+zxsunrise
+wpc1403s2
+fsx950223
+yellow-lines
+yunikoro
+scl930227
+daixinye
+zt2
+Noly1990
+aimiy
+clarkzsd
+qixi
+xgqfrms-GitHub
+wangdapeng1005
+zhouyu1993
+SolitudeRA
+Annlix
+littlee
+pantao
+SimplyY
+Fadeoc

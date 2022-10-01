@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/howto/use_data_attributes/index.md
+
+# Original Wiki contributors
+vnctdj
+LoVo666
+jmstfv
+mfuji09
+kenny-evitt
+Enrico_Polanski
+ryanve
+calebmosher
+chrisdavidmills
+rnacken
+Sheppy
+prusse-martin
+torazaburo
+jacksonrayhamilton
+drj11
+Manojkr
+Speich
+sam_eaton
+bcruddy
+teckno101
+lieuwex
+robinpokorny
+rvighne
+andrew.carpenter
+Jeremie
+magnetikonline
+jswisher
+kscarfone
+teoli
+groovecoder

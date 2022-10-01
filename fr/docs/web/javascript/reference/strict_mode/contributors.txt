@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/strict_mode/index.md
+
+# Original Wiki contributors
+SphinxKnight
+pastr
+Nothus
+Laurent_Lyaudet
+kdex
+boessel
+Bpruneau
+WSH
+krazygit
+onra87
+fscholz
+teoli
+jessmania
+Automatik
+Munto

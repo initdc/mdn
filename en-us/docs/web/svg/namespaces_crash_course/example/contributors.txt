@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/namespaces_crash_course/example/index.md
+
+# Original Wiki contributors
+ethertank
+Jeremie
+Nickolay
+Mgjbot
+Taken
+Jonathan_Watt

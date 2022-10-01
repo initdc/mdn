@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlselectelement/item/index.md
+
+# Original Wiki contributors
+xp44mm
+mfluehr
+connorshea
+burnoo
+libbymc
+fscholz
+freaktechnik
+teoli

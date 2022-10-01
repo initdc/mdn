@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/presentationavailability/value/index.md
+
+# Original Wiki contributors
+lucian95
+david_ross
+MashKao

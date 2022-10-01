@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/symbol/keyfor/index.md
+
+# Original Wiki contributors
+le-phq
+zh244135370
+SphinxKnight
+purple_force
+ziyunfei

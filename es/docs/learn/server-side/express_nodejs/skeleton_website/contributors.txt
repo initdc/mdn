@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/server-side/express_nodejs/skeleton_website/index.md
+
+# Original Wiki contributors
+juancorbacho
+tec.josec
+maringenio
+mimz2563

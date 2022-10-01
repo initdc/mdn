@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/webassembly/javascript_interface/module/exports/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+sideshowbarker
+Hywan
+chrisdavidmills
+denimX
+lukewagner
+svodnik

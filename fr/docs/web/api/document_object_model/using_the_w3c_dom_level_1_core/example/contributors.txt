@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document_object_model/using_the_w3c_dom_level_1_core/example/index.md
+
+# Original Wiki contributors
+SphinxKnight
+loella16

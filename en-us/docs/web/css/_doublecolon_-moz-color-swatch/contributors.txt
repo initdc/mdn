@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_doublecolon_-moz-color-swatch/index.md
+
+# Original Wiki contributors
+wbamberg
+estelle
+MNizam0802
+fscholz
+teoli
+mfluehr
+ntoniazzi

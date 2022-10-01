@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/cachestorage/delete/index.md
+
+# Original Wiki contributors
+tristantheb
+nobe4

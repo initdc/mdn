@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/nodelist/length/index.md
+
+# Original Wiki contributors
+fscholz
+khalid32
+teoli
+Netaras

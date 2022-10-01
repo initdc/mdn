@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/javascript_technologies_overview/index.md
+
+# Original Wiki contributors
+Uemmra3
+Marsf
+ymita
+momdo
+x2357
+ethertank
+sii
+shirayuki

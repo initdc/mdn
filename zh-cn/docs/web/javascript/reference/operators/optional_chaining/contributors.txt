@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/optional_chaining/index.md
+
+# Original Wiki contributors
+MinimalistYing
+xgqfrms
+RainSlide
+zhangchen
+Coink
+daolanfler
+lmislm
+Ende93
+wsv587

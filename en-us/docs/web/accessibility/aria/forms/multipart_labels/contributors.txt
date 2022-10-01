@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/forms/multipart_labels/index.md
+
+# Original Wiki contributors
+Tigt
+dkocho4
+david_ross
+kscarfone
+StephenKelly
+Kritz
+Fredchat
+Sheppy
+Aaronlev

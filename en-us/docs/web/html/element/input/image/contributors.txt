@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/input/image/index.md
+
+# Original Wiki contributors
+mfuji09
+estelle
+frontendlane
+chrisdavidmills
+Sheppy
+KSu42
+fscholz
+schalkneethling
+patrickhlauke
+georgeawg
+Sebastianz
+sjakthol
+stan3
+teoli
+StevanL
+Jeremie
+kscarfone
+sidgan

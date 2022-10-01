@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/svg_animation_with_smil/index.md
+
+# Original Wiki contributors
+fscholz
+ethertank
+yyss

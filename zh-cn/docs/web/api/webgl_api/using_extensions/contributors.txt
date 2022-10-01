@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webgl_api/using_extensions/index.md
+
+# Original Wiki contributors
+breakair
+xgqfrms-GitHub
+charlie

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/first_steps/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+kruschk
+Andriy-K
+adnankammes
+SphinxKnight
+billaparker
+Elllenn
+dartvaneri
+kunleris
+gotoark
+Jeremie
+Sheppy

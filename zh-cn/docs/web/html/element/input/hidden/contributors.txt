@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/input/hidden/index.md
+
+# Original Wiki contributors
+guow10
+RainSlide

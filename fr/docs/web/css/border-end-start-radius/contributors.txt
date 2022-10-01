@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/border-end-start-radius/index.md
+
+# Original Wiki contributors
+SphinxKnight

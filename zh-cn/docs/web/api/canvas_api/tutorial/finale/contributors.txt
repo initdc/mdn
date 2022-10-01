@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvas_api/tutorial/finale/index.md
+
+# Original Wiki contributors
+ZeroJsus
+3544357727
+crazy_snow
+The-End-Hero
+wth
+Dengjiansheng
+ziyunfei
+jasonworg

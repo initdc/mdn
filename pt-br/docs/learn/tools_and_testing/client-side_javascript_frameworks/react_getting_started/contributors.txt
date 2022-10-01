@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/learn/tools_and_testing/client-side_javascript_frameworks/react_getting_started/index.html
+
+# Original Wiki contributors
+pachicodes
+Aleks
+Ismael-Oliv
+gilmargn
+angelorubin
+gsb6

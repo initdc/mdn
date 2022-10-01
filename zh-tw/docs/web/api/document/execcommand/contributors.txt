@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/document/execcommand/index.md
+
+# Original Wiki contributors
+t7yang
+grain0217
+Mrscrystal
+tpst1114

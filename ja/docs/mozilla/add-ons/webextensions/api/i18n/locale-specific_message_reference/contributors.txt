@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/api/i18n/locale-specific_message_reference/index.md
+
+# Original Wiki contributors
+Marsf

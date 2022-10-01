@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/tostring/index.md
+
+# Original Wiki contributors
+sideshowbarker
+alattalatta
+connorshea
+slawiko
+abbycar
+fscholz
+teoli
+MHasan
+kscarfone
+namolmes
+Sheppy
+Chbok
+DR
+Federico
+Rev
+Maian
+Hao2lian
+Nickolay

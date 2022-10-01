@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/general_sibling_combinator/index.md
+
+# Original Wiki contributors
+nko6
+wbamberg
+mfuji09
+ExE-Boss
+fscholz
+mfluehr
+Sheppy
+erikadoyle
+mikelew42
+cvrebert
+MusikAnimal
+Sebastianz
+DanSorahan
+SphinxKnight
+FredB
+teoli
+ethertank
+tiffon
+dhar
+miken32

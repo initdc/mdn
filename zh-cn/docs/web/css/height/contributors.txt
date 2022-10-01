@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/height/index.md
+
+# Original Wiki contributors
+riino
+Ende93
+yongchenyc
+mozhs
+NNNaix
+QAQMiao
+Sebastianz
+SphinxKnight
+teoli
+yan

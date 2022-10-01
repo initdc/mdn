@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/functions/set/index.md
+
+# Original Wiki contributors
+SphinxKnight
+fscholz
+teoli
+Jeremie
+matteodelabre

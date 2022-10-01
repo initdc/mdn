@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/transform/index.md
+
+# Original Wiki contributors
+mfuji09
+Zearin_Galaurum
+AlanM1
+stevenwdv
+ggreif
+PullJosh
+HTMLValidator
+Jeremie
+g40
+chrisdavidmills
+ilonaherr
+guigrpa
+Nicolas_Debeissat
+nowherefast
+JoeDeRose
+Longsonr
+fred.wang
+seth
+Sheppy
+arasbm
+shingress

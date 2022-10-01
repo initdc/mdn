@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/api/windows/windowtype/index.md
+
+# Original Wiki contributors
+KusaReMKN

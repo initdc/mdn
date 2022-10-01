@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/building_blocks/index.md
+
+# Original Wiki contributors
+eldesh
+Uemmra3
+silverskyvicto
+thinking-capybara
+kaiji
+hamasaki
+T.Ukegawa

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/cookie/index.md
+
+# Original Wiki contributors
+hamishwillee
+justinappler
+mfuji09
+jamesdhurd
+plygrnd
+fscholz
+teoli

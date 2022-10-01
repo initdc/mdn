@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/animation-direction/index.md
+
+# Original Wiki contributors
+teoli
+Luis_Calvo
+jesanchez
+jsalinas

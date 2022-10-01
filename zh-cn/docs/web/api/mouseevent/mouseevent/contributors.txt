@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/mouseevent/mouseevent/index.md
+
+# Original Wiki contributors
+huming3272
+RainSlide
+army8735

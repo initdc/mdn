@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/date/setminutes/index.html
+
+# Original Wiki contributors
+Grundy
+Mingun

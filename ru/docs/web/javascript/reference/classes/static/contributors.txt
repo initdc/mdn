@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/classes/static/index.html
+
+# Original Wiki contributors
+vydayko
+Bobsans
+evilive3000
+andrey-gnl
+Hydrock
+Dmitrii_Aleksandrov
+torbasow
+terranisu
+Witadol

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/service_worker_api/index.md
+
+# Original Wiki contributors
+Lichit
+eltociear
+Uemmra3
+mfuji09
+shimazu
+niku
+warapy
+hideo54
+lv7777
+cakecatz
+mantaroh

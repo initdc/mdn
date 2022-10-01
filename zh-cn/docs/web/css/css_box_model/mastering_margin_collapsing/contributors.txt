@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_box_model/mastering_margin_collapsing/index.md
+
+# Original Wiki contributors
+mdn_idealist
+lingxiao-Zhu
+youcanping
+tangweikun
+fanerge
+Terry.Qiao
+KMKNKK
+superkuang
+jscgq
+BarryLiu1995
+xgqfrms-GitHub
+frankfang1990
+ChuckZhang
+TiaossuP
+StarXY
+lemopo
+teoli
+Ende93
+fscholz
+sartrey
+yan

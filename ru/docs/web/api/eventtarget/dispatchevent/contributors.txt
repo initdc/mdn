@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/eventtarget/dispatchevent/index.html
+
+# Original Wiki contributors
+YozhEzhi
+vetraz
+bagau
+zhitkovkostya
+Taimayr
+DzmVasileusky
+FeelUs
+fscholz
+soumya
+teoli
+anton1500m

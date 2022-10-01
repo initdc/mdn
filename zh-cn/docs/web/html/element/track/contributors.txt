@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/track/index.md
+
+# Original Wiki contributors
+lizheming
+Alex-DMC
+gafish
+flyingsouthwind
+wbamberg
+naive233
+Martin.Chow
+hxl

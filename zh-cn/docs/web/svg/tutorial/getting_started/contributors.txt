@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/tutorial/getting_started/index.md
+
+# Original Wiki contributors
+Jamie0327
+qinggge
+SallyOne
+maozhenhua2
+shuihuo
+SparrowLiu
+fanxiaojie
+dolphinX

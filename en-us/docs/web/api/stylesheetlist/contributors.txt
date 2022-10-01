@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/stylesheetlist/index.md
+
+# Original Wiki contributors
+mfuji09
+tophf
+RainSlide
+AliMirlou
+fscholz
+Ephys
+red-X
+KthProg
+groovecoder
+teoli
+Reachmeatshivam
+kscarfone
+ethertank
+Sheppy
+Zig

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/element/clienttop/index.html
+
+# Original Wiki contributors
+daniil-loban
+ekirpichyov
+SphinxKnight
+systemcss
+Vasia

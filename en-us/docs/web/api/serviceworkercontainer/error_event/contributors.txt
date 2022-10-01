@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/serviceworkercontainer/error_event/index.md
+
+# Original Wiki contributors
+Wind1808
+anlex-N
+daniel.z.tg
+sideshowbarker
+fscholz
+jpmedley
+chrisdavidmills
+kscarfone

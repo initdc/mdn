@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/document/execcommand/index.html
+
+# Original Wiki contributors
+art-gur
+SedovDP
+invwax
+Xmaksss
+WispProxy
+patsuckow
+N3stY
+Ivanq
+jt3k
+sshest
+fscholz
+ang.reload

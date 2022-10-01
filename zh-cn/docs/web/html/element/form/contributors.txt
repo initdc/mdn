@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/form/index.md
+
+# Original Wiki contributors
+Clarkkkk
+Carllllo
+Daqin
+xuiang
+RainSlide
+Alfxjx
+l613
+gafish
+linjialiang
+HJ8848
+luzhe610
+Structure88
+wizardforcel
+maicss
+zrtalent
+FredWe
+ziyunfei
+lenvens

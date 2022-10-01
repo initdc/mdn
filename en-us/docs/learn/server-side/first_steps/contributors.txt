@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/first_steps/index.md
+
+# Original Wiki contributors
+ohaver
+chrisdavidmills
+kjerinic
+LaloC3
+jamesdhurd
+david_ross
+utkarshbhatt12
+ggarrickk
+sjaramillo10
+hamishwillee

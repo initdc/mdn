@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/window/open/index.md
+
+# Original Wiki contributors
+fj-ramirez
+BubuAnabelas
+jccharlie90
+SphinxKnight
+VictorAbdon
+jjoselon

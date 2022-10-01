@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlanchorelement/index.md
+
+# Original Wiki contributors
+foolip
+Rumyra
+Andrew-Cottrell
+Wind1808
+kenrick95
+mfluehr
+sideshowbarker
+fscholz
+chrisdavidmills
+irekrog
+agentme
+Sheppy
+trusktr
+Pointy
+jpmedley
+erikadoyle
+slimsag
+teoli
+realityking
+kscarfone
+ethertank
+enderandpeter
+jswisher

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/attr/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+SphinxKnight
+mrstork
+prayash
+enogael
+teoli
+tregagnon
+FredB
+matteodelabre
+philippe97

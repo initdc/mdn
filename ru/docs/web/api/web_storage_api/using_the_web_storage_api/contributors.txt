@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/web_storage_api/using_the_web_storage_api/index.html
+
+# Original Wiki contributors
+mdndev7
+FumbaCloud
+oloriin
+oxmap
+vlad-meskalin
+AlexBBB

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performanceobserver/index.md
+
+# Original Wiki contributors
+jpmedley
+Sheppy
+fscholz
+chrisdavidmills
+stefanjudis
+teoli
+rolfedh
+AFBarstow

@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/cssrule/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+arronei
+erikadoyle
+Nickolay
+jpmedley
+teoli
+RealRaven2000
+Jnkie
+Mark_Willis
+kscarfone
+ethertank
+Sheppy
+Sevenspade
+Ms2ger
+Brettz9
+kitchin
+Ptak82
+Dria

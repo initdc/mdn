@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/is/index.md
+
+# Original Wiki contributors
+jaredhan418
+Mirefire
+ngulee
+RainSlide
+42
+zhangchen
+shaojingchao
+xgqfrms-GitHub
+Ende93
+ziyunfei
+snandy
+teoli
+zhangyaochun1987

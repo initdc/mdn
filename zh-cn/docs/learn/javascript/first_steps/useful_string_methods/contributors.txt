@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/first_steps/useful_string_methods/index.md
+
+# Original Wiki contributors
+PYGC
+fengxiakira
+felixfb0916
+gen_wang
+scsc4212
+Undecyce
+frankfang1990
+shinexyt
+ddtyjmyjm
+TSaxj
+DaduCC
+INFINITSY
+Hysian
+wanqing19954
+alphabet007
+kemplaw
+fangkai0802014232
+icessun

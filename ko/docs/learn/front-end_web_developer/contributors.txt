@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/front-end_web_developer/index.md
+
+# Original Wiki contributors
+DeadIntegral

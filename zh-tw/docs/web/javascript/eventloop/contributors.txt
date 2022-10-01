@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/eventloop/index.md
+
+# Original Wiki contributors
+xuan0123
+jackblackevo
+roycrxtw
+YuCheng
+Snailpool
+flyinglimao
+enzoyaaaaa

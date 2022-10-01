@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/styling_text/fundamentals/index.md
+
+# Original Wiki contributors
+AlephAlpha
+Otaku-Glasses
+grape
+xiaoman
+byeyear
+Sinclair-Yuan
+ssttii
+tiange321
+sixDregs
+zhuzhangliang
+liy010
+codeofjackie
+1862
+maoyumaoxun
+allan_simon
+comehope
+xp44mm
+sputnikW
+yydzxz
+Froggy
+nbhaohao

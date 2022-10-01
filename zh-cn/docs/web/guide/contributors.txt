@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/guide/index.md
+
+# Original Wiki contributors
+Futrime
+Oliver_Queen
+RainSlide
+codekissyoung
+jiahui
+yuntian
+Go7hic
+Ende93
+slzll
+zengAlex
+lunix01
+markyun
+wtb
+Kasuganosora
+ethertank

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/games/introduction/index.md
+
+# Original Wiki contributors
+dskmori
+wbamberg
+Uemmra3
+shuuji3
+tomgoodsun
+ikkou

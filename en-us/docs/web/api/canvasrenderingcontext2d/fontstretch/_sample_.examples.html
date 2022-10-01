@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>CanvasRenderingContext2D.fontStretch - examples - code sample</title>
+    </head>
+    <body>
+        
+            <canvas id="canvas" width="700" height="310"></canvas>
+
+        
+        
+            <script>
+                const canvas = document.getElementById("canvas");
+const ctx = canvas.getContext("2d");
+
+const fontFile = new FontFace(
+  "Inconsolata",
+  'url(https://fonts.gstatic.com/s/inconsolata/v31/QlddNThLqRwH-OJ1UHjlKENVzlm-WkL3GZQmAwPyya15.woff2) format("woff2")',
+  { stretch: "50% 200%" }
+);
+
+document.fonts.add(fontFile);
+
+document.fonts.load("30px Inconsolata").then(
+  () => {
+    ctx.font = "30px 'Inconsolata'";
+    // Default (normal)
+    ctx.fillText(`Hello world (default: ${ctx.fontStretch})`, 5, 20);
+
+    ctx.fontStretch = "ultra-condensed";
+    ctx.fillText(`Hello world (${ctx.fontStretch})`, 5, 50);
+
+    ctx.fontStretch = "extra-condensed";
+    ctx.fillText(`Hello world (${ctx.fontStretch})`, 5, 80);
+
+    ctx.fontStretch = "condensed";
+    ctx.fillText(`Hello world (${ctx.fontStretch})`, 5, 110);
+
+    ctx.fontStretch = "semi-condensed";
+    ctx.fillText(`Hello world (${ctx.fontStretch})`, 5, 140);
+
+    ctx.fontStretch = "extra-condensed";
+    ctx.fillText(`Hello world (${ctx.fontStretch})`, 5, 170);
+
+    ctx.fontStretch = "semi-expanded";
+    ctx.fillText(`Hello world (${ctx.fontStretch})`, 5, 200);
+
+    ctx.fontStretch = "expanded";
+    ctx.fillText(`Hello world (${ctx.fontStretch})`, 5, 230);
+
+    ctx.fontStretch = "extra-expanded";
+    ctx.fillText(`Hello world (${ctx.fontStretch})`, 5, 260);
+
+    ctx.fontStretch = "ultra-expanded";
+    ctx.fillText(`Hello world (${ctx.fontStretch})`, 5, 290);
+  },
+  (err) => {
+    console.error(err);
+  }
+);
+
+            </script>
+        
+    </body>
+</html>

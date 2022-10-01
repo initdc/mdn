@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/basic_native_form_controls/index.md
+
+# Original Wiki contributors
+aaazz47
+853419196
+WoodCube
+wsyconan
+Drizzt-Yu
+Kavelaa
+coldicecn
+Danielxiey
+codeofjackie
+Lohoyo
+lihaoyuan
+xp44mm
+uselessaddress
+littledust
+yydzxz
+ddtyjmyjm
+StarryForce
+Froggy

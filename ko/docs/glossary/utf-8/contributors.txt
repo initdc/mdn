@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/glossary/utf-8/index.md
+
+# Original Wiki contributors
+enfroze

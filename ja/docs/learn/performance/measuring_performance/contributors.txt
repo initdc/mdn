@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/performance/measuring_performance/index.md
+
+# Original Wiki contributors
+succi0303
+Potappo

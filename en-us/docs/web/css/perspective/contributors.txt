@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/perspective/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+mfuji09
+blundster
+ddbeck
+Sheppy
+mfluehr
+chrisdavidmills
+rjatkinson2
+michielmetcake
+mcortesi
+zhuangyin
+pborenstein
+simoozzay
+Sebastianz
+erikadoyle
+gregvenech
+nick-ChenZe
+Prinz_Rana
+teoli
+xiaolong
+tregagnon
+hutuxu
+J-Mackerel
+kscarfone
+Ugoku
+oncletom
+rupl
+ethertank
+FredB
+CutenessOverload

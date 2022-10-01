@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/table/index.md
+
+# Original Wiki contributors
+Ende93
+stormyyd
+Toobubble
+codevvvv9
+xgqfrms-GitHub
+eforegist
+jdk137
+studentytj
+PandaadnaP
+Simcookies
+zhe13
+hexiaoming
+FredWe

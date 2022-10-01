@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/webvr_api/using_the_webvr_api/index.html
+
+# Original Wiki contributors
+SphinxKnight
+MarioA19
+geryescalier
+karlalhdz

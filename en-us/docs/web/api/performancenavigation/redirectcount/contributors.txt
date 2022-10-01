@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performancenavigation/redirectcount/index.md
+
+# Original Wiki contributors
+fscholz
+connorshea
+abbycar
+dispareil
+khushboo_Dwivedi
+teoli

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/errors/resulting_string_too_large/index.md
+
+# Original Wiki contributors
+YuichiNukiyama

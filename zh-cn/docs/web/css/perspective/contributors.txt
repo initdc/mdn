@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/perspective/index.md
+
+# Original Wiki contributors
+1259364843
+hardo
+zjffun
+Sebastianz
+Ende93
+fscholz
+FredWe
+teoli
+hutuxu
+luommingzhong

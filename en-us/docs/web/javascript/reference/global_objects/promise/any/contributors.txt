@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/promise/any/index.md
+
+# Original Wiki contributors
+madarche
+kriskowal
+chharvey
+craigayre
+fscholz
+mfuji09
+silverwind
+ddbeck
+wbamberg
+CodeDotJS
+chrisdavidmills
+bergus
+ExE-Boss
+dominicegginton
+jscheffner
+SphinxKnight
+verde79

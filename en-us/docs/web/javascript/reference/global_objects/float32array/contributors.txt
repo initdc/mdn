@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/float32array/index.md
+
+# Original Wiki contributors
+spazmodius
+fscholz
+jameshkramer
+kdex
+arai
+doug16k
+Sheppy
+BennettJames
+kscarfone
+robinst
+Reachmeatshivam
+amaneight
+teoli
+Nfroidure
+tszynalski
+yyss

@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/graphics/index.md
+
+# Original Wiki contributors
+SphinxKnight
+scottj33
+..
+jamesdhurd
+Ajimi
+jortoller
+Tigt
+fscholz
+idrees007
+jsx
+Mutijima
+Dyvik
+Sheppy
+indrani7
+Nickolay
+Delapouite
+Psy
+Balaji1103
+jswisher
+coolsidx
+ethertank

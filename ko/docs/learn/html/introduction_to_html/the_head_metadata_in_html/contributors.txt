@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/html/introduction_to_html/the_head_metadata_in_html/index.md
+
+# Original Wiki contributors
+anseonghyeon
+minijaypark
+0641031
+NohSeho
+SSJ-unclear
+iloveek

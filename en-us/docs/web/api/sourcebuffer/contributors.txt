@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/sourcebuffer/index.md
+
+# Original Wiki contributors
+Wind1808
+Cecil
+Sheppy
+fscholz
+Jedipedia
+jpmedley
+rhues
+abbycar
+AlexChuev
+chrisdavidmills

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/border-inline-end-width/index.md
+
+# Original Wiki contributors
+ddbeck
+Sheppy
+mfuji09
+rachelandrew
+teoli
+mfluehr
+wbamberg
+HTMLValidator
+Sebastianz
+fscholz
+jsx
+kscarfone

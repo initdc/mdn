@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/memory_management/index.md
+
+# Original Wiki contributors
+y00rb
+xueliang
+leavesster
+quding0308
+liujuntao123
+JuneDeng2014
+ilexwg
+DarrenMan
+zhangchen
+micooz
+sunnylost
+Ende93
+wth
+timwangdev
+jackyKin
+horizon0514
+knightf
+Bosn
+teoli
+Samoay
+tank
+jnoodle
+Joe_Zhao
+ziyunfei

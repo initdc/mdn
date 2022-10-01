@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/first_steps/what_is_javascript/index.md
+
+# Original Wiki contributors
+parkchoongho
+presentY1897
+developer-do
+alattalatta
+henry_hwang
+minjihee89
+yujinkim
+khg0712
+pustinia
+wisedog
+2kindsofcs
+LoverKei
+seungha-kim
+ChanghwaLee

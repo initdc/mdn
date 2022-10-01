@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/globalthis/index.md
+
+# Original Wiki contributors
+MinimalistYing
+RainSlide
+wallena3
+kangkai0124
+SphinxKnight
+LEORChn
+fscholz
+Jack.Works

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            table td    { height: 50px !important; }
+.monTableau td { height: 50px !important; }
+#monTableau td { height: 50px !important; }
+
+B) Ou ajouter le même sélecteur après le sélecteur existant&nbsp;:
+
+```css
+td { height: 50px !important; }
+
+[id="unElement"] p {
+  color: blue;
+}
+
+p.genial {
+  color: red;
+}
+
+Inclure un identifiant comme un sélecteur d'attribut au lieu d'un sélecteur d'identifiant (`#someElement`) lui donne la même spécificité qu'une classe. Les deux sélecteurs ci-dessus ont à présent la même importance. Lors d'une égalité de spécificité, la dernière règle définie est prise en compte.
+
+#### Pour davantage d'informations, visiter&nbsp;:
+
+- <https://stackoverflow.com/questions/3706819/what-are-the-implications-of-using-important-in-css>
+- <https://stackoverflow.com/questions/9245353/what-does-important-in-css-mean>
+- <https://stackoverflow.com/questions/5701149/when-to-use-important-property-in-css>
+- <https://stackoverflow.com/questions/11178673/how-to-override-important>
+- <https://stackoverflow.com/questions/2042497/when-to-use-important-to-save-the-day-when-working-with-css>
+
+### Les exceptions :is() et :not()
+
+La pseudo-classe de correspondance :is() 
+    
+ et la pseudo-classe de négation :not() _ne_ sont _pas_ considérées comme pseudo-classes dans le calcul de la spécificité. Mais les sélecteurs placés dans la pseudo-classe comptent comme des sélecteurs normaux lorsqu'on détermine le nombre de [types de sélecteurs](#types_de_sélecteurs).
+
+Ce bout de CSS&hellip;
+
+```css
+div.outer p {
+  color: orange;
+}
+
+div:not(.outer) p {
+  color: blueviolet;
+}
+
+        </style>
+        
+        <title>Spécificité - les_exceptions_is_et_not - code sample</title>
+    </head>
+    <body>
+        
+            <div class="outer">
+  <p>Ceci est dans la div externe.</p>
+  <div class="inner">
+    <p>Ce texte est dans la div interne.</p>
+  </div>
+</div>
+
+        
+        
+    </body>
+</html>

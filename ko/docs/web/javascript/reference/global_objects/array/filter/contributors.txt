@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/array/filter/index.md
+
+# Original Wiki contributors
+RamiTae
+alattalatta
+bohyun611kim
+pineoc
+jewon
+limkukhyun
+KisukPark
+Saem
+Netaras
+rageboom
+Yunhong-Min
+keypointer

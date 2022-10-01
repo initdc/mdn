@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/image/index.md
+
+# Original Wiki contributors
+catchmyfame
+alattalatta
+wbamberg
+aardrian
+mfuji09
+SphinxKnight
+estelle
+ExE-Boss
+ninjanails
+fscholz
+mfluehr
+yisibl
+slayslot
+mrstork
+Sebastianz
+kscarfone
+teoli
+FredB
+Sheppy
+brianloveswords
+Rob W

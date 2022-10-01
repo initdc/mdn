@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_flow_layout/block_and_inline_layout_in_normal_flow/index.md
+
+# Original Wiki contributors
+mfuji09
+haond10adp
+mikemorr
+segmentationfaulter
+alattalatta
+FranklinYu
+ExE-Boss
+beautifulcoder
+estelle
+rachelandrew

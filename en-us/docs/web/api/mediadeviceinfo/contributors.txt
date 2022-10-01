@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediadeviceinfo/index.md
+
+# Original Wiki contributors
+pawer13
+sideshowbarker
+aivarask
+fscholz
+Sheppy
+chrisdavidmills
+libbymc
+jpmedley
+rolfedh
+Sebastianz

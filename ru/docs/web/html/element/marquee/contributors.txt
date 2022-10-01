@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/marquee/index.md
+
+# Original Wiki contributors
+mm669765
+malyavkin

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/deviceproximityevent/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Ms2ger
+mfluehr
+connorshea
+chrisdavidmills
+teoli
+kscarfone
+Sheppy
+mattbasta
+Jeremie
+jswisher
+fscholz

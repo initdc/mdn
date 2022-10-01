@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/http/headers/authorization/index.html
+
+# Original Wiki contributors
+robert491
+NikitaTkachev
+3lvcz
+EgorChernik
+justredpaul

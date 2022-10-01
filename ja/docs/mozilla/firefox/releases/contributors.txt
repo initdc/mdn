@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/index.md
+
+# Original Wiki contributors
+hamasaki
+kenji-yamasaki
+dskmori
+myakura
+silverskyvicto
+dynamis
+ethertank
+Sheppy

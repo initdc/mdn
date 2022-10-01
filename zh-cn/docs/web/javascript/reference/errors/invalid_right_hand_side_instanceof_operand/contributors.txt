@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/errors/invalid_right_hand_side_instanceof_operand/index.md
+
+# Original Wiki contributors
+JodieShi

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/tables/basics/index.md
+
+# Original Wiki contributors
+avivmu
+chrisdavidmills
+radiocane
+Sichen-Wang
+choudh70
+tayyabalishan
+santiago-rodrig
+Octopinky
+ratbeard
+irenesmith
+Sheppy
+nrebhun
+surigangula
+stephaniehobson
+yanlee26
+qdirks
+Sebastianz
+mientje

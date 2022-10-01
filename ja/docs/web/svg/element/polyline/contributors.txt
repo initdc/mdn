@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/element/polyline/index.md
+
+# Original Wiki contributors
+takenspc
+wbamberg
+Sebastianz
+teoli
+manzyun

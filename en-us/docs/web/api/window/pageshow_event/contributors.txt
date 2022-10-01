@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/pageshow_event/index.md
+
+# Original Wiki contributors
+escattone
+chrisdavidmills
+mfuji09
+Tigt
+wbamberg
+Sheppy
+mfluehr
+fscholz
+erikadoyle
+Haroenv
+mnoorenberghe
+Luke314
+teoli
+MattBrubeck
+ethertank
+louisremi

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/location/index.md
+
+# Original Wiki contributors
+mySoul
+xgqfrms-GitHub
+Conan06
+Ende93
+teoli
+AlexChao
+ziyunfei

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/flex-basis/index.md
+
+# Original Wiki contributors
+rollinhup
+masterZSH
+Hyphon
+Ende93
+KrisLee
+AozakiOrenji
+imgss
+dongyu_-_
+fscholz
+BenFei
+Go7hic
+Sebastianz
+FredWe

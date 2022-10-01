@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/html/howto/define_terms_with_html/index.md
+
+# Original Wiki contributors
+Wind1808

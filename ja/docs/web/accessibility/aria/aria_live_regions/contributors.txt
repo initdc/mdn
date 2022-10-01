@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/accessibility/aria/aria_live_regions/index.md
+
+# Original Wiki contributors
+moriyuu
+masuP9
+8845musign
+momdo

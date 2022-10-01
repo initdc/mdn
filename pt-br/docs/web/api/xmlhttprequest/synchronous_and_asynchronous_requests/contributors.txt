@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/xmlhttprequest/synchronous_and_asynchronous_requests/index.md
+
+# Original Wiki contributors
+helton-mori-dev
+Laercio89
+erickfaraujo
+filipecalasans
+melostbr

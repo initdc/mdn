@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/css/transform/index.md
+
+# Original Wiki contributors
+allchangechallenge
+jackblackevo
+Sebastianz
+CarterTsai
+SphinxKnight
+fscholz
+alk03073135

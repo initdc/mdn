@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/node/appendchild/index.md
+
+# Original Wiki contributors
+dhb33
+loella16
+gpenissard
+P45QU10U
+fscholz
+teoli
+khalid32
+oooo
+Jeremie
+Shikiryu
+Julien STUBY
+Mgjbot
+Chbok
+ErgoUser
+BenoitL
+Takenbot

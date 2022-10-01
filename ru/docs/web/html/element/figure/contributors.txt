@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/figure/index.md
+
+# Original Wiki contributors
+niktariy
+fuggy
+r1c0ch3t

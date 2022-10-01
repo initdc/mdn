@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/element/hasattributes/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+arunpandianp
+teoli
+ethertank
+Marsf

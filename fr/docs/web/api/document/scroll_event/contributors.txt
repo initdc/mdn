@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/scroll_event/index.md
+
+# Original Wiki contributors
+JNa0
+wbamberg
+irenesmith
+Watilin
+fscholz
+timkrief
+florentDieg

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/3/index.md
+
+# Original Wiki contributors
+ethertank
+fscholz
+Sheppy
+Mgjbot
+Potappo
+Kohei
+Shoot
+electrolysis
+Taken
+Gomita
+Norah
+Yuichirou
+kohei.yoshino
+Level
+Okome

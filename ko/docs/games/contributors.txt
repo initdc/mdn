@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/games/index.md
+
+# Original Wiki contributors
+SphinxKnight
+yongbin_kim
+meow1230
+wbamberg
+moolow
+daesD
+ehfgk78
+hoony
+kom2727

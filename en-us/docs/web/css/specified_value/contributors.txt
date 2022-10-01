@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/specified_value/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+hinell
+mfluehr
+asteroidb612
+Sheppy
+BychekRU
+Sebastianz
+McGurk

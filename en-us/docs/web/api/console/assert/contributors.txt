@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/console/assert/index.md
+
+# Original Wiki contributors
+mfluehr
+alattalatta
+jpmedley
+asiby
+chrisdavidmills
+camerondubas
+connorshea
+SN2014J
+JeremyWSherman
+fscholz
+FloraFauna
+jgliner
+mxschumacher
+arronei
+valtlai
+erikadoyle
+frewsxcv
+The-Quill
+stevemao
+rolfedh
+bgok
+Sebastianz
+cvrebert
+teoli
+denschub

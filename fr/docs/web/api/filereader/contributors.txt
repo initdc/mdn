@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/filereader/index.md
+
+# Original Wiki contributors
+jerominejournet
+SphinxKnight
+EmmanuelBeziat
+NeptuneK
+romainlebreton
+teoli
+fabien
+Laowai
+emersion
+mekal
+Jack_Duthen
+tregagnon

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/cache/keys/index.md
+
+# Original Wiki contributors
+tristantheb
+NuclearPony

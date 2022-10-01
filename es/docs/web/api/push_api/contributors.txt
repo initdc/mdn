@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/push_api/index.html
+
+# Original Wiki contributors
+gimco
+omar10594
+Erto
+FMRonin
+YulianD
+mautematico

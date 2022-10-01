@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/array/index.md
+
+# Original Wiki contributors
+YanxuGong
+lovefengruoqing
+dccxi
+fisker
+hlbj105
+eeeeeeeason
+RogerShen
+iigmir
+isatis

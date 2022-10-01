@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/span/index.md
+
+# Original Wiki contributors
+Ende93
+mitaosi
+gafish
+wh.D
+OlafCheng
+King.
+Fadeoc

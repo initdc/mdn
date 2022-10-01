@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlheadelement/index.md
+
+# Original Wiki contributors
+sideshowbarker
+ExE-Boss
+Sebastianz
+erikadoyle
+fscholz
+teoli
+kscarfone
+Sheppy
+ethertank
+trevorh
+jswisher
+Ms2ger
+Jürgen Jeka
+ThomasACorey

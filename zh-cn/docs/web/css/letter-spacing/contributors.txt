@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/letter-spacing/index.md
+
+# Original Wiki contributors
+RainSlide
+zy_2071
+LJJ1996
+Sebastianz
+SphinxKnight
+fscholz
+Fadeoc
+FredWe

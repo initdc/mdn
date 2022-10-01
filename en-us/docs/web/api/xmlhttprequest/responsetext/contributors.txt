@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlhttprequest/responsetext/index.md
+
+# Original Wiki contributors
+kyleknaggs
+mfuji09
+dr-js
+Sheppy
+ExE-Boss
+erikadoyle
+jsx

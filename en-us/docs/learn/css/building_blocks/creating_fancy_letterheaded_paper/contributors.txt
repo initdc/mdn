@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/building_blocks/creating_fancy_letterheaded_paper/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+jswisher
+maurodibert

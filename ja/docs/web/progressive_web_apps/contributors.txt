@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/progressive_web_apps/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+chikoski
+k-kuwahara
+Uemmra3

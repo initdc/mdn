@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/storage/removeitem/index.md
+
+# Original Wiki contributors
+SaekiTominaga
+mfuji09
+yyss

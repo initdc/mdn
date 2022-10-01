@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/function/apply/index.md
+
+# Original Wiki contributors
+mfuji09
+sutara79
+dlwe
+YuichiNukiyama
+.Hiroya
+takashi
+yuxxxx
+ethertank
+nobuoka

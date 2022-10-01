@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/clip-path/index.md
+
+# Original Wiki contributors
+brunostasse
+SphinxKnight
+guv3n
+teoli
+Philippe_Lambotte

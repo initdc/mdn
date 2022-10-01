@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlhttprequest/html_in_xmlhttprequest/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+wbamberg
+Sheppy
+Sebastianz
+jwhitlock
+teoli
+myakura
+fusionchess
+ziyunfei
+BYK
+jswisher
+paul.irish
+Nickolay
+Hsivonen

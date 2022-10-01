@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglrenderingcontext/teximage2d/index.md
+
+# Original Wiki contributors
+MRSalomao
+gmanpersona
+drawmindmap
+FuZhenn
+Grief
+fscholz
+apbodnar
+teoli

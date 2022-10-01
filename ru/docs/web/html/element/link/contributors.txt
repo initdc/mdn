@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/link/index.md
+
+# Original Wiki contributors
+RoPy73
+GitForDocs
+sasha3nique
+dt_
+opereverzeva

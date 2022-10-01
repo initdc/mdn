@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/css_grid_layout/auto-placement_in_css_grid_layout/index.html
+
+# Original Wiki contributors
+tonyrodz

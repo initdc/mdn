@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/memory_management/index.md
+
+# Original Wiki contributors
+chengr4
+ballfish
+mybaseball52

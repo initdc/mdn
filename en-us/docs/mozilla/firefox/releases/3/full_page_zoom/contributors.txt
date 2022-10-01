@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/3/full_page_zoom/index.md
+
+# Original Wiki contributors
+wbamberg
+SphinxKnight
+lydell
+teoli
+Wladimir_Palant
+Sheppy
+Neil
+Dao
+Varmaa
+Dglazman
+Kohei
+Mgjbot
+MykMelez
+Taken
+Mvent2
+Kirschkern

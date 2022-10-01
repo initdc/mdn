@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/idbobjectstore/index.md
+
+# Original Wiki contributors
+sideshowbarker
+SimonSiefke
+fscholz
+kingysu
+chrisdavidmills
+jpmedley
+libbymc
+teoli
+jsnajdr
+Sheppy
+Brettz9
+hurelu
+jusio
+nnnn20430
+n1k0
+pdm
+mihai
+madarche
+claudepache
+danieljohansson
+scottrowe
+grendel
+jswisher
+soswow

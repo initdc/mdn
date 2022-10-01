@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mdn/writing_guidelines/writing_style_guide/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+jswisher
+wbamberg
+flyinglimao
+iigmir
+fscholz
+BrianHuang
+irvinfly
+kiss007sky
+wildsky

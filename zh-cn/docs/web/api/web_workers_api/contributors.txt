@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/web_workers_api/index.md
+
+# Original Wiki contributors
+zhangchen
+hydRAnger
+LiHwsqh
+QIUFAN
+madinsect
+xgqfrms-GitHub
+isLishude
+usernameisMan
+DoubleK2013
+wendy_zcs
+peterwang1996
+forclan
+wth
+chrisdavidmills

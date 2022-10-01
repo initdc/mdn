@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/symbol/index.md
+
+# Original Wiki contributors
+Alendia
+polunzh
+JohnhanLiu
+Coink
+haoXu-web
+Revonia
+zhangchen
+huge
+Bitzo
+winjeysong
+shaojingchao
+xgqfrms-GitHub
+lfkid
+syhxczy
+wdpm
+helloguangxue
+MapleGu
+Ende93
+X-Cracker
+fscholz

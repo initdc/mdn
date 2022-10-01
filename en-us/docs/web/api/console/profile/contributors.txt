@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/console/profile/index.md
+
+# Original Wiki contributors
+fscholz
+Jedipedia
+sideshowbarker
+LurN
+hibiya
+arronei
+valtlai
+erikadoyle
+janv8000
+Sebastianz
+chrisdavidmills
+dongyuwei
+openmando
+wbamberg

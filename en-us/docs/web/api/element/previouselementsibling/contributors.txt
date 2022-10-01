@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/previouselementsibling/index.md
+
+# Original Wiki contributors
+mfluehr
+sideshowbarker
+fscholz
+varEnigmatic
+jszhou
+Alhadis
+kscarfone
+teoli
+tregagnon
+ethertank
+Sheppy
+moshkin
+ziyunfei
+BillyRayPreachersSon
+JohnST
+Jürgen Jeka

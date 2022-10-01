@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/statements/try...catch/index.md
+
+# Original Wiki contributors
+clifflu
+teoli
+happysadman

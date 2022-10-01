@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/box-sizing/index.md
+
+# Original Wiki contributors
+litmonw
+ldc-37
+xgqfrms
+RainSlide
+Soyaine
+zhuangyin
+MinimalistYing
+ibufu
+gaopu
+xiazhe
+xgqfrms-GitHub
+2power10
+Cattla
+Fizco
+feeldesignstudio.com
+Sebastianz
+wy-ei
+guoyunhebrave
+teoli
+yan
+damon

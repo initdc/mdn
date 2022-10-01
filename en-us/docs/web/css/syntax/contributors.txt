@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/syntax/index.md
+
+# Original Wiki contributors
+wbamberg
+chrisdavidmills
+dcompcoder
+ramiy
+JonathanPool
+carlosevandro
+mfuji09
+estelle
+fluorine
+mfluehr
+tshma
+wahome
+torazaburo
+NetNerd
+pygy
+SphinxKnight
+kscarfone
+FredB
+elomatreb
+ethertank
+teoli
+Sheppy
+peterholthoffman

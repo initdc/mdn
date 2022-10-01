@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/falsy/index.md
+
+# Original Wiki contributors
+zhuangyin
+niefeng
+kidonng
+StephenTian
+ceido
+deerwar
+AlenQi
+lyhappy
+stark-jarvis
+issliu
+LiuL0703

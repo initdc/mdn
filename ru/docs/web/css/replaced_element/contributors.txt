@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/replaced_element/index.md
+
+# Original Wiki contributors
+SelenIT
+dima74
+BychekRU

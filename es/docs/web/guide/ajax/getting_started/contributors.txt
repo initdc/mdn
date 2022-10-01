@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/guide/ajax/getting_started/index.html
+
+# Original Wiki contributors
+padrecedano
+chrisdavidmills
+mili01gm
+Mgjbot
+Luis Hidalgo
+Hegael
+Tatan
+Takenbot
+Jorolo
+Puxaalonso
+Nukeador
+Noctuido
+Seres

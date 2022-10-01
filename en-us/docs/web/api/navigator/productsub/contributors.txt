@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/productsub/index.md
+
+# Original Wiki contributors
+alattalatta
+mfuji09
+sideshowbarker
+connorshea
+teoli
+MHasan
+kscarfone
+iamanupmenon
+Sheppy
+ethertank
+Husky
+Mgjbot
+Marcoos
+Diablownik
+Dria
+JesseW

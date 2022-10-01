@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/glossary/localization/index.md
+
+# Original Wiki contributors
+LNDDYL
+jackblackevo
+teoli
+Mgjbot
+Josesun

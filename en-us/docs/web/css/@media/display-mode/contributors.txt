@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/display-mode/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+ExE-Boss
+mfluehr
+AllanKimmerJensen
+chrisdavidmills
+hexalys
+jpmedley

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/image-orientation/index.md
+
+# Original Wiki contributors
+fscholz
+prayash
+Sebastianz
+teoli
+ziyunfei

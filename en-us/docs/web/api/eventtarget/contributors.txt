@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/eventtarget/index.md
+
+# Original Wiki contributors
+sideshowbarker
+room.booking7788
+Zearin_Galaurum
+mfluehr
+estelle
+jpmedley
+p0lar_bear
+Jiang-Xuan
+chrisdavidmills
+EntityB
+dartess
+trusktr
+cfdf
+kamoroso94
+nmve
+erikadoyle
+Marsf
+ViktorAksionov
+akshaygore06
+wbamberg
+carlosperez
+Sebastianz
+DevelX
+teoli
+MHasan
+phil_nist
+Francie
+iamanupmenon
+Nickolay
+Jeremie
+Sheppy
+leonderijke
+MattBrubeck

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/server-side/django/skeleton_website/index.md
+
+# Original Wiki contributors
+dr2d4
+cuantosoft
+gozarrojas
+ricardo-soria
+javierdelpino

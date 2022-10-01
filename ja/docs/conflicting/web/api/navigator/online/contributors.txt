@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/navigator/online/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ethertank
+Marsf
+Mgjbot
+Koyamak

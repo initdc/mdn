@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pushmanager/register/index.md
+
+# Original Wiki contributors
+mfuji09
+ExE-Boss
+fscholz
+Sebastianz
+chrisdavidmills
+jpmedley
+teoli
+kscarfone
+Jeremie
+Willyaranda
+nikhilm

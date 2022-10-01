@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltableelement/tbodies/index.md
+
+# Original Wiki contributors
+sideshowbarker
+wbamberg
+mfluehr
+fscholz
+Makyen
+teoli
+kscarfone
+Sheppy
+ethertank
+RobG
+Dria
+JesseW

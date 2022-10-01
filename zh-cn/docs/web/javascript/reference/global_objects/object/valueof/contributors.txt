@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/valueof/index.md
+
+# Original Wiki contributors
+microJ
+ywjco
+zhangchen
+zilong-thu
+jimwmg
+Ende93
+helloguangxue
+paddingme
+teoli
+ziyunfei

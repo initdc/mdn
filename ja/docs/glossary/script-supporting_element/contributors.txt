@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/script-supporting_element/index.md
+
+# Original Wiki contributors
+Uemmra3
+mfuji09

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/reference/index.md
+
+# Original Wiki contributors
+alattalatta
+jinah1000
+chrisdavidmills
+dbwodlf3
+Netaras
+hoony
+teoli
+tregagnon
+Pastelgrim

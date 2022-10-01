@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/proxy/proxy/getprototypeof/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Zearin_Galaurum
+fscholz
+jpmedley
+nmve
+kdex
+ziyunfei
+evilpie
+arai

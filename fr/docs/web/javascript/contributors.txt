@@ -1,0 +1,40 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/index.md
+
+# Original Wiki contributors
+SphinxKnight
+tristantheb
+a-mt
+LCaba49
+loella16
+kdex
+mapiki
+teoli
+ronasita22
+jeromepasquelin
+Avent
+julia31
+jsx
+jalu78
+DamienBertrand
+tregagnon
+ylerjen
+senshu
+DocMcBrown
+tchevalier
+Goofy
+darnuria
+Sroucheray
+matteodelabre
+fscholz
+ILJR
+cv075
+Mgjbot
+BenoitL
+Fredchat
+Verruckt
+Chbok
+Quarkcool
+Jean-Yves Cronier
+Anonymous
+Mario

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/htmldivelement/index.md
+
+# Original Wiki contributors
+oirodolfo
+belsanpesou

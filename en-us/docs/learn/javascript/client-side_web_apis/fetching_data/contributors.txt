@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/client-side_web_apis/fetching_data/index.md
+
+# Original Wiki contributors
+JohnnyMu-Cn
+wlt
+timandes
+chrisdavidmills
+joanvalis
+thekosiguy
+sideshowbarker
+ezrinjaz
+aboagyed
+smoothie1998
+stepharr
+JoshApos
+dlwagner
+stephaniehobson
+kriminals
+SphinxKnight
+li-shasha
+fireattack
+marcusgenrich
+Sheppy

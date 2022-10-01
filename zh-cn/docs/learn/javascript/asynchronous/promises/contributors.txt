@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/asynchronous/promises/index.md
+
+# Original Wiki contributors
+byrde
+You2er
+hidoos
+mizhon
+haoawen
+PYGC
+masterZSH
+wangfangping
+kafm
+zijieee

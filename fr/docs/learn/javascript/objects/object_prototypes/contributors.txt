@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/javascript/objects/object_prototypes/index.md
+
+# Original Wiki contributors
+grandoc
+Etheonor
+aSeches
+zoora
+Jetinho
+JonGarbayo
+LDCL
+Alpha

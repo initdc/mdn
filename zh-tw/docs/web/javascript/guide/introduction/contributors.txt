@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/guide/introduction/index.md
+
+# Original Wiki contributors
+wbamberg
+mingyangshih
+jwhitlock
+jackblackevo
+fscholz
+irvinfly
+teoli
+ethertank
+sycheng

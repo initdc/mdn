@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/media/formats/codecs_parameter/index.html
+
+# Original Wiki contributors
+mechtool

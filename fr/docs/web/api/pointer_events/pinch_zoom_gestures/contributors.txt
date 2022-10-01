@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/pointer_events/pinch_zoom_gestures/index.md
+
+# Original Wiki contributors
+a-mt
+insomniaqc

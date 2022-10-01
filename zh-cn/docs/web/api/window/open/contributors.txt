@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/open/index.md
+
+# Original Wiki contributors
+RainSlide
+Eriice
+PythonVsJava
+mySoul
+SphinxKnight
+xgqfrms-GitHub
+jigs12
+tiansh
+helloguangxue
+teoli
+khalid32
+Ghostheaven
+GT
+Mgjbot
+Mickeyboy

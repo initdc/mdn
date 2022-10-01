@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/learn/html/introduction_to_html/index.md
+
+# Original Wiki contributors
+NekoChan-2851
+JamesGoler
+pccisme
+jian5753
+JunliXiao
+yvonne6344
+jackblackevo
+akccakcctw
+SecondSpirit

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/vertical-align/index.md
+
+# Original Wiki contributors
+yuhengshen
+Ende93
+luoway
+Bayes
+NNNaix
+TiaossuP
+Sebastianz
+collhector
+p2world
+FredWe
+teoli
+yan
+zbinlin

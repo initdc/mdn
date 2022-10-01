@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/first_steps/test_your_skills_colon__math/index.md
+
+# Original Wiki contributors
+

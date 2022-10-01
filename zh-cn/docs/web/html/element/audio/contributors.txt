@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/audio/index.md
+
+# Original Wiki contributors
+xusy
+tanshaobo
+Clarkkkk
+RoXoM
+wbamberg
+HUxiaoAlinNG
+little-tomorrow
+Gerhut
+mage3k
+zhouyg
+ziyunfei
+snadn

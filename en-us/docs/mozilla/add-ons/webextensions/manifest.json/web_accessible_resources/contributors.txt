@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/manifest.json/web_accessible_resources/index.md
+
+# Original Wiki contributors
+ReedyBear
+rebloor
+decadent
+wbamberg
+John-Nagle
+evilpie
+mwein
+Makyen
+andymckay-github

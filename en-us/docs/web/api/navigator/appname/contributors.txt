@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/appname/index.md
+
+# Original Wiki contributors
+alattalatta
+sideshowbarker
+fscholz
+abbycar
+teoli
+chrisdavidmills
+Ugoku
+Robg1
+kscarfone
+ethertank
+Sheppy
+ziyunfei
+Marcoos
+Mgjbot
+Diablownik
+Dria
+JesseW

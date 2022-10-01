@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/node/textcontent/index.md
+
+# Original Wiki contributors
+y-yagi
+mfuji09
+Uemmra3
+kkas
+orisano
+momdo
+fscholz
+jislotz

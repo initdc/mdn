@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/security/referer_header_colon__privacy_and_security_concerns/index.md
+
+# Original Wiki contributors
+silverskyvicto
+soratako
+mfuji09
+ShowGoTagami

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/global_objects/date/index.md
+
+# Original Wiki contributors
+Bagata
+wbamberg
+quindai
+marcelobonatto
+lucas-daltro
+fnsc.luis
+daniloazevedo
+teoli
+BargaoRobalo

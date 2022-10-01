@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/mozsyntheticdocument/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+teoli
+jsx
+kscarfone
+gurdev_singh
+Sheppy

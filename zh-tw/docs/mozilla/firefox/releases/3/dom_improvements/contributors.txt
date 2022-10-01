@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/firefox/releases/3/dom_improvements/index.md
+
+# Original Wiki contributors
+jackblackevo
+wbamberg
+teoli
+Coolcd

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/svg/element/text/index.html
+
+# Original Wiki contributors
+MarcosNakamine
+Sebastianz
+teoli
+caio
+unreleasedmix

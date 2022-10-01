@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/headers/x-frame-options/index.md
+
+# Original Wiki contributors
+DeusExNihilo
+SphinxKnight
+rdavaillaud
+tran-simon
+Selbahc
+emassip
+PropreCity
+petitj
+callmemagnus
+aymericsorek
+mmahouachi

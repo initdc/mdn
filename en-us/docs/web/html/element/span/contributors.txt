@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/span/index.md
+
+# Original Wiki contributors
+JamesCatt
+chrisdavidmills
+alattalatta
+mfuji09
+JCodeg
+wbamberg
+SphinxKnight
+yuheiy
+crissdev
+teoli
+sideshowbarker
+libbymc
+PageYe
+daiyitastic
+accroccigarette01
+lleaff
+Tigt
+Sebastianz
+Mr.Dr.Hany.Mouaaz
+Amiron
+kscarfone
+jswisher
+pablofiumara
+justleroy
+tregagnon
+Sheppy
+medicdude
+ethertank
+fscholz
+McGurk
+hobophobe
+osdm

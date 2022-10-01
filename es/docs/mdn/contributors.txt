@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mdn/index.md
+
+# Original Wiki contributors
+Maose
+jswisher
+SphinxKnight
+Riszin
+Beatriz_Ortega_Valdes
+facufacu3789
+wbamberg
+0zxo
+Jeremie
+raecillacastellana
+DonPrime
+GersonLazaro
+Arudb79
+MauricioGil
+Sheppy

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/paymentrequest/canmakepayment/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Sheppy
+crookedneighbor
+marcoscaceres
+timsmiths
+fscholz
+jpmedley
+ithinkihaveacat
+chrisdavidmills
+david_ross

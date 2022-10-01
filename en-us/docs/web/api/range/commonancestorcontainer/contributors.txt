@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/commonancestorcontainer/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+abbycar
+teoli
+chrisdavidmills
+sbichenko
+jsx
+shubham.hatwar
+Sheppy
+ethertank
+Ms2ger
+DR
+Jonnyq

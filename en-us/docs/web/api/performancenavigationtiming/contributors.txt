@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performancenavigationtiming/index.md
+
+# Original Wiki contributors
+mfuji09
+augerm
+estelle
+skovy
+andydavies
+sideshowbarker
+papaponmx
+ExE-Boss
+chrisdavidmills
+jpmedley
+abbycar
+rolfedh
+AFBarstow

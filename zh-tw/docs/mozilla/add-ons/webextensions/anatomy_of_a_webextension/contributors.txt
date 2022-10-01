@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/mozilla/add-ons/webextensions/anatomy_of_a_webextension/index.md
+
+# Original Wiki contributors
+eugene87222
+JamesGoler
+Dream_Rhythm
+a39705397
+start1119
+Kahiro

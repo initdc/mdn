@@ -1,0 +1,47 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transform-origin/index.md
+
+# Original Wiki contributors
+cdoublev
+rachelandrew
+ddbeck
+fscholz
+Sebastianz
+wbamberg
+xgqfrms
+mfuji09
+blundster
+komalbharadiya
+mfluehr
+faceless
+Riv
+zhuangyin
+Jeremie
+JoshuaL
+stephaniehobson
+erikadoyle
+Simplexible
+Prinz_Rana
+jwhitlock
+jigs12
+teoli
+johndrinkwater
+matthewspencer
+tregagnon
+cvrebert
+ahallicks66
+Yemster
+Majr
+RahulKapuriya12692
+XiangHongAi
+Agamemnus
+kscarfone
+Sheppy
+jimbones
+ethertank
+CutenessOverload
+FredB
+myakura
+Jürgen Jeka
+Level
+j.j.

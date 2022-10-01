@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/boolean/index.md
+
+# Original Wiki contributors
+yuta0801
+mfuji09
+horichiyo
+x2357

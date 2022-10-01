@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/storage/index.html
+
+# Original Wiki contributors
+torbasow
+romandubrov
+jwhitlock
+chulanovskyi
+DavidWebb
+teoli
+jora244
+ThijsK

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/errors/bad_return_or_yield/index.md
+
+# Original Wiki contributors
+iigmir

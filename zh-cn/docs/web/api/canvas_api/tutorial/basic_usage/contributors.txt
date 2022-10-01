@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvas_api/tutorial/basic_usage/index.md
+
+# Original Wiki contributors
+imbant
+imwangpan
+Fwu
+pujiaxun
+maple5233
+TaylorPzreal
+carlosqin
+Cocoa
+teoli
+lon
+Ende93
+MarkoCen
+fscholz
+ziyunfei
+wanglingzhi

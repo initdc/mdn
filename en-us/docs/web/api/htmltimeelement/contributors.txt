@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltimeelement/index.md
+
+# Original Wiki contributors
+sideshowbarker
+fscholz
+valtlai
+Sebastianz
+libbymc
+teoli
+Sheppy
+David.humphrey

@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlhttprequest/send/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+chrisdavidmills
+teabore
+douglasnaphas
+hinell
+asztrikx
+belabb-z
+ilatypov
+Sheppy
+ExE-Boss
+Bzbarsky
+jpmedley
+Makyen
+erikadoyle
+Annevk
+ydiev
+teoli
+joeyparrish
+G07cha
+freaktechnik
+MashKao
+Sebastianz
+jsx

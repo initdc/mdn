@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/batterymanager/index.md
+
+# Original Wiki contributors
+David_Marcos
+maedca
+sinfallas

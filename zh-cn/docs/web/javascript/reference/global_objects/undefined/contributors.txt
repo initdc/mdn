@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/undefined/index.md
+
+# Original Wiki contributors
+wallena3
+lizhongzhen11
+ywjco
+fzhw88
+zhuangyin
+WJ941
+ervinewell
+kameii
+Jiang-Xuan
+teoli
+ziyunfei

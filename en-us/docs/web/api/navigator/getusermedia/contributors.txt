@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/getusermedia/index.md
+
+# Original Wiki contributors
+mfuji09
+sideshowbarker
+connorshea
+Sheppy
+Jib
+abbycar
+rikvermeer
+vincentzhang
+jamix
+myakura
+jwhitlock
+teoli
+jpmedley
+Sebastianz
+rvighne
+fscholz
+Bruun
+tagawa
+juhsu
+chrisdavidmills
+kscarfone
+pdm
+adambom
+openjck
+MattBrubeck
+merih
+ethertank
+scottrowe

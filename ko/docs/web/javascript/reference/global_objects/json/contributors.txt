@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/json/index.md
+
+# Original Wiki contributors
+alattalatta
+Parcovia
+goeo1066
+Netaras
+MexieAndCo

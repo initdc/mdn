@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/headers/expires/index.md
+
+# Original Wiki contributors
+l-vo
+SphinxKnight
+GuiBret

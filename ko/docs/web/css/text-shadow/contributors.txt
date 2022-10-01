@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/text-shadow/index.md
+
+# Original Wiki contributors
+limkukhyun
+alattalatta
+Sebastianz
+teoli
+mirinae312

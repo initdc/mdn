@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/embed/index.md
+
+# Original Wiki contributors
+mfuji09
+JamesCatt
+chrisdavidmills
+pzrq
+jswisher
+alattalatta
+PaRaD0XCORP
+SphinxKnight
+Sheppy
+slokhorst
+teoli
+pcat
+sideshowbarker
+erikadoyle
+Sebastianz
+jcrben
+karlmoz
+kscarfone
+justleroy
+tregagnon
+ethertank
+medicdude
+cers
+fscholz
+McGurk

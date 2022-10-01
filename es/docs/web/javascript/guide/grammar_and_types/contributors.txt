@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/guide/grammar_and_types/index.md
+
+# Original Wiki contributors
+Nachec
+luis-al-merino
+AmazonianCodeGuy
+teknotica
+feliperomero3
+nullx5
+abelosky
+jlopezfdez
+enriqueabsurdum
+Ayman
+AnthonyGareca
+chuyinEF
+estebancito
+bytx
+Pablo_Ivan
+cgsramirez
+eugenioNovas
+marioalvazquez
+joanvasa
+fscholz
+Cleon
+angelnajera
+vinixio
+diegogaysaez
+teoli
+Amatos

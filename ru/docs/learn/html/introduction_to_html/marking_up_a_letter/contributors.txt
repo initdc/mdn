@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/html/introduction_to_html/marking_up_a_letter/index.html
+
+# Original Wiki contributors
+valandis
+Khaidarov-Dinar
+shade0602
+Janivar05
+Darbestor
+boxa6
+Tuman
+thoughtspile
+saniaky

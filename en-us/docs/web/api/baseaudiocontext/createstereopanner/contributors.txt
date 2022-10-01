@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/baseaudiocontext/createstereopanner/index.md
+
+# Original Wiki contributors
+amgarrett09
+fscholz
+leewz
+MysteryPancake
+chrisdavidmills
+Sheppy
+erikadoyle
+teoli
+kscarfone

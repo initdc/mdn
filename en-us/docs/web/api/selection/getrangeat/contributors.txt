@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/getrangeat/index.md
+
+# Original Wiki contributors
+SebastianSimon
+sideshowbarker
+mfluehr
+ddbeck
+abbycar
+Dan-Dascalescu
+fscholz
+teoli
+jsx
+kscarfone
+chitra_lakhotia
+Sheppy
+ethertank
+Brettz9
+DR
+Diablownik
+Jonnyq

@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audiobuffersourcenode/index.md
+
+# Original Wiki contributors
+foolip
+sideshowbarker
+Sheppy
+chrisdavidmills
+SphinxKnight
+fscholz
+lukehorvat
+julien-leclercq
+jpmedley
+erikadoyle
+Distinctive
+Sebastianz
+jwhitlock
+Jeremie
+teoli
+JesseTG
+alicebeckett
+prythm
+padenot
+roman.liutikov
+cwilso
+tregagnon

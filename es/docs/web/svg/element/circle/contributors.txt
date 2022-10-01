@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/svg/element/circle/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+humbertaco

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/fetch_api/using_fetch/index.md
+
+# Original Wiki contributors
+smeden-lod
+chrisdavidmills
+ylerjen
+thibaultboursier
+Krap
+laem
+chaBiselx
+elie_michel
+AlainGourves
+Xstoudi
+P45QU10U
+JeffD

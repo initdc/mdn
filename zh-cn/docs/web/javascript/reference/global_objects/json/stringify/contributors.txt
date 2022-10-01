@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/json/stringify/index.md
+
+# Original Wiki contributors
+anan824
+JaCoder
+zhangchen
+Ocean-ZH
+huxinsen
+fwmh
+szengtal
+superfighter
+zhaoqize
+Demo_Hu
+xgqfrms-GitHub
+xiuzhihuan
+leouncle
+zhoupenghui
+LiYang982
+zachary05
+ziyunfei
+byr-gdp
+paddingme
+AlexChao
+teoli
+Lovesueee

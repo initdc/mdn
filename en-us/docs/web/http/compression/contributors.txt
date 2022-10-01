@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/compression/index.md
+
+# Original Wiki contributors
+mozdevcontrib
+chrisdavidmills
+bepvte
+segmentationfaulter
+mfuji09
+Sal56
+blimey74
+wasif_baig
+DuncanMacWeb
+nishankjain
+WayneCui
+fscholz
+teoli

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/html/multimedia_and_embedding/mozilla_splash_page/index.md
+
+# Original Wiki contributors
+Roy-Tian
+FantasqueX
+codeofjackie
+lihaoyuan
+superkuang
+nbhaohao

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.parallelogram {
+  --w: 400;
+  --h: 200;
+  position: relative;
+  width: calc(1px * var(--w));
+  height: calc(1px * var(--h));
+}
+.parallelogram::before {
+  --angle: calc(sin(var(--h) / var(--w)));
+  content: "";
+  position: absolute;
+  width: calc(100% - 100% * var(--h) / var(--w) * tan(var(--angle)));
+  height: 100%;
+  transform-origin: 0 100%;
+  transform: skew(calc(0 - var(--angle)));
+  background-color: red;
+}
+
+        </style>
+        
+        <title>tan() - draw_parallelograms - code sample</title>
+    </head>
+    <body>
+        
+            <div class="parallelogram"></div>
+
+        
+        
+    </body>
+</html>

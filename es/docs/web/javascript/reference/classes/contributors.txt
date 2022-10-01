@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/classes/index.html
+
+# Original Wiki contributors
+jorendorff-moz
+PatoDeTuring
+jenrrypc
+superyaz
+Alejandro_Hr_Mt
+ivanagui2
+sebaLinares
+nadieenespecial
+SphinxKnight
+damianpm
+andrpueb
+carlosviteri
+danielsalgadop
+kdex
+romanll
+pipo02mix
+coins5
+ragutimar
+jhia
+Erto
+Siro_Diaz
+mishelashala
+Albizures
+fscholz
+GoToLoop

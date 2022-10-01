@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/fetch/index.md
+
+# Original Wiki contributors
+mfuji09
+gladenjoy
+Uemmra3
+hamasaki
+woodmix
+fscholz
+mdmss37
+dskmori
+aliceinwire
+lv7777
+Piroro-hs
+chikoski

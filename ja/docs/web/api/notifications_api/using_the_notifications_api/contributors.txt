@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/notifications_api/using_the_notifications_api/index.md
+
+# Original Wiki contributors
+mfuji09
+shuuji3
+Uemmra3
+yyss

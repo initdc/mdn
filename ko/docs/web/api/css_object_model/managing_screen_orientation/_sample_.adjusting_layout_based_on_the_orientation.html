@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            /* First let's define some common styles */
+
+html, body {
+  width : 100%;
+  height: 100%;
+}
+
+body {
+  border: 1px solid black;
+
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+p {
+  font   : 1em sans-serif;
+  margin : 0;
+  padding: .5em;
+}
+
+ul {
+  list-style: none;
+
+  font   : 1em monospace;
+  margin : 0;
+  padding: .5em;
+
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+  background: black;
+}
+
+li {
+  display: inline-block;
+  margin : 0;
+  padding: 0.5em;
+  background: white;
+}
+
+/* For portrait, we want the tool bar on top */
+
+@media screen and (orientation: portrait) {
+  #toolbar {
+    width: 100%;
+  }
+}
+
+/* For landscape, we want the tool bar stick on the left */
+
+@media screen and (orientation: landscape) {
+  #toolbar {
+    position: fixed;
+    width: 2.65em;
+    height: 100%;
+  }
+
+  p {
+    margin-left: 2em;
+  }
+
+  li + li {
+    margin-top: .5em;
+  }
+}
+
+        </style>
+        
+        <title>Managing screen orientation - adjusting_layout_based_on_the_orientation - code sample</title>
+    </head>
+    <body>
+        
+            <ul id="toolbar">
+  <li>A</li>
+  <li>B</li>
+  <li>C</li>
+</ul>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacinia nisi nec sem viverra vitae fringilla nulla ultricies. In ac est dolor, quis tincidunt leo. Cras commodo quam non tortor consectetur eget rutrum dolor ultricies. Ut interdum tristique dapibus. Nullam quis malesuada est.</p>
+
+        
+        
+    </body>
+</html>

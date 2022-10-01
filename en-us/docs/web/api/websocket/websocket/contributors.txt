@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/websocket/websocket/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+prosovskyf
+emersion
+dd-pardal
+vapier
+sideshowbarker
+fscholz
+Claas

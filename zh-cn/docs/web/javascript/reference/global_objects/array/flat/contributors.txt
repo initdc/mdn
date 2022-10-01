@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/flat/index.md
+
+# Original Wiki contributors
+RolkerMan
+zhuangyin
+yadongxie150
+0uzu0
+youcanping
+andycao
+SageX
+lovefengruoqing
+RainSlide
+hillterry
+Kemper-Diao
+dr2009
+fscholz
+fisker
+Braised-Cakes

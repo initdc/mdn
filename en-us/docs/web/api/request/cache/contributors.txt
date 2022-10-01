@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/request/cache/index.md
+
+# Original Wiki contributors
+CzBiX
+dlwe
+ZaneHannanAU
+fscholz
+harrison-ifeanyichukwu
+triblondon
+chrisdavidmills
+abbycar
+wbamberg
+bkelly
+Sebastianz
+jpmedley
+kscarfone

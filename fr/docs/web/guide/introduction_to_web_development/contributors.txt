@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/guide/introduction_to_web_development/index.md
+
+# Original Wiki contributors
+Jeremie
+fscholz
+BenoitL

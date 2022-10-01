@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/ajax/index.md
+
+# Original Wiki contributors
+LouisLazaris
+mfuji09
+sideshowbarker
+astonesh
+bianavic
+SebinNyshkim
+ExE-Boss
+janpeuker
+Jeremie
+SnoopyRules
+MSlater
+rogeriomoraessp
+klez
+Andrew_Pfeiffer
+Sheppy

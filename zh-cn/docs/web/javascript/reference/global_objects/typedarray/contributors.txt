@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/typedarray/index.md
+
+# Original Wiki contributors
+knightyun
+9-lives
+tangtangtangtangtang
+taoyouh
+Jiang-Xuan
+Gintoki
+xgqfrms-GitHub
+chenyang
+liyongleihf2006
+Ende93
+teoli
+David_Li

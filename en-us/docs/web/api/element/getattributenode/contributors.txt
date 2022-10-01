@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/getattributenode/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+connorshea
+fscholz
+teoli
+kscarfone
+vishu_gawli
+Sheppy
+mattbasta
+Matej Lednar
+Jürgen Jeka
+Hsivonen
+Mgjbot
+Celelibi
+Jabez
+Nickolay
+Ptak82
+Dria
+JesseW
+Callek

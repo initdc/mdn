@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/node/firstchild/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+AshfaqHossain
+teoli
+Sheppy
+Netaras

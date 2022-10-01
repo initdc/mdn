@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/global_attributes/index.md
+
+# Original Wiki contributors
+wangfangping
+gafish
+fangshuaituo
+depcorn
+nagisa
+qihuanlu01
+eforegist
+Ende93
+sdc37h
+Jasery
+xgqfrms-GitHub
+hawm
+OlafCheng
+vicvinc
+Shaoqiang.Zhang
+zhangking
+TimZhao
+ziyunfei
+bugknightyyp

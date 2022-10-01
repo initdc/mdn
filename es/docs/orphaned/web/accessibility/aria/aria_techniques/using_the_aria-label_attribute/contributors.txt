@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/orphaned/web/accessibility/aria/aria_techniques/using_the_aria-label_attribute/index.html
+
+# Original Wiki contributors
+AlePerez92
+mitsurugi
+fraboto
+blanchart
+ErikMj69
+NelsonWF

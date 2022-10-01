@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_flexible_box_layout/mastering_wrapping_of_flex_items/index.md
+
+# Original Wiki contributors
+maksymczech
+mattbrundageMDN
+rachelandrew
+chrisdavidmills

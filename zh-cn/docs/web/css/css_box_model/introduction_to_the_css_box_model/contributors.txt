@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_box_model/introduction_to_the_css_box_model/index.md
+
+# Original Wiki contributors
+123456zzz
+RainSlide
+tanapok
+shuaihuGao
+xiaojichao
+xgqfrms-GitHub
+YehaiChen
+CompileYouth
+ouzz413
+kevinfszu
+fscholz
+stephaniehobson
+Ende93
+teoli
+yan

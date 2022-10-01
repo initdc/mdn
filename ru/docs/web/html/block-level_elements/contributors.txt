@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/block-level_elements/index.md
+
+# Original Wiki contributors
+idoru
+SelenIT
+Filofei
+Selenia_6
+SnejUgal
+Anton.Yurovskykh
+bracket
+alexander-lis
+Mishman
+artcygn

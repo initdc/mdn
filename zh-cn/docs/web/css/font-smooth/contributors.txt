@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/font-smooth/index.md
+
+# Original Wiki contributors
+teoli
+zhangchen
+hiyangguo
+Fantasy_shao
+xgqfrms
+Wenbin

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/guide/grammar_and_types/index.html
+
+# Original Wiki contributors
+kkxley
+device25
+pk.prog
+rus11
+xkha
+Grumvol
+DeekHalden
+BychekRU
+JuGeer
+fscholz
+IgorGilyazov
+ph1ex0n
+Corba
+teoli
+uleming

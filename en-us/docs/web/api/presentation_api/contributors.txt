@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/presentation_api/index.md
+
+# Original Wiki contributors
+bershanskiy
+fscholz
+jpmedley
+Sheppy
+MashKao
+teoli
+rolfedh

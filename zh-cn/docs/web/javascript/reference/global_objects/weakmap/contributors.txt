@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/weakmap/index.md
+
+# Original Wiki contributors
+Venus14
+wallena3
+Ende93
+WangLeto
+BingerWeb
+lizheming
+hhxxhg
+xgqfrms-GitHub
+kameii
+lvjs
+Cattla
+teoli
+ziyunfei

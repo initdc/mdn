@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/first_steps/variables/index.md
+
+# Original Wiki contributors
+eldesh
+masa
+Uemmra3
+silverskyvicto
+kenji-yamasaki
+hysryt
+tomouchi_
+chameleonhead

@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/input/color/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+Anonymous
+Koavf
+estelle
+nicofrand
+mgthomas99
+fscholz
+SphinxKnight
+Sheppy
+vitaly-zdanevich
+chrisdavidmills
+dhritzkiv
+Sebastianz
+znap026
+Patrick_Dark
+Longsonr
+mrenty
+Meghana_Desai
+gergob
+teoli
+Jeremie
+kscarfone
+sidgan

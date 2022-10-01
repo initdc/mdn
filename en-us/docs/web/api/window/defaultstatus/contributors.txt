@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/defaultstatus/index.md
+
+# Original Wiki contributors
+Loirooriol
+sarafec
+fscholz
+teoli
+kscarfone
+kohei.yoshino
+Sheppy
+feltronzach
+Matej Lednar
+Mgjbot
+Dria
+Callek
+JesseW

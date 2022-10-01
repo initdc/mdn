@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/list-style-type/index.md
+
+# Original Wiki contributors
+ziiyan
+Ende93
+liwangft_tf
+SphinxKnight
+ranwu
+Sebastianz
+teoli
+guoyunhebrave

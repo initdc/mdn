@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/xmlhttprequest/withcredentials/index.md
+
+# Original Wiki contributors
+muuma
+JesuisTong
+bigZ-again
+Cuixote
+Cmen

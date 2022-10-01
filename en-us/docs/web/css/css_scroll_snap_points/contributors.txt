@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_scroll_snap_points/index.md
+
+# Original Wiki contributors
+wbamberg
+alattalatta
+fscholz
+pete_le
+chrisdavidmills
+twhb
+mfluehr
+c9s
+teoli

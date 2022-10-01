@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/mask-mode/index.md
+
+# Original Wiki contributors
+rachelandrew
+mfuji09
+wbamberg
+Sheppy
+ddbeck
+mfluehr
+fscholz
+chrisdavidmills
+teoli
+Sebastianz
+yisibl
+Siilwyn
+rolfedh

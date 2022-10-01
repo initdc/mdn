@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/int8array/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+Konrud
+jameshkramer
+kdex
+arai
+dmurph
+storeclerk
+Sheppy
+BennettJames
+vishu_gawli
+teoli
+Nfroidure
+yyss
+cers

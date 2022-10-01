@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/first_cpu_idle/index.md
+
+# Original Wiki contributors
+j9t
+milsyobtaf
+estelle
+sareg0
+jordana

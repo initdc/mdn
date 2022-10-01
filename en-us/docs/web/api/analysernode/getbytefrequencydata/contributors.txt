@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/analysernode/getbytefrequencydata/index.md
+
+# Original Wiki contributors
+1valdis
+sideshowbarker
+ericandrewlewis
+Rumyra
+fscholz
+erikadoyle
+rolfedh
+PushpitaPikuDey
+williamboman
+miguelmota
+teoli
+chrisdavidmills

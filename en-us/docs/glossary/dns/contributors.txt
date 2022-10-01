@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/dns/index.md
+
+# Original Wiki contributors
+KMarchewa
+mfuji09
+fuggy
+estelle
+Sodan
+klez
+Andrew_Pfeiffer
+hbloomer
+prox
+L_e_o

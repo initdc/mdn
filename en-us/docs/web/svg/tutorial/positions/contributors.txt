@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/positions/index.md
+
+# Original Wiki contributors
+kmgreg
+Sheppy
+jswisher
+webgodo
+George8211
+saltycrane
+trevorh
+TINMAN
+Jeremie
+enderandpeter
+ziyunfei
+teoli
+yyss
+georgethomasuk
+PetiPandaRou
+Manuel_Strehl

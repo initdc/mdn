@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/learn/getting_started_with_the_web/javascript_basics/index.md
+
+# Original Wiki contributors
+Nachec
+Enesimus
+Maose
+John19D
+yavemu
+pablopennisi
+Sergio_Gonzalez_Collado
+hamfree
+Bluterg
+jpmontoya182
+sillo01
+lfrasae
+bartolocarrasco
+nhuamani
+ricardormeza
+fcojgodoy
+soulminato
+chech
+juanqui
+RaulHernandez
+joelomar
+welm
+derplak
+sin_nombre365
+germanfr
+cgsramirez
+nekludov

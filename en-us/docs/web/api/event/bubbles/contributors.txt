@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/event/bubbles/index.md
+
+# Original Wiki contributors
+kostasx
+mfuji09
+nakhodkiin
+mfluehr
+fscholz
+Sheppy
+chrisdavidmills
+davidjudilla
+Biiinggg
+trrapp12
+jpaugh
+DomenicDenicola
+cvrebert
+teoli
+kosvrouvas
+kscarfone
+Cobra
+ziyunfei
+Matej Lednar
+Brettz9
+Mgjbot
+Jabez
+Ptak82
+Dria
+JesseW

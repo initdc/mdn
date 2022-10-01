@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/margin-inline-start/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+mfuji09
+rachelandrew
+fscholz
+teoli
+Sebastianz
+kscarfone

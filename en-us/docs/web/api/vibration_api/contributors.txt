@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/vibration_api/index.md
+
+# Original Wiki contributors
+roshan0708
+mfuji09
+ExE-Boss
+gerganzh
+fscholz
+mustaqahmed
+yeah568
+connor4312
+narohcp
+teoli
+chrisdavidmills
+tregagnon
+SpencerG
+Jeremie
+DavidWalsh
+ajaybhat
+Sheppy
+FredB

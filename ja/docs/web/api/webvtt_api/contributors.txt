@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/webvtt_api/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+silverskyvicto
+Wind1808
+wbamberg
+lv7777
+shinnn
+nshimizu

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/http/index.md
+
+# Original Wiki contributors
+Uemmra3
+sutara79
+kubota-aoi

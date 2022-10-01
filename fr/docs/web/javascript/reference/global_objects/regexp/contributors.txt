@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/regexp/index.md
+
+# Original Wiki contributors
+SphinxKnight
+JNa0
+jersou
+vava
+RedGuff
+NemoNobobyPersonne
+tregagnon
+Djiit
+polinux
+FremyCompany
+marcantoinebeaulieu
+Mr21
+lovasoa
+psegalen
+teoli
+vvision
+daniel35310

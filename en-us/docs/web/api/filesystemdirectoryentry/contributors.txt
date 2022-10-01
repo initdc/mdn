@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/filesystemdirectoryentry/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+fscholz
+kaushik94
+chrisdavidmills
+libbymc
+Sheppy
+AlexBHarley
+rolfedh
+GreatGhostsss
+chrahunt
+jscissr
+teoli
+kscarfone
+gilesburdett
+grendel

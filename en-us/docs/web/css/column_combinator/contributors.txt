@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/column_combinator/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+mfuji09
+ExE-Boss
+estelle
+chrisdavidmills

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/wheel_event/index.md
+
+# Original Wiki contributors
+xuanji
+SphinxKnight
+Missyan
+irenesmith
+fscholz
+Zhang-Junzhi
+lufengd3
+ziyunfei

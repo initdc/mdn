@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/selection/extend/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+ddbeck
+cronco
+chrisdavidmills
+abbycar
+Presta-Lab
+gustafl
+BenjamP
+fscholz
+teoli
+carnival187
+AlphaGit
+kosvrouvas
+kscarfone
+chitra_lakhotia
+Sheppy
+syockit
+Geurtz
+Federico
+DR
+Rev
+Jonnyq

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlelement/contenteditable/index.md
+
+# Original Wiki contributors
+mfuji09
+Wind1808
+uiureo
+Marsf
+fscholz
+AshfaqHossain
+ethertank

@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/first_steps/introduction/index.md
+
+# Original Wiki contributors
+Havardox
+chrisdavidmills
+kruschk
+d78mdd
+jdblischak
+tic64
+michaelAdewunmi
+LinuxLiaison
+richardl62
+anshtanwar43
+shubham822
+sacredSatan
+utkarshbhatt12
+ggarrickk
+stephaniehobson
+leluso
+dagolinuxoid
+WG75
+Zeng
+-aevans1
+tommorris
+lalilulelost
+BaderSur
+lkeneco
+balajimysore12
+hamishwillee

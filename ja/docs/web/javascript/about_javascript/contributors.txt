@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/about_javascript/index.md
+
+# Original Wiki contributors
+isdh
+yyss
+ethertank
+sii
+99corps
+Mgjbot
+Okome
+Yama
+Shimono

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/mediadevices/getdisplaymedia/index.md
+
+# Original Wiki contributors
+zhangwenwen12138
+SphinxKnight
+estKey
+w3cways
+liumingsongning

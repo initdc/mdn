@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/documentfragment/index.md
+
+# Original Wiki contributors
+losT1995
+xoyojo
+Fancyflame
+RainSlide
+zhaoqize
+Lynn0108
+xgqfrms-GitHub
+kankk
+Cattla
+wzx
+laobubu
+jsx
+endlesswind

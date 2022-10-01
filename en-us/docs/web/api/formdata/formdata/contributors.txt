@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/formdata/formdata/index.md
+
+# Original Wiki contributors
+Robg1
+connorshea
+ligaz
+ZeroUnderscoreOu
+N0bl3
+keekeefulldive
+Sebastianz
+chrisdavidmills
+kscarfone

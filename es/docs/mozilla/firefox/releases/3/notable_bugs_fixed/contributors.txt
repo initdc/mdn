@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/firefox/releases/3/notable_bugs_fixed/index.md
+
+# Original Wiki contributors
+wbamberg
+Mgjbot
+Nathymig
+Nukeador
+HenryGR
+RickieesES
+Ciberman osman

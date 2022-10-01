@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performance/measure/index.md
+
+# Original Wiki contributors
+ryanyo
+estelle
+gregtatum
+fscholz
+KnightYoshi
+DareBoost
+chrisdavidmills
+abbycar
+jpmedley
+rolfedh
+stephaniehobson
+AFBarstow

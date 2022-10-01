@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/css_grid_layout/css_grid_and_progressive_enhancement/index.md
+
+# Original Wiki contributors
+

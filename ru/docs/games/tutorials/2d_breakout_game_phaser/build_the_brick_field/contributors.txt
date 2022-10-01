@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/games/tutorials/2d_breakout_game_phaser/build_the_brick_field/index.html
+
+# Original Wiki contributors
+BVaflick

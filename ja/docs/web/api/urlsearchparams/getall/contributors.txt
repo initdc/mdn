@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/urlsearchparams/getall/index.md
+
+# Original Wiki contributors
+ciffelia
+Wind1808

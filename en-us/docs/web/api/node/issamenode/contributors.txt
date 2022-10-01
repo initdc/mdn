@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/issamenode/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Zearin_Galaurum
+fscholz
+rubyroobs
+abbycar
+jsx
+xavier-calland
+Sheppy
+teoli
+Sebastianz
+kscarfone
+gurdev_singh
+ethertank
+mattbasta
+trevorh
+ziyunfei
+Jürgen Jeka
+Sephr

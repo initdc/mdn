@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>HTMLTextAreaElement - maximum_length_and_number_of_lines_example - code sample</title>
+    </head>
+    <body>
+        
+            <form>
+  <p>Textarea with fixed number of characters per line:<br />
+    <textarea cols="50" rows="10" onkeypress="return checkRows(this, event);"
+              onpaste="return false;"></textarea>
+  </p>
+</form>
+
+        
+        
+            <script>
+                function checkRows(oField, oKeyEvent) {
+  var nKey = (oKeyEvent || /* old IE */ window.event || /* check is not supported! */ { keyCode: 38 }).keyCode,
+
+    // put here the maximum number of characters per line:
+    nCols = 30,
+    // put here the maximum number of lines:
+    nRows = 5,
+
+    nSelS = oField.selectionStart, nSelE = oField.selectionEnd,
+    sVal = oField.value, nLen = sVal.length,
+
+    nBackward = nSelS >= nCols ? nSelS - nCols : 0,
+    nDeltaForw = sVal.substring(nBackward, nSelS).search(new RegExp("\\n(?!.{0," + String(nCols - 2) + "}\\n)")) + 1,
+    nRowStart = nBackward + nDeltaForw,
+    aReturns = (sVal.substring(0, nSelS) + sVal.substring(nSelE, sVal.length)).match(/\n/g),
+    nRowEnd = nSelE + nRowStart + nCols - nSelS,
+    sRow = sVal.substring(nRowStart, nSelS) + sVal.substring(nSelE, nRowEnd > nLen ? nLen : nRowEnd),
+    bKeepCols = nKey === 13 || nLen + 1 < nCols || /\n/.test(sRow) || ((nRowStart === 0 || nDeltaForw > 0 || nKey > 0) && (sRow.length < nCols || (nKey > 0 && (nLen === nRowEnd || sVal.charAt(nRowEnd) === "\n"))));
+
+  return (nKey !== 13 || (aReturns ? aReturns.length + 1 : 1) < nRows) && ((nKey > 32 && nKey < 41) || bKeepCols);
+}
+
+            </script>
+        
+    </body>
+</html>

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/manifest.json/page_action/index.md
+
+# Original Wiki contributors
+Raysphere24
+wbamberg
+Uemmra3

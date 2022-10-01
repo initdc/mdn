@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Using DTMF with WebRTC - simple_example - code sample</title>
+    </head>
+    <body>
+        
+            <p>
+  This example demonstrates the use of DTMF in WebRTC. Note that this example is
+  "cheating" by generating both peers in one code stream, rather than having
+  each be a truly separate entity.
+</p>
+
+<audio id="audio" autoplay controls></audio><br />
+<button name="dial" id="dial">Dial</button>
+
+<div class="log"></div>
+
+        
+        
+            <script>
+                let dialString = "12024561111";
+
+let callerPC = null;
+let receiverPC = null;
+let dtmfSender = null;
+
+let hasAddTrack = false;
+
+let mediaConstraints = {
+  audio: true,
+  video: false
+};
+
+let offerOptions = {
+  offerToReceiveAudio: 1,
+  offerToReceiveVideo: 0
+};
+
+let dialButton = null;
+let logElement = null;
+
+window.addEventListener("load", () => {
+  logElement = document.querySelector(".log");
+  dialButton = document.querySelector("#dial");
+
+  dialButton.addEventListener("click", connectAndDial, false);
+});
+
+function connectAndDial() {
+  callerPC = new RTCPeerConnection();
+
+  hasAddTrack = (callerPC.addTrack !== undefined);
+
+  callerPC.onicecandidate = handleCallerIceEvent;
+  callerPC.onnegotiationneeded = handleCallerNegotiationNeeded;
+  callerPC.oniceconnectionstatechange = handleCallerIceConnectionStateChange;
+  callerPC.onsignalingstatechange = handleCallerSignalingStateChangeEvent;
+  callerPC.onicegatheringstatechange = handleCallerGatheringStateChangeEvent;
+
+  receiverPC = new RTCPeerConnection();
+  receiverPC.onicecandidate = handleReceiverIceEvent;
+
+  if (hasAddTrack) {
+    receiverPC.ontrack = handleReceiverTrackEvent;
+  } else {
+    receiverPC.onaddstream = handleReceiverAddStreamEvent;
+  }
+
+  navigator.mediaDevices.getUserMedia(mediaConstraints)
+  .then(gotStream)
+  .catch((err) => log(err.message));
+}
+
+function gotStream(stream) {
+  log("Got access to the microphone.");
+
+  let audioTracks = stream.getAudioTracks();
+
+  if (hasAddTrack) {
+    if (audioTracks.length > 0) {
+      audioTracks.forEach((track) => callerPC.addTrack(track, stream));
+    }
+  } else {
+    log("Your browser doesn't support RTCPeerConnection.addTrack(). Falling " +
+        "back to the <strong>deprecated</strong> addStream() method…");
+    callerPC.addStream(stream);
+  }
+
+  if (callerPC.getSenders) {
+    dtmfSender = callerPC.getSenders()[0].dtmf;
+  } else {
+    log("Your browser doesn't support RTCPeerConnection.getSenders(), so " +
+        "falling back to use <strong>deprecated</strong> createDTMFSender() " +
+        "instead.");
+    dtmfSender = callerPC.createDTMFSender(audioTracks[0]);
+  }
+
+  dtmfSender.ontonechange = handleToneChangeEvent;
+}
+
+function handleToneChangeEvent(event) {
+  if (event.tone !== "") {
+    log(`Tone played: ${event.tone}`);
+  } else {
+    log("All tones have played. Disconnecting.");
+    callerPC.getLocalStreams().forEach((stream) => {
+      stream.getTracks().forEach((track) => {
+        track.stop();
+      });
+    });
+    receiverPC.getLocalStreams().forEach((stream) => {
+      stream.getTracks().forEach((track) => {
+        track.stop();
+      });
+    });
+
+    audio.pause();
+    audio.srcObject = null;
+    receiverPC.close();
+    callerPC.close();
+  }
+}
+
+function handleCallerIceEvent(event) {
+  if (event.candidate) {
+    log(`Adding candidate to receiver: ${event.candidate.candidate}`);
+
+    receiverPC.addIceCandidate(new RTCIceCandidate(event.candidate))
+    .catch((err) => log(`Error adding candidate to receiver: ${err}`));
+  } else {
+    log("Caller is out of candidates.");
+  }
+}
+
+function handleCallerIceConnectionStateChange() {
+  log(`Caller's connection state changed to ${callerPC.iceConnectionState}`);
+  if (callerPC.iceConnectionState === "connected") {
+    log(`Sending DTMF: "${dialString}"`);
+    dtmfSender.insertDTMF(dialString, 400, 50);
+  }
+}
+
+function handleCallerNegotiationNeeded() {
+  log("Negotiating…");
+  callerPC.createOffer(offerOptions)
+  .then((offer) => {
+    log(`Setting caller's local description: ${offer.sdp}`);
+    return callerPC.setLocalDescription(offer);
+  })
+  .then(() => {
+    log("Setting receiver's remote description to the same as caller's local");
+    return receiverPC.setRemoteDescription(callerPC.localDescription)
+  })
+  .then(() => {
+    log("Creating answer");
+    return receiverPC.createAnswer();
+  })
+  .then((answer) => {
+    log(`Setting receiver's local description to ${answer.sdp}`);
+    return receiverPC.setLocalDescription(answer);
+  })
+  .then(() => {
+    log("Setting caller's remote description to match");
+    return callerPC.setRemoteDescription(receiverPC.localDescription);
+  })
+  .catch((err) => log(`Error during negotiation: ${err.message}`));
+}
+
+function handleCallerSignalingStateChangeEvent() {
+  log(`Caller's signaling state changed to ${callerPC.signalingState}`);
+}
+
+function handleCallerGatheringStateChangeEvent() {
+  log(`Caller's ICE gathering state changed to ${callerPC.iceGatheringState}`);
+}
+
+function handleReceiverIceEvent(event) {
+  if (event.candidate) {
+    log(`Adding candidate to caller: ${event.candidate.candidate}`);
+
+    callerPC.addIceCandidate(new RTCIceCandidate(event.candidate))
+    .catch((err) => log(`Error adding candidate to caller: ${err}`));
+  } else {
+    log("Receiver is out of candidates.");
+  }
+}
+
+function handleReceiverTrackEvent(event) {
+  audio.srcObject = event.streams[0];
+}
+
+function handleReceiverAddStreamEvent(event) {
+  audio.srcObject = event.stream;
+}
+
+function log(msg) {
+  logElement.innerHTML += `${msg}<br/>`;
+}
+
+            </script>
+        
+    </body>
+</html>

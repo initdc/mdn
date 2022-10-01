@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/media/formats/audio_codecs/index.md
+
+# Original Wiki contributors
+slokhorst
+SphinxKnight
+leela52452
+Sheppy
+GiacomoSorbi

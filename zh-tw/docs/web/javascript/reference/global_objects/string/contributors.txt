@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/global_objects/string/index.md
+
+# Original Wiki contributors
+wbamberg
+jackblackevo
+jsgao0
+iigmir
+teoli
+fscholz

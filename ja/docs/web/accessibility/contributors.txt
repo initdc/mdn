@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/accessibility/index.md
+
+# Original Wiki contributors
+yyuichi0304
+SphinxKnight
+Wind1808
+momdo
+dskmori
+teoli
+ethertank
+Marsf
+Mgjbot
+Okome
+Takenbot
+Shimono

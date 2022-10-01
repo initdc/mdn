@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/indexeddb_api/index.md
+
+# Original Wiki contributors
+wbamberg
+jackblackevo
+foxbrush
+MashKao
+ethertank
+princetoad@gmail.com

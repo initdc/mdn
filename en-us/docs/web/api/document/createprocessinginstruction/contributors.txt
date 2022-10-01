@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/createprocessinginstruction/index.md
+
+# Original Wiki contributors
+mfuji09
+Sebastianz
+Tigt
+fscholz
+teoli
+Krinkle
+kscarfone
+Sheppy
+dbruant
+Zcorpan
+Brettz9

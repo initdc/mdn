@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            .panel {
+  font: 16px "Open Sans", Helvetica, Arial, sans-serif;
+  border: 1px solid #22d;
+  padding: 12px;
+  width: 500px;
+  text-align: center;
+}
+
+.button {
+  font: 22px "Open Sans", Helvetica, Arial, sans-serif;
+  padding: 5px 36px;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 175%;
+}
+        </style>
+        
+        <title>HTMLElement.hidden - example - code sample</title>
+    </head>
+    <body>
+        
+            <div id="welcome" class="panel">
+  <h1>Welcome to Foobar.com!</h1>
+  <p>By clicking "OK" you agree to be awesome every day!</p>
+  <button class="button" id="okButton">OK</button>
+</div>
+<div id="awesome" class="panel" hidden>
+  <h1>Thanks!</h1>
+  <p>Thank you <strong>so</strong> much for agreeing to be
+  awesome today! Now get out there and do awesome things
+  awesomely to make the world more awesome!</p>
+</div>
+        
+        
+            <script>
+                document.getElementById("okButton")
+        .addEventListener("click", function() {
+  document.getElementById("welcome").hidden = true;
+  document.getElementById("awesome").hidden = false;
+}, false);
+            </script>
+        
+    </body>
+</html>

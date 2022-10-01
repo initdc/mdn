@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/index.md
+
+# Original Wiki contributors
+SphinxKnight
+hl5nyw
+yeoncheol-kr
+honggaruy
+alattalatta
+Silvermist
+2kindsofcs
+ehgus
+svarlamov
+daktwigim
+MiscellaneousDictionary
+dolmoon
+moodcoding
+Olivia_J
+minwook-shin
+daesD
+kidkkr
+haneri
+kygn1998
+Netaras
+hoony
+sunkibaek
+cs09g
+Donghyun_Lee
+kscarfone

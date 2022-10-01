@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/svg/element/polygon/index.html
+
+# Original Wiki contributors
+aak74
+boxa6
+bogdancdc

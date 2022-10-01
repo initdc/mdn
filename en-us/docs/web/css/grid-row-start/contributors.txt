@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/grid-row-start/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+Sheppy
+chrisdavidmills
+fscholz
+lwakefield
+libbymc
+mfluehr
+david_ross
+jpmedley
+Konrud
+teoli
+Sebastianz
+rolfedh

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/status/500/index.md
+
+# Original Wiki contributors
+danmurch77
+sideshowbarker
+lesikolerina23
+davywsr
+slivenred
+RainSlide
+WayneCui
+ziyunfei
+aosan002

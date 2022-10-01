@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/canvas_api/tutorial/compositing/index.md
+
+# Original Wiki contributors
+jackblackevo
+fscholz
+elin
+foxbrush

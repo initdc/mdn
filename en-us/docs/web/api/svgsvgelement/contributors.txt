@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svgsvgelement/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+fscholz
+Longsonr
+Sebastianz
+jpmedley
+mattwojo
+kscarfone
+teoli
+Sheppy
+Jeremie
+HelderMagalhaes

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/display/index.md
+
+# Original Wiki contributors
+mfuji09
+ccc-labo
+yyss
+Sebastianz
+dskmori
+mokeke
+ethertank
+sosleepy
+Foomin10

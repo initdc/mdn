@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/storage/index.md
+
+# Original Wiki contributors
+armando-fm
+sideshowbarker
+mfluehr
+gdg
+anton-mladenov
+fscholz
+ron4ex
+chrisdavidmills
+abbycar
+juanojeda
+ZeroUnderscoreOu
+Sebastianz
+ThijsK
+teoli

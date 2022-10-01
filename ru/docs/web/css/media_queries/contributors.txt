@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/media_queries/index.md
+
+# Original Wiki contributors
+tropikan4
+Sheppy

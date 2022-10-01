@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/audiocontext/baselatency/index.md
+
+# Original Wiki contributors
+realityforge
+chrisdavidmills
+thenoelman
+Jedipedia
+fscholz
+jpmedley

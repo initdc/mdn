@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/uint8array/index.md
+
+# Original Wiki contributors
+Maiko
+wizardforcel
+WhiteMind
+Meteormatt
+linus_ding

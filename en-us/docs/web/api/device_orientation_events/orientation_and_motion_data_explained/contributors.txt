@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/device_orientation_events/orientation_and_motion_data_explained/index.md
+
+# Original Wiki contributors
+gerfolder
+sideshowbarker
+jdashg
+dphenderson
+Jeremie
+Sheppy
+kohei.yoshino

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/css/css_grid_layout/basic_concepts_of_grid_layout/index.md
+
+# Original Wiki contributors
+akccakcctw
+iigmir
+1986slayer

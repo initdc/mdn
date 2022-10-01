@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/event/preventdefault/index.md
+
+# Original Wiki contributors
+watsab
+loella16
+Hell_Carlito
+robin850
+fscholz
+khalid32
+Goofy
+Delapouite
+flo5589

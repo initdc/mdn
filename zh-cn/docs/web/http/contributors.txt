@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/index.md
+
+# Original Wiki contributors
+Lsnsh
+dujun
+RainSlide
+taoyouh
+shengjieli
+userand
+syt-honey
+Pengfei
+zhuangyin
+JamieYang
+xuxun
+Ende93
+xgqfrms-GitHub
+sunnylost
+cissoid
+TomasRan
+DreamerKing
+ziyunfei

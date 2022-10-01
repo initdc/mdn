@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/guide/regular_expressions/character_classes/index.md
+
+# Original Wiki contributors
+sideshowbarker
+codingdudecom
+Vinnl
+fscholz
+SphinxKnight
+chrisdavidmills
+octaG
+Alhadis
+ExE-Boss
+jpmedley

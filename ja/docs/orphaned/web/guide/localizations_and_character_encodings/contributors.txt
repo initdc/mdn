@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/guide/localizations_and_character_encodings/index.md
+
+# Original Wiki contributors
+morinokami
+silverskyvicto

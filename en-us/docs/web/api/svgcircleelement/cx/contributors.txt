@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svgcircleelement/cx/index.md
+
+# Original Wiki contributors
+Sebastianz
+fscholz
+jakubfiala
+mehulsr
+Sheppy

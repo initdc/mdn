@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mdn/contribute/index.md
+
+# Original Wiki contributors
+Voulto
+wbamberg
+zakaila
+callmemagnus
+Danette41240
+SphinxKnight
+Porkepix
+thbil
+Goofy
+Baball
+teoli
+wakka27
+jswisher

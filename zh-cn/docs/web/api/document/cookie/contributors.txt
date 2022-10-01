@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/cookie/index.md
+
+# Original Wiki contributors
+JamesUmmex
+githubtian
+wcj2020
+Liugq5713
+kuracola
+xgqfrms-GitHub
+binggg
+yola0316
+galin
+fskuok
+teoli
+AshfaqHossain
+ReyCG

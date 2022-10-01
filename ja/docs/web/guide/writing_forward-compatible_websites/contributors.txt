@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/guide/writing_forward-compatible_websites/index.md
+
+# Original Wiki contributors
+kohei.yoshino
+yyss

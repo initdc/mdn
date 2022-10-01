@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/django/django_assessment_blog/index.md
+
+# Original Wiki contributors
+edgar-chen

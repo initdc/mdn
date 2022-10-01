@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/document/images/index.md
+
+# Original Wiki contributors
+fscholz
+teoli
+jsx
+tregagnon
+RAP1D
+Julien.stuby
+Takenbot
+BenoitL

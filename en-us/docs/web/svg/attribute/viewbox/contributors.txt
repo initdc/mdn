@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/viewbox/index.md
+
+# Original Wiki contributors
+escattone
+SphinxKnight
+Webavatarae
+Zearin_Galaurum
+chrisdavidmills
+jdc
+Ryuei
+seantcanavan
+vriojtg
+bryfox
+salcode
+Jeremie
+Longsonr
+Mogglewump

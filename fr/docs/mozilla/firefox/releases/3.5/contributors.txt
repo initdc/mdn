@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/firefox/releases/3.5/index.md
+
+# Original Wiki contributors
+wbamberg
+tregagnon
+FredB
+BenoitL
+Chbok
+Goofy
+Mgjbot

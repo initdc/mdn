@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/learn/html/howto/use_data_attributes/index.md
+
+# Original Wiki contributors
+lotfire24
+SphinxKnight
+Goofy

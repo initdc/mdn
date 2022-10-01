@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/array/unshift/index.md
+
+# Original Wiki contributors
+SphinxKnight
+Pandalousie
+teoli
+tregagnon
+Jeremie
+BenoitL

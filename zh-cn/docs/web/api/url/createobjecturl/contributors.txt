@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/url/createobjecturl/index.md
+
+# Original Wiki contributors
+九千鸦
+c1er
+RainSlide
+suyanhanx
+yqjiang
+GaoJun9521
+xgqfrms-GitHub
+PoppinL
+teoli
+ziyunfei

@@ -1,0 +1,814 @@
+<!DOCTYPE html><html lang="en-US" prefix="og: https://ogp.me/ns#"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/favicon-48x48.97046865.png"><link rel="apple-touch-icon" href="/apple-touch-icon.0ea0fa02.png"><meta name="theme-color" content="#ffffff"><link rel="manifest" href="/manifest.56b1cedc.json"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="MDN Web Docs"><script>Array.prototype.flat&&Array.prototype.includes||document.write('<script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.flat%2Ces6"><\/script>')</script><title>Формат Web Video Text Tracks (WebVTT) - Интерфейсы веб API | MDN</title><link rel="preload" as="font" type="font/woff2" crossorigin="" href="/static/media/ZillaSlab-Bold.subset.0beac26b.woff2"><link rel="alternate" title="Формат Web Video Text Tracks (WebVTT)" href="https://developer.mozilla.org/ru/docs/Web/API/WebVTT_API" hreflang="ru"><link rel="alternate" title="WebVTT" href="https://developer.mozilla.org/zh-TW/docs/Web/API/WebVTT_API" hreflang="zh-TW"><link rel="alternate" title="Web 视频文本轨格式（WebVTT）" href="https://developer.mozilla.org/zh-CN/docs/Web/API/WebVTT_API" hreflang="zh"><link rel="alternate" title="Web ビデオテキストトラックフォーマット (WebVTT)" href="https://developer.mozilla.org/ja/docs/Web/API/WebVTT_API" hreflang="ja"><link rel="alternate" title="Format Web Video Text Tracks (WebVTT)" href="https://developer.mozilla.org/fr/docs/Web/API/WebVTT_API" hreflang="fr"><link rel="alternate" title="Web Video Text Tracks Format (WebVTT)" href="https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API" hreflang="en"><meta name="description" content="Формат Web Video Text Tracks (WebVTT)это формат для отображения синхронизированных текстовых треков (такие как субтитры или подписи) с помощью  элементов <track>. Основная цель файлов WebVTT — добавить текстовые наложения к элементам <video>. WebVTT является текстовым форматом, который должен быть закодирован с использованием UTF-8 (en-US). В этих файлах вы можете использовать пробелы и табы для отступов. Существует также небольшой API для представления и управления этими дорожками и данными, необходимыми для отображения текста в нужное время."><meta property="og:url" content="https://developer.mozilla.org/ru/docs/Web/API/WebVTT_API"><meta property="og:title" content="Формат Web Video Text Tracks (WebVTT) - Интерфейсы веб API | MDN"><meta property="og:description" content="Формат Web Video Text Tracks (WebVTT)это формат для отображения синхронизированных текстовых треков (такие как субтитры или подписи) с помощью  элементов <track>. Основная цель файлов WebVTT — добавить текстовые наложения к элементам <video>. WebVTT является текстовым форматом, который должен быть закодирован с использованием UTF-8 (en-US). В этих файлах вы можете использовать пробелы и табы для отступов. Существует также небольшой API для представления и управления этими дорожками и данными, необходимыми для отображения текста в нужное время."><meta property="og:locale" content="ru"><meta property="og:image" content="https://developer.mozilla.org/mdn-social-share.0ca9dbda.png"><meta property="twitter:card" content="summary_large_image"><meta name="robots" content="index, follow"><link rel="canonical" href="https://developer.mozilla.org/ru/docs/Web/API/WebVTT_API"><style media="print">.breadcrumbs-container,.document-toc-container,.language-menu,.language-toggle,.on-github,.page-footer,.page-header-main,nav.sidebar,ul.prev-next{display:none!important}.main-page-content,.main-page-content pre{padding:2px}.main-page-content pre{border-left-width:2px}</style><link href="/static/css/main.55b68e13.chunk.css" rel="stylesheet"><script src="/static/js/runtime-main.4bb4c356.js" defer=""></script><script src="/static/js/4.a756dea3.chunk.js" defer=""></script><script src="/static/js/main.d4d565e0.chunk.js" defer=""></script></head><body><div id="root"><ul id="nav-access" class="a11y-nav"><li><a id="skip-main" href="#content">Skip to main content</a></li><li><a id="skip-search" href="#main-q">Skip to search</a></li><li><a id="skip-select-language" href="#select-language">Skip to select language</a></li></ul><div class="page-wrapper document-page"><header class="page-header"><a href="/ru/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a><button type="button" class="ghost main-menu-toggle" aria-haspopup="true" aria-label="Show Menu"></button><div class="page-header-main "><nav class="main-nav" aria-label="Main menu"><ul class="main-menu nojs"><li class="top-level-entry-container"><button id="technologies-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Technologies</button><ul class="technologies " role="menu" aria-labelledby="technologies-button"><li role="none"><a tabindex="-1" href="/ru/docs/Web" role="menuitem">Technologies Overview</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/HTML" role="menuitem">HTML</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/CSS" role="menuitem">CSS</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/JavaScript" role="menuitem">JavaScript</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/Guide/Graphics" role="menuitem">Graphics</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/HTTP" role="menuitem">HTTP</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/API" role="menuitem">APIs</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Mozilla/Add-ons/WebExtensions" role="menuitem">Browser Extensions</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/MathML" role="menuitem">MathML</a></li></ul></li><li class="top-level-entry-container"><button id="references-guides-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">References &amp; Guides</button><ul class="references-guides " role="menu" aria-labelledby="references-guides-button"><li role="none"><a tabindex="-1" href="/ru/docs/Learn" role="menuitem">Learn web development</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/Tutorials" role="menuitem">Tutorials</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/Reference" role="menuitem">References</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/Guide" role="menuitem">Developer Guides</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web/Accessibility" role="menuitem">Accessibility</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Games" role="menuitem">Game development</a></li><li role="none"><a tabindex="-1" href="/ru/docs/Web" role="menuitem">...more docs</a></li></ul></li><li class="top-level-entry-container"><button id="feedback-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Feedback</button><ul class="feedback " role="menu" aria-labelledby="feedback-button"><li role="none"><a tabindex="-1" href="/ru/docs/MDN/Contribute/Feedback" role="menuitem">Send Feedback</a></li><li role="none"><a tabindex="-1" href="/ru/docs/MDN/Contribute" role="menuitem">Contribute to MDN</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/content/issues/new" role="menuitem">Report a content issue<!-- --> 🌐</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/yari/issues/new" role="menuitem">Report a platform issue<!-- --> 🌐</a></li></ul></li></ul></nav><div class="header-search"><form action="/ru/search" class="search-form search-widget" role="search"><label for="main-q" class="visually-hidden">Search MDN</label><input type="search" name="q" id="main-q" class="search-input-field" placeholder="Site search... (Press &quot;/&quot; to focus)" pattern="(.|\s)*\S(.|\s)*" required="" value=""><input type="submit" class="ghost search-button" value="" aria-label="Search"></form></div><div class="auth-container"></div></div></header><div class="breadcrumb-locale-container"><nav class="breadcrumbs-container" aria-label="Breadcrumb navigation"><ol typeof="BreadcrumbList" vocab="https://schema.org/" aria-label="breadcrumbs"><li property="itemListElement" typeof="ListItem"><a class="breadcrumb" property="item" typeof="WebPage" href="/ru/docs/Web"><span property="name">Веб-технологии для разработчиков</span></a><meta property="position" content="1"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-penultimate" property="item" typeof="WebPage" href="/ru/docs/Web/API"><span property="name">Интерфейсы веб API</span></a><meta property="position" content="2"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-current-page" property="item" typeof="WebPage" href="/ru/docs/Web/API/WebVTT_API"><span property="name">Формат Web Video Text Tracks (WebVTT)</span></a><meta property="position" content="3"></li></ol></nav><ul class="language-toggle"><li><a href="#select-language" class="language-icon"><span class="show-desktop">Change language</span></a></li><li><a class="view-in-english" href="/en-US/docs/Web/API/WebVTT_API"><span class="show-desktop">View in</span> English</a></li></ul></div><div class="localized-content-note notecard inline neutral"><a href="/en-US/docs/MDN/Contribute/Localize#active_locales">Эта страница была переведена с английского языка силами сообщества. Вы тоже можете внести свой вклад, присоединившись к русскоязычному сообществу MDN Web Docs.</a></div><aside class="document-toc-container"><section class="document-toc"><header><h2>Table of contents</h2><button type="button" class="ghost toc-trigger-mobile" aria-controls="toc-entries" aria-expanded="false">Table of contents</button></header><ul id="toc-entries"><li><a href="#файлы_webvtt">Файлы WebVTT</a></li><li><a href="#тело_webvtt_файла">Тело WebVTT файла</a></li><li><a href="#комментарии_в_webvtt">Комментарии в WebVTT</a></li><li><a href="#стилизация_реплик_webtt">Стилизация реплик WebTT</a></li><li><a href="#webvtt_cues">WebVTT cues</a></li><li><a href="#interfaces">Interfaces</a></li><li><a href="#methods_and_properties">Methods and properties</a></li><li><a href="#tutorial_on_how_to_write_a_webvtt_file">Tutorial on how to write a WebVTT file</a></li><li><a href="#css_pseudo-classes">CSS pseudo-classes</a></li><li><a href="#specifications">Specifications</a></li><li><a href="#browser_compatibility">Browser compatibility</a></li></ul></section></aside><main id="content" class="main-content" role="main"><article class="main-page-content" lang="ru"><h1>Формат Web Video Text Tracks (WebVTT)</h1><div><div id="sect1"></div>
+
+<p><strong>Формат Web Video Text Tracks</strong> (<strong>WebVTT</strong>)это формат для отображения синхронизированных текстовых треков (такие как субтитры или подписи) с помощью  элементов <a href="/ru/docs/Web/HTML/Element/track"><code>&lt;track&gt;</code></a>. Основная цель файлов WebVTT — добавить текстовые наложения к элементам <a href="/ru/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a>. WebVTT является текстовым форматом, который должен быть закодирован с использованием <a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Glossary/UTF-8">UTF-8 <small>(en-US)</small></a>. В этих файлах вы можете использовать пробелы и табы для отступов. Существует также небольшой API для представления и управления этими дорожками и данными, необходимыми для отображения текста в нужное время.</p></div><h2 id="файлы_webvtt"><a href="#файлы_webvtt" title="Permalink to Файлы WebVTT">Файлы WebVTT</a></h2><div><p>MIME тип файлов WebVTT — <code>text/vtt</code>.</p>
+
+<p>Файл WebVTT (<code>.vtt</code>) содержит реплики (cues), которые могут быть одной строкой или несколькими строками, как показано ниже:</p>
+
+<pre class="notranslate">WEBVTT
+
+00:01.000 --&gt; 00:04.000
+Никогда не пейте жидкий азот.
+
+00:05.000 --&gt; 00:09.000
+- Это пробьёт ваш желудок.
+- Вы можете умереть.
+</pre></div><h2 id="тело_webvtt_файла"><a href="#тело_webvtt_файла" title="Permalink to Тело WebVTT файла">Тело WebVTT файла</a></h2><div><p>Структура WebVTT состоит из следующих компонентов, некоторые из которых являются необязательными, в следующем порядке:</p>
+
+<ul>
+ <li>Необязательный знак порядка байтов (BOM).</li>
+ <li>Строка  "<code>WEBVTT</code>".</li>
+ <li>Дополнительный текстовый заголовок справа от <code>WEBVTT.</code>
+  <ul>
+   <li>Должен быть хотя бы один пробел после  <code>WEBVTT.</code></li>
+   <li>Вы можете использовать его, чтобы добавить описание к файлу.</li>
+   <li>Вы можете использовать что угодно в текстовом заголовке, кроме перевода строки или  "<code>--&gt;</code>".</li>
+  </ul>
+ </li>
+ <li>Пустая строка, которая эквивалентна двум последовательным переводам строки.</li>
+ <li>Ноль или более реплик или комментариев .</li>
+ <li>Ноль или более пустых строк.</li>
+</ul>
+
+<h5 id="пример_1_-_простейший_возможный_файл_webvtt">Пример 1 - Простейший возможный файл WEBVTT</h5>
+
+<pre class="eval notranslate">WEBVTT
+</pre>
+
+<h5 id="пример_2_-_очень_простой_файл_webvtt_с_текстовым_заголовком">Пример 2 - Очень простой файл WebVTT с текстовым заголовком</h5>
+
+<pre class="eval notranslate">WEBVTT - Этот файл не содержит реплик.
+</pre>
+
+<h5 id="пример_3_-_обычный_webvtt_с_заголовком_и_репликами">Пример 3 - Обычный WebVTT с заголовком и репликами</h5>
+
+<pre class="eval notranslate">WEBVTT - Этот файл содержит реплики.
+
+14
+00:01:14.815 --&gt; 00:01:18.114
+- Что?
+- Где мы сейчас?
+
+15
+00:01:18.171 --&gt; 00:01:20.991
+- Это большая страна летучих мышей.
+
+16
+00:01:21.058 --&gt; 00:01:23.868
+- [ Визг летучих мышей ]
+- Они не попадут в твои волосы. They're after the bugs.
+</pre></div><h3 id="внутренняя_структура_файла_webvtt"><a href="#внутренняя_структура_файла_webvtt" title="Permalink to Внутренняя структура файла WebVTT">Внутренняя структура файла WebVTT</a></h3><div><p>Давайте вернёмся к одному из наших предыдущих примеров и рассмотрим структуру реплик более подробно.</p>
+
+<pre class="notranslate">WEBVTT
+
+00:01.000 --&gt; 00:04.000
+- Never drink liquid nitrogen.
+
+00:05.000 --&gt; 00:09.000
+- It will perforate your stomach.
+- You could die.
+
+NOTE Это последняя строка в файле</pre>
+
+<p>В данном случае каждая реплика:</p>
+
+<ul>
+ <li>Первая строка начинается с метки времени, которое определяет начало отображения нижележащего текста.</li>
+ <li>На той же строке далее идут символы  <code>--&gt;</code>.</li>
+ <li>Первая строка заканчивается  второй меткой времени, которое определяет прекращения отображения связанного текста.</li>
+ <li>Затем может быть одна или несколько строк, начинающихся с дефиса  (-), каждая из которых содержит часть текстовой дорожки для отображения.</li>
+</ul>
+
+<p>Мы также можем разместить комментарии в нашем файле <code>.vtt</code>, чтобы помочь нам запомнить важную информацию о частях нашего файла. Они должны быть в отдельных строках, начинающихся со слова <code>NOTE</code>. Подробнее об этом сказано  в следующем разделе.</p>
+
+<p>Важно не использовать дополнительные пустые строки в реплике, например, между строкой синхронизации и текстом реплики. WebVTT использует строчные разделители, поэтому пустая строка обозначит окончание реплики.</p></div><h2 id="комментарии_в_webvtt"><a href="#комментарии_в_webvtt" title="Permalink to Комментарии в WebVTT">Комментарии в WebVTT</a></h2><div><p>Comments are an optional component that can be used to add information to a WebVTT file. Comments are intended for those reading the file and are not seen by users. Comments may contain newlines but cannot contain a blank line, which is equivalent to two consecutive newlines. A blank line signifies the end of a comment.</p>
+
+<p>A comment cannot contain the string "<code>--&gt;",</code> the ampersand character (&amp;), or the less-than sign (&lt;). If you wish to use such characters, you need to escape them using for example <code>&amp;amp;</code> for ampersand and <code>&amp;lt;</code> for less-than. It is also recommended that you use the greater-than escape sequence (<code>&amp;gt;</code>) instead of the greater-than character (<code>&gt;</code>) to avoid confusion with tags.</p>
+
+<p>A comment consists of three parts:</p>
+
+<ul>
+ <li>The string <code>NOTE.</code></li>
+ <li>A space or a newline.</li>
+ <li>Zero or more characters other than those noted above.</li>
+</ul>
+
+<h5 id="example_4_-_common_webvtt_example">Example 4 - Common WebVTT example</h5>
+
+<pre class="eval notranslate">NOTE This is a comment
+</pre>
+
+<h5 id="example_5_-_multi-line_comment">Example 5 - Multi-line comment</h5>
+
+<pre class="eval notranslate">NOTE
+Another comment that is spanning
+more than one line.
+
+NOTE You can also make a comment
+across more than one line this way.
+</pre>
+
+<h5 id="example_6_-_common_comment_usage">Example 6 - Common comment usage</h5>
+
+<pre class="eval notranslate">WEBVTT - Translation of that film I like
+
+NOTE
+This translation was done by Kyle so that
+some friends can watch it with their parents.
+
+1
+00:02:15.000 --&gt; 00:02:20.000
+- Ta en kopp varmt te.
+- Det är inte varmt.
+
+2
+00:02:20.000 --&gt; 00:02:25.000
+- Har en kopp te.
+- Det smakar som te.
+
+NOTE This last line may not translate well.
+
+3
+00:02:25.000 --&gt; 00:02:30.000
+- Ta en kopp
+</pre></div><h2 id="стилизация_реплик_webtt"><a href="#стилизация_реплик_webtt" title="Permalink to Стилизация реплик WebTT">Стилизация реплик WebTT</a></h2><div><p>Реплики WebVTT можно стилизовать, используя псевдоэлемент <a href="/ru/docs/Web/CSS/::cue"><code>::cue</code></a>.</p></div><h3 id="в_css-стилях_сайта"><a href="#в_css-стилях_сайта" title="Permalink to В CSS-стилях сайта">В CSS-стилях сайта</a></h3><div><div class="code-example"><pre class="brush: css notranslate"><code><span class="token selector">video::cue</span> <span class="token punctuation">{</span>
+  <span class="token property">background-image</span><span class="token punctuation">:</span> <span class="token function">linear-gradient</span><span class="token punctuation">(</span>to bottom<span class="token punctuation">,</span> dimgray<span class="token punctuation">,</span> lightgray<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token property">color</span><span class="token punctuation">:</span> papayawhip<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token selector">video::cue(b)</span> <span class="token punctuation">{</span>
+  <span class="token property">color</span><span class="token punctuation">:</span> peachpuff<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre></div>
+
+<p>В данном примере фоном видео будет серый градиент, с цветом текста <code>papayawhip</code>. Также, текст, выделенный жирным шрифтом с помощью элемента <a href="/ru/docs/Web/HTML/Element/b"><code>&lt;b&gt;</code></a>, имеет цвет <code>peachpuff</code>.</p>
+
+<p>Фрагмент HTML, приведённый ниже, отображает видео.</p>
+
+<div class="code-example"><pre class="brush: html notranslate"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>video</span> <span class="token attr-name">controls</span> <span class="token attr-name">autoplay</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>video.webm<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>track</span> <span class="token attr-name">default</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>track.vtt<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>video</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div></div><h3 id="within_the_webvtt_file_itself"><a href="#within_the_webvtt_file_itself" title="Permalink to Within the WebVTT file itself">Within the WebVTT file itself</a></h3><div><p>You can also define the style directly in the WebVTT file. In this case, you insert your CSS rules into the file with each rule preceded by the string <code>"STYLE"</code> all by itelf on a line of text, as shown below:</p>
+
+<pre class="notranslate">WEBVTT
+
+STYLE
+::cue {
+  background-image: linear-gradient(to bottom, dimgray, lightgray);
+  color: papayawhip;
+}
+/* Style blocks cannot use blank lines nor "dash dash greater than" */
+
+NOTE comment blocks can be used between style blocks.
+
+STYLE
+::cue(b) {
+  color: peachpuff;
+}
+
+00:00:00.000 --&gt; 00:00:10.000
+- Hello &lt;b&gt;world&lt;/b&gt;.
+
+NOTE style blocks cannot appear after the first cue.</pre>
+
+<p>We can also use identifiers inside WebVTT file, which can be used for defining a new style for some particular cues in the file. The example where we wanted the transcription text to be red highlighted and the other part to remain normal, we can define it as follows using CSS. Where it must be noted that the CSS uses escape sequences the way they are used in HTML pages:</p>
+
+<pre class="notranslate">WEBVTT
+
+1
+00:00.000 --&gt; 00:02.000
+That’s an, an, that’s an L!
+
+crédit de transcription
+00:04.000 --&gt; 00:05.000
+Transcrit par Célestes™
+</pre>
+
+<div class="code-example"><pre class="brush: css notranslate"><code><span class="token selector">::cue(#\31)</span> <span class="token punctuation">{</span> <span class="token property">color</span><span class="token punctuation">:</span> lime<span class="token punctuation">;</span> <span class="token punctuation">}</span>
+<span class="token selector">::cue(#crédit\ de\ transcription)</span> <span class="token punctuation">{</span> <span class="token property">color</span><span class="token punctuation">:</span> red<span class="token punctuation">;</span> <span class="token punctuation">}</span></code></pre></div>
+
+<p>Positioning of text tracks is also supported, by including positioning information after the timings in a cue, as seen below (see <a href="#cue_settings">Cue settings</a> for more information):</p>
+
+<pre class="notranslate">WEBVTT
+
+00:00:00.000 --&gt; 00:00:04.000 position:10%,line-left align:left size:35%
+Where did he go?
+
+00:00:03.000 --&gt; 00:00:06.500 position:90% align:right size:35%
+I think he went down this lane.
+
+00:00:04.000 --&gt; 00:00:06.500 position:45%,line-right align:center size:35%
+What are you waiting for?</pre></div><h2 id="webvtt_cues"><a href="#webvtt_cues" title="Permalink to WebVTT cues">WebVTT cues</a></h2><div><p>A cue is a single subtitle block that has a single start time, end time, and textual payload. Example 6 consists of the header, a blank line, and then five cues separated by blank lines. A cue consists of five components:</p>
+
+<ul>
+ <li>An optional cue identifier followed by a newline.</li>
+ <li>Cue timings.</li>
+ <li>Optional cue settings with at least one space before the first and between each setting.</li>
+ <li>One or more newlines.</li>
+ <li>The cue payload text.</li>
+</ul>
+
+<h5 id="example_7_-_example_of_a_cue">Example 7 - Example of a cue</h5>
+
+<pre class="eval notranslate">1 - Title Crawl
+00:00:05.000 --&gt; 00:00:10.000 line:0 position:20% size:60% align:start
+Some time ago in a place rather distant....</pre></div><h3 id="cue_identifier"><a href="#cue_identifier" title="Permalink to Cue identifier">Cue identifier</a></h3><div><p>The identifier is a name that identifies the cue. It can be used to reference the cue from a script. It must not contain a newline and cannot contain the string "<code>--&gt;"</code>. It must end with a single newline. They do not have to be unique, although it is common to number them (e.g., 1, 2, 3, ...).</p>
+
+<h5 id="example_8_-_cue_identifier_from_example_7">Example 8 - Cue identifier from Example 7</h5>
+
+<pre class="eval notranslate">1 - Title Crawl</pre>
+
+<h5 id="example_9_-_common_usage_of_identifiers">Example 9 - Common usage of identifiers</h5>
+
+<pre class="eval notranslate">WEBVTT
+
+1
+00:00:22.230 --&gt; 00:00:24.606
+This is the first subtitle.
+
+2
+00:00:30.739 --&gt; 00:00:34.074
+This is the second.
+
+3
+00:00:34.159 --&gt; 00:00:35.743
+Third
+</pre></div><h3 id="cue_timings"><a href="#cue_timings" title="Permalink to Cue timings">Cue timings</a></h3><div><p>A cue timing indicates when the cue is shown. It has a start and end time which are represented by timestamps. The end time must be greater than the start time, and the start time must be greater than or equal to all previous start times. Cues may have overlapping timings.</p>
+
+<p>If the WebVTT file is being used for chapters (<a href="/ru/docs/Web/HTML/Element/track"><code>&lt;track&gt;</code></a> <a href="/ru/docs/Web/HTML/Global_attributes#attr-kind"><code>kind</code></a> is <code>chapters</code>) then the file cannot have overlapping timings.</p>
+
+<p>Each cue timing contains five components:</p>
+
+<ul>
+ <li>Timestamp for start time.</li>
+ <li>At least one space.</li>
+ <li>The string "<code>--&gt;".</code></li>
+ <li>At least one space.</li>
+ <li>Timestamp for end time.
+  <ul>
+   <li>Which must be greater than the start time.</li>
+  </ul>
+ </li>
+</ul>
+
+<p>The timestamps must be in one of two formats:</p>
+
+<ul>
+ <li><code>mm:ss.ttt</code></li>
+ <li><code>hh:mm:ss.ttt</code></li>
+</ul>
+
+<p>Where the components are defined as follows:</p>
+
+<ul>
+ <li><code>hh</code> is hours.
+
+  <ul>
+   <li>Must be at least two digits.</li>
+   <li>Hours can be greater than two digits (e.g., 9999:00:00.000).</li>
+  </ul>
+ </li>
+ <li><code>mm</code> is minutes.
+  <ul>
+   <li>Must be between 00 and 59 inclusive.</li>
+  </ul>
+ </li>
+ <li><code>ss</code> is seconds.
+  <ul>
+   <li>Must be between 00 and 59 inclusive.</li>
+  </ul>
+ </li>
+ <li><code>ttt</code> is miliseconds.
+  <ul>
+   <li>Must be between 000 and 999 inclusive.</li>
+  </ul>
+ </li>
+</ul>
+
+<h5 id="example_10_-_basic_cue_timing_examples">Example 10 - Basic cue timing examples</h5>
+
+<pre class="eval notranslate">00:22.230 --&gt; 00:24.606
+00:30.739 --&gt; 00:00:34.074
+00:00:34.159 --&gt; 00:35.743
+00:00:35.827 --&gt; 00:00:40.122</pre>
+
+<h5 id="example_11_-_overlapping_cue_timing_examples">Example 11 - Overlapping cue timing examples</h5>
+
+<pre class="eval notranslate">00:00:00.000 --&gt; 00:00:10.000
+00:00:05.000 --&gt; 00:01:00.000
+00:00:30.000 --&gt; 00:00:50.000</pre>
+
+<h5 id="example_12_-_non-overlapping_cue_timing_examples">Example 12 - Non-overlapping cue timing examples</h5>
+
+<pre class="eval notranslate">00:00:00.000 --&gt; 00:00:10.000
+00:00:10.000 --&gt; 00:01:00.581
+00:01:00.581 --&gt; 00:02:00.100
+00:02:01.000 --&gt; 00:02:01.000</pre></div><h3 id="cue_settings"><a href="#cue_settings" title="Permalink to Cue settings">Cue settings</a></h3><div><p>Cue settings are optional components used to position where the cue payload text will be displayed over the video. This includes whether the text is displayed horizontally or vertically. There can be zero or more of them, and they can be used in any order so long as each setting is used no more than once.</p>
+
+<p>The cue settings are added to the right of the cue timings. There must be one or more spaces between the cue timing and the first setting and between each setting. A setting's name and value are separated by a colon. The settings are case sensitive so use lower case as shown. There are five cue settings:</p>
+
+<ul>
+ <li><strong>vertical</strong>
+
+  <ul>
+   <li>Indicates that the text will be displayed vertically rather than horizontally, such as in some Asian languages.</li>
+  </ul>
+
+  <table>
+   <thead>
+    <tr>
+     <th colspan="2">Table 1 - vertical values</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <th><code>vertical:rl</code></th>
+     <td>writing direction is right to left</td>
+    </tr>
+    <tr>
+     <th><code>vertical:lr</code></th>
+     <td>writing direction is left to right</td>
+    </tr>
+   </tbody>
+  </table>
+ </li>
+ <li><strong>line</strong>
+  <ul>
+   <li>Specifies where text appears vertically. If vertical is set, line specifies where text appears horizontally.</li>
+   <li>Value can be a line number.
+    <ul>
+     <li>The line height is the height of the first line of the cue as it appears on the video.</li>
+     <li>Positive numbers indicate top down.</li>
+     <li>Negative numbers indicate bottom up.</li>
+    </ul>
+   </li>
+   <li>Or value can be a percentage.
+    <ul>
+     <li>Must be an integer (i.e., no decimals) between 0 and 100 inclusive.</li>
+     <li>Must be followed by a percent sign (%).</li>
+    </ul>
+   </li>
+  </ul>
+
+  <table>
+   <thead>
+    <tr>
+     <th colspan="4">Table 2 - line examples</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <th></th>
+     <th><code>vertical</code> omitted</th>
+     <th><code>vertical:rl</code></th>
+     <th><code>vertical:lr</code></th>
+    </tr>
+    <tr>
+     <th><code>line:0</code></th>
+     <td>top</td>
+     <td>right</td>
+     <td>left</td>
+    </tr>
+    <tr>
+     <th><code>line:-1</code></th>
+     <td>bottom</td>
+     <td>left</td>
+     <td>right</td>
+    </tr>
+    <tr>
+     <th><code>line:0%</code></th>
+     <td>top</td>
+     <td>right</td>
+     <td>left</td>
+    </tr>
+    <tr>
+     <th><code>line:100%</code></th>
+     <td>bottom</td>
+     <td>left</td>
+     <td>right</td>
+    </tr>
+   </tbody>
+  </table>
+ </li>
+ <li><strong>position</strong>
+  <ul>
+   <li>Specifies where the text will appear horizontally. If vertical is set, position specifies where the text will appear vertically.</li>
+   <li>Value is a percentage.</li>
+   <li>Must be an integer (no decimals) between 0 and 100 inclusive.</li>
+   <li>Must be followed by a percent sign (%).</li>
+  </ul>
+
+  <table>
+   <thead>
+    <tr>
+     <th colspan="4">Table 3 - position examples</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <th></th>
+     <th><code>vertical</code> omitted</th>
+     <th><code>vertical:rl</code></th>
+     <th><code>vertical:lr</code></th>
+    </tr>
+    <tr>
+     <th><code>position:0%</code></th>
+     <td>left</td>
+     <td>top</td>
+     <td>top</td>
+    </tr>
+    <tr>
+     <th><code>position:100%</code></th>
+     <td>right</td>
+     <td>bottom</td>
+     <td>bottom</td>
+    </tr>
+   </tbody>
+  </table>
+ </li>
+ <li><strong>size</strong>
+  <ul>
+   <li>Specifies the width of the text area. If vertical is set, size specifies the height of the text area.</li>
+   <li>Value is a percentage.</li>
+   <li>Must be an integer (i.e., no decimals) between 0 and 100 inclusive.</li>
+   <li>Must be followed by a percent sign (%).</li>
+  </ul>
+
+  <table>
+   <thead>
+    <tr>
+     <th colspan="4">Table 4 - size examples</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <th></th>
+     <th><code>vertical</code> omitted</th>
+     <th><code>vertical:rl</code></th>
+     <th><code>vertical:lr</code></th>
+    </tr>
+    <tr>
+     <th><code>size:100%</code></th>
+     <td>full width</td>
+     <td>full height</td>
+     <td>full height</td>
+    </tr>
+    <tr>
+     <th><code>size:50%</code></th>
+     <td>half width</td>
+     <td>half height</td>
+     <td>half height</td>
+    </tr>
+   </tbody>
+  </table>
+ </li>
+ <li><strong>align</strong>
+  <ul>
+   <li>Specifies the alignment of the text. Text is aligned within the space given by the size cue setting if it is set.</li>
+  </ul>
+
+  <table>
+   <thead>
+    <tr>
+     <th colspan="4">Table 5 - align values</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <th></th>
+     <th><code>vertical</code> omitted</th>
+     <th><code>vertical:rl</code></th>
+     <th><code>vertical:lr</code></th>
+    </tr>
+    <tr>
+     <th><code>align:start</code></th>
+     <td>left</td>
+     <td>top</td>
+     <td>top</td>
+    </tr>
+    <tr>
+     <th><code>align:middle</code></th>
+     <td>centred horizontally</td>
+     <td>centred vertically</td>
+     <td>centred vertically</td>
+    </tr>
+    <tr>
+     <th><code>align:end</code></th>
+     <td>right</td>
+     <td>bottom</td>
+     <td>bottom</td>
+    </tr>
+   </tbody>
+  </table>
+ </li>
+</ul>
+
+<h5 id="example_13_-_cue_setting_examples">Example 13 - Cue setting examples</h5>
+
+<p>The first line demonstrates no settings. The second line might be used to overlay text on a sign or label. The third line might be used for a title. The last line might be used for an Asian language.</p>
+
+<pre class="eval notranslate">00:00:05.000 --&gt; 00:00:10.000
+00:00:05.000 --&gt; 00:00:10.000 line:63% position:72% align:start
+00:00:05.000 --&gt; 00:00:10.000 line:0 position:20% size:60% align:start
+00:00:05.000 --&gt; 00:00:10.000 vertical:rt line:-1 align:end
+</pre></div><h3 id="cue_payload"><a href="#cue_payload" title="Permalink to Cue payload">Cue payload</a></h3><div><p>The payload is where the main information or content is located. In normal usage the payload contains the subtitles to be displayed. The payload text may contain newlines but it cannot contain a blank line, which is equivalent to two consecutive newlines. A blank line signifies the end of a cue.</p>
+
+<p>A cue text payload cannot contain the string "<code>--&gt;"</code>, the ampersand character (&amp;), or the less-than sign (&lt;). Instead use the escape sequence "&amp;amp;" for ampersand and "&amp;lt;" for less-than. It is also recommended that you use the greater-than escape sequence "&amp;gt;" instead of the greater-than character (&gt;) to avoid confusion with tags. If you are using the WebVTT file for metadata these restrictions do not apply.</p>
+
+<p>In addition to the three escape sequences mentioned above, there are fours others. They are listed in the table below.</p>
+
+<table>
+ <thead>
+  <tr>
+   <th colspan="3">Table 6 - Escape sequences</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th>Name</th>
+   <th>Character</th>
+   <th>Escape Sequence</th>
+  </tr>
+  <tr>
+   <td>Ampersand</td>
+   <td>&amp;</td>
+   <td><code>&amp;amp;</code></td>
+  </tr>
+  <tr>
+   <td>Less-than</td>
+   <td>&lt;</td>
+   <td><code>&amp;lt;</code></td>
+  </tr>
+  <tr>
+   <td>Greater-than</td>
+   <td>&gt;</td>
+   <td><code>&amp;gt;</code></td>
+  </tr>
+  <tr>
+   <td>Left-to-right mark</td>
+   <td></td>
+   <td><code>&amp;lrm;</code></td>
+  </tr>
+  <tr>
+   <td>Right-to-left mark</td>
+   <td></td>
+   <td><code>&amp;rlm;</code></td>
+  </tr>
+  <tr>
+   <td>Non-breaking space</td>
+   <td><code> </code></td>
+   <td><code>&amp;nbsp;</code></td>
+  </tr>
+ </tbody>
+</table></div><h3 id="cue_payload_text_tags"><a href="#cue_payload_text_tags" title="Permalink to Cue payload text tags">Cue payload text tags</a></h3><div><p>There are a number of tags, such as <code>&lt;bold&gt;</code>, that can be used. However, if the WebVTT file is used in a <a href="/ru/docs/Web/HTML/Element/track"><code>&lt;track&gt;</code></a> element where the attribute <a href="/ru/docs/Web/HTML/Global_attributes#attr-kind"><code>kind</code></a> is <code>chapters</code> then you cannot use tags.</p>
+
+<ul>
+ <li><strong>Timestamp tag</strong>
+
+  <ul>
+   <li>The timestamp must be greater that the cue's start timestamp, greater than any previous timestamp in the cue payload, and less than the cue's end timestamp. The <em>active text</em> is the text between the timestamp and the next timestamp or to the end of the payload if there is not another timestamp in the payload. Any text before the <em>active text</em> in the payload is <em>previous text</em> . Any text beyond the <em>active text</em> is <em>future text</em> . This enables karaoke style captions.</li>
+  </ul>
+
+  <div id="sect2">
+  <h5 id="example_12_-_karaoke_style_text">Example 12 - Karaoke style text</h5>
+
+  <pre class="eval notranslate">1
+00:16.500 --&gt; 00:18.500
+When the moon &lt;00:17.500&gt;hits your eye
+
+1
+00:00:18.500 --&gt; 00:00:20.500
+Like a &lt;00:19.000&gt;big-a &lt;00:19.500&gt;pizza &lt;00:20.000&gt;pie
+
+1
+00:00:20.500 --&gt; 00:00:21.500
+That's &lt;00:00:21.000&gt;amore
+</pre>
+  </div>
+ </li>
+</ul>
+
+<p>The following tags are the HTML tags allowed in a cue and require opening and closing tags (e.g., <code>&lt;b&gt;text&lt;/b&gt;</code>).</p>
+
+<ul>
+ <li><strong>Class tag</strong> (<code>&lt;c&gt;&lt;/c&gt;</code>)
+
+  <ul>
+   <li>Style the contained text using a CSS class.</li>
+  </ul>
+
+  <div id="sect3">
+  <h5 id="example_14_-_class_tag">Example 14 - Class tag</h5>
+
+  <pre class="notranslate">&lt;c.classname&gt;text&lt;/c&gt;</pre>
+  </div>
+ </li>
+ <li><strong>Italics tag</strong> (<code>&lt;i&gt;&lt;/i&gt;</code>)
+  <ul>
+   <li>Italicize the contained text.</li>
+  </ul>
+
+  <div id="sect4">
+  <h5 id="example_15_-_italics_tag">Example 15 - Italics tag</h5>
+
+  <pre class="notranslate">&lt;i&gt;text&lt;/i&gt;</pre>
+  </div>
+ </li>
+ <li><strong>Bold tag</strong> (<code>&lt;b&gt;&lt;/b&gt;</code>)
+  <ul>
+   <li>Bold the contained text.</li>
+  </ul>
+
+  <div id="sect5">
+  <h5 id="example_16_-_bold_tag">Example 16 - Bold tag</h5>
+
+  <pre class="notranslate">&lt;b&gt;text&lt;/b&gt;</pre>
+  </div>
+ </li>
+ <li><strong>Underline tag</strong> (<code>&lt;u&gt;&lt;/u&gt;</code>)
+  <ul>
+   <li>Underline the contained text.</li>
+  </ul>
+
+  <div id="sect6">
+  <h5 id="example_17_-_underline_tag">Example 17 - Underline tag</h5>
+
+  <pre class="notranslate">&lt;u&gt;text&lt;/u&gt;</pre>
+  </div>
+ </li>
+ <li><strong>Ruby tag</strong> (<code>&lt;ruby&gt;&lt;/ruby&gt;</code>)
+  <ul>
+   <li>Used with ruby text tags to display <a href="http://en.wikipedia.org/wiki/Ruby_character" class="external" rel=" noopener">ruby characters</a> (i.e., small annotative characters above other characters).</li>
+  </ul>
+
+  <div id="sect7">
+  <h5 id="example_18_-_ruby_tag">Example 18 - Ruby tag</h5>
+
+  <pre class="notranslate">&lt;ruby&gt;WWW&lt;rt&gt;World Wide Web&lt;/rt&gt;oui&lt;rt&gt;yes&lt;/rt&gt;&lt;/ruby&gt;</pre>
+  </div>
+ </li>
+ <li><strong>Ruby text tag</strong> (<code>&lt;rt&gt;&lt;/rt&gt;</code>)
+  <ul>
+   <li>Used with ruby tags to display <a href="http://en.wikipedia.org/wiki/Ruby_character" class="external" rel=" noopener">ruby characters</a> (i.e., small annotative characters above other characters).</li>
+  </ul>
+
+  <div id="sect8">
+  <h5 id="example_19_-_ruby_text_tag">Example 19 - Ruby text tag</h5>
+
+  <pre class="notranslate">&lt;ruby&gt;WWW&lt;rt&gt;World Wide Web&lt;/rt&gt;oui&lt;rt&gt;yes&lt;/rt&gt;&lt;/ruby&gt;</pre>
+  </div>
+ </li>
+ <li><strong>Voice tag</strong> (<code>&lt;v&gt;&lt;/v&gt;</code>)
+  <ul>
+   <li>Similar to class tag, also used to style the contained text using CSS.</li>
+  </ul>
+
+  <div id="sect9">
+  <h5 id="example_20_-_voice_tag">Example 20 - Voice tag</h5>
+
+  <pre class="notranslate">&lt;v Bob&gt;text&lt;/v&gt;</pre>
+  </div>
+ </li>
+</ul></div><h2 id="interfaces"><a href="#interfaces" title="Permalink to Interfaces">Interfaces</a></h2><div><p>There are two interfaces or APIs used in WebVTT which are:</p></div><h3 id="vttcue_interface"><a href="#vttcue_interface" title="Permalink to VTTCue interface">VTTCue interface</a></h3><div><p>It is used for providing an interface in Document Object Model API, where different attributes supported by it can be used to prepare and alter the cues in number of ways.</p>
+
+<p>Constructor is the first point for starting the Cue which is defined using the default constructor VTTCue(startTime, endTime, text) where starting time, ending time and text for cue can be adjusted. After that we can set the region for that particular cue to which this cue belongs using cue.region. Vertical, horizontal, line, lineAlign, Position, positionAlign, text, size and Align can be used to alter the cue and its formation, just like we can alter the objects form, shape and visibility in HTML using CSS. But the VTTCue interface is within the WebVTT provides the vast range of adjustment variables which can be used directly to alter the Cue. Following interface can be used to expose WebVTT cues in DOM API:</p>
+
+<pre class="notranslate">enum <dfn>AutoKeyword</dfn> { <dfn>"auto"</dfn> };
+enum <dfn>DirectionSetting</dfn> { <dfn>""</dfn> /* horizontal */, <dfn>"rl"</dfn>, <dfn>"lr"</dfn> };
+enum <dfn>LineAlignSetting</dfn> { <dfn>"start"</dfn>, <dfn>"center"</dfn>, <dfn>"end"</dfn> };
+enum <dfn>PositionAlignSetting</dfn> { <dfn>"line-left"</dfn>, <dfn>"center"</dfn>, <dfn>"line-right"</dfn>, <dfn>"auto"</dfn> };
+enum <dfn>AlignSetting</dfn> { <dfn>"start"</dfn>, <dfn>"center"</dfn>, <dfn>"end"</dfn>, <dfn>"left"</dfn>, <dfn>"right"</dfn> };
+[<a href="https://w3c.github.io/webvtt/#dom-vttcue-vttcue" id="ref-for-dom-vttcue-vttcue-1" class="external" rel=" noopener">Constructor</a>(double <dfn>startTime</dfn>, double <dfn>endTime</dfn>, DOMString <dfn>text</dfn>)]
+interface <dfn>VTTCue</dfn> : <a href="https://html.spec.whatwg.org/multipage/embedded-content.html#texttrackcue" class="external" rel=" noopener">TextTrackCue</a> {
+  attribute <a href="https://w3c.github.io/webvtt/#vttregion" id="ref-for-vttregion-1" class="external" rel=" noopener">VTTRegion</a>? <a href="https://w3c.github.io/webvtt/#dom-vttcue-region" id="ref-for-dom-vttcue-region-1" class="external" rel=" noopener">region</a>;
+  attribute <a href="https://w3c.github.io/webvtt/#enumdef-directionsetting" id="ref-for-enumdef-directionsetting-1" class="external" rel=" noopener">DirectionSetting</a> <a href="https://w3c.github.io/webvtt/#dom-vttcue-vertical" id="ref-for-dom-vttcue-vertical-1" class="external" rel=" noopener">vertical</a>;
+  attribute boolean <a href="https://w3c.github.io/webvtt/#dom-vttcue-snaptolines" id="ref-for-dom-vttcue-snaptolines-2" class="external" rel=" noopener">snapToLines</a>;
+  attribute (double or <a href="https://w3c.github.io/webvtt/#enumdef-autokeyword" id="ref-for-enumdef-autokeyword-1" class="external" rel=" noopener">AutoKeyword</a>) <a href="https://w3c.github.io/webvtt/#dom-vttcue-line" id="ref-for-dom-vttcue-line-2" class="external" rel=" noopener">line</a>;
+  attribute <a href="https://w3c.github.io/webvtt/#enumdef-linealignsetting" id="ref-for-enumdef-linealignsetting-1" class="external" rel=" noopener">LineAlignSetting</a> <a href="https://w3c.github.io/webvtt/#dom-vttcue-linealign" id="ref-for-dom-vttcue-linealign-1" class="external" rel=" noopener">lineAlign</a>;
+  attribute (double or <a href="https://w3c.github.io/webvtt/#enumdef-autokeyword" id="ref-for-enumdef-autokeyword-2" class="external" rel=" noopener">AutoKeyword</a>) <a href="https://w3c.github.io/webvtt/#dom-vttcue-position" id="ref-for-dom-vttcue-position-1" class="external" rel=" noopener">position</a>;
+  attribute <a href="https://w3c.github.io/webvtt/#enumdef-positionalignsetting" id="ref-for-enumdef-positionalignsetting-1" class="external" rel=" noopener">PositionAlignSetting</a> <a href="https://w3c.github.io/webvtt/#dom-vttcue-positionalign" id="ref-for-dom-vttcue-positionalign-1" class="external" rel=" noopener">positionAlign</a>;
+  attribute double <a href="https://w3c.github.io/webvtt/#dom-vttcue-size" id="ref-for-dom-vttcue-size-1" class="external" rel=" noopener">size</a>;
+  attribute <a href="https://w3c.github.io/webvtt/#enumdef-alignsetting" id="ref-for-enumdef-alignsetting-1" class="external" rel=" noopener">AlignSetting</a> <a href="https://w3c.github.io/webvtt/#dom-vttcue-align" id="ref-for-dom-vttcue-align-1" class="external" rel=" noopener">align</a>;
+  attribute DOMString <a href="https://w3c.github.io/webvtt/#dom-vttcue-text" id="ref-for-dom-vttcue-text-1" class="external" rel=" noopener">text</a>;
+  <a href="https://dom.spec.whatwg.org/#documentfragment" class="external" rel=" noopener">DocumentFragment</a> <a href="https://w3c.github.io/webvtt/#dom-vttcue-getcueashtml" id="ref-for-dom-vttcue-getcueashtml-2" class="external" rel=" noopener">getCueAsHTML</a>();
+};</pre></div><h3 id="vtt_region_interface"><a href="#vtt_region_interface" title="Permalink to VTT Region interface">VTT Region interface</a></h3><div><p>This is the second interface in WebVTT API.</p>
+
+<p>The new keyword can be used for defining a new VTTRegion object which can then be used for containing the multiple cues. There are several properties of VTTRegion which are width, lines, regionAnchorX, RegionAnchorY, viewportAnchorX, viewportAnchorY and scroll that can be used to specify the look and feel of this VTT region. The interface code is given below which can be used to expose the WebVTT regions in DOM API:</p>
+
+<pre class="notranslate">enum <dfn>ScrollSetting</dfn> { <dfn>""</dfn> /* none */, <dfn>"up"</dfn> };
+[<a href="https://w3c.github.io/webvtt/#dom-vttregion-vttregion" id="ref-for-dom-vttregion-vttregion-1" class="external" rel=" noopener">Constructor</a>]
+interface <dfn>VTTRegion</dfn> {
+  attribute double <a href="https://w3c.github.io/webvtt/#dom-vttregion-width" id="ref-for-dom-vttregion-width-1" class="external" rel=" noopener">width</a>;
+  attribute long <a href="https://w3c.github.io/webvtt/#dom-vttregion-lines" id="ref-for-dom-vttregion-lines-1" class="external" rel=" noopener">lines</a>;
+  attribute double <a href="https://w3c.github.io/webvtt/#dom-vttregion-regionanchorx" id="ref-for-dom-vttregion-regionanchorx-1" class="external" rel=" noopener">regionAnchorX</a>;
+  attribute double <a href="https://w3c.github.io/webvtt/#dom-vttregion-regionanchory" id="ref-for-dom-vttregion-regionanchory-1" class="external" rel=" noopener">regionAnchorY</a>;
+  attribute double <a href="https://w3c.github.io/webvtt/#dom-vttregion-viewportanchorx" id="ref-for-dom-vttregion-viewportanchorx-1" class="external" rel=" noopener">viewportAnchorX</a>;
+  attribute double <a href="https://w3c.github.io/webvtt/#dom-vttregion-viewportanchory" id="ref-for-dom-vttregion-viewportanchory-1" class="external" rel=" noopener">viewportAnchorY</a>;
+  attribute <a href="https://w3c.github.io/webvtt/#enumdef-scrollsetting" id="ref-for-enumdef-scrollsetting-1" class="external" rel=" noopener">ScrollSetting</a> <a href="https://w3c.github.io/webvtt/#dom-vttregion-scroll" id="ref-for-dom-vttregion-scroll-1" class="external" rel=" noopener">scroll</a>;
+};</pre></div><h2 id="methods_and_properties"><a href="#methods_and_properties" title="Permalink to Methods and properties">Methods and properties</a></h2><div><p>The methods used in WebVTT are those which are used to alter the cue or region as the attributes for both interfaces are different. We can categorize them for better understanding relating to each interface in WebVTT:</p>
+
+<ul style="list-style-type: circle;">
+ <li>
+  <h3 id="vttcue">VTTCue</h3>
+
+  <ul>
+   <li>The methods which are available in this interface are:
+    <ul style="list-style-type: circle;">
+     <li>GetCueAsHTML to get the HTML of that Cue.</li>
+     <li>VTT Constructor for creating new objects of Cues.</li>
+     <li>Autokeyword.</li>
+     <li>DirectionSetting: to set the direction of caption or text in a file.</li>
+     <li>LineAlignment: to adjust the line alignment.</li>
+     <li>PositionAlignSetting: to adjust the position of text.</li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <h3 id="vttregion">VTTRegion</h3>
+
+  <ul>
+   <li>The methods used for region are listed below along with description of their functionality:
+    <ul style="list-style-type: circle;">
+     <li>ScrollSetting: For adjusting the scrolling setting of all nodes present in given region.</li>
+     <li>VTT Region Constructor: for construction of new VTT Regions.</li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</ul></div><h2 id="tutorial_on_how_to_write_a_webvtt_file"><a href="#tutorial_on_how_to_write_a_webvtt_file" title="Permalink to Tutorial on how to write a WebVTT file">Tutorial on how to write a WebVTT file</a></h2><div><p>There are few steps that can be followed to write a simple webVTT file. Before start, it must be noted that you can make use of a notepad and then save the file as ‘.vtt’ file. Steps are given below:</p>
+
+<ol>
+ <li>Open a notepad.</li>
+ <li>The first line of WebVTT is standardized similar in the way some other languages require you to put headers as the file starts to indicate the file type. One the very first line you have to write.</li>
+</ol>
+
+<pre class="notranslate">WEBVTT</pre>
+
+<p>      3. Leave the second line blank, and on the third line the time for first cue is to be specified. For example, for a first cue starting at time 1 second and ending at 5 seconds, it is written as:</p>
+
+<pre class="notranslate">00:01.000 --&gt; 00:05.000</pre>
+
+<ol>
+ <li>On the next line you can write the caption for this cue which will run from 1<sup>st</sup> second to the 5<sup>th</sup> second, inclusive.</li>
+ <li>Following the similar steps, a complete WebVTT file for specific video or audio file can be made.</li>
+</ol></div><h2 id="css_pseudo-classes"><a href="#css_pseudo-classes" title="Permalink to CSS pseudo-classes">CSS pseudo-classes</a></h2><div><p>CSS pseudo classes allow us to classify the type of object which we want to differentiate from other types of objects. It works in similar manner in WebVTT files as it works in HTML file.</p>
+
+<p>It is one of the good features supported by WebVTT is the localization and use of class elements which can be used in same way they are used in HTML and CSS to classify the style for particular type of objects, but here these are used for styling and classifying the Cues as shown below:</p>
+
+<pre class="notranslate">WEBVTT
+
+04:02.500 --&gt; 04:05.000
+J’ai commencé le basket à l'âge de 13, 14 ans
+
+04:05.001 --&gt; 04:07.800
+Sur les &lt;i.foreignphrase&gt;&lt;lang en&gt;playground&lt;/lang&gt;&lt;/i&gt;, ici à Montpellier</pre>
+
+<p>In the above example it can be observed that we can use the identifier and pseudo class name for defining the language of caption, where <code>&lt;i&gt;</code> tag is for italics.</p>
+
+<p>The type of pseudo class is determined by the selector it is using and working is similar in nature as it works in HTML. Following CSS pseudo classes can be used:</p>
+
+<ul>
+ <li>Lang (Lanugage): e.g., p:lang(it).</li>
+ <li>Link: e.g., a:link.</li>
+ <li>Nth-last-child: e.g., p:nth-last-child(2).</li>
+ <li>Nth-child(n): e.g., p:nth-child(2).</li>
+</ul>
+
+<p>Where p and a are the tags which are used in HTML for paragraph and link, respectively and they can be replaced by identifiers which are used for Cues in WebVTT file.</p></div><h2 id="specifications"><a href="#specifications" title="Permalink to Specifications">Specifications</a></h2><div><table class="standard-table">
+ <tbody>
+  <tr>
+   <th>Specification</th>
+   <th>Status</th>
+   <th>Comment</th>
+  </tr>
+  <tr>
+   <td><a href="https://w3c.github.io/webvtt/" hreflang="en" lang="en" class="external" title="Спецификация 'WebVTT: The Web Video Text Tracks Format'" rel=" noopener">WebVTT: The Web Video Text Tracks Format</a></td>
+   <td><span class="spec-cr">Кандидат в рекомендации</span></td>
+   <td>Initial definition</td>
+  </tr>
+ </tbody>
+</table></div><h2 id="browser_compatibility"><a href="#browser_compatibility" title="Permalink to Browser compatibility">Browser compatibility</a></h2><div></div><h3 id="vttcue_interface_2"><a href="#vttcue_interface_2" title="Permalink to VTTCue interface"><code>VTTCue</code> interface</a></h3><div><div id="sect10">
+
+
+<p></p><div class="bc-data" id="bcd:api.VTTCue" data-depth="0">
+  If you're able to see this, something went wrong on this page.
+</div><p></p>
+
+<h3 id="texttrack_interface"><code>TextTrack</code> interface</h3>
+
+<div id="sect11">
+<p></p><div class="bc-data" id="bcd:api.TextTrack" data-depth="0">
+  If you're able to see this, something went wrong on this page.
+</div><p></p>
+
+<h3 id="notes">Notes</h3>
+</div>
+</div>
+
+
+
+<p>Prior to Firefox 50, the <code>AlignSetting</code> enum (representing possible values for <a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/VTTCue/align"><code>VTTCue.align</code> <small>(en-US)</small></a>) incorrectly included the value <code>"middle"</code> instead of <code>"center"</code>. This has been corrected.</p>
+
+<p>WebVTT was implemented in Firefox 24 behind the preference <code>media.webvtt.enabled</code>, which is disabled by default; you can enable it by setting this preference to <code>true</code>. WebVTT is enabled by default starting in Firefox 31 and can be disabled by setting the preference to <code>false</code>.</p>
+
+<p>Prior to Firefox 58, the <code>REGION</code> keyword was creating <a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/VTTRegion"><code>VTTRegion</code> <small>(en-US)</small></a> objects, but they were not being used. Firefox 58 now fully supports <code>VTTRegion</code> and its use; however, this feature is disabled by default behind the preference <code>media.webvtt.regions.enabled</code>; set it to <code>true</code> to enable region support in Firefox 58. Regions are enabled by default starting in Firefox 59 (see bugs <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1338030" class="external" rel=" noopener">баг&nbsp;1338030</a> and <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1415805" class="external" rel=" noopener">баг&nbsp;1415805</a>).</p></div></article><aside class="metadata"><div class="metadata-content-container"><div id="on-github" class="on-github"><h3>Found a problem with this page?</h3><ul><li><a href="https://github.com/mdn/translated-content/edit/main/files/ru/web/api/webvtt_api/index.html" title="You're going to need to sign in to GitHub first (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Edit on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/translated-content/blob/main/files/ru/web/api/webvtt_api/index.html" title="Folder: ru/web/api/webvtt_api (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Source on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/translated-content/issues/new?body=MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fru%2Fdocs%2FWeb%2FAPI%2FWebVTT_API%0A%0A%23%23%23%23+What+information+was+incorrect%2C+unhelpful%2C+or+incomplete%3F%0A%0A%0A%23%23%23%23+Specific+section+or+headline%3F%0A%0A%0A%23%23%23%23+What+did+you+expect+to+see%3F%0A%0A%0A%23%23%23%23+Did+you+test+this%3F+If+so%2C+how%3F%0A%0A%0A%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+Content+page+report+details%3C%2Fsummary%3E%0A%0A*+Folder%3A+%60ru%2Fweb%2Fapi%2Fwebvtt_api%60%0A*+MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fru%2Fdocs%2FWeb%2FAPI%2FWebVTT_API%0A*+GitHub+URL%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Ftranslated-content%2Fblob%2Fmain%2Ffiles%2Fru%2Fweb%2Fapi%2Fwebvtt_api%2Findex.html%0A*+Last+commit%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Ftranslated-content%2Fcommit%2F921c46a374ab0a9f4cc809af0370f8c412e54701%0A*+Document+last+modified%3A+2022-10-01T03%3A41%3A16.000Z%0A%0A%3C%2Fdetails%3E&amp;title=Issue+with+%22%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82+Web+Video+Text+Tracks+%28WebVTT%29%22%3A+%28short+summary+here+please%29&amp;labels=needs-triage%2Cl10n-ru" title="This will take you to https://github.com/mdn/content to file a new issue" target="_blank" rel="noopener noreferrer">Report a problem with this content on <b>GitHub</b></a></li><li>Want to fix the problem yourself? See<!-- --> <a href="https://github.com/mdn/content/blob/main/README.md" target="_blank" rel="noopener noreferrer">our Contribution guide</a>.</li></ul></div><p class="last-modified-date"><b>Last modified:</b> <time datetime="2022-10-01T03:41:16.000Z">Oct 1, 2022</time>,<!-- --> <a href="/ru/docs/Web/API/WebVTT_API/contributors.txt">by MDN contributors</a></p><form class="language-menu"><fieldset id="select-language"><legend>Change your language</legend><label for="language-selector" class="visually-hidden">Select your preferred language</label> <select id="language-selector" name="language"><option selected="" value="ru">Русский</option><option value="en-US">English (US)</option><option value="fr">Français</option><option value="ja">日本語</option><option value="zh-CN">中文 (简体)</option><option value="zh-TW">正體中文 (繁體)</option></select> <button type="submit" class="button minimal">Change language</button></fieldset></form></div></aside></main><nav id="sidebar-quicklinks" class="sidebar"><h4>Related Topics</h4><div><ol><li><strong><a href="/ru/docs/Web/API/WebVTT_API">WebVTT API</a></strong></li><li><strong><a href="/ru/docs/Web/API/WebVTT_API"><code>WebVTT_API</code></a></strong></li><li class="toggle"><details open=""><summary>Похожие страницы для WebVTT</summary><ol><li><a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/TextTrack"><code>TextTrack</code> <small>(en-US)</small></a></li><li><a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/TextTrackCue"><code>TextTrackCue</code> <small>(en-US)</small></a></li><li><a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/TextTrackCueList"><code>TextTrackCueList</code> <small>(en-US)</small></a></li><li><a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/TextTrackList"><code>TextTrackList</code> <small>(en-US)</small></a></li><li><a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/TrackEvent"><code>TrackEvent</code> <small>(en-US)</small></a></li><li><a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/VTTCue"><code>VTTCue</code> <small>(en-US)</small></a></li><li><a class="only-in-en-us" title="Currently only available in English (US)" href="/en-US/docs/Web/API/VTTRegion"><code>VTTRegion</code> <small>(en-US)</small></a></li></ol></details></li></ol></div></nav></div><footer id="nav-footer" class="page-footer"><div class="content-container"><div class="page-footer-logo"><a href="/ru/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135" fill="#fff"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a></div><ul class="link-list-mdn"><li><a href="/ru/docs/Web">Web Technologies</a></li><li><a href="/ru/docs/Learn">Learn Web Development</a></li><li><a href="/ru/docs/MDN/About">About MDN</a></li><li><a href="/ru/docs/MDN/Feedback">Feedback</a></li></ul><ul class="link-list-moz"><li><a href="https://www.mozilla.org/about/" target="_blank" rel="noopener noreferrer">About</a></li><li><a href="https://shop.spreadshirt.com/mdn-store/" target="_blank" rel="noopener noreferrer">MDN Web Docs Store</a></li><li><a href="https://www.mozilla.org/contact/" target="_blank" rel="noopener noreferrer">Contact Us</a></li><li><a href="https://www.mozilla.org/firefox/?utm_source=developer.mozilla.org&amp;utm_campaign=footer&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Firefox</a></li></ul><div class="social social-mdn"><h4>MDN</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozdevnet" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Twitter</span></a></li><li><a class="social-icon github" href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Github</span></a></li></ul></div><div class="social social-moz"><h4>Mozilla</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozilla" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Twitter</span></a></li><li><a class="social-icon instagram" href="https://www.instagram.com/mozillagram/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Instagram</span></a></li></ul></div><p id="license" class="footer-license">© 2005-<!-- -->2022<!-- --> Mozilla and individual contributors. Content is available under<!-- --> <a href="/docs/MDN/About#Copyrights_and_licenses">these licenses</a>.</p><ul class="footer-legal"><li><a href="https://www.mozilla.org/about/legal/terms/mozilla" target="_blank" rel="noopener noreferrer">Terms</a></li><li><a href="https://www.mozilla.org/privacy/websites/" target="_blank" rel="noopener noreferrer">Privacy</a></li><li><a href="https://www.mozilla.org/privacy/websites/#cookies" target="_blank" rel="noopener noreferrer">Cookies</a></li></ul></div></footer><div class="page-overlay hidden"></div></div><script type="application/json" id="hydration">{"doc":{"isMarkdown":false,"isTranslated":true,"isActive":true,"flaws":{},"title":"Формат Web Video Text Tracks (WebVTT)","mdn_url":"/ru/docs/Web/API/WebVTT_API","locale":"ru","native":"Русский","sidebarHTML":"<ol><li><strong><a href=\"/ru/docs/Web/API/WebVTT_API\">WebVTT API</a></strong></li><li><strong><a href=\"/ru/docs/Web/API/WebVTT_API\"><code>WebVTT_API</code></a></strong></li><li class=\"toggle\"><details open=\"\"><summary>Похожие страницы для WebVTT</summary><ol><li><a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/TextTrack\"><code>TextTrack</code> <small>(en-US)</small></a></li><li><a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/TextTrackCue\"><code>TextTrackCue</code> <small>(en-US)</small></a></li><li><a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/TextTrackCueList\"><code>TextTrackCueList</code> <small>(en-US)</small></a></li><li><a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/TextTrackList\"><code>TextTrackList</code> <small>(en-US)</small></a></li><li><a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/TrackEvent\"><code>TrackEvent</code> <small>(en-US)</small></a></li><li><a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/VTTCue\"><code>VTTCue</code> <small>(en-US)</small></a></li><li><a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/VTTRegion\"><code>VTTRegion</code> <small>(en-US)</small></a></li></ol></details></li></ol>","body":[{"type":"prose","value":{"id":null,"title":null,"isH3":false,"content":"<div id=\"sect1\"></div>\n\n<p><strong>Формат Web Video Text Tracks</strong> (<strong>WebVTT</strong>)это формат для отображения синхронизированных текстовых треков (такие как субтитры или подписи) с помощью  элементов <a href=\"/ru/docs/Web/HTML/Element/track\"><code>&lt;track&gt;</code></a>. Основная цель файлов WebVTT — добавить текстовые наложения к элементам <a href=\"/ru/docs/Web/HTML/Element/video\"><code>&lt;video&gt;</code></a>. WebVTT является текстовым форматом, который должен быть закодирован с использованием <a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Glossary/UTF-8\">UTF-8 <small>(en-US)</small></a>. В этих файлах вы можете использовать пробелы и табы для отступов. Существует также небольшой API для представления и управления этими дорожками и данными, необходимыми для отображения текста в нужное время.</p>"}},{"type":"prose","value":{"id":"файлы_webvtt","title":"Файлы WebVTT","isH3":false,"content":"<p>MIME тип файлов WebVTT — <code>text/vtt</code>.</p>\n\n<p>Файл WebVTT (<code>.vtt</code>) содержит реплики (cues), которые могут быть одной строкой или несколькими строками, как показано ниже:</p>\n\n<pre class=\"notranslate\">WEBVTT\n\n00:01.000 --&gt; 00:04.000\nНикогда не пейте жидкий азот.\n\n00:05.000 --&gt; 00:09.000\n- Это пробьёт ваш желудок.\n- Вы можете умереть.\n</pre>"}},{"type":"prose","value":{"id":"тело_webvtt_файла","title":"Тело WebVTT файла","isH3":false,"content":"<p>Структура WebVTT состоит из следующих компонентов, некоторые из которых являются необязательными, в следующем порядке:</p>\n\n<ul>\n <li>Необязательный знак порядка байтов (BOM).</li>\n <li>Строка  \"<code>WEBVTT</code>\".</li>\n <li>Дополнительный текстовый заголовок справа от <code>WEBVTT.</code>\n  <ul>\n   <li>Должен быть хотя бы один пробел после  <code>WEBVTT.</code></li>\n   <li>Вы можете использовать его, чтобы добавить описание к файлу.</li>\n   <li>Вы можете использовать что угодно в текстовом заголовке, кроме перевода строки или  \"<code>--&gt;</code>\".</li>\n  </ul>\n </li>\n <li>Пустая строка, которая эквивалентна двум последовательным переводам строки.</li>\n <li>Ноль или более реплик или комментариев .</li>\n <li>Ноль или более пустых строк.</li>\n</ul>\n\n<h5 id=\"пример_1_-_простейший_возможный_файл_webvtt\">Пример 1 - Простейший возможный файл WEBVTT</h5>\n\n<pre class=\"eval notranslate\">WEBVTT\n</pre>\n\n<h5 id=\"пример_2_-_очень_простой_файл_webvtt_с_текстовым_заголовком\">Пример 2 - Очень простой файл WebVTT с текстовым заголовком</h5>\n\n<pre class=\"eval notranslate\">WEBVTT - Этот файл не содержит реплик.\n</pre>\n\n<h5 id=\"пример_3_-_обычный_webvtt_с_заголовком_и_репликами\">Пример 3 - Обычный WebVTT с заголовком и репликами</h5>\n\n<pre class=\"eval notranslate\">WEBVTT - Этот файл содержит реплики.\n\n14\n00:01:14.815 --&gt; 00:01:18.114\n- Что?\n- Где мы сейчас?\n\n15\n00:01:18.171 --&gt; 00:01:20.991\n- Это большая страна летучих мышей.\n\n16\n00:01:21.058 --&gt; 00:01:23.868\n- [ Визг летучих мышей ]\n- Они не попадут в твои волосы. They're after the bugs.\n</pre>"}},{"type":"prose","value":{"id":"внутренняя_структура_файла_webvtt","title":"Внутренняя структура файла WebVTT","isH3":true,"content":"<p>Давайте вернёмся к одному из наших предыдущих примеров и рассмотрим структуру реплик более подробно.</p>\n\n<pre class=\"notranslate\">WEBVTT\n\n00:01.000 --&gt; 00:04.000\n- Never drink liquid nitrogen.\n\n00:05.000 --&gt; 00:09.000\n- It will perforate your stomach.\n- You could die.\n\nNOTE Это последняя строка в файле</pre>\n\n<p>В данном случае каждая реплика:</p>\n\n<ul>\n <li>Первая строка начинается с метки времени, которое определяет начало отображения нижележащего текста.</li>\n <li>На той же строке далее идут символы  <code>--&gt;</code>.</li>\n <li>Первая строка заканчивается  второй меткой времени, которое определяет прекращения отображения связанного текста.</li>\n <li>Затем может быть одна или несколько строк, начинающихся с дефиса  (-), каждая из которых содержит часть текстовой дорожки для отображения.</li>\n</ul>\n\n<p>Мы также можем разместить комментарии в нашем файле <code>.vtt</code>, чтобы помочь нам запомнить важную информацию о частях нашего файла. Они должны быть в отдельных строках, начинающихся со слова <code>NOTE</code>. Подробнее об этом сказано  в следующем разделе.</p>\n\n<p>Важно не использовать дополнительные пустые строки в реплике, например, между строкой синхронизации и текстом реплики. WebVTT использует строчные разделители, поэтому пустая строка обозначит окончание реплики.</p>"}},{"type":"prose","value":{"id":"комментарии_в_webvtt","title":"Комментарии в WebVTT","isH3":false,"content":"<p>Comments are an optional component that can be used to add information to a WebVTT file. Comments are intended for those reading the file and are not seen by users. Comments may contain newlines but cannot contain a blank line, which is equivalent to two consecutive newlines. A blank line signifies the end of a comment.</p>\n\n<p>A comment cannot contain the string \"<code>--&gt;\",</code> the ampersand character (&amp;), or the less-than sign (&lt;). If you wish to use such characters, you need to escape them using for example <code>&amp;amp;</code> for ampersand and <code>&amp;lt;</code> for less-than. It is also recommended that you use the greater-than escape sequence (<code>&amp;gt;</code>) instead of the greater-than character (<code>&gt;</code>) to avoid confusion with tags.</p>\n\n<p>A comment consists of three parts:</p>\n\n<ul>\n <li>The string <code>NOTE.</code></li>\n <li>A space or a newline.</li>\n <li>Zero or more characters other than those noted above.</li>\n</ul>\n\n<h5 id=\"example_4_-_common_webvtt_example\">Example 4 - Common WebVTT example</h5>\n\n<pre class=\"eval notranslate\">NOTE This is a comment\n</pre>\n\n<h5 id=\"example_5_-_multi-line_comment\">Example 5 - Multi-line comment</h5>\n\n<pre class=\"eval notranslate\">NOTE\nAnother comment that is spanning\nmore than one line.\n\nNOTE You can also make a comment\nacross more than one line this way.\n</pre>\n\n<h5 id=\"example_6_-_common_comment_usage\">Example 6 - Common comment usage</h5>\n\n<pre class=\"eval notranslate\">WEBVTT - Translation of that film I like\n\nNOTE\nThis translation was done by Kyle so that\nsome friends can watch it with their parents.\n\n1\n00:02:15.000 --&gt; 00:02:20.000\n- Ta en kopp varmt te.\n- Det är inte varmt.\n\n2\n00:02:20.000 --&gt; 00:02:25.000\n- Har en kopp te.\n- Det smakar som te.\n\nNOTE This last line may not translate well.\n\n3\n00:02:25.000 --&gt; 00:02:30.000\n- Ta en kopp\n</pre>"}},{"type":"prose","value":{"id":"стилизация_реплик_webtt","title":"Стилизация реплик WebTT","isH3":false,"content":"<p>Реплики WebVTT можно стилизовать, используя псевдоэлемент <a href=\"/ru/docs/Web/CSS/::cue\"><code>::cue</code></a>.</p>"}},{"type":"prose","value":{"id":"в_css-стилях_сайта","title":"В CSS-стилях сайта","isH3":true,"content":"<div class=\"code-example\"><pre class=\"brush: css notranslate\"><code><span class=\"token selector\">video::cue</span> <span class=\"token punctuation\">{</span>\n  <span class=\"token property\">background-image</span><span class=\"token punctuation\">:</span> <span class=\"token function\">linear-gradient</span><span class=\"token punctuation\">(</span>to bottom<span class=\"token punctuation\">,</span> dimgray<span class=\"token punctuation\">,</span> lightgray<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n  <span class=\"token property\">color</span><span class=\"token punctuation\">:</span> papayawhip<span class=\"token punctuation\">;</span>\n<span class=\"token punctuation\">}</span>\n\n<span class=\"token selector\">video::cue(b)</span> <span class=\"token punctuation\">{</span>\n  <span class=\"token property\">color</span><span class=\"token punctuation\">:</span> peachpuff<span class=\"token punctuation\">;</span>\n<span class=\"token punctuation\">}</span>\n</code></pre></div>\n\n<p>В данном примере фоном видео будет серый градиент, с цветом текста <code>papayawhip</code>. Также, текст, выделенный жирным шрифтом с помощью элемента <a href=\"/ru/docs/Web/HTML/Element/b\"><code>&lt;b&gt;</code></a>, имеет цвет <code>peachpuff</code>.</p>\n\n<p>Фрагмент HTML, приведённый ниже, отображает видео.</p>\n\n<div class=\"code-example\"><pre class=\"brush: html notranslate\"><code><span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>video</span> <span class=\"token attr-name\">controls</span> <span class=\"token attr-name\">autoplay</span> <span class=\"token attr-name\">src</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>video.webm<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">&gt;</span></span>\n <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>track</span> <span class=\"token attr-name\">default</span> <span class=\"token attr-name\">src</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>track.vtt<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">&gt;</span></span>\n<span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;/</span>video</span><span class=\"token punctuation\">&gt;</span></span>\n</code></pre></div>"}},{"type":"prose","value":{"id":"within_the_webvtt_file_itself","title":"Within the WebVTT file itself","isH3":true,"content":"<p>You can also define the style directly in the WebVTT file. In this case, you insert your CSS rules into the file with each rule preceded by the string <code>\"STYLE\"</code> all by itelf on a line of text, as shown below:</p>\n\n<pre class=\"notranslate\">WEBVTT\n\nSTYLE\n::cue {\n  background-image: linear-gradient(to bottom, dimgray, lightgray);\n  color: papayawhip;\n}\n/* Style blocks cannot use blank lines nor \"dash dash greater than\" */\n\nNOTE comment blocks can be used between style blocks.\n\nSTYLE\n::cue(b) {\n  color: peachpuff;\n}\n\n00:00:00.000 --&gt; 00:00:10.000\n- Hello &lt;b&gt;world&lt;/b&gt;.\n\nNOTE style blocks cannot appear after the first cue.</pre>\n\n<p>We can also use identifiers inside WebVTT file, which can be used for defining a new style for some particular cues in the file. The example where we wanted the transcription text to be red highlighted and the other part to remain normal, we can define it as follows using CSS. Where it must be noted that the CSS uses escape sequences the way they are used in HTML pages:</p>\n\n<pre class=\"notranslate\">WEBVTT\n\n1\n00:00.000 --&gt; 00:02.000\nThat’s an, an, that’s an L!\n\ncrédit de transcription\n00:04.000 --&gt; 00:05.000\nTranscrit par Célestes™\n</pre>\n\n<div class=\"code-example\"><pre class=\"brush: css notranslate\"><code><span class=\"token selector\">::cue(#\\31)</span> <span class=\"token punctuation\">{</span> <span class=\"token property\">color</span><span class=\"token punctuation\">:</span> lime<span class=\"token punctuation\">;</span> <span class=\"token punctuation\">}</span>\n<span class=\"token selector\">::cue(#crédit\\ de\\ transcription)</span> <span class=\"token punctuation\">{</span> <span class=\"token property\">color</span><span class=\"token punctuation\">:</span> red<span class=\"token punctuation\">;</span> <span class=\"token punctuation\">}</span></code></pre></div>\n\n<p>Positioning of text tracks is also supported, by including positioning information after the timings in a cue, as seen below (see <a href=\"#cue_settings\">Cue settings</a> for more information):</p>\n\n<pre class=\"notranslate\">WEBVTT\n\n00:00:00.000 --&gt; 00:00:04.000 position:10%,line-left align:left size:35%\nWhere did he go?\n\n00:00:03.000 --&gt; 00:00:06.500 position:90% align:right size:35%\nI think he went down this lane.\n\n00:00:04.000 --&gt; 00:00:06.500 position:45%,line-right align:center size:35%\nWhat are you waiting for?</pre>"}},{"type":"prose","value":{"id":"webvtt_cues","title":"WebVTT cues","isH3":false,"content":"<p>A cue is a single subtitle block that has a single start time, end time, and textual payload. Example 6 consists of the header, a blank line, and then five cues separated by blank lines. A cue consists of five components:</p>\n\n<ul>\n <li>An optional cue identifier followed by a newline.</li>\n <li>Cue timings.</li>\n <li>Optional cue settings with at least one space before the first and between each setting.</li>\n <li>One or more newlines.</li>\n <li>The cue payload text.</li>\n</ul>\n\n<h5 id=\"example_7_-_example_of_a_cue\">Example 7 - Example of a cue</h5>\n\n<pre class=\"eval notranslate\">1 - Title Crawl\n00:00:05.000 --&gt; 00:00:10.000 line:0 position:20% size:60% align:start\nSome time ago in a place rather distant....</pre>"}},{"type":"prose","value":{"id":"cue_identifier","title":"Cue identifier","isH3":true,"content":"<p>The identifier is a name that identifies the cue. It can be used to reference the cue from a script. It must not contain a newline and cannot contain the string \"<code>--&gt;\"</code>. It must end with a single newline. They do not have to be unique, although it is common to number them (e.g., 1, 2, 3, ...).</p>\n\n<h5 id=\"example_8_-_cue_identifier_from_example_7\">Example 8 - Cue identifier from Example 7</h5>\n\n<pre class=\"eval notranslate\">1 - Title Crawl</pre>\n\n<h5 id=\"example_9_-_common_usage_of_identifiers\">Example 9 - Common usage of identifiers</h5>\n\n<pre class=\"eval notranslate\">WEBVTT\n\n1\n00:00:22.230 --&gt; 00:00:24.606\nThis is the first subtitle.\n\n2\n00:00:30.739 --&gt; 00:00:34.074\nThis is the second.\n\n3\n00:00:34.159 --&gt; 00:00:35.743\nThird\n</pre>"}},{"type":"prose","value":{"id":"cue_timings","title":"Cue timings","isH3":true,"content":"<p>A cue timing indicates when the cue is shown. It has a start and end time which are represented by timestamps. The end time must be greater than the start time, and the start time must be greater than or equal to all previous start times. Cues may have overlapping timings.</p>\n\n<p>If the WebVTT file is being used for chapters (<a href=\"/ru/docs/Web/HTML/Element/track\"><code>&lt;track&gt;</code></a> <a href=\"/ru/docs/Web/HTML/Global_attributes#attr-kind\"><code>kind</code></a> is <code>chapters</code>) then the file cannot have overlapping timings.</p>\n\n<p>Each cue timing contains five components:</p>\n\n<ul>\n <li>Timestamp for start time.</li>\n <li>At least one space.</li>\n <li>The string \"<code>--&gt;\".</code></li>\n <li>At least one space.</li>\n <li>Timestamp for end time.\n  <ul>\n   <li>Which must be greater than the start time.</li>\n  </ul>\n </li>\n</ul>\n\n<p>The timestamps must be in one of two formats:</p>\n\n<ul>\n <li><code>mm:ss.ttt</code></li>\n <li><code>hh:mm:ss.ttt</code></li>\n</ul>\n\n<p>Where the components are defined as follows:</p>\n\n<ul>\n <li><code>hh</code> is hours.\n\n  <ul>\n   <li>Must be at least two digits.</li>\n   <li>Hours can be greater than two digits (e.g., 9999:00:00.000).</li>\n  </ul>\n </li>\n <li><code>mm</code> is minutes.\n  <ul>\n   <li>Must be between 00 and 59 inclusive.</li>\n  </ul>\n </li>\n <li><code>ss</code> is seconds.\n  <ul>\n   <li>Must be between 00 and 59 inclusive.</li>\n  </ul>\n </li>\n <li><code>ttt</code> is miliseconds.\n  <ul>\n   <li>Must be between 000 and 999 inclusive.</li>\n  </ul>\n </li>\n</ul>\n\n<h5 id=\"example_10_-_basic_cue_timing_examples\">Example 10 - Basic cue timing examples</h5>\n\n<pre class=\"eval notranslate\">00:22.230 --&gt; 00:24.606\n00:30.739 --&gt; 00:00:34.074\n00:00:34.159 --&gt; 00:35.743\n00:00:35.827 --&gt; 00:00:40.122</pre>\n\n<h5 id=\"example_11_-_overlapping_cue_timing_examples\">Example 11 - Overlapping cue timing examples</h5>\n\n<pre class=\"eval notranslate\">00:00:00.000 --&gt; 00:00:10.000\n00:00:05.000 --&gt; 00:01:00.000\n00:00:30.000 --&gt; 00:00:50.000</pre>\n\n<h5 id=\"example_12_-_non-overlapping_cue_timing_examples\">Example 12 - Non-overlapping cue timing examples</h5>\n\n<pre class=\"eval notranslate\">00:00:00.000 --&gt; 00:00:10.000\n00:00:10.000 --&gt; 00:01:00.581\n00:01:00.581 --&gt; 00:02:00.100\n00:02:01.000 --&gt; 00:02:01.000</pre>"}},{"type":"prose","value":{"id":"cue_settings","title":"Cue settings","isH3":true,"content":"<p>Cue settings are optional components used to position where the cue payload text will be displayed over the video. This includes whether the text is displayed horizontally or vertically. There can be zero or more of them, and they can be used in any order so long as each setting is used no more than once.</p>\n\n<p>The cue settings are added to the right of the cue timings. There must be one or more spaces between the cue timing and the first setting and between each setting. A setting's name and value are separated by a colon. The settings are case sensitive so use lower case as shown. There are five cue settings:</p>\n\n<ul>\n <li><strong>vertical</strong>\n\n  <ul>\n   <li>Indicates that the text will be displayed vertically rather than horizontally, such as in some Asian languages.</li>\n  </ul>\n\n  <table>\n   <thead>\n    <tr>\n     <th colspan=\"2\">Table 1 - vertical values</th>\n    </tr>\n   </thead>\n   <tbody>\n    <tr>\n     <th><code>vertical:rl</code></th>\n     <td>writing direction is right to left</td>\n    </tr>\n    <tr>\n     <th><code>vertical:lr</code></th>\n     <td>writing direction is left to right</td>\n    </tr>\n   </tbody>\n  </table>\n </li>\n <li><strong>line</strong>\n  <ul>\n   <li>Specifies where text appears vertically. If vertical is set, line specifies where text appears horizontally.</li>\n   <li>Value can be a line number.\n    <ul>\n     <li>The line height is the height of the first line of the cue as it appears on the video.</li>\n     <li>Positive numbers indicate top down.</li>\n     <li>Negative numbers indicate bottom up.</li>\n    </ul>\n   </li>\n   <li>Or value can be a percentage.\n    <ul>\n     <li>Must be an integer (i.e., no decimals) between 0 and 100 inclusive.</li>\n     <li>Must be followed by a percent sign (%).</li>\n    </ul>\n   </li>\n  </ul>\n\n  <table>\n   <thead>\n    <tr>\n     <th colspan=\"4\">Table 2 - line examples</th>\n    </tr>\n   </thead>\n   <tbody>\n    <tr>\n     <th></th>\n     <th><code>vertical</code> omitted</th>\n     <th><code>vertical:rl</code></th>\n     <th><code>vertical:lr</code></th>\n    </tr>\n    <tr>\n     <th><code>line:0</code></th>\n     <td>top</td>\n     <td>right</td>\n     <td>left</td>\n    </tr>\n    <tr>\n     <th><code>line:-1</code></th>\n     <td>bottom</td>\n     <td>left</td>\n     <td>right</td>\n    </tr>\n    <tr>\n     <th><code>line:0%</code></th>\n     <td>top</td>\n     <td>right</td>\n     <td>left</td>\n    </tr>\n    <tr>\n     <th><code>line:100%</code></th>\n     <td>bottom</td>\n     <td>left</td>\n     <td>right</td>\n    </tr>\n   </tbody>\n  </table>\n </li>\n <li><strong>position</strong>\n  <ul>\n   <li>Specifies where the text will appear horizontally. If vertical is set, position specifies where the text will appear vertically.</li>\n   <li>Value is a percentage.</li>\n   <li>Must be an integer (no decimals) between 0 and 100 inclusive.</li>\n   <li>Must be followed by a percent sign (%).</li>\n  </ul>\n\n  <table>\n   <thead>\n    <tr>\n     <th colspan=\"4\">Table 3 - position examples</th>\n    </tr>\n   </thead>\n   <tbody>\n    <tr>\n     <th></th>\n     <th><code>vertical</code> omitted</th>\n     <th><code>vertical:rl</code></th>\n     <th><code>vertical:lr</code></th>\n    </tr>\n    <tr>\n     <th><code>position:0%</code></th>\n     <td>left</td>\n     <td>top</td>\n     <td>top</td>\n    </tr>\n    <tr>\n     <th><code>position:100%</code></th>\n     <td>right</td>\n     <td>bottom</td>\n     <td>bottom</td>\n    </tr>\n   </tbody>\n  </table>\n </li>\n <li><strong>size</strong>\n  <ul>\n   <li>Specifies the width of the text area. If vertical is set, size specifies the height of the text area.</li>\n   <li>Value is a percentage.</li>\n   <li>Must be an integer (i.e., no decimals) between 0 and 100 inclusive.</li>\n   <li>Must be followed by a percent sign (%).</li>\n  </ul>\n\n  <table>\n   <thead>\n    <tr>\n     <th colspan=\"4\">Table 4 - size examples</th>\n    </tr>\n   </thead>\n   <tbody>\n    <tr>\n     <th></th>\n     <th><code>vertical</code> omitted</th>\n     <th><code>vertical:rl</code></th>\n     <th><code>vertical:lr</code></th>\n    </tr>\n    <tr>\n     <th><code>size:100%</code></th>\n     <td>full width</td>\n     <td>full height</td>\n     <td>full height</td>\n    </tr>\n    <tr>\n     <th><code>size:50%</code></th>\n     <td>half width</td>\n     <td>half height</td>\n     <td>half height</td>\n    </tr>\n   </tbody>\n  </table>\n </li>\n <li><strong>align</strong>\n  <ul>\n   <li>Specifies the alignment of the text. Text is aligned within the space given by the size cue setting if it is set.</li>\n  </ul>\n\n  <table>\n   <thead>\n    <tr>\n     <th colspan=\"4\">Table 5 - align values</th>\n    </tr>\n   </thead>\n   <tbody>\n    <tr>\n     <th></th>\n     <th><code>vertical</code> omitted</th>\n     <th><code>vertical:rl</code></th>\n     <th><code>vertical:lr</code></th>\n    </tr>\n    <tr>\n     <th><code>align:start</code></th>\n     <td>left</td>\n     <td>top</td>\n     <td>top</td>\n    </tr>\n    <tr>\n     <th><code>align:middle</code></th>\n     <td>centred horizontally</td>\n     <td>centred vertically</td>\n     <td>centred vertically</td>\n    </tr>\n    <tr>\n     <th><code>align:end</code></th>\n     <td>right</td>\n     <td>bottom</td>\n     <td>bottom</td>\n    </tr>\n   </tbody>\n  </table>\n </li>\n</ul>\n\n<h5 id=\"example_13_-_cue_setting_examples\">Example 13 - Cue setting examples</h5>\n\n<p>The first line demonstrates no settings. The second line might be used to overlay text on a sign or label. The third line might be used for a title. The last line might be used for an Asian language.</p>\n\n<pre class=\"eval notranslate\">00:00:05.000 --&gt; 00:00:10.000\n00:00:05.000 --&gt; 00:00:10.000 line:63% position:72% align:start\n00:00:05.000 --&gt; 00:00:10.000 line:0 position:20% size:60% align:start\n00:00:05.000 --&gt; 00:00:10.000 vertical:rt line:-1 align:end\n</pre>"}},{"type":"prose","value":{"id":"cue_payload","title":"Cue payload","isH3":true,"content":"<p>The payload is where the main information or content is located. In normal usage the payload contains the subtitles to be displayed. The payload text may contain newlines but it cannot contain a blank line, which is equivalent to two consecutive newlines. A blank line signifies the end of a cue.</p>\n\n<p>A cue text payload cannot contain the string \"<code>--&gt;\"</code>, the ampersand character (&amp;), or the less-than sign (&lt;). Instead use the escape sequence \"&amp;amp;\" for ampersand and \"&amp;lt;\" for less-than. It is also recommended that you use the greater-than escape sequence \"&amp;gt;\" instead of the greater-than character (&gt;) to avoid confusion with tags. If you are using the WebVTT file for metadata these restrictions do not apply.</p>\n\n<p>In addition to the three escape sequences mentioned above, there are fours others. They are listed in the table below.</p>\n\n<table>\n <thead>\n  <tr>\n   <th colspan=\"3\">Table 6 - Escape sequences</th>\n  </tr>\n </thead>\n <tbody>\n  <tr>\n   <th>Name</th>\n   <th>Character</th>\n   <th>Escape Sequence</th>\n  </tr>\n  <tr>\n   <td>Ampersand</td>\n   <td>&amp;</td>\n   <td><code>&amp;amp;</code></td>\n  </tr>\n  <tr>\n   <td>Less-than</td>\n   <td>&lt;</td>\n   <td><code>&amp;lt;</code></td>\n  </tr>\n  <tr>\n   <td>Greater-than</td>\n   <td>&gt;</td>\n   <td><code>&amp;gt;</code></td>\n  </tr>\n  <tr>\n   <td>Left-to-right mark</td>\n   <td></td>\n   <td><code>&amp;lrm;</code></td>\n  </tr>\n  <tr>\n   <td>Right-to-left mark</td>\n   <td></td>\n   <td><code>&amp;rlm;</code></td>\n  </tr>\n  <tr>\n   <td>Non-breaking space</td>\n   <td><code> </code></td>\n   <td><code>&amp;nbsp;</code></td>\n  </tr>\n </tbody>\n</table>"}},{"type":"prose","value":{"id":"cue_payload_text_tags","title":"Cue payload text tags","isH3":true,"content":"<p>There are a number of tags, such as <code>&lt;bold&gt;</code>, that can be used. However, if the WebVTT file is used in a <a href=\"/ru/docs/Web/HTML/Element/track\"><code>&lt;track&gt;</code></a> element where the attribute <a href=\"/ru/docs/Web/HTML/Global_attributes#attr-kind\"><code>kind</code></a> is <code>chapters</code> then you cannot use tags.</p>\n\n<ul>\n <li><strong>Timestamp tag</strong>\n\n  <ul>\n   <li>The timestamp must be greater that the cue's start timestamp, greater than any previous timestamp in the cue payload, and less than the cue's end timestamp. The <em>active text</em> is the text between the timestamp and the next timestamp or to the end of the payload if there is not another timestamp in the payload. Any text before the <em>active text</em> in the payload is <em>previous text</em> . Any text beyond the <em>active text</em> is <em>future text</em> . This enables karaoke style captions.</li>\n  </ul>\n\n  <div id=\"sect2\">\n  <h5 id=\"example_12_-_karaoke_style_text\">Example 12 - Karaoke style text</h5>\n\n  <pre class=\"eval notranslate\">1\n00:16.500 --&gt; 00:18.500\nWhen the moon &lt;00:17.500&gt;hits your eye\n\n1\n00:00:18.500 --&gt; 00:00:20.500\nLike a &lt;00:19.000&gt;big-a &lt;00:19.500&gt;pizza &lt;00:20.000&gt;pie\n\n1\n00:00:20.500 --&gt; 00:00:21.500\nThat's &lt;00:00:21.000&gt;amore\n</pre>\n  </div>\n </li>\n</ul>\n\n<p>The following tags are the HTML tags allowed in a cue and require opening and closing tags (e.g., <code>&lt;b&gt;text&lt;/b&gt;</code>).</p>\n\n<ul>\n <li><strong>Class tag</strong> (<code>&lt;c&gt;&lt;/c&gt;</code>)\n\n  <ul>\n   <li>Style the contained text using a CSS class.</li>\n  </ul>\n\n  <div id=\"sect3\">\n  <h5 id=\"example_14_-_class_tag\">Example 14 - Class tag</h5>\n\n  <pre class=\"notranslate\">&lt;c.classname&gt;text&lt;/c&gt;</pre>\n  </div>\n </li>\n <li><strong>Italics tag</strong> (<code>&lt;i&gt;&lt;/i&gt;</code>)\n  <ul>\n   <li>Italicize the contained text.</li>\n  </ul>\n\n  <div id=\"sect4\">\n  <h5 id=\"example_15_-_italics_tag\">Example 15 - Italics tag</h5>\n\n  <pre class=\"notranslate\">&lt;i&gt;text&lt;/i&gt;</pre>\n  </div>\n </li>\n <li><strong>Bold tag</strong> (<code>&lt;b&gt;&lt;/b&gt;</code>)\n  <ul>\n   <li>Bold the contained text.</li>\n  </ul>\n\n  <div id=\"sect5\">\n  <h5 id=\"example_16_-_bold_tag\">Example 16 - Bold tag</h5>\n\n  <pre class=\"notranslate\">&lt;b&gt;text&lt;/b&gt;</pre>\n  </div>\n </li>\n <li><strong>Underline tag</strong> (<code>&lt;u&gt;&lt;/u&gt;</code>)\n  <ul>\n   <li>Underline the contained text.</li>\n  </ul>\n\n  <div id=\"sect6\">\n  <h5 id=\"example_17_-_underline_tag\">Example 17 - Underline tag</h5>\n\n  <pre class=\"notranslate\">&lt;u&gt;text&lt;/u&gt;</pre>\n  </div>\n </li>\n <li><strong>Ruby tag</strong> (<code>&lt;ruby&gt;&lt;/ruby&gt;</code>)\n  <ul>\n   <li>Used with ruby text tags to display <a href=\"http://en.wikipedia.org/wiki/Ruby_character\" class=\"external\" rel=\" noopener\">ruby characters</a> (i.e., small annotative characters above other characters).</li>\n  </ul>\n\n  <div id=\"sect7\">\n  <h5 id=\"example_18_-_ruby_tag\">Example 18 - Ruby tag</h5>\n\n  <pre class=\"notranslate\">&lt;ruby&gt;WWW&lt;rt&gt;World Wide Web&lt;/rt&gt;oui&lt;rt&gt;yes&lt;/rt&gt;&lt;/ruby&gt;</pre>\n  </div>\n </li>\n <li><strong>Ruby text tag</strong> (<code>&lt;rt&gt;&lt;/rt&gt;</code>)\n  <ul>\n   <li>Used with ruby tags to display <a href=\"http://en.wikipedia.org/wiki/Ruby_character\" class=\"external\" rel=\" noopener\">ruby characters</a> (i.e., small annotative characters above other characters).</li>\n  </ul>\n\n  <div id=\"sect8\">\n  <h5 id=\"example_19_-_ruby_text_tag\">Example 19 - Ruby text tag</h5>\n\n  <pre class=\"notranslate\">&lt;ruby&gt;WWW&lt;rt&gt;World Wide Web&lt;/rt&gt;oui&lt;rt&gt;yes&lt;/rt&gt;&lt;/ruby&gt;</pre>\n  </div>\n </li>\n <li><strong>Voice tag</strong> (<code>&lt;v&gt;&lt;/v&gt;</code>)\n  <ul>\n   <li>Similar to class tag, also used to style the contained text using CSS.</li>\n  </ul>\n\n  <div id=\"sect9\">\n  <h5 id=\"example_20_-_voice_tag\">Example 20 - Voice tag</h5>\n\n  <pre class=\"notranslate\">&lt;v Bob&gt;text&lt;/v&gt;</pre>\n  </div>\n </li>\n</ul>"}},{"type":"prose","value":{"id":"interfaces","title":"Interfaces","isH3":false,"content":"<p>There are two interfaces or APIs used in WebVTT which are:</p>"}},{"type":"prose","value":{"id":"vttcue_interface","title":"VTTCue interface","isH3":true,"content":"<p>It is used for providing an interface in Document Object Model API, where different attributes supported by it can be used to prepare and alter the cues in number of ways.</p>\n\n<p>Constructor is the first point for starting the Cue which is defined using the default constructor VTTCue(startTime, endTime, text) where starting time, ending time and text for cue can be adjusted. After that we can set the region for that particular cue to which this cue belongs using cue.region. Vertical, horizontal, line, lineAlign, Position, positionAlign, text, size and Align can be used to alter the cue and its formation, just like we can alter the objects form, shape and visibility in HTML using CSS. But the VTTCue interface is within the WebVTT provides the vast range of adjustment variables which can be used directly to alter the Cue. Following interface can be used to expose WebVTT cues in DOM API:</p>\n\n<pre class=\"notranslate\">enum <dfn>AutoKeyword</dfn> { <dfn>\"auto\"</dfn> };\nenum <dfn>DirectionSetting</dfn> { <dfn>\"\"</dfn> /* horizontal */, <dfn>\"rl\"</dfn>, <dfn>\"lr\"</dfn> };\nenum <dfn>LineAlignSetting</dfn> { <dfn>\"start\"</dfn>, <dfn>\"center\"</dfn>, <dfn>\"end\"</dfn> };\nenum <dfn>PositionAlignSetting</dfn> { <dfn>\"line-left\"</dfn>, <dfn>\"center\"</dfn>, <dfn>\"line-right\"</dfn>, <dfn>\"auto\"</dfn> };\nenum <dfn>AlignSetting</dfn> { <dfn>\"start\"</dfn>, <dfn>\"center\"</dfn>, <dfn>\"end\"</dfn>, <dfn>\"left\"</dfn>, <dfn>\"right\"</dfn> };\n[<a href=\"https://w3c.github.io/webvtt/#dom-vttcue-vttcue\" id=\"ref-for-dom-vttcue-vttcue-1\" class=\"external\" rel=\" noopener\">Constructor</a>(double <dfn>startTime</dfn>, double <dfn>endTime</dfn>, DOMString <dfn>text</dfn>)]\ninterface <dfn>VTTCue</dfn> : <a href=\"https://html.spec.whatwg.org/multipage/embedded-content.html#texttrackcue\" class=\"external\" rel=\" noopener\">TextTrackCue</a> {\n  attribute <a href=\"https://w3c.github.io/webvtt/#vttregion\" id=\"ref-for-vttregion-1\" class=\"external\" rel=\" noopener\">VTTRegion</a>? <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-region\" id=\"ref-for-dom-vttcue-region-1\" class=\"external\" rel=\" noopener\">region</a>;\n  attribute <a href=\"https://w3c.github.io/webvtt/#enumdef-directionsetting\" id=\"ref-for-enumdef-directionsetting-1\" class=\"external\" rel=\" noopener\">DirectionSetting</a> <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-vertical\" id=\"ref-for-dom-vttcue-vertical-1\" class=\"external\" rel=\" noopener\">vertical</a>;\n  attribute boolean <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-snaptolines\" id=\"ref-for-dom-vttcue-snaptolines-2\" class=\"external\" rel=\" noopener\">snapToLines</a>;\n  attribute (double or <a href=\"https://w3c.github.io/webvtt/#enumdef-autokeyword\" id=\"ref-for-enumdef-autokeyword-1\" class=\"external\" rel=\" noopener\">AutoKeyword</a>) <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-line\" id=\"ref-for-dom-vttcue-line-2\" class=\"external\" rel=\" noopener\">line</a>;\n  attribute <a href=\"https://w3c.github.io/webvtt/#enumdef-linealignsetting\" id=\"ref-for-enumdef-linealignsetting-1\" class=\"external\" rel=\" noopener\">LineAlignSetting</a> <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-linealign\" id=\"ref-for-dom-vttcue-linealign-1\" class=\"external\" rel=\" noopener\">lineAlign</a>;\n  attribute (double or <a href=\"https://w3c.github.io/webvtt/#enumdef-autokeyword\" id=\"ref-for-enumdef-autokeyword-2\" class=\"external\" rel=\" noopener\">AutoKeyword</a>) <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-position\" id=\"ref-for-dom-vttcue-position-1\" class=\"external\" rel=\" noopener\">position</a>;\n  attribute <a href=\"https://w3c.github.io/webvtt/#enumdef-positionalignsetting\" id=\"ref-for-enumdef-positionalignsetting-1\" class=\"external\" rel=\" noopener\">PositionAlignSetting</a> <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-positionalign\" id=\"ref-for-dom-vttcue-positionalign-1\" class=\"external\" rel=\" noopener\">positionAlign</a>;\n  attribute double <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-size\" id=\"ref-for-dom-vttcue-size-1\" class=\"external\" rel=\" noopener\">size</a>;\n  attribute <a href=\"https://w3c.github.io/webvtt/#enumdef-alignsetting\" id=\"ref-for-enumdef-alignsetting-1\" class=\"external\" rel=\" noopener\">AlignSetting</a> <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-align\" id=\"ref-for-dom-vttcue-align-1\" class=\"external\" rel=\" noopener\">align</a>;\n  attribute DOMString <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-text\" id=\"ref-for-dom-vttcue-text-1\" class=\"external\" rel=\" noopener\">text</a>;\n  <a href=\"https://dom.spec.whatwg.org/#documentfragment\" class=\"external\" rel=\" noopener\">DocumentFragment</a> <a href=\"https://w3c.github.io/webvtt/#dom-vttcue-getcueashtml\" id=\"ref-for-dom-vttcue-getcueashtml-2\" class=\"external\" rel=\" noopener\">getCueAsHTML</a>();\n};</pre>"}},{"type":"prose","value":{"id":"vtt_region_interface","title":"VTT Region interface","isH3":true,"content":"<p>This is the second interface in WebVTT API.</p>\n\n<p>The new keyword can be used for defining a new VTTRegion object which can then be used for containing the multiple cues. There are several properties of VTTRegion which are width, lines, regionAnchorX, RegionAnchorY, viewportAnchorX, viewportAnchorY and scroll that can be used to specify the look and feel of this VTT region. The interface code is given below which can be used to expose the WebVTT regions in DOM API:</p>\n\n<pre class=\"notranslate\">enum <dfn>ScrollSetting</dfn> { <dfn>\"\"</dfn> /* none */, <dfn>\"up\"</dfn> };\n[<a href=\"https://w3c.github.io/webvtt/#dom-vttregion-vttregion\" id=\"ref-for-dom-vttregion-vttregion-1\" class=\"external\" rel=\" noopener\">Constructor</a>]\ninterface <dfn>VTTRegion</dfn> {\n  attribute double <a href=\"https://w3c.github.io/webvtt/#dom-vttregion-width\" id=\"ref-for-dom-vttregion-width-1\" class=\"external\" rel=\" noopener\">width</a>;\n  attribute long <a href=\"https://w3c.github.io/webvtt/#dom-vttregion-lines\" id=\"ref-for-dom-vttregion-lines-1\" class=\"external\" rel=\" noopener\">lines</a>;\n  attribute double <a href=\"https://w3c.github.io/webvtt/#dom-vttregion-regionanchorx\" id=\"ref-for-dom-vttregion-regionanchorx-1\" class=\"external\" rel=\" noopener\">regionAnchorX</a>;\n  attribute double <a href=\"https://w3c.github.io/webvtt/#dom-vttregion-regionanchory\" id=\"ref-for-dom-vttregion-regionanchory-1\" class=\"external\" rel=\" noopener\">regionAnchorY</a>;\n  attribute double <a href=\"https://w3c.github.io/webvtt/#dom-vttregion-viewportanchorx\" id=\"ref-for-dom-vttregion-viewportanchorx-1\" class=\"external\" rel=\" noopener\">viewportAnchorX</a>;\n  attribute double <a href=\"https://w3c.github.io/webvtt/#dom-vttregion-viewportanchory\" id=\"ref-for-dom-vttregion-viewportanchory-1\" class=\"external\" rel=\" noopener\">viewportAnchorY</a>;\n  attribute <a href=\"https://w3c.github.io/webvtt/#enumdef-scrollsetting\" id=\"ref-for-enumdef-scrollsetting-1\" class=\"external\" rel=\" noopener\">ScrollSetting</a> <a href=\"https://w3c.github.io/webvtt/#dom-vttregion-scroll\" id=\"ref-for-dom-vttregion-scroll-1\" class=\"external\" rel=\" noopener\">scroll</a>;\n};</pre>"}},{"type":"prose","value":{"id":"methods_and_properties","title":"Methods and properties","isH3":false,"content":"<p>The methods used in WebVTT are those which are used to alter the cue or region as the attributes for both interfaces are different. We can categorize them for better understanding relating to each interface in WebVTT:</p>\n\n<ul style=\"list-style-type: circle;\">\n <li>\n  <h3 id=\"vttcue\">VTTCue</h3>\n\n  <ul>\n   <li>The methods which are available in this interface are:\n    <ul style=\"list-style-type: circle;\">\n     <li>GetCueAsHTML to get the HTML of that Cue.</li>\n     <li>VTT Constructor for creating new objects of Cues.</li>\n     <li>Autokeyword.</li>\n     <li>DirectionSetting: to set the direction of caption or text in a file.</li>\n     <li>LineAlignment: to adjust the line alignment.</li>\n     <li>PositionAlignSetting: to adjust the position of text.</li>\n    </ul>\n   </li>\n  </ul>\n </li>\n <li>\n  <h3 id=\"vttregion\">VTTRegion</h3>\n\n  <ul>\n   <li>The methods used for region are listed below along with description of their functionality:\n    <ul style=\"list-style-type: circle;\">\n     <li>ScrollSetting: For adjusting the scrolling setting of all nodes present in given region.</li>\n     <li>VTT Region Constructor: for construction of new VTT Regions.</li>\n    </ul>\n   </li>\n  </ul>\n </li>\n</ul>"}},{"type":"prose","value":{"id":"tutorial_on_how_to_write_a_webvtt_file","title":"Tutorial on how to write a WebVTT file","isH3":false,"content":"<p>There are few steps that can be followed to write a simple webVTT file. Before start, it must be noted that you can make use of a notepad and then save the file as ‘.vtt’ file. Steps are given below:</p>\n\n<ol>\n <li>Open a notepad.</li>\n <li>The first line of WebVTT is standardized similar in the way some other languages require you to put headers as the file starts to indicate the file type. One the very first line you have to write.</li>\n</ol>\n\n<pre class=\"notranslate\">WEBVTT</pre>\n\n<p>      3. Leave the second line blank, and on the third line the time for first cue is to be specified. For example, for a first cue starting at time 1 second and ending at 5 seconds, it is written as:</p>\n\n<pre class=\"notranslate\">00:01.000 --&gt; 00:05.000</pre>\n\n<ol>\n <li>On the next line you can write the caption for this cue which will run from 1<sup>st</sup> second to the 5<sup>th</sup> second, inclusive.</li>\n <li>Following the similar steps, a complete WebVTT file for specific video or audio file can be made.</li>\n</ol>"}},{"type":"prose","value":{"id":"css_pseudo-classes","title":"CSS pseudo-classes","isH3":false,"content":"<p>CSS pseudo classes allow us to classify the type of object which we want to differentiate from other types of objects. It works in similar manner in WebVTT files as it works in HTML file.</p>\n\n<p>It is one of the good features supported by WebVTT is the localization and use of class elements which can be used in same way they are used in HTML and CSS to classify the style for particular type of objects, but here these are used for styling and classifying the Cues as shown below:</p>\n\n<pre class=\"notranslate\">WEBVTT\n\n04:02.500 --&gt; 04:05.000\nJ’ai commencé le basket à l'âge de 13, 14 ans\n\n04:05.001 --&gt; 04:07.800\nSur les &lt;i.foreignphrase&gt;&lt;lang en&gt;playground&lt;/lang&gt;&lt;/i&gt;, ici à Montpellier</pre>\n\n<p>In the above example it can be observed that we can use the identifier and pseudo class name for defining the language of caption, where <code>&lt;i&gt;</code> tag is for italics.</p>\n\n<p>The type of pseudo class is determined by the selector it is using and working is similar in nature as it works in HTML. Following CSS pseudo classes can be used:</p>\n\n<ul>\n <li>Lang (Lanugage): e.g., p:lang(it).</li>\n <li>Link: e.g., a:link.</li>\n <li>Nth-last-child: e.g., p:nth-last-child(2).</li>\n <li>Nth-child(n): e.g., p:nth-child(2).</li>\n</ul>\n\n<p>Where p and a are the tags which are used in HTML for paragraph and link, respectively and they can be replaced by identifiers which are used for Cues in WebVTT file.</p>"}},{"type":"prose","value":{"id":"specifications","title":"Specifications","isH3":false,"content":"<table class=\"standard-table\">\n <tbody>\n  <tr>\n   <th>Specification</th>\n   <th>Status</th>\n   <th>Comment</th>\n  </tr>\n  <tr>\n   <td><a href=\"https://w3c.github.io/webvtt/\" hreflang=\"en\" lang=\"en\" class=\"external\" title=\"Спецификация 'WebVTT: The Web Video Text Tracks Format'\" rel=\" noopener\">WebVTT: The Web Video Text Tracks Format</a></td>\n   <td><span class=\"spec-cr\">Кандидат в рекомендации</span></td>\n   <td>Initial definition</td>\n  </tr>\n </tbody>\n</table>"}},{"type":"prose","value":{"id":"browser_compatibility","title":"Browser compatibility","isH3":false,"content":""}},{"type":"prose","value":{"id":"vttcue_interface_2","title":"<code>VTTCue</code> interface","isH3":true,"content":"<div id=\"sect10\">\n\n\n<p></p><div class=\"bc-data\" id=\"bcd:api.VTTCue\" data-depth=\"0\">\n  If you're able to see this, something went wrong on this page.\n</div><p></p>\n\n<h3 id=\"texttrack_interface\"><code>TextTrack</code> interface</h3>\n\n<div id=\"sect11\">\n<p></p><div class=\"bc-data\" id=\"bcd:api.TextTrack\" data-depth=\"0\">\n  If you're able to see this, something went wrong on this page.\n</div><p></p>\n\n<h3 id=\"notes\">Notes</h3>\n</div>\n</div>\n\n\n\n<p>Prior to Firefox 50, the <code>AlignSetting</code> enum (representing possible values for <a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/VTTCue/align\"><code>VTTCue.align</code> <small>(en-US)</small></a>) incorrectly included the value <code>\"middle\"</code> instead of <code>\"center\"</code>. This has been corrected.</p>\n\n<p>WebVTT was implemented in Firefox 24 behind the preference <code>media.webvtt.enabled</code>, which is disabled by default; you can enable it by setting this preference to <code>true</code>. WebVTT is enabled by default starting in Firefox 31 and can be disabled by setting the preference to <code>false</code>.</p>\n\n<p>Prior to Firefox 58, the <code>REGION</code> keyword was creating <a class=\"only-in-en-us\" title=\"Currently only available in English (US)\" href=\"/en-US/docs/Web/API/VTTRegion\"><code>VTTRegion</code> <small>(en-US)</small></a> objects, but they were not being used. Firefox 58 now fully supports <code>VTTRegion</code> and its use; however, this feature is disabled by default behind the preference <code>media.webvtt.regions.enabled</code>; set it to <code>true</code> to enable region support in Firefox 58. Regions are enabled by default starting in Firefox 59 (see bugs <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1338030\" class=\"external\" rel=\" noopener\">баг&nbsp;1338030</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1415805\" class=\"external\" rel=\" noopener\">баг&nbsp;1415805</a>).</p>","titleAsText":"VTTCue interface"}}],"toc":[{"text":"Файлы WebVTT","id":"файлы_webvtt"},{"text":"Тело WebVTT файла","id":"тело_webvtt_файла"},{"text":"Комментарии в WebVTT","id":"комментарии_в_webvtt"},{"text":"Стилизация реплик WebTT","id":"стилизация_реплик_webtt"},{"text":"WebVTT cues","id":"webvtt_cues"},{"text":"Interfaces","id":"interfaces"},{"text":"Methods and properties","id":"methods_and_properties"},{"text":"Tutorial on how to write a WebVTT file","id":"tutorial_on_how_to_write_a_webvtt_file"},{"text":"CSS pseudo-classes","id":"css_pseudo-classes"},{"text":"Specifications","id":"specifications"},{"text":"Browser compatibility","id":"browser_compatibility"}],"summary":"Формат Web Video Text Tracks (WebVTT)это формат для отображения синхронизированных текстовых треков (такие как субтитры или подписи) с помощью  элементов <track>. Основная цель файлов WebVTT — добавить текстовые наложения к элементам <video>. WebVTT является текстовым форматом, который должен быть закодирован с использованием UTF-8 (en-US). В этих файлах вы можете использовать пробелы и табы для отступов. Существует также небольшой API для представления и управления этими дорожками и данными, необходимыми для отображения текста в нужное время.","popularity":0.0002,"modified":"2022-10-01T03:41:16.000Z","other_translations":[{"title":"Web Video Text Tracks Format (WebVTT)","locale":"en-US","native":"English (US)"},{"title":"Format Web Video Text Tracks (WebVTT)","locale":"fr","native":"Français"},{"title":"Web ビデオテキストトラックフォーマット (WebVTT)","locale":"ja","native":"日本語"},{"title":"Web 视频文本轨格式（WebVTT）","locale":"zh-CN","native":"中文 (简体)"},{"title":"WebVTT","locale":"zh-TW","native":"正體中文 (繁體)"}],"source":{"folder":"ru/web/api/webvtt_api","github_url":"https://github.com/mdn/translated-content/blob/main/files/ru/web/api/webvtt_api/index.html","last_commit_url":"https://github.com/mdn/translated-content/commit/921c46a374ab0a9f4cc809af0370f8c412e54701","filename":"index.html"},"parents":[{"uri":"/ru/docs/Web","title":"Веб-технологии для разработчиков"},{"uri":"/ru/docs/Web/API","title":"Интерфейсы веб API"},{"uri":"/ru/docs/Web/API/WebVTT_API","title":"Формат Web Video Text Tracks (WebVTT)"}],"pageTitle":"Формат Web Video Text Tracks (WebVTT) - Интерфейсы веб API | MDN","noIndexing":false}}</script></body></html>

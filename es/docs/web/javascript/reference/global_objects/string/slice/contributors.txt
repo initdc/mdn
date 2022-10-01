@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/string/slice/index.md
+
+# Original Wiki contributors
+ibejarano
+alejandrochung
+vltamara
+teoli
+Mgjbot
+Talisker

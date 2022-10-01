@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/tutorial/gradients/index.md
+
+# Original Wiki contributors
+fanxiaojie
+ziyunfei
+zldream1106

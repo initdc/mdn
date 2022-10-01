@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/batterymanager/dischargingtime/index.md
+
+# Original Wiki contributors
+fscholz
+chrisdavidmills
+teoli
+Hugues-Antoine
+Fernando_Bernal_Marin
+Sebastianz
+franciov
+Jeremie
+Sheppy

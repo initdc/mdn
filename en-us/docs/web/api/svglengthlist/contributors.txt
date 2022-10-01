@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/svglengthlist/index.md
+
+# Original Wiki contributors
+brubar
+fscholz
+abbycar
+kscarfone
+Sheppy
+Jeremie

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/spread_syntax/index.md
+
+# Original Wiki contributors
+superchow
+NorthWind
+renfufei
+fanjieqi
+kczjczhYue
+zhangchen
+maoguojun

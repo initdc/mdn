@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/guide/ajax/index.md
+
+# Original Wiki contributors
+luojia
+Yang-yibu
+anchen
+makaria
+chunnallu
+chrisdavidmills
+renzhengyu
+MMHGH
+zjhch123
+XiaoyaoChen
+Noly1990

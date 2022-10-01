@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/decodeuri/index.md
+
+# Original Wiki contributors
+teoli
+SphinxKnight
+ADP13
+Mgjbot
+Sheppy

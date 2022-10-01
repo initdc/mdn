@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/api/filereader/filereader/index.md
+
+# Original Wiki contributors
+junior-jornada
+helton-mori-dev

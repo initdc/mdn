@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/codepointat/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+Oaphi
+LucasPereira
+Zearin_Galaurum
+David263
+SphinxKnight
+Jolg42
+ThomasEugeneBishop
+aardgoose
+jameshkramer
+kdex
+crazymykl
+eduardoboucas
+metamatt
+fasttime
+ziyunfei
+Mingun
+trueorfalse

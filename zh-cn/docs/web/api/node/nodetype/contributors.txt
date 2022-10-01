@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/node/nodetype/index.md
+
+# Original Wiki contributors
+678
+RainSlide
+mrxf
+Ende93
+lfkid
+laobubu
+teoli
+jsx
+ziyunfei
+ethertank

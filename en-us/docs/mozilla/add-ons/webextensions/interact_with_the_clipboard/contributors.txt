@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/interact_with_the_clipboard/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+kurbar
+elharony
+smile4ever
+danzera
+hellosct1
+freaktechnik
+birtles
+Sheppy
+evilpie
+tcorley
+erosman
+wbamberg
+Makyen
+andrewtruongmoz
+vy3012
+zombie
+Rob W

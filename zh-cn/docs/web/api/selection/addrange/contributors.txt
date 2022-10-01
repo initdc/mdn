@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/selection/addrange/index.md
+
+# Original Wiki contributors
+1v9
+Ghost_2017
+rguanghui
+teoli
+khalid32
+Losses

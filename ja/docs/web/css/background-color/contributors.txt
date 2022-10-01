@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/background-color/index.md
+
+# Original Wiki contributors
+mfuji09
+SphinxKnight
+Sebastianz
+teoli
+mitsuba-clover
+ethertank
+maco81
+Yuichiro
+ijokarumawak

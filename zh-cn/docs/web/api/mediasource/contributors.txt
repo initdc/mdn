@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/mediasource/index.md
+
+# Original Wiki contributors
+Chaos33
+cpdyj
+Shangxin
+maicss

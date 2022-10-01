@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document/queryselectorall/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+AlePerez92
+padrecedano
+lfottaviano
+joeljose

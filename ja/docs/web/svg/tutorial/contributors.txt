@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/tutorial/index.md
+
+# Original Wiki contributors
+cmplstofB
+ethertank
+Marsf
+yyss
+Mgjbot
+Okome
+Taken

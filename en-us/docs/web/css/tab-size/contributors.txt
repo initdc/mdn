@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/tab-size/index.md
+
+# Original Wiki contributors
+alattalatta
+wbamberg
+ddbeck
+fscholz
+Felice
+rachelandrew
+chharvey
+mfluehr
+mfuji09
+ExE-Boss
+anonyco
+chrisdavidmills
+Sebastianz
+Alhadis
+Prinz_Rana
+mrenty
+yisibl
+estelle
+Olson.dev
+Jeremie
+YodasWs
+SJW
+kscarfone
+Sheppy
+mathiasbynens
+teoli
+jhasse
+ethertank
+myakura
+FredB
+leaverou
+fryn
+Ms2ger

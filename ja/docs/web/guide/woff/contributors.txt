@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/guide/woff/index.md
+
+# Original Wiki contributors
+YujiSoftware
+xl1
+yyss
+fscholz
+ethertank
+ziyunfei
+Marsf

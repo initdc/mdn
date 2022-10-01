@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/background/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+takahashim
+teoli
+SphinxKnight
+mitsuba-clover
+Sebastianz
+ethertank
+Marsf
+Piro
+Ed.Kick.Tiger

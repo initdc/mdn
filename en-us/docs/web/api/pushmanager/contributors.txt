@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/pushmanager/index.md
+
+# Original Wiki contributors
+alattalatta
+chrisdavidmills
+fscholz
+libbymc
+jpmedley
+Callahad
+Sheppy
+m_t
+MHasan
+teoli
+kscarfone
+Jeremie
+Willyaranda
+nikhilm

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/caption-side/index.md
+
+# Original Wiki contributors
+YujiSoftware
+yyss
+fscholz
+Sebastianz
+Sheppy
+ethertank

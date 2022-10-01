@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/_colon_nth-of-type/index.md
+
+# Original Wiki contributors
+xiumingxu
+parabolazz
+Ritr
+PythonVsJava
+infinite-knowledge
+genezx
+RainSlide
+liwenkang
+xgqfrms-GitHub
+PoppinL
+Pandapm
+PageYe
+sudo2015
+FredWe

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/xforms/index.md
+
+# Original Wiki contributors
+ozlemguney12345
+mfuji09
+ExE-Boss
+picapicacuckoo
+klez
+Andrew_Pfeiffer

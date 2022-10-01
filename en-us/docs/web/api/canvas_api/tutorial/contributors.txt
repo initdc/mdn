@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvas_api/tutorial/index.md
+
+# Original Wiki contributors
+BiswaViraj
+behnammodi
+mfluehr
+Nomeh_Uchenna_Gabriel
+bk20
+cdfuller
+stephaniehobson
+dustinpaluch
+moicez
+teoli
+fscholz
+xfq
+JoseMaia
+trevorh
+jeancgarciaq
+DavidWalsh
+Jeremie
+Swapnil_raja
+kscarfone
+Sheppy
+punter
+phil_nist

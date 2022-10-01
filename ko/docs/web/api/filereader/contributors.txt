@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/filereader/index.md
+
+# Original Wiki contributors
+alattalatta
+linearhw
+kuil09
+Luavis

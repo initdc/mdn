@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/back/index.md
+
+# Original Wiki contributors
+yyss
+fscholz
+khalid32
+ethertank
+Potappo

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/-moz-outline-radius/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+FredB
+Kyodev
+Fredchat

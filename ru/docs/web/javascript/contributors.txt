@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/index.html
+
+# Original Wiki contributors
+Zulcom
+dknight
+ryabv
+QuasiStellar
+cypper
+SphinxKnight
+bakugod
+Diana_Makarevich
+tshemsedinov
+Geloosa
+drxwat
+nllsdfx
+kdex
+Sviat
+pk.prog
+BychekRU
+L18-666B
+Saviloff
+uleming
+Feschenko
+IgorGilyazov
+anton-petrov
+teoli
+iAchilles
+Ladislas
+researcher
+Dionys
+user01
+karasiov
+Niquola
+Megapotz
+Knyaz Vladimir

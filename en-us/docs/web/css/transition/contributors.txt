@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transition/index.md
+
+# Original Wiki contributors
+rachelandrew
+ddbeck
+fscholz
+mfluehr
+wbamberg
+chrisdavidmills
+Jeremie
+dimitarnestorov
+erikadoyle
+amin076
+Sebastianz
+yisibl
+Volker-E
+Lil_Devil
+teoli
+amitabha197
+joshuaali
+kscarfone
+Sheppy
+mnoorenberghe
+m_gol
+ethertank
+tnorthcutt
+elg2001
+yyss
+McGurk
+fryn
+FGRibreau

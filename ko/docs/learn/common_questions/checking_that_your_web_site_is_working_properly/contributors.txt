@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/common_questions/checking_that_your_web_site_is_working_properly/index.md
+
+# Original Wiki contributors
+best8248

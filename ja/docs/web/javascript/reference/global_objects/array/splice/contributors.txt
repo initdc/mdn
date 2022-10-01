@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/array/splice/index.md
+
+# Original Wiki contributors
+mpcjazz
+keiskey
+mfuji09
+segayuu
+siun
+teoli
+tatsuyaoiw
+ethertank
+Mgjbot
+Yuichirou
+Shoot

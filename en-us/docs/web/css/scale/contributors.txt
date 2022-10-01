@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/scale/index.md
+
+# Original Wiki contributors
+wbamberg
+Soupedenuit
+fscholz
+rachelandrew
+huiliangShen
+estelle
+codedhead
+ExE-Boss
+chrisdavidmills
+Siilwyn

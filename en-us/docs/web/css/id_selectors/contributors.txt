@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/id_selectors/index.md
+
+# Original Wiki contributors
+rachelandrew
+wbamberg
+j9t
+alattalatta
+FumiyaShibusawa
+WillBeethoven
+fscholz
+mfluehr
+erikadoyle
+Sebastianz
+cvrebert
+MusikAnimal
+SphinxKnight
+FredB
+lucas_kauz
+Sheppy
+ethertank
+teoli
+miken32

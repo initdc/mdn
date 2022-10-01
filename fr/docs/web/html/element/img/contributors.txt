@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/element/img/index.md
+
+# Original Wiki contributors
+tristantheb
+Yukulele.
+SphinxKnight
+Chomchaum
+jgil83000
+codemmousse
+Yves_ASTIER
+Hell_Carlito
+hostalerye
+FranckCo
+louuis
+Alexfrits
+msherefel
+tregagnon
+olibre
+Goofy

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/match/index.md
+
+# Original Wiki contributors
+zhuangyin
+GGliushi
+zhangming8691
+SageX
+meng-Macbook
+Nick_Arron
+YISHI
+Freed
+xgqfrms-GitHub
+kameii
+AlexChao

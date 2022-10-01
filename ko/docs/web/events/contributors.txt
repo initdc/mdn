@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/events/index.md
+
+# Original Wiki contributors
+bumday
+wbamberg
+cs09g
+ExE-Boss
+alattalatta
+nacyot
+teoli
+Jeremie

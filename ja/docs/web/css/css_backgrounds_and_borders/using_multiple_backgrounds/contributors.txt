@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/css_backgrounds_and_borders/using_multiple_backgrounds/index.md
+
+# Original Wiki contributors
+sutara79
+tacamula
+teoli
+ethertank
+Potappo
+Piro

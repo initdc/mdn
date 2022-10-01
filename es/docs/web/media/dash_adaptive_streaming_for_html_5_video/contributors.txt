@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/media/dash_adaptive_streaming_for_html_5_video/index.html
+
+# Original Wiki contributors
+AzazelN28
+vltamara

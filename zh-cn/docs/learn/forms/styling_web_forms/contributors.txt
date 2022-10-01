@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/styling_web_forms/index.md
+
+# Original Wiki contributors
+jiaodk
+rtxu
+coder-git
+33YANG
+Daniel313
+codeofjackie
+lovedebug
+yydzxz
+lucoo01

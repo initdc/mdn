@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/object/isfrozen/index.md
+
+# Original Wiki contributors
+XiongAmao
+zhangchen
+xgqfrms-GitHub
+micheal-death
+WangXiao
+helinjiang
+AlexChao
+teoli
+ziyunfei
+undercooled

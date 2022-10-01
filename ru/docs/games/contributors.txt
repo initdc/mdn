@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/games/index.html
+
+# Original Wiki contributors
+7noptic
+SphinxKnight
+wbamberg
+DartVeDroid
+djigach
+fscholz
+DIAMONDinc
+Shychara
+Anna_Leonteva
+MAJTREJ
+homsterius

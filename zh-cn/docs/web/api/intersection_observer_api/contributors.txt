@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/intersection_observer_api/index.md
+
+# Original Wiki contributors
+yulei
+nishuzumi
+chunnallu
+wxyads
+MinimalistYing
+nemoh
+hardo
+lmislm
+ZivHe
+cyrilluce
+iahu
+varcat
+joshchiucn
+a372210777
+DearVikki
+xrr2016

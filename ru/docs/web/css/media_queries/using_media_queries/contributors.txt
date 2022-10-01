@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/media_queries/using_media_queries/index.md
+
+# Original Wiki contributors
+halfdead30
+tjbulick
+AlexSND
+UriShlomov
+AliaksandrZahorski
+tirojal
+jlgfmhldf
+VovaBerenda
+valeryvitkus

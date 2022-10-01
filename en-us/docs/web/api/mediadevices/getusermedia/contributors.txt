@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediadevices/getusermedia/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+LeonFrempong
+LeetCodes
+Sheppy
+Jib
+mfuji09
+jake-low
+servinlp
+fscholz
+ptman
+jpmedley
+albinlarsson
+tmadhavan
+Zmoki
+tatellos
+libbymc
+ottoetc
+j1mr10rd4n
+fippo
+myakura
+jamix
+Sole
+createMo
+drob
+connormckelvey
+mborn319
+jwhitlock
+Sebastianz
+shamakry
+teoli
+Mkmelin
+yati

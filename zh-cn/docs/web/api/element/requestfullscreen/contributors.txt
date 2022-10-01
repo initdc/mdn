@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/requestfullscreen/index.md
+
+# Original Wiki contributors
+Roronoa_Zoro
+DarrenMan
+LiuYuan
+zhipengyan
+edgexie1
+zhy90655
+LiJonsen
+hmzll
+cokepluscarbon

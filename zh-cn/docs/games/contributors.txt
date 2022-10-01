@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/games/index.md
+
+# Original Wiki contributors
+gogoend
+SphinxKnight
+GohBoonHong
+LaneSun
+wbamberg
+varcat
+lixuanh
+ljzzkkkss
+Hypophrenia
+maoxiaoke
+chrisdavidmills

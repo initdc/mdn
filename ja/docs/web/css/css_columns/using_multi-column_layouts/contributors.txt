@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/css_columns/using_multi-column_layouts/index.md
+
+# Original Wiki contributors
+mfuji09
+escattone
+SphinxKnight
+fscholz
+ethertank
+sosleepy
+Marsf
+Mgjbot
+Foximer

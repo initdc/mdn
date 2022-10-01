@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/baseaudiocontext/createiirfilter/index.md
+
+# Original Wiki contributors
+bershanskiy
+sideshowbarker
+fscholz
+chrisdavidmills
+erikadoyle
+Sheppy
+PushpitaPikuDey
+jpmedley

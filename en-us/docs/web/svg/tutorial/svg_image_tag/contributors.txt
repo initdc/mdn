@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/svg_image_tag/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+yoscheherazade
+pamelahicks
+rousan
+sm1215
+Delapouite
+trevorh
+chrisdoble
+Jeremie
+kscarfone
+jswisher
+kperch

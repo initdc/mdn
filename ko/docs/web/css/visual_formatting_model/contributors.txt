@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/css/visual_formatting_model/index.md
+
+# Original Wiki contributors
+Hwan-Woong-Lee
+nyxchung
+cmygray
+cheeee
+dotorify
+hotsummmer
+JeongSeongDae

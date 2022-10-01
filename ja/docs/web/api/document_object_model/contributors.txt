@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/document_object_model/index.md
+
+# Original Wiki contributors
+bershanskiy
+mfuji09
+silverskyvicto
+momdo
+mamodayo
+ethertank
+dextra
+saneyuki_s
+Taken
+Potappo
+Marsf
+Mgjbot
+Okome
+Hfjapancom
+lv7777
+stingray
+Sheppy
+jsx
+Kaorine
+Yama

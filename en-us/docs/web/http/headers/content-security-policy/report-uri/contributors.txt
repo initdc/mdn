@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/content-security-policy/report-uri/index.md
+
+# Original Wiki contributors
+Sheppy
+LucasLarson
+mkelly
+sideshowbarker
+fscholz
+Jonathan_Watt
+teoli

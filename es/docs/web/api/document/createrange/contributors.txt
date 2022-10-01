@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document/createrange/index.md
+
+# Original Wiki contributors
+iarah
+fscholz
+jsx
+Mgjbot
+DR

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/css/building_blocks/index.md
+
+# Original Wiki contributors
+dlwe
+Uemmra3
+snakada
+dskmori
+chrisdavidmills

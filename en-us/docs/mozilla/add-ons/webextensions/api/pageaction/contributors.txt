@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/pageaction/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+wbamberg
+Loirooriol
+abbycar
+chrisdavidmills
+kmaglione

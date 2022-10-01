@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/anchors/index.md
+
+# Original Wiki contributors
+wbamberg
+Venus14
+helloguangxue
+teoli
+khalid32
+ziyunfei

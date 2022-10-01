@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/building_blocks/functions/index.md
+
+# Original Wiki contributors
+eldesh
+Uemmra3
+silverskyvicto
+Wind1808
+i12o
+mfuji09
+chameleonhead

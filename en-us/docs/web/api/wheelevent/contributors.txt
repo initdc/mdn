@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/wheelevent/index.md
+
+# Original Wiki contributors
+edemaine
+mfuji09
+sideshowbarker
+ExE-Boss
+Zhang-Junzhi
+anonyco
+n.lopin
+LouisLazaris
+mfluehr
+fscholz
+chrisdavidmills
+danielnixon
+libbymc
+jpmedley
+NBallaney
+m_gol
+jwhitlock
+teoli
+realityking
+brianblakely
+Reachmeatshivam
+tnajdek
+Masayuki
+Sheppy

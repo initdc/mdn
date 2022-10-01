@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/tutorials/index.md
+
+# Original Wiki contributors
+featherlikeg
+nacyot
+pjc0247
+tamnajio
+KyunH

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/conflicting/web/javascript/javascript_technologies_overview/index.html
+
+# Original Wiki contributors
+ahnzaz
+KSH-code
+Netaras
+teoli
+NFM

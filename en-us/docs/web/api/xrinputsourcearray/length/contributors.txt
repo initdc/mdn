@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xrinputsourcearray/length/index.md
+
+# Original Wiki contributors
+bershanskiy
+Sheppy

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/http/index.md
+
+# Original Wiki contributors
+mgrn
+0807love0825
+rayainman
+xerviam
+bnn00023
+mybaseball52
+jwhitlock
+yyss

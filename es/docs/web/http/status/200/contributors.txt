@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/status/200/index.md
+
+# Original Wiki contributors
+SphinxKnight
+alexibarra55
+jlamasfripp
+gbarriosf
+snaven10
+Adriel_from_Nav

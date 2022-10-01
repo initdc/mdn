@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/tools_and_testing/client-side_javascript_frameworks/svelte_typescript/index.md
+
+# Original Wiki contributors
+haond10adp
+chrisdavidmills

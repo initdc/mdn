@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/html/introduction_to_html/document_and_website_structure/index.md
+
+# Original Wiki contributors
+ihooi
+Tay_Kim
+dave1502
+SSJ-unclear
+LeeJunyeol

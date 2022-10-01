@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/figure/index.md
+
+# Original Wiki contributors
+gafish
+RainSlide
+lcw0622
+ajfg93
+Ende93
+041008725
+you0509

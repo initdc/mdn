@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/aria_techniques/index.md
+
+# Original Wiki contributors
+skkiennhtg2327
+Wind1808
+AlexLloyd
+eps1lon
+chrisdavidmills
+emearly
+milsyobtaf
+estelle
+hankhint
+PickensC
+SphinxKnight
+AleenaCodes
+ExE-Boss
+ericwbailey
+yatil
+mattwojo
+JonathanPool
+tschach
+oooooo
+fscholz
+davidbrouillette
+yfdyh000
+cstringer
+JavierJF
+yuchi
+dcondrey
+Sheppy
+anastasia
+hhillen
+SteveLee

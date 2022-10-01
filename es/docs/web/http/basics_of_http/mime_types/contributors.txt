@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/basics_of_http/mime_types/index.md
+
+# Original Wiki contributors
+IsaacAaron
+sanxofon
+Sergio_Gonzalez_Collado
+kevinmont
+juanrarodriguez18
+strattadb

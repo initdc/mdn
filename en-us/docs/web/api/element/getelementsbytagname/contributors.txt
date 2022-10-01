@@ -1,0 +1,44 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/getelementsbytagname/index.md
+
+# Original Wiki contributors
+jmstfv
+mfluehr
+Tigt
+fscholz
+JonathanPool
+erikadoyle
+Jeremie
+stompychum
+LouisLazaris
+teoli
+kscarfone
+vishu_gawli
+ziyunfei
+jasodram
+Sheppy
+mattbasta
+kohei.yoshino
+Bzbarsky
+Havvy
+Marcoos
+alex.w.y
+Procoffeev
+dbruant
+Brettz9
+Jürgen Jeka
+Hsivonen
+Kohei
+Mgjbot
+Nickolay
+Jo-W
+Andreas Wuest
+Murb
+Takenbot
+Callek
+Momoko
+Waldo
+Ripter
+BenoitL
+Dria
+JesseW

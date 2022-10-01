@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/set/index.html
+
+# Original Wiki contributors
+andrew_shr
+YozhEzhi
+kan.a
+SphinxKnight
+dima74
+papadima
+vibecode
+ViZhe
+dtretyakov

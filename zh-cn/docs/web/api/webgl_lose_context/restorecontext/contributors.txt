@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webgl_lose_context/restorecontext/index.md
+
+# Original Wiki contributors
+Lucilor

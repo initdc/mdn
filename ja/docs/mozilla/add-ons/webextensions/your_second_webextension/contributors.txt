@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/your_second_webextension/index.md
+
+# Original Wiki contributors
+Uemmra3
+Raysphere24
+sogaoh
+mozamimy
+dlwe
+mtwwstj9
+hashedhyphen
+teoli

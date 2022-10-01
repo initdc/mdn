@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/meta_programming/index.md
+
+# Original Wiki contributors
+SeekerGAO
+suvyme
+RainSlide
+OStoneO
+rikochyou
+zhangchen
+123456zzz
+pamikel
+xgqfrms-GitHub
+hpcherry
+zyMacro
+cughudson_1
+acekingke
+binhex
+FredWe

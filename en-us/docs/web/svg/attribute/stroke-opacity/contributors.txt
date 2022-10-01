@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/stroke-opacity/index.md
+
+# Original Wiki contributors
+aplaice
+edemaine
+Jeremie
+connorshea
+asmedrano

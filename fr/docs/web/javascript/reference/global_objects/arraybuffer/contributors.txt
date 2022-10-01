@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/arraybuffer/index.md
+
+# Original Wiki contributors
+SphinxKnight
+BenoitEsnard
+Jeremie
+warpdesign
+teoli
+tregagnon
+daniel35310

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/beforeinstallprompt_event/index.md
+
+# Original Wiki contributors
+xgqfrms-GitHub

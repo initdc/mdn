@@ -1,0 +1,40 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/text-transform/index.md
+
+# Original Wiki contributors
+mfuji09
+ddbeck
+fscholz
+rachelandrew
+chrisdavidmills
+estelle
+ninjanails
+mfluehr
+xfq
+ericwbailey
+wbamberg
+GiS91
+teoli
+KatieK
+captainbarbosa
+Kscanne
+Sebastianz
+erikadoyle
+Druzion
+Siilwyn
+Tigt
+kbariotis
+tyrantkill
+tregagnon
+kscarfone
+bigbossSNK
+Sheppy
+Lupus
+ethertank
+neb
+cers
+FredB
+McGurk
+elysdir
+Jürgen Jeka
+BijuGC

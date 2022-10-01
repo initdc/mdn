@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/server-sent_events/index.md
+
+# Original Wiki contributors
+hamishwillee
+alattalatta
+fscholz
+dijonkitchen
+mfuji09
+Sheppy
+bflood-agi
+DomenicDenicola
+chrisdavidmills
+valtlai
+carsongross
+mooyoul
+teoli
+ethertank
+raju_dasa
+Yaffle
+jswisher
+louisremi

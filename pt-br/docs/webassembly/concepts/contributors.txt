@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/webassembly/concepts/index.md
+
+# Original Wiki contributors
+VictorGom3s
+jhserodio
+luan0ap
+thiagosaife

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/fetch/index.md
+
+# Original Wiki contributors
+JNa0
+PxlCtzn
+fscholz
+Hell_Carlito
+Bat41

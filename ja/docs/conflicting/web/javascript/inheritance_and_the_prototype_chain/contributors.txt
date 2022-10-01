@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/javascript/inheritance_and_the_prototype_chain/index.md
+
+# Original Wiki contributors
+mpcjazz
+xfq
+granola
+Uemmra3
+kaiji
+mfuji09
+x2357
+ethertank
+akiroom
+yyss
+electrolysis

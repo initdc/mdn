@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/guide/audio_and_video_delivery/adding_captions_and_subtitles_to_html5_video/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+mfuji09
+sota.yamashita

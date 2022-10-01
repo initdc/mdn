@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/webglrenderingcontext/uniform/index.md
+
+# Original Wiki contributors
+tim-we
+errorStream
+gaomeng1900
+fscholz
+jpmedley
+jkieboom
+teoli
+atul

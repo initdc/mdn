@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/accessibility/aria/roles/status_role/index.md
+
+# Original Wiki contributors
+J.DMB
+@lucieLme
+Fredchat

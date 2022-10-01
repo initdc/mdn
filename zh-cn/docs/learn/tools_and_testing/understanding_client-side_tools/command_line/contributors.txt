@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/tools_and_testing/understanding_client-side_tools/command_line/index.md
+
+# Original Wiki contributors
+YLX621

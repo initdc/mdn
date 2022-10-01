@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/screen_capture_api/using_screen_capture/index.md
+
+# Original Wiki contributors
+momoci99
+krupeshxebia
+khaldounaldanafcbs
+SphinxKnight
+graham_king
+bccrayton
+fselcukcan
+Sheppy
+nikeee
+Andr3wRiv3rs

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xslt/xslt_js_interface_in_gecko/setting_parameters/index.md
+
+# Original Wiki contributors
+teoli
+cvrebert
+Brettz9
+trevorh
+Fredchat
+Sebuls
+JdeValk

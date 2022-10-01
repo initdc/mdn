@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/server-side/express_nodejs/forms/delete_author_form/index.html
+
+# Original Wiki contributors
+MariyaSka

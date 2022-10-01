@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/del/index.md
+
+# Original Wiki contributors
+realityforge
+JamesCatt
+mfuji09
+wbamberg
+alattalatta
+Sheppy
+sideshowbarker
+fabio.rahamim
+SphinxKnight
+ericwbailey
+fscholz
+Pokechu22
+libbymc
+Gheoan
+Sebastianz
+Yecril
+m32po
+azunyan3
+Jeremie
+kscarfone
+justleroy
+medicdude
+ethertank
+teoli
+cers
+hobophobe
+McGurk
+jswisher

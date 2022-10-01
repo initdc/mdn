@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/javascript/guide/writing_a_regular_expression_pattern/index.md
+
+# Original Wiki contributors
+Zuishin
+udyest
+s-hiiragi
+tamyam
+teoli
+ethertank
+happysadman
+Potappo
+Makkurokiiro
+九郎
+Harpy
+Mgjbot
+electrolysis

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/font/index.md
+
+# Original Wiki contributors
+yvisherve
+SphinxKnight
+edspeedy
+fscholz
+Sebastianz
+teoli
+FredB
+Mgjbot
+Fredchat
+Kyodev

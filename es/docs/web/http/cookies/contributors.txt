@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/cookies/index.md
+
+# Original Wiki contributors
+vinjatovix
+SphinxKnight
+g.baldemar.77
+alexlndn
+rayrojas
+jesuscampos
+nachoperassi
+cguimaraenz
+eortizromero
+omertafox

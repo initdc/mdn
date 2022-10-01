@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/title/index.md
+
+# Original Wiki contributors
+Tigt
+CITguy
+Jeremie
+a-mt
+fscholz
+PatrickKing
+Beauvelop
+Volker-E
+mattwojo
+Sebastianz
+kscarfone
+rshetty
+Manuel_Strehl

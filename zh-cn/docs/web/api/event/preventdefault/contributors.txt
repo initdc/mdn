@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/event/preventdefault/index.md
+
+# Original Wiki contributors
+CHAAAA
+escattone
+ashe12138
+yangnaiyue
+anderson_liu
+SongJuXin
+dyz001
+Miss_MuBu
+zhangchen
+frankzhang718
+Jiang-Xuan
+HannibalKcc
+xgqfrms-GitHub
+dudusky
+zhangboyuan-XD
+teoli
+AshfaqHossain
+ziyunfei

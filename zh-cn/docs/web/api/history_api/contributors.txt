@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/history_api/index.md
+
+# Original Wiki contributors
+guigechen
+ysyfff
+Ende93
+BluesVN
+lmislm
+skyline-123
+zrefrain
+xgqfrms
+notmaster
+houyonglu
+Emsigant
+suyanhanx
+jackYouth
+LGerry
+Jessy.D.
+LZM
+wzx
+eightHundreds
+keshidong
+xgqfrms-GitHub

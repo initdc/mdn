@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/javascript/client-side_web_apis/introduction/index.html
+
+# Original Wiki contributors
+kirillunlimited
+tix836
+wind-of
+stasusov
+alexbs
+atomeon
+slychai85
+ezdodance

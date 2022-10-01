@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document_object_model/using_the_w3c_dom_level_1_core/index.md
+
+# Original Wiki contributors
+skkiennhtg2327
+mfuji09
+klu22
+wbamberg
+chrisdavidmills
+AndreDea
+teoli
+jswisher
+hectorsan68
+jvns
+ethertank
+Vaibs
+fferracioli
+x746e
+Sheppy
+Nickolay
+Mgjbot
+BenoitL
+NickolayBot
+Andreas Wuest
+Gor1

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/pseudo-classes/index.md
+
+# Original Wiki contributors
+Totokoutonio
+SphinxKnight
+bgaude
+teoli
+Goofy
+louuis
+FredB
+tregagnon

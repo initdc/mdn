@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/svg/tutorial/index.html
+
+# Original Wiki contributors
+gilmargn
+mauriciosoares01
+rogeralbinoi

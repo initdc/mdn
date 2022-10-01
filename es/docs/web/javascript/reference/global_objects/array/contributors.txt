@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/array/index.md
+
+# Original Wiki contributors
+SamuelOuteda
+JotaCé
+Daniel1404
+MartinCJ08
+lorenzo-sc
+Pagua
+Marito10
+lajaso
+AlePerez92
+patoezequiel
+FranciscoCastle
+Pulits
+Th3Cod3
+rec
+BubuAnabelas
+abaracedo
+Pablo_Bangueses
+gfernandez
+davegomez
+viartola
+Albizures
+germanio
+a0viedo
+teoli
+LuisArt
+Nukeador
+ADP13
+Errepunto
+Sheppy
+Nathymig
+Mgjbot

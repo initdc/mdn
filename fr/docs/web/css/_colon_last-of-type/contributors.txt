@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/_colon_last-of-type/index.md
+
+# Original Wiki contributors
+06Games
+SphinxKnight
+tregagnon
+teoli
+FredB
+ThePrisoner

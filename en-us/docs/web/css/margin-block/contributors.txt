@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/margin-block/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+wbamberg
+Sheppy
+mfuji09
+rachelandrew
+ExE-Boss

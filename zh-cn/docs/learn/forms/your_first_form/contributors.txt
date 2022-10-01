@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/your_first_form/index.md
+
+# Original Wiki contributors
+NicholasZhan
+WoodCube
+ChairMao
+haoye999
+coldicecn
+xiangluoming
+hddhyq
+Lohoyo
+maoyumaoxun
+lyncodes
+allan_simon
+lihaoyuan
+superkuang
+ddtyjmyjm
+StarryForce
+Froggy
+chrisdavidmills
+ziyunfei
+sanxingming

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/width/index.md
+
+# Original Wiki contributors
+RainSlide
+QAQK
+dlnb526
+Ende93
+changjingli
+Simplexible
+Prinz_Rana
+johncido
+SphinxKnight
+Sebastianz
+teoli
+evantre

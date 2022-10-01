@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/django/testing/index.md
+
+# Original Wiki contributors
+hamishwillee
+arcanemachine
+harryghgim
+mrsimonsen
+romanjamesmirov
+mikedew
+risteaandrei
+JerzySpendel
+jdblischak
+2alin
+morenoh149
+palto42
+magdot
+pineapplebug
+MihaiChelaru
+chrisdavidmills
+shyam-sitaula
+stephaniehobson
+radwon
+kalch
+alanypz
+Arshdeep
+KushagraPathak
+philip-iv
+palerdot
+BaderSur

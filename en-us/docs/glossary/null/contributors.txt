@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/null/index.md
+
+# Original Wiki contributors
+mfuji09
+ANH25
+Zearin_Galaurum
+wentout
+x2357
+hbloomer
+Andrew_Pfeiffer
+trestini
+klez
+kscarfone
+panaggio

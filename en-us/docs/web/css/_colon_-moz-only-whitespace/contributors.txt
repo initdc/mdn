@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_-moz-only-whitespace/index.md
+
+# Original Wiki contributors
+krystian3w
+wbamberg
+ExE-Boss
+mfuji09
+solomon.ucko
+mfluehr
+Sebastianz
+teoli
+Sheppy
+ethertank
+Marsf
+Fredchat
+Mw22

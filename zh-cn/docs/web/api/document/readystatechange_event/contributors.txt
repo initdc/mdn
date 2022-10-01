@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/readystatechange_event/index.md
+
+# Original Wiki contributors
+Carllllo
+RainSlide
+zhangchen
+fscholz
+abc45628

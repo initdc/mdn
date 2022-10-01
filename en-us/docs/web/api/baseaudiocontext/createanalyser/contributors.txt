@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/baseaudiocontext/createanalyser/index.md
+
+# Original Wiki contributors
+Mr21
+fscholz
+sairam
+Jedipedia
+chrisdavidmills
+erikadoyle
+Jeremie
+teoli

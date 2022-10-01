@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/dragevent/index.md
+
+# Original Wiki contributors
+sideshowbarker
+connorshea
+YanBellavance
+arai
+jimwmg
+erikadoyle
+Sebastianz
+AFBarstow
+fscholz
+teoli
+Remy_Juanes
+kscarfone
+rabimba

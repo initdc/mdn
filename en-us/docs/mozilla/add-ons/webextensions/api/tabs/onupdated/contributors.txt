@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/tabs/onupdated/index.md
+
+# Original Wiki contributors
+irenesmith
+Loirooriol
+wbamberg
+peter.kehl
+ExE-Boss
+GuyXY
+Makyen

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/add_a_button_to_the_toolbar/index.md
+
+# Original Wiki contributors
+hellosct1
+JNa0
+Goofy

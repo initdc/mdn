@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/urlsearchparams/set/index.md
+
+# Original Wiki contributors
+merwan7
+jswisher
+chrisdavidmills
+TriMoon
+fscholz
+triblondon
+rolfedh
+jpmedley

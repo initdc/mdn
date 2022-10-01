@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlhttprequest/overridemimetype/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Sheppy
+ExE-Boss
+Makyen
+erikadoyle
+buzzdecafe
+cong
+jsx
+MashKao

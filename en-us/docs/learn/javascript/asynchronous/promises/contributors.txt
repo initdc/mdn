@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/javascript/asynchronous/promises/index.md
+
+# Original Wiki contributors
+jswisher
+manoelbjr
+chrisdavidmills
+A.Faturechi
+jaypatel3998
+ckashby
+Iqbalh11
+tywmick
+SphinxKnight
+sukhbatth
+BIT-zhaoyang
+Sheppy

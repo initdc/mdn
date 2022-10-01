@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/scaling_of_svg_backgrounds/index.md
+
+# Original Wiki contributors
+yanns1
+SphinxKnight

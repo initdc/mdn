@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/currentscript/index.md
+
+# Original Wiki contributors
+RainSlide
+aronlee
+zhaoqize
+teoli
+khalid32
+ziyunfei
+zhangyaochun1987

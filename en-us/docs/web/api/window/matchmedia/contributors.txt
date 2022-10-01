@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/matchmedia/index.md
+
+# Original Wiki contributors
+Sheppy
+mfuji09
+Tigt
+alattalatta
+SphinxKnight
+carolynwebb
+mfluehr
+bliu8904
+jeremytiki
+CodeFry
+lucian95
+libbymc
+Sebastianz
+jswisher
+chuck
+fscholz
+cpigat
+teoli
+libreGeekingKid
+RudolphGottesheim
+kohei.yoshino
+webinista
+ethertank
+Sir_Pepe
+Marcoos
+leaverou
+robflaherty
+Kohei
+paul.irish

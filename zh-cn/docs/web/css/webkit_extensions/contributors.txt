@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/webkit_extensions/index.md
+
+# Original Wiki contributors
+ExE-Boss
+ziyunfei
+teoli
+OoOoOoOo

@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/html/introduction_to_html/creating_hyperlinks/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+asad_mozilla
+codejayant
+gdsimoes
+techdocswriter
+josh.591536
+onurbasturk
+sideshowbarker
+deepaksenguttuvan
+santimirandarp
+choudh70
+Elched
+eremis101
+noorfathima11
+MNizam0802
+Jozefi87
+mfuji09
+mbuc
+DrewGeisler
+stephaniehobson
+bgrayland
+Hiroshivam
+vkweb
+potmpark
+scottaohara
+svmartin
+rebelstatus
+NurudeenPopoola
+richardzacur

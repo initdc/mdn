@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/styling_text/typesetting_a_homepage/index.md
+
+# Original Wiki contributors
+monkey-king
+grape
+Map1en_
+codeofjackie
+maplelinst

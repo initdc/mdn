@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/word-break/index.md
+
+# Original Wiki contributors
+litmonw
+yatsov
+luckymore
+zhuangyin
+liu-xiao-cui
+Ende93
+teoli
+fscholz
+Sebastianz
+paddingme
+yan

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/tutorial/texts/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+LukeCSamuel
+a-mt
+pilovm
+frankwang0909
+stephaniehobson
+Anonymous
+Dizzy
+luics
+ihorwill
+Jeremie
+xdhmoore
+ethertank
+yyss
+Manuel_Strehl

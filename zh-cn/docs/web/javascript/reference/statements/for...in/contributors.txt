@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/statements/for...in/index.md
+
+# Original Wiki contributors
+lmislm
+毛毛_
+name-dingding
+raoenhui
+412799755
+Hourann
+XiangHongAi
+jiladahe1997
+zhangchen
+WPH2017
+xgqfrms-GitHub
+jdk137
+yatace
+helloguangxue
+Ende93
+wonyun
+denghongcai
+teoli
+ziyunfei

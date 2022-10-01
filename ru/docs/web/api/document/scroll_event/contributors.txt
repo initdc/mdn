@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/document/scroll_event/index.html
+
+# Original Wiki contributors
+mcmimik
+onair
+YozhEzhi
+MistakeOfNature
+irenesmith
+fscholz
+jt3k

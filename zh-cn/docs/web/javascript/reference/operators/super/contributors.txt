@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/operators/super/index.md
+
+# Original Wiki contributors
+jackyqin
+t.ccydlj
+woshiqiang1
+hikigaya58
+KennyWho
+Yayure
+wangmiJM
+zhangchen
+xgqfrms-GitHub
+lvjs
+saintwinkle

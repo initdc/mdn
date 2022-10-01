@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/htmlmediaelement/index.md
+
+# Original Wiki contributors
+bigben0123
+Ende93
+Sunly
+miaoihan
+snowlocked
+chrisdavidmills
+huhu213
+zilong-thu
+FredWe

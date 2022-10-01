@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/response/arraybuffer/index.md
+
+# Original Wiki contributors
+Wind1808
+NotWoods
+mfluehr
+fscholz
+vitaly-zdanevich
+chrisdavidmills
+erikadoyle
+simonlc
+jakubkoci
+Sebastianz
+kscarfone

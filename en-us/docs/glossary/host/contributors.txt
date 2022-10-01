@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/host/index.md
+
+# Original Wiki contributors
+iigmir
+lpiot
+Andrew_Pfeiffer
+klez
+Sukanta.Pal
+joyvolatile

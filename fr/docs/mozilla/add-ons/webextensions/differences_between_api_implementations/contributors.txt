@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/differences_between_api_implementations/index.md
+
+# Original Wiki contributors
+hellosct1

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/performance/index.md
+
+# Original Wiki contributors
+mayerpan
+liguanzeng
+Bayes
+yangchongduo

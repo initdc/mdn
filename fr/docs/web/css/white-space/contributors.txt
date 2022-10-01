@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/white-space/index.md
+
+# Original Wiki contributors
+SphinxKnight
+nykola
+fscholz
+teoli
+claudepache
+FredB
+nonos

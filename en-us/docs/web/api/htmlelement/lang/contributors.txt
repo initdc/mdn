@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/lang/index.md
+
+# Original Wiki contributors
+fscholz
+xfq
+cvrebert
+teoli
+kscarfone
+Sheppy
+ethertank
+tregagnon
+Brettz9
+Mgjbot
+Ptak82
+GT
+Dria
+Callek
+JesseW

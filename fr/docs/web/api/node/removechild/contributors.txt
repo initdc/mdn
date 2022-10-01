@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/node/removechild/index.md
+
+# Original Wiki contributors
+loella16
+Hell_Carlito
+Copen
+antmout
+fscholz
+teoli
+khalid32
+Julien STUBY
+Mgjbot
+BenoitL

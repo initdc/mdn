@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/forms/basic_native_form_controls/index.md
+
+# Original Wiki contributors
+Harold-Gao
+amikalperkins
+chrisdavidmills
+A.Faturechi
+estelle
+sideshowbarker
+zubaer54
+tayyabalishan
+choudh70
+cybmdm
+amIsmael
+853419196
+Sheppy
+Ko.Kyaw.Zin.Htet
+Tigt
+juandesouza
+stephaniehobson
+Jeffrey_Yang
+toraritte
+Ajedi32
+Jeremie
+aksht
+kscarfone
+lemgrb

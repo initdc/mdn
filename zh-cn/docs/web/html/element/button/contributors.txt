@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/button/index.md
+
+# Original Wiki contributors
+ilexwg
+YuanGYao
+kite-js
+WeJie
+wizardforcel
+ezirmusitua
+AnitaYin
+JulieLee77

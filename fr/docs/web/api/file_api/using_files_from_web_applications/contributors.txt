@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/file_api/using_files_from_web_applications/index.md
+
+# Original Wiki contributors
+SphinxKnight
+chrisdavidmills
+Copen
+jmh
+Mr21
+vava
+m2c
+Goofy
+LoeWzukW
+jean_pierre

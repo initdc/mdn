@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlselectelement/add/index.md
+
+# Original Wiki contributors
+bernardirfan
+SphinxKnight
+tidio
+connorshea
+arronei
+libbymc
+Sebastianz
+fscholz
+freaktechnik
+teoli

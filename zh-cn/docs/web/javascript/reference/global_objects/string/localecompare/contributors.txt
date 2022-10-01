@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/localecompare/index.md
+
+# Original Wiki contributors
+weibangtuo
+xuqighub
+Ninja-Xu
+Lookkkk
+lcysgsg
+xgqfrms-GitHub
+zilong-thu
+Yuxuan_Jiang
+helloguangxue
+Ende93

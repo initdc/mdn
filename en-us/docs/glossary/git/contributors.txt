@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/git/index.md
+
+# Original Wiki contributors
+Porkepix
+ruthemmanuelle
+klez
+Sheppy
+maybe
+Andrew_Pfeiffer

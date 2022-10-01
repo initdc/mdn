@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/index.md
+
+# Original Wiki contributors
+codevvvv9
+Spikef
+simon.woo
+ridiculousjam
+RainSlide
+ANTI01
+guoooofu
+thanly
+stuxt
+zihengCat
+AsukaSong
+shizhouyu
+heineiuo
+fygyx1
+keller0
+xgqfrms-GitHub
+teoli
+Darrel.Hsu
+Fiag
+ethertank
+ziyunfei
+fengzilong

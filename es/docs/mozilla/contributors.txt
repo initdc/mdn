@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/index.md
+
+# Original Wiki contributors
+cosmesantos
+andersonvc89
+Vladi05
+Granpichi
+yesypsb
+Getachi
+Izel

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webgl_api/tutorial/animating_textures_in_webgl/index.md
+
+# Original Wiki contributors
+Yayure
+Tnze
+chinaPrototypeBoy
+Awe
+liuzheng644607
+Gaohaoyang

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlformelement/acceptcharset/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfluehr
+connorshea
+teoli
+ajaybhat
+kscarfone
+ethertank
+Sheppy
+jswisher
+Mgjbot
+George3
+Dria
+cbiesinger
+JesseW

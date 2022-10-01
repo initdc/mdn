@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/nan/index.md
+
+# Original Wiki contributors
+Porkepix
+hbloomer
+klez
+Andrew_Pfeiffer
+phoenixthunder
+Jeremie
+ajinkya_p

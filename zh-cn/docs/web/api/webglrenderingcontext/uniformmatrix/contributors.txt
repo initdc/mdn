@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webglrenderingcontext/uniformmatrix/index.md
+
+# Original Wiki contributors
+kagurakana
+hellorayza
+neil3d

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/math/abs/index.html
+
+# Original Wiki contributors
+jaomix1
+jezdez
+Sotelio

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/overflow-y/index.md
+
+# Original Wiki contributors
+bytetown
+VacantThinker
+Sebastianz
+teoli
+Jimmie_Felidae

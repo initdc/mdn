@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xslt/xslt_js_interface_in_gecko/introduction/index.md
+
+# Original Wiki contributors
+dkocho4
+teoli
+cvrebert
+trevorh
+Kyodev
+Mgjbot
+Fredchat
+Sebuls
+JdeValk

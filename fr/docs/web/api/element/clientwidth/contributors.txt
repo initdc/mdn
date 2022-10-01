@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/element/clientwidth/index.md
+
+# Original Wiki contributors
+SphinxKnight
+spirival
+fscholz
+teoli
+khalid32
+Mgjbot
+Takenbot
+BenoitL
+Peter1789

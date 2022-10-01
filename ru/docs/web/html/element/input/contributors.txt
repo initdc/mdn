@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/element/input/index.md
+
+# Original Wiki contributors
+surface74
+torbasow
+SedovDP
+YozhEzhi
+CS313
+Stasonuke
+solncebro
+mennekis
+S-le
+pgpa
+Lambrusco.pro

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webvr_api/concepts/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+arthas-cui
+Mr-walter-wang

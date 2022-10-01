@@ -1,0 +1,1291 @@
+<!DOCTYPE html><html lang="en-US" prefix="og: https://ogp.me/ns#"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/favicon-48x48.97046865.png"><link rel="apple-touch-icon" href="/apple-touch-icon.0ea0fa02.png"><meta name="theme-color" content="#ffffff"><link rel="manifest" href="/manifest.56b1cedc.json"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="MDN Web Docs"><script>Array.prototype.flat&&Array.prototype.includes||document.write('<script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.flat%2Ces6"><\/script>')</script><title>Web audio codec guide - Web media technologies | MDN</title><link rel="preload" as="font" type="font/woff2" crossorigin="" href="/static/media/ZillaSlab-Bold.subset.0beac26b.woff2"><meta name="description" content="Even modest quality, high-fidelity stereo sound can use a substantial amount of disk space. For web developers, an even bigger concern is the network bandwidth needed in order to transfer audio, whether for streaming or to download it for use during gameplay. The processing of audio data to encode and decode it is handled by an audio codec (COder/DECoder). In this article, we look at audio codecs used on the web to compress and decompress audio, what their capabilities and use cases are, and offer guidance when choosing audio codecs to use for your content."><meta property="og:url" content="https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs"><meta property="og:title" content="Web audio codec guide - Web media technologies | MDN"><meta property="og:description" content="Even modest quality, high-fidelity stereo sound can use a substantial amount of disk space. For web developers, an even bigger concern is the network bandwidth needed in order to transfer audio, whether for streaming or to download it for use during gameplay. The processing of audio data to encode and decode it is handled by an audio codec (COder/DECoder). In this article, we look at audio codecs used on the web to compress and decompress audio, what their capabilities and use cases are, and offer guidance when choosing audio codecs to use for your content."><meta property="og:locale" content="en-US"><meta property="og:image" content="https://developer.mozilla.org/mdn-social-share.0ca9dbda.png"><meta property="twitter:card" content="summary_large_image"><meta name="robots" content="index, follow"><link rel="canonical" href="https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs"><style media="print">.breadcrumbs-container,.document-toc-container,.language-menu,.language-toggle,.on-github,.page-footer,.page-header-main,nav.sidebar,ul.prev-next{display:none!important}.main-page-content,.main-page-content pre{padding:2px}.main-page-content pre{border-left-width:2px}</style><link href="/static/css/main.55b68e13.chunk.css" rel="stylesheet"><script src="/static/js/runtime-main.4bb4c356.js" defer=""></script><script src="/static/js/4.a756dea3.chunk.js" defer=""></script><script src="/static/js/main.d4d565e0.chunk.js" defer=""></script></head><body><div id="root"><ul id="nav-access" class="a11y-nav"><li><a id="skip-main" href="#content">Skip to main content</a></li><li><a id="skip-search" href="#main-q">Skip to search</a></li><li><a id="skip-select-language" href="#select-language">Skip to select language</a></li></ul><div class="page-wrapper document-page"><header class="page-header"><a href="/en-US/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a><button type="button" class="ghost main-menu-toggle" aria-haspopup="true" aria-label="Show Menu"></button><div class="page-header-main "><nav class="main-nav" aria-label="Main menu"><ul class="main-menu nojs"><li class="top-level-entry-container"><button id="technologies-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Technologies</button><ul class="technologies " role="menu" aria-labelledby="technologies-button"><li role="none"><a tabindex="-1" href="/en-US/docs/Web" role="menuitem">Technologies Overview</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/HTML" role="menuitem">HTML</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/CSS" role="menuitem">CSS</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/JavaScript" role="menuitem">JavaScript</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Guide/Graphics" role="menuitem">Graphics</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/HTTP" role="menuitem">HTTP</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/API" role="menuitem">APIs</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Mozilla/Add-ons/WebExtensions" role="menuitem">Browser Extensions</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/MathML" role="menuitem">MathML</a></li></ul></li><li class="top-level-entry-container"><button id="references-guides-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">References &amp; Guides</button><ul class="references-guides " role="menu" aria-labelledby="references-guides-button"><li role="none"><a tabindex="-1" href="/en-US/docs/Learn" role="menuitem">Learn web development</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Tutorials" role="menuitem">Tutorials</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Reference" role="menuitem">References</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Guide" role="menuitem">Developer Guides</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Accessibility" role="menuitem">Accessibility</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Games" role="menuitem">Game development</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web" role="menuitem">...more docs</a></li></ul></li><li class="top-level-entry-container"><button id="feedback-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Feedback</button><ul class="feedback " role="menu" aria-labelledby="feedback-button"><li role="none"><a tabindex="-1" href="/en-US/docs/MDN/Contribute/Feedback" role="menuitem">Send Feedback</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/MDN/Contribute" role="menuitem">Contribute to MDN</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/content/issues/new" role="menuitem">Report a content issue<!-- --> 🌐</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/yari/issues/new" role="menuitem">Report a platform issue<!-- --> 🌐</a></li></ul></li></ul></nav><div class="header-search"><form action="/en-US/search" class="search-form search-widget" role="search"><label for="main-q" class="visually-hidden">Search MDN</label><input type="search" name="q" id="main-q" class="search-input-field" placeholder="Site search... (Press &quot;/&quot; to focus)" pattern="(.|\s)*\S(.|\s)*" required="" value=""><input type="submit" class="ghost search-button" value="" aria-label="Search"></form></div><div class="auth-container"></div></div></header><div class="breadcrumb-locale-container"><nav class="breadcrumbs-container" aria-label="Breadcrumb navigation"><ol typeof="BreadcrumbList" vocab="https://schema.org/" aria-label="breadcrumbs"><li property="itemListElement" typeof="ListItem"><a class="breadcrumb" property="item" typeof="WebPage" href="/en-US/docs/Web"><span property="name">Web technology for developers</span></a><meta property="position" content="1"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb" property="item" typeof="WebPage" href="/en-US/docs/Web/Media"><span property="name">Web media technologies</span></a><meta property="position" content="2"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-penultimate" property="item" typeof="WebPage" href="/en-US/docs/Web/Media/Formats"><span property="name">Media type and format guide: image, audio, and video content</span></a><meta property="position" content="3"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-current-page" property="item" typeof="WebPage" href="/en-US/docs/Web/Media/Formats/Audio_codecs"><span property="name">Web audio codec guide</span></a><meta property="position" content="4"></li></ol></nav></div><aside class="document-toc-container"><section class="document-toc"><header><h2>Table of contents</h2><button type="button" class="ghost toc-trigger-mobile" aria-controls="toc-entries" aria-expanded="false">Table of contents</button></header><ul id="toc-entries"><li><a href="#common_codecs">Common codecs</a></li><li><a href="#factors_affecting_the_encoded_audio">Factors affecting the encoded audio</a></li><li><a href="#codec_details">Codec details</a></li><li><a href="#choosing_an_audio_codec">Choosing an audio codec</a></li><li><a href="#audio_encoding_software">Audio encoding software</a></li><li><a href="#see_also">See also</a></li></ul></section></aside><main id="content" class="main-content" role="main"><article class="main-page-content" lang="en-US"><h1>Web audio codec guide</h1><div><p>Even modest quality, high-fidelity stereo sound can use a substantial amount of disk space. For web developers, an even bigger concern is the network bandwidth needed in order to transfer audio, whether for streaming or to download it for use during gameplay. The processing of audio data to encode and decode it is handled by an audio <strong><a href="/en-US/docs/Glossary/Codec">codec</a></strong> (<strong>CO</strong>der/<strong>DEC</strong>oder). In this article, we look at audio codecs used on the web to compress and decompress audio, what their capabilities and use cases are, and offer guidance when choosing audio codecs to use for your content.</p>
+<p>Additionally, WebRTC implementations generally use a subset of these codecs for their encoding and decoding of media, and may support additional codecs as well, for optimal cross-platform support of video and audio conferencing, and to integrate better with legacy telecommunication solutions. See <a href="/en-US/docs/Web/Media/Formats/WebRTC_codecs">Codecs used by WebRTC</a> for details.</p>
+<p>For information about the fundamental concepts behind how digital audio works, see the article <a href="/en-US/docs/Web/Media/Formats/Audio_concepts">Digital audio concepts</a>.</p></div><h2 id="common_codecs"><a href="#common_codecs" title="Permalink to Common codecs">Common codecs</a></h2><div><p>The list below denotes the codecs most commonly used on the web and which containers (file types) support them. If all you need to know is which codecs are even possible to use, this is for you. Of course, individual browsers may or may not choose to support all of these codecs, and their support for which container types can use them may vary as well. In addition, browsers may choose to support additional codecs not included on this list.</p>
+<table class="standard-table">
+  <thead>
+    <tr>
+      <th scope="row">Codec name (short)</th>
+      <th scope="col">Full codec name</th>
+      <th scope="col">Container support</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><a href="#aac_advanced_audio_coding">AAC</a></th>
+      <td>Advanced Audio Coding</td>
+      <td>
+        <a href="/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4">MP4</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#adts">ADTS</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#3gp">3GP</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#alac_apple_lossless_audio_codec">ALAC</a></th>
+      <td>Apple Lossless Audio Codec</td>
+      <td>
+        <a href="/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4">MP4</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#quicktime">QuickTime</a>
+        (MOV)
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#amr_adaptive_multi-rate">AMR</a></th>
+      <td>Adaptive Multi-Rate</td>
+      <td><a href="/en-US/docs/Web/Media/Formats/Containers#3gp">3GP</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#flac_free_lossless_audio_codec">FLAC</a></th>
+      <td>Free Lossless Audio Codec</td>
+      <td>
+        <a href="/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4">MP4</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#ogg">Ogg</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#flac">FLAC</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#g.711_pulse_code_modulation_of_voice_frequencies">G.711</a></th>
+      <td>Pulse Code Modulation (PCM) of Voice Frequencies</td>
+      <td>
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#g.722_64_kbps_7_khz_audio_coding">G.722</a></th>
+      <td>
+        7 kHz Audio Coding Within 64 kbps (for
+        telephony/<a href="/en-US/docs/Glossary/VoIP">VoIP</a>)
+      </td>
+      <td>
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#mp3_mpeg-1_audio_layer_iii">MP3</a></th>
+      <td>MPEG-1 Audio Layer III</td>
+      <td>
+        <a href="/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4">MP4</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#adts">ADTS</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#mpeg">MPEG</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#3gp">3GP</a>
+        <p>
+          When MPEG-1 Audio Layer III codec data is stored in an MPEG file, and
+          there is no video track on the file, the file is typically referred to
+          as an MP3 file, even though it's still an MPEG format file.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#opus">Opus</a></th>
+      <td>Opus</td>
+      <td>
+        <a href="/en-US/docs/Web/Media/Formats/Containers#webm">WebM</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4">MP4</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#ogg">Ogg</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#vorbis">Vorbis</a></th>
+      <td>Vorbis</td>
+      <td>
+        <a href="/en-US/docs/Web/Media/Formats/Containers#webm">WebM</a>,
+        <a href="/en-US/docs/Web/Media/Formats/Containers#ogg">Ogg</a>
+      </td>
+    </tr>
+  </tbody>
+</table></div><h2 id="factors_affecting_the_encoded_audio"><a href="#factors_affecting_the_encoded_audio" title="Permalink to Factors affecting the encoded audio">Factors affecting the encoded audio</a></h2><div><p>There are two general categories of factors that affect the encoded audio which is output by an audio codec's encoder: details about the source audio's format and contents, and the codec and its configuration during the encoding process.</p>
+<p>For each factor that affects the encoded audio, there is a simple rule that is nearly always true: because the fidelity of digital audio is determined by the granularity and precision of the samples taken to convert it into a data stream, the more data used to represent the digital version of the audio, the more closely the sampled sound will match the source material.</p></div><h3 id="the_effect_of_source_audio_format_on_encoded_audio_output"><a href="#the_effect_of_source_audio_format_on_encoded_audio_output" title="Permalink to The effect of source audio format on encoded audio output">The effect of source audio format on encoded audio output</a></h3><div><p>Because encoded audio inherently uses fewer bits to represent each sample, the source audio format may actually have less impact on the encoded audio size than one might expect. However, a number of factors do still affect the encoded audio quality and size. The table below lists a number of key source audio file format factors and their impact on the encoded audio.</p>
+<table class="standard-table">
+  <caption>
+    The effect of source audio format and contents on the encoded audio quality
+    and size
+  </caption>
+  <thead>
+    <tr>
+      <th scope="row">Feature</th>
+      <th scope="col">Effect on quality</th>
+      <th scope="col">Effect on size</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><a href="/en-US/docs/Web/Media/Formats/Audio_concepts#audio_data_format_and_structure">Channel count</a></th>
+      <td>
+        The number of channels affects only the perception of directionality,
+        not the quality.
+      </td>
+      <td>
+        Each channel may substantially increase the encoded audio size,
+        depending on contents and encoder settings.
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Noise / Hiss</th>
+      <td>
+        Unwanted background noise or hiss tends to reduce audio quality both
+        directly (by masking details of the foreground audio) and indirectly (by
+        making the audio waveform more complicated and therefore difficult to
+        reduce in size while maintaining precision).
+      </td>
+      <td>
+        Hiss, static, or background noise increases the audio complexity, which
+        generally reduces the amount of compression which is possible.
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="/en-US/docs/Web/Media/Formats/Audio_concepts#sampling_audio">Sample rate</a></th>
+      <td>
+        The more samples available per second, the higher the resulting encoded
+        audio fidelity is likely to be.
+      </td>
+      <td>Increasing the sample rate increases the encoded audio file's size.</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="/en-US/docs/Web/Media/Formats/Audio_concepts#audio_data_format_and_structure">Sample size</a></th>
+      <td>
+        The larger the samples, the more detail each sample can contain,
+        resulting in more accurate representation of each sample.
+      </td>
+      <td>
+        Depends on the codec; codecs typically have an internal sample format
+        that may or may not be the same as the original sample size. But more
+        source detail may make the encoded file larger; it will never make it
+        smaller.
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>Of course, these effects can be altered by decisions made while encoding the audio. For example, if the encoder is configured to reduce the sample rate, the sample rate's effect on the output file will be reduced in kind.</p>
+<p>For more information about these and other features of audio data, see <a href="/en-US/docs/Web/Media/Formats/Audio_concepts#audio_data_format_and_structure">Audio data format and structure</a> in <a href="/en-US/docs/Web/Media/Formats/Audio_concepts">Digital audio concepts</a>.</p></div><h3 id="the_effect_of_codec_configuration_on_encoded_audio_output"><a href="#the_effect_of_codec_configuration_on_encoded_audio_output" title="Permalink to The effect of codec configuration on encoded audio output">The effect of codec configuration on encoded audio output</a></h3><div><p>Audio codecs typically employ cleverly-designed and highly-complex mathematical algorithms to take source audio data and compress it to take substantially less space in memory or network bandwidth. In addition to choosing the type of encoder to use, you may have the opportunity to adjust the encoder using parameters that choose specific algorithms, tune those algorithms, and specify how many passes to apply while encoding.</p>
+<table class="standard-table">
+  <caption>Audio encoder configuration effects on quality and size</caption>
+  <thead>
+    <tr>
+      <th scope="row">Feature</th>
+      <th scope="col">Effect on quality</th>
+      <th scope="col">Effect on size</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><a href="/en-US/docs/Web/Media/Formats/Audio_concepts#lossy_vs_lossless_compression">Lossless compression</a></th>
+      <td>No loss of fidelity</td>
+      <td>Unlikely to get more than 40-50% compression</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="/en-US/docs/Web/Media/Formats/Audio_concepts#lossy_vs_lossless_compression">Lossy compression</a></th>
+      <td>
+        Always some loss of fidelity; the higher the compression, the more the
+        loss
+      </td>
+      <td>Compression of up to 80-95% possible</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="/en-US/docs/Web/Media/Formats/Audio_concepts#quality">Quality setting</a></th>
+      <td>The higher the quality, the better the fidelity of the encoded audio</td>
+      <td>
+        The higher the fidelity, the larger the resulting file becomes, though
+        the amount of change varies from codec to codec
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="/en-US/docs/Web/Media/Formats/Audio_concepts#bit_rate">Bit rate</a></th>
+      <td>The higher the bit rate, the higher the quality can be</td>
+      <td>The higher the bit rate, the larger the encoded file is likely to be</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="/en-US/docs/Web/Media/Formats/Audio_concepts#audio_frequency_bandwidth">Audio frequency bandwidth</a></th>
+      <td>
+        If there is any audio in the removed frequency band(s), there may be a
+        noticeable loss of fidelity
+      </td>
+      <td>
+        Removing frequency bands means less data to encode, thus smaller encoded
+        files
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="/en-US/docs/Web/Media/Formats/Audio_concepts#stereo_coding_method">Stereo coding</a></th>
+      <td>
+        Simple stereo and
+        <a href="/en-US/docs/Web/Media/Formats/Audio_concepts#mid-side_stereo_coding">mid-side stereo coding</a>
+        don't affect quality;
+        <a href="/en-US/docs/Web/Media/Formats/Audio_concepts#intensity_stereo_coding">intensity stereo coding</a>
+        introduces loss of detail, however.
+      </td>
+      <td>Joint stereo can reduce the size of the encoded audio to some extent</td>
+    </tr>
+  </tbody>
+</table>
+<p>The parameters available—and the range of possible values—varies from codec to codec, and even among different encoding utilities for the same codec, so read the documentation that comes with the encoding software you use to learn more.</p></div><h3 id="features_affecting_encoded_audio_size"><a href="#features_affecting_encoded_audio_size" title="Permalink to Features affecting encoded audio size">Features affecting encoded audio size</a></h3><div><p>Several factors affect the size of the encoded audio. Some of these are a matter of the form of the source audio; others are related to decisions made while encoding the audio.</p>
+<h4 id="lossless_versus_lossy_codecs">Lossless versus lossy codecs</h4>
+<p>There are two basic categories of audio compression. <strong>Lossless</strong> compression algorithms reduce the size of the audio without compromising the quality or fidelity of the sound. Upon decoding audio compressed with a lossless codec such as <a href="#flac_free_lossless_audio_codec">FLAC</a> or <a href="#alac_apple_lossless_audio_codec">ALAC</a>, the result is identical in every way to the original sound, down to the bit.</p>
+<p><strong>Lossy</strong> codecs, on the other hand, take advantage of the fact that the human ear is not a perfect interpreter of audio, and of the fact that the human brain can pluck the important information out of imperfect or noisy audio. They strip away audio frequencies that aren't used much, tolerate loss of precision in the decoded output, and use other methods to lose audio content, quality, and fidelity to produce smaller encoded media. Upon decoding, the output is, to varying degrees, still understandable. The specific codec used—and the compression configuration selected—determine how close to the original, uncompressed audio signal the output seems to be when heard by the human ear.</p>
+<p>Because of the differences in how lossy codecs work compared to lossless ones, especially the fact that lossless ones have to be much more conservative with their compression, lossy codecs nearly always result in significantly smaller compressed audio than lossless codecs do.</p>
+<p>Generally speaking, the most common reasons to choose lossless audio are because you require archival-quality storage, or because the audio samples will be remixed and recompressed, and you wish to avoid the amplification of artifacts in the audio due to recompression. For real-time streaming of audio, a lossy codec is usually required in order to ensure the flow of data can keep up with the audio playback rate regardless of network performance.</p></div><h3 id="maximum_number_of_channels"><a href="#maximum_number_of_channels" title="Permalink to Maximum number of channels">Maximum number of channels</a></h3><div><p>The audio delivered to each speaker in a sound system is provided by one audio channel in a stream. Monaural sound is a single channel. Stereo sound is two. 5.1 surround sound has five audio channels, plus one <strong>Low Frequency Enhancement</strong> (<strong>LFE</strong>) channel.</p>
+<p>LFE channels are specifically designed to store low-frequency audio data, and are commonly used to provide audio data for subwoofers, for example. When you see the number of audio channels written in the form X.Y (such as 2.1 or 5.1), the number after the decimal point, Y, is the number of LFE channels. For example, MP3 supports one LFE channel, while AAC supports up to 16.</p>
+<p>In addition to providing audio for specific speakers in a sound system, some codecs may allow audio channels to be used to provide alternative audio, such as vocals in different languages or descriptive audio for visually impaired people.</p></div><h3 id="audio_frequency_bandwidth"><a href="#audio_frequency_bandwidth" title="Permalink to Audio frequency bandwidth">Audio frequency bandwidth</a></h3><div><p>The <strong>audio frequency bandwidth</strong> of a codec indicates the range of audio frequencies that can be represented using the codec. Some codecs operate specifically by eliminating audio that falls outside a given frequency range. There is a correlation between the sample rate and the maximum sound frequency that can be represented by a waveform represented by a codec. At a theoretical level, the maximum frequency a codec can represent is the sample rate divided by two; this frequency is called the <a href="https://en.wikipedia.org/wiki/Nyquist_frequency" class="external" rel=" noopener">Nyquist frequency</a>. In reality, the maximum is slightly lower, but it's close.</p>
+<p>The audio frequency bandwidth comes into play especially vividly when a codec is designed or configured to represent human speech rather than a broad range of sounds. Human speech generally resides within the audio frequency range of 300 Hz to 18 kHz. However, the vast majority of human vocalizations exist in the range 300 Hz to 8 kHz, and you can capture enough of human vocalizations in the frequency range 500 Hz to 3 kHz to still be understandable.</p>
+<p>For that reason, speech-specific codecs often begin by dropping sound that falls outside a set range. That range is the audio frequency bandwidth. G.722, for example, strips away sounds outside the audio frequency bandwidth of 50 Hz to 7 kHz. This reduces the amount of data that needs to be encoded from the outset.</p></div><h2 id="codec_details"><a href="#codec_details" title="Permalink to Codec details">Codec details</a></h2><div><p>Below we take a brief look at each of these codecs, looking at their basic capabilities and their primary use cases.</p></div><h3 id="aac_advanced_audio_coding"><a href="#aac_advanced_audio_coding" title="Permalink to AAC (Advanced Audio Coding)">AAC (Advanced Audio Coding)</a></h3><div><p>The <strong>Advanced Audio Coding</strong> (<strong>AAC</strong>) codec is defined as part of the MPEG-4 (H.264) standard; specifically, as part of <a href="https://www.iso.org/standard/53943.html" class="external" rel=" noopener">MPEG-4 Part 3</a> and <a href="https://www.iso.org/standard/43345.html" class="external" rel=" noopener">MPEG-2 Part 7</a>. Designed to be able to provide more compression with higher audio fidelity than MP3, AAC has become a popular choice, and is the standard format for audio in many types of media, including Blu-Ray discs and HDTV, as well as being the format used for songs purchased from online vendors including iTunes.</p>
+<p>AAC has a number of profiles that define methods of compressing audio for specific use cases, including everything from high quality surround sound to low-fidelity audio for speech-only use.</p>
+<p>As a patent-encumbered format, AAC support is somewhat less predictable. For example, Firefox only supports AAC if support is provided by the operating system or an external library.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">Supported bit rates</th>
+      <td>Arbitrary, up to 512 kbps</td>
+    </tr>
+    <tr>
+      <th scope="row">Variable Bit Rate (VBR) support</th>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample formats</th>
+      <td>32-bit integer</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample rates</th>
+      <td>8 kHz - 96 kHz</td>
+    </tr>
+    <tr>
+      <th scope="row">Recommended minimum bit rate for stereo sound</th>
+      <td>96 kbps at 48 kHz sample rate</td>
+    </tr>
+    <tr>
+      <th scope="row">Compression</th>
+      <td>Lossy</td>
+    </tr>
+    <tr>
+      <th scope="row">Maximum audio channels</th>
+      <td>48 (plus 16 Low Frequency Enhancement channels)</td>
+    </tr>
+    <tr>
+      <th scope="row">Audio frequency bandwidth</th>
+      <td>
+        0 Hz - 96 kHz (standard audio channels)<br>0 Hz - 120 Hz (LFE
+        channels)
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Latency</th>
+      <td>20 ms to 405 ms</td>
+    </tr>
+    <tr>
+      <th scope="row">Browser compatibility</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">AAC support</th>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>9</td>
+              <td>Yes</td>
+              <td>3.1</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          Due to patent issues, Firefox does not directly support AAC. Instead,
+          Firefox relies upon a platform's native support for AAC. This
+          capability was introduced on each platform in different Firefox
+          releases:
+        </p>
+        <p>
+          Chrome supports AAC only in MP4 containers, and only supports AAC's
+          Main Profile. In addition, AAC is not available in Chromium builds.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Container support</th>
+      <td>MP4, ADTS, 3GP</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> compatible
+      </th>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Licensing</th>
+      <td>
+        For streaming or distributing AAC-encoded content: no license required;
+        developers of codecs are required to obtain a patent license through
+        <a href="https://www.via-corp.com/licensing/aac/" class="external" rel=" noopener">VIA Licensing</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table" style="margin-left: 4em; max-width: 30em">
+  <caption>AAC support in Firefox using external library, by platform</caption>
+  <thead>
+    <tr>
+      <th scope="row">Platform</th>
+      <th scope="col">First Firefox version<br>with AAC support</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Windows (Vista and later)</th>
+      <td>22</td>
+    </tr>
+    <tr>
+      <th scope="row">Android</th>
+      <td>20</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Linux (depends on
+        <a href="https://gstreamer.freedesktop.org/" class="external" rel=" noopener">GStreamer</a>)
+      </th>
+      <td>26</td>
+    </tr>
+    <tr>
+      <th scope="row">macOS</th>
+      <td>35</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="alac_apple_lossless_audio_codec"><a href="#alac_apple_lossless_audio_codec" title="Permalink to ALAC (Apple Lossless Audio Codec)">ALAC (Apple Lossless Audio Codec)</a></h3><div><p>The <strong>Apple Lossless Audio Codec</strong> (<strong>ALAC</strong> or <strong>Apple Lossless</strong>) is a lossless codec developed by Apple. After initially being a closed format, Apple opened it up under an Apache license.</p>
+<p>Cross-platform and browser support for ALAC is not very strong, making it a less than ideal choice for general usage. However, if your target is primarily macOS and iOS users, it may be worth considering, as the operating systems have integrated support for ALAC. Otherwise, FLAC is likely a better choice, if you must use a lossless codec.</p>
+<p>Keep in mind, however, that lossless codecs require substantially more bandwidth and storage capacity, and may not be a good choice outside very specific use cases.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">Supported bit rates</th>
+      <td>
+        Based on the sample format and sample rate, as well as the compression
+        level
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Variable Bit Rate (VBR) support</th>
+      <td>No</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample formats</th>
+      <td>16-bit, 20-bit, 24-bit, and 32-bit integer</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample rates</th>
+      <td>1 Hz to 384,000 Hz</td>
+    </tr>
+    <tr>
+      <th scope="row">Recommended minimum bit rate for stereo sound</th>
+      <td>n/a</td>
+    </tr>
+    <tr>
+      <th scope="row">Compression</th>
+      <td>Lossless; up to 45-60%</td>
+    </tr>
+    <tr>
+      <th scope="row">Maximum audio channels</th>
+      <td>8 (up to 7.1 surround)</td>
+    </tr>
+    <tr>
+      <th scope="row">Audio frequency bandwidth</th>
+      <td>?</td>
+    </tr>
+    <tr>
+      <th scope="row">Latency</th>
+      <td>?</td>
+    </tr>
+    <tr>
+      <th scope="row">Browser compatibility</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">ALAC support</th>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Container support</th>
+      <td>MP4</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> compatible
+      </th>
+      <td>No</td>
+    </tr>
+    <tr>
+      <th scope="row">Licensing</th>
+      <td>
+        Open license (Apache License 2.0);
+        <a href="https://github.com/macosforge/alac" class="external" rel=" noopener">source code available on GitHub</a>
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="amr_adaptive_multi-rate"><a href="#amr_adaptive_multi-rate" title="Permalink to AMR (Adaptive Multi-Rate)">AMR (Adaptive Multi-Rate)</a></h3><div><p>The <strong><a href="http://www.voiceage.com/AMR-NB.AMR.html" class="external" rel=" noopener">Adaptive Multi-Rate audio codec</a></strong> is optimized for encoding human speech efficiently. It was standardized in 1999 as part of the 3GPP audio standard used for both <a href="https://en.wikipedia.org/wiki/GSM" class="external" rel=" noopener">GSM</a> and <a href="https://en.wikipedia.org/wiki/UMTS" class="external" rel=" noopener">UMTS</a> cellular telephony, and uses a multi-rate narrowband algorithm to encode audio frequencies at a telephony-grade quality level at around 7.4 kbps. In addition to being used for real-time telephony, AMR audio may be used for voicemail and other short audio recordings.</p>
+<p>AMR audio which is stored in files may be typed <code>.amr</code>, but may also be encapsulated in <code>.3gp</code> files.</p>
+<p>As a speech-specific codec, AMR is essentially useless for any other content, including audio containing only singing voices. Additionally, because AMR is designed to minimize capacity requirements, it only captures the portion of the full audio frequency bandwidth of human speech which is absolutely necessary to understand what's being said, so quality is reduced accordingly. If you need the ability to record audio at a minimal impact to network and/or storage capacity, AMR can be a great choice. However, if you need high-fidelity reproduction of human speech—or even low-quality music reproduction—you need to choose another format.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th rowspan="2" scope="row">Supported bit rates</th>
+      <td>
+        <strong>Half Rate (HR) and Full Rate (FR):</strong> 1.8 kbps, 4.75 kbps,
+        5.15 kbpz, 5.9 kbps, 6.7 kbps, 7.4 kbps, 7.95 kbps
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Full Rate (FR) only:</strong> 10.2 kbps and 12.2 kbps</td>
+    </tr>
+    <tr>
+      <th scope="row">Variable Bit Rate (VBR) support</th>
+      <td>No</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample formats</th>
+      <td>13-bit integer</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample rates</th>
+      <td>8 kHz</td>
+    </tr>
+    <tr>
+      <th scope="row">Recommended minimum bit rate for stereo sound</th>
+      <td>n/a</td>
+    </tr>
+    <tr>
+      <th scope="row">Compression</th>
+      <td>Lossy</td>
+    </tr>
+    <tr>
+      <th scope="row">Maximum audio channels</th>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th scope="row">Audio frequency bandwidth</th>
+      <td>200 Hz to 3,400 Hz</td>
+    </tr>
+    <tr>
+      <th scope="row">Latency</th>
+      <td>25 ms</td>
+    </tr>
+    <tr>
+      <th scope="row">Browser compatibility</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">AMR support</th>
+              <td>No</td>
+              <td>?</td>
+              <td>No</td>
+              <td>?</td>
+              <td>No</td>
+              <td>?</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          While the Chrome browser does not support AMR, Chrome OS supports
+          AMR-NB (narrowband) and AMR-WB (wideband).
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Container support</th>
+      <td>AMR, 3GPP</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> compatible
+      </th>
+      <td>No</td>
+    </tr>
+    <tr>
+      <th scope="row">Licensing</th>
+      <td>
+        Non-free; license fees and annual royalties apply. See
+        <a href="http://www.voiceage.com/Overview-lic.html" class="external" rel=" noopener">VoiceAge licensing</a>
+        for details
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="flac_free_lossless_audio_codec"><a href="#flac_free_lossless_audio_codec" title="Permalink to FLAC (Free Lossless Audio Codec)">FLAC (Free Lossless Audio Codec)</a></h3><div><p><strong>FLAC</strong> (<strong>Free Lossless Audio Codec</strong>) is a lossless audio codec published by the <a href="https://xiph.org/" class="external" rel=" noopener">Xiph.org Foundation</a>. It provides good compression rates with no loss of audio fidelity; that is, the decompressed audio is identical to the original. Because the compression algorithm is specifically designed for audio, it gives better results than would be achieved using a general-purpose compression algorithm.</p>
+<p>FLAC is a great choice for smaller audio effects files where pristine quality and tonal accuracy are desired, as well as for archival of music.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">Supported bit rates</th>
+      <td>—</td>
+    </tr>
+    <tr>
+      <th scope="row">Variable Bit Rate (VBR) support</th>
+      <td>No</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample formats</th>
+      <td>4-bit to 24-bit integers</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample rates</th>
+      <td>
+        1 Hz to 65,535 Hz (in 1 Hz increments) or 10 Hz to 655,350 Hz in 10 Hz
+        increments
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Recommended minimum bit rate for stereo sound</th>
+      <td>—</td>
+    </tr>
+    <tr>
+      <th scope="row">Compression</th>
+      <td>Lossless; up to 40-50% size reduction</td>
+    </tr>
+    <tr>
+      <th scope="row">Maximum audio channels</th>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th scope="row">Audio frequency bandwidth</th>
+      <td>Full-spectrum</td>
+    </tr>
+    <tr>
+      <th scope="row">Latency</th>
+      <td>4.3 ms to 92 ms with 46.4 ms being the typical average</td>
+    </tr>
+    <tr>
+      <th scope="row">Browser compatibility</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">FLAC support</th>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>51 (desktop)<br>58 (mobile)</td>
+              <td>No</td>
+              <td>No</td>
+              <td>11</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Container support</th>
+      <td>MP4, Ogg, FLAC</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> compatible
+      </th>
+      <td>No</td>
+    </tr>
+    <tr>
+      <th scope="row">Licensing</th>
+      <td>Fully open and free of any licensing requirements</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="g.711_pulse_code_modulation_of_voice_frequencies"><a href="#g.711_pulse_code_modulation_of_voice_frequencies" title="Permalink to G.711 (Pulse Code Modulation of Voice Frequencies)">G.711 (Pulse Code Modulation of Voice Frequencies)</a></h3><div><p>The <strong>G.711</strong> specification, published by the International Telecommunications Union (ITU), was issued in 1972 to define standard audio encoding for telephone applications. It supports voice-grade audio covering frequencies from 300 to 3400 Hz. It is used extensively for telephone traffic and voicemail, and it is the highest quality audio encoding which can be transmitted through the public telephone network.</p>
+<p>G.711 is not a high fidelity codec, but is instead optimized to support a wide range of voice levels (from whisper to shout) while maintaining high intelligibility and low computational complexity. G.711 uses a logarithmic companding algorithm which provides 14 bits of dynamic range in an 8-bit sample. It uses a sampling rate of 8000 samples/sec, corresponding to a bitrate of 64000 bps.</p>
+<p>There are two flavors of G.711 which indicate the exact mathematical equation for the algorithm: <a href="https://en.wikipedia.org/wiki/M-law" class="external" rel=" noopener">µ-law</a> (commonly used in North America and Japan) and <a href="https://en.wikipedia.org/wiki/A-law" class="external" rel=" noopener">A-law</a> (common in the rest of the world). There is no substantial quality difference between the two laws, and it is simple to transcode audio from one to the other. Nevertheless, it is important to specify which law is in use in any replay application or file format. A-law audio will replay poorly if mistakenly uncompressed with the µ-law algorithm, and vice versa.</p>
+<p>This codec is required to be supported by all <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> solutions because it is simple, easy to implement, widely-used, and broadly compatible across all modern computing platforms.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">Supported bit rates</th>
+      <td>64 kbps</td>
+    </tr>
+    <tr>
+      <th scope="row">Variable Bit Rate (VBR) support</th>
+      <td>No</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample formats</th>
+      <td>encoded audio is 8 bits per sample</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample rates</th>
+      <td>8 kHz</td>
+    </tr>
+    <tr>
+      <th scope="row">Recommended minimum bit rate for stereo sound</th>
+      <td>128 kbps</td>
+    </tr>
+    <tr>
+      <th scope="row">Compression</th>
+      <td>Logarithmic companding (µ-law or A-law)</td>
+    </tr>
+    <tr>
+      <th scope="row">Maximum audio channels</th>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th scope="row">Audio frequency bandwidth</th>
+      <td>300 Hz – 3400 Hz</td>
+    </tr>
+    <tr>
+      <th scope="row">Latency</th>
+      <td>0.125 ms</td>
+    </tr>
+    <tr>
+      <th scope="row">Browser compatibility</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">G.711 support</th>
+              <td>23</td>
+              <td>15</td>
+              <td>22</td>
+              <td>No</td>
+              <td>43</td>
+              <td>11</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>G.711 is supported only for WebRTC connections.</p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Container support</th>
+      <td>3GP, WAV</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> compatible
+      </th>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Licensing</th>
+      <td>
+        All applicable patents have expired, so G.711 is free to use without
+        restriction
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="g.722_64_kbps_7_khz_audio_coding"><a href="#g.722_64_kbps_7_khz_audio_coding" title="Permalink to G.722 (64 kbps (7 kHz) audio coding)">G.722 (64 kbps (7 kHz) audio coding)</a></h3><div><p>Published by the International Telecommunications Union (ITU), the <strong>G.722</strong> codec is designed specifically for voice compression. Its audio coding bandwidth is limited to the 50 Hz to 7,000 Hz range, which covers most of the frequency range of typical human vocalization. This makes it ill-suited for handling any audio that might range outside the human speech range, such as music.</p>
+<p>G.722 audio is encoded using Adaptive Differential Pulse Code Modulation (ADPCM), in which each sample is represented not by its absolute value, but as a value indicating how much the new sample differs from the previous sample.</p>
+<p>G.722 is primarily used with WebRTC connections, as it's one of the audio codecs mandated by the WebRTC specification.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">Supported bit rates</th>
+      <td>
+        G.722: 48 kbps, 56 kbps, and 64 kbps; however, in practice 64 kbps is
+        always used<br>G.722 Annex B Super Wide-Band: 64 kbps, 80 kbps, and 96
+        kbps<br>G.722 Annex D Stereo Wide-Band: 64 kbps and 80 kbps<br>G.722
+        Annex D Stereo Super Wide-Band: 80 kbps, 96 kbps, 112 kbps, and 128 kbps
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Variable Bit Rate (VBR) support</th>
+      <td>No</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample formats</th>
+      <td>14-bit integer</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample rates</th>
+      <td>
+        16 kHz (ADPCM is specified to allow 8 kHz, 11.025 kHz, 22.05 kHz, 44.1
+        kHz, but G.722 uses 16 kHz)
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Recommended minimum bit rate for stereo sound</th>
+      <td>128 kbps at 44.1 kHz sample rate</td>
+    </tr>
+    <tr>
+      <th scope="row">Compression</th>
+      <td>Lossy</td>
+    </tr>
+    <tr>
+      <th scope="row">Maximum audio channels</th>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th scope="row">Audio frequency bandwidth</th>
+      <td>50 Hz - 7 kHz</td>
+    </tr>
+    <tr>
+      <th scope="row">Latency</th>
+      <td>4 ms</td>
+    </tr>
+    <tr>
+      <th scope="row">Browser compatibility</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">G.722 support</th>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>WebRTC only.</p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Container support</th>
+      <td>3GP, AMR-WB</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> compatible
+      </th>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Licensing</th>
+      <td>
+        All applicable patents have expired; G.722 is free to use without
+        restriction
+      </td>
+    </tr>
+  </tbody>
+</table></div><h3 id="mp3_mpeg-1_audio_layer_iii"><a href="#mp3_mpeg-1_audio_layer_iii" title="Permalink to MP3 (MPEG-1 Audio Layer III)">MP3 (MPEG-1 Audio Layer III)</a></h3><div><p>Of the audio formats specified by the MPEG/MPEG-2 standards, <strong>MPEG-1 Audio Layer III</strong>—otherwise known as <strong><a href="https://en.wikipedia.org/wiki/MP3" class="external" rel=" noopener">MP3</a></strong>—is by far the most widely used and best-known. The MP3 codec is defined by <a href="https://www.iso.org/standard/22412.html" class="external" rel=" noopener">MPEG-1 Part 3</a> and <a href="https://www.iso.org/standard/26797.html" class="external" rel=" noopener">MPEG-2 Part 3</a>, and was introduced in 1991 (and finalized in 1992).</p>
+<p>When MP3-format audio is stored inside an MPEG container, the resulting file is also referred to as just an "MP3 file" or "MP3." Files with the ubiquitous <code>.mp3</code> extension are stored in what is perhaps the most widely distributed audio file format in the world, which is in large part responsible for the digital audio revolution of the late 1990s and early 2000s.</p>
+<p>MPEG-1 MP3 audio supports higher bit rates as well as higher sampling rates than MP3 audio in MPEG-2 files. MPEG-1 format MP3 is generally best for music or other complex audio, while MPEG-2 mode MP3 audio is acceptable for speech and other simpler sounds.</p>
+<p>The patents behind MP3 have expired, removing many or most licensing concerns around using MP3 files in your projects. That makes them a good choice for many projects.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th rowspan="2" scope="row">Supported bit rates</th>
+      <td>
+        <strong>MPEG-1 mode:</strong> 32 kbps, 40 kbps, 48 kbps, 56 kbps, 64
+        kbps, 80 kbps, 96 kbps, 112 kbps, 128 kbps, 160 kbps, 192 kbps, 224
+        kbps, 256 kbps, 320 kbps
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>MPEG-2 mode:</strong> 8 kbps, 16 kbps, 24 kbps, 32 kbps, 40
+        kbps, 48 kbps, 56 kbps, 64 kbps, 80 kbps, 96 kbps, 112 kbps, 128 kbps,
+        144 kbps, 160 kbps
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Variable Bit Rate (VBR) support</th>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample formats</th>
+      <td>16-bit integer</td>
+    </tr>
+    <tr>
+      <th rowspan="2" scope="row">Supported sample rates</th>
+      <td><strong>MPEG-1 mode:</strong> 32000 Hz, 44100 Hz, 48000 Hz</td>
+    </tr>
+    <tr>
+      <td>
+        <strong>MPEG-2 mode:</strong> 16000 Hz, 22050 Hz, 24000 Hz (Half the
+        frequency of the MPEG-1 supported modes)
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Recommended minimum bit rate for stereo sound</th>
+      <td>128 kbps at 48 kHz sample rate</td>
+    </tr>
+    <tr>
+      <th scope="row">Compression</th>
+      <td>Lossy</td>
+    </tr>
+    <tr>
+      <th rowspan="2" scope="row">Maximum audio channels</th>
+      <td><strong>MPEG-1 mode:</strong> 2 [2.0]</td>
+    </tr>
+    <tr>
+      <td>
+        <strong>MPEG-2 mode:</strong> 5 (plus 1 optional Low Frequency
+        Enhancement channel) [5.1]
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Audio frequency bandwidth</th>
+      <td>Varies, depending on bit rate and psychoacoustic analysis</td>
+    </tr>
+    <tr>
+      <th scope="row">Latency</th>
+      <td>At least 100 ms</td>
+    </tr>
+    <tr>
+      <th scope="row">Browser compatibility</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">MP3 support</th>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>9</td>
+              <td>Yes</td>
+              <td>3.1</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Container support</th>
+      <td>MPEG-1, MPEG-2, MP4, ADTS, 3GP</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> compatible
+      </th>
+      <td>No</td>
+    </tr>
+    <tr>
+      <th scope="row">Licensing</th>
+      <td>
+        Patent-free in the EU as of 2012; patent-free in the United States as of
+        April 16, 2017; now free to use
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>For patent reasons, Firefox did not directly support MP3 prior to version 71; instead, platform-native libraries were used to support MP3. This capability was introduced on each platform in different Firefox releases:</p>
+<table class="standard-table" style="margin-left: 4em; max-width: 30em">
+  <caption>MP3 support with external library, by platform, in Firefox</caption>
+  <thead>
+    <tr>
+      <th scope="row">Platform</th>
+      <th scope="col">First Firefox version<br>with MP3 support</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Windows (Vista and later)</th>
+      <td>22</td>
+    </tr>
+    <tr>
+      <th scope="row">Android</th>
+      <td>20</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Linux (depends on
+        <a href="https://gstreamer.freedesktop.org/" class="external" rel=" noopener">GStreamer</a>)
+      </th>
+      <td>26</td>
+    </tr>
+    <tr>
+      <th scope="row">macOS</th>
+      <td>35</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="opus"><a href="#opus" title="Permalink to Opus">Opus</a></h3><div><p>The <a href="https://en.wikipedia.org/wiki/Opus_(audio_format)" class="external" rel=" noopener">Opus</a> audio format was created by the Xiph.org Foundation as a fully open audio format; it has been standardized by <a href="https://www.ietf.org/" class="external" rel=" noopener">IETF</a> as <a href="https://datatracker.ietf.org/doc/html/rfc6716" class="external" rel=" noopener">RFC 6716</a>. It's a good general-purpose audio codec that can efficiently handle both low-complexity audio such as speech as well as music and other high-complexity sounds.</p>
+<p>Opus supports multiple compression algorithms, and can even use more than one algorithm in the same audio file, since the encoder can choose the bit rate, audio bandwidth, algorithm, and other details of the compression settings for each frame of audio.</p>
+<p>Opus is a good all-around audio codec for use in your web applications, and can be used for any audio tasks you have in mind.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">Supported bit rates</th>
+      <td>6 kbps - 510 kbps</td>
+    </tr>
+    <tr>
+      <th scope="row">Variable Bit Rate (VBR) support</th>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample formats</th>
+      <td>16-bit integer and 32-bit float (-1.0 to 1.0)</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample rates</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Profile</th>
+              <th scope="col">Effective sample rate</th>
+            </tr>
+            <tr>
+              <th scope="row">Narrowband (NB)</th>
+              <td>8 kHz</td>
+            </tr>
+            <tr>
+              <th scope="row">Medium band (MB)</th>
+              <td>12 kHz</td>
+            </tr>
+            <tr>
+              <th scope="row">Wideband (WB)</th>
+              <td>16 kHz</td>
+            </tr>
+            <tr>
+              <th scope="row">Super Wideband (SWB)</th>
+              <td>24 kHz</td>
+            </tr>
+            <tr>
+              <th scope="row">Fullband (FB)</th>
+              <td>48 kHz</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          The specified sample rates are <em>effective sample rates</em>. Opus
+          uses an algorithm based on audio bandwidths rather than sample rates.
+          See <a href="https://datatracker.ietf.org/doc/html/rfc6716#section-2" class="external" rel=" noopener">RFC 6716, section 2</a> for details. In addition, there is an
+          <em>optional</em> part of the Opus specification (Opus Custom) that
+          does allow for non-standard sample rates, but the use of this feature
+          is discouraged.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Recommended minimum bit rate for stereo sound</th>
+      <td>96 kbps at 48 kHz sample rate</td>
+    </tr>
+    <tr>
+      <th scope="row">Compression</th>
+      <td>Lossy</td>
+    </tr>
+    <tr>
+      <th scope="row">Maximum audio channels</th>
+      <td>255 (up to 1 LFE channel)</td>
+    </tr>
+    <tr>
+      <th scope="row">Audio frequency bandwidth</th>
+      <td>
+        <table class="standard-table">
+          <thead>
+            <tr>
+              <th scope="row">Profile</th>
+              <th scope="col">Audio bandwidth</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Narrowband (NB)</th>
+              <td>4 kHz</td>
+            </tr>
+            <tr>
+              <th scope="row">Medium band (MB)</th>
+              <td>6 kHz</td>
+            </tr>
+            <tr>
+              <th scope="row">Wideband (WB)</th>
+              <td>8 kHz</td>
+            </tr>
+            <tr>
+              <th scope="row">Super Wideband (SWB)</th>
+              <td>12 kHz</td>
+            </tr>
+            <tr>
+              <th scope="row">Fullband (FB)</th>
+              <td>20 kHz</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          Although the
+          <a href="https://en.wikipedia.org/wiki/Nyquist–Shannon_sampling_theorem" class="external" rel=" noopener">Nyquist–Shannon sampling theorem</a>
+          shows that audio bandwidth can be as much as one half of the sampling
+          rate, Opus doesn't allow encoding outside a maximum 20 kHz audio
+          frequency band, since the human ear can't perceive anything above the
+          20 kHz point anyway. This saves some space in the encoded audio.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Latency</th>
+      <td>5 ms to 66.5 ms</td>
+    </tr>
+    <tr>
+      <th scope="row">Browser compatibility</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">Opus support</th>
+              <td>33</td>
+              <td>14</td>
+              <td>15</td>
+              <td>No</td>
+              <td>20</td>
+              <td>11</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          This information refers to support for Opus in HTML
+          <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a>
+          elements, and not to WebRTC.
+        </p>
+        <p>
+          Safari supports Opus in the <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> element
+          only when packaged in a CAF file, and only on macOS High Sierra
+          (10.13) or iOS 11.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Container support</th>
+      <td>Ogg, WebM, MPEG-TS, MP4</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> compatible
+      </th>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Licensing</th>
+      <td>Fully open and free of any licensing requirements</td>
+    </tr>
+  </tbody>
+</table></div><h3 id="vorbis"><a href="#vorbis" title="Permalink to Vorbis">Vorbis</a></h3><div><p><a href="https://www.xiph.org/vorbis/" class="external" rel=" noopener">Vorbis</a> is an open format from the <a href="https://xiph.org/" class="external" rel=" noopener">Xiph.org Foundation</a> which supports a wide range of channel combinations, including monaural, stereo, polyphonic, quadraphonic, 5.1 surround, ambisonic, or up to 255 discrete audio channels. Depending on the quality setting used during encoding, the resulting bit rate can vary from around 45 kbps to 500 kbps. Vorbis inherently uses variable bit rate encoding; the bit rate can vary from one sample to the next as needed during the compression process.</p>
+<p>Generally, Vorbis is more efficient in terms of size and bit rate than MP3 at similar quality levels. This and its free and open license, make it a good choice for many kinds of audio data as long as its high latency isn't a problem.</p>
+<table class="standard-table">
+  <tbody>
+    <tr>
+      <th scope="row">Supported bit rates</th>
+      <td>45 kbps - 500 kbps</td>
+    </tr>
+    <tr>
+      <th scope="row">Variable Bit Rate (VBR) support</th>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample formats</th>
+      <td>16-bit integer</td>
+    </tr>
+    <tr>
+      <th scope="row">Supported sample rates</th>
+      <td>8 kHz - 192 kHz</td>
+    </tr>
+    <tr>
+      <th scope="row">Recommended minimum bit rate for stereo sound</th>
+      <td>
+        192 kbps at 48 kHz; this is typically accomplished by setting the
+        quality level to 6 to 8.
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Compression</th>
+      <td>Lossy</td>
+    </tr>
+    <tr>
+      <th scope="row">Maximum audio channels</th>
+      <td>255</td>
+    </tr>
+    <tr>
+      <th scope="row">Audio frequency bandwidth</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Latency</th>
+      <td>At least 100 ms</td>
+    </tr>
+    <tr>
+      <th scope="row">Browser compatibility</th>
+      <td>
+        <table class="standard-table">
+          <tbody>
+            <tr>
+              <th scope="row">Feature</th>
+              <th scope="col">Chrome</th>
+              <th scope="col">Edge</th>
+              <th scope="col">Firefox</th>
+              <th scope="col">Internet Explorer</th>
+              <th scope="col">Opera</th>
+              <th scope="col">Safari</th>
+            </tr>
+            <tr>
+              <th scope="row">Vorbis support</th>
+              <td>4</td>
+              <td>17</td>
+              <td>3.5</td>
+              <td>No</td>
+              <td>11.5</td>
+              <td>No</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          This information refers to support for Vorbis in HTML
+          <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a>
+          elements, and not to WebRTC.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Container support</th>
+      <td>Ogg, WebM</td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="/en-US/docs/Glossary/RTP">RTP</a> /
+        <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> compatible
+      </th>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Licensing</th>
+      <td>Fully open and free of any licensing requirements</td>
+    </tr>
+  </tbody>
+</table></div><h2 id="choosing_an_audio_codec"><a href="#choosing_an_audio_codec" title="Permalink to Choosing an audio codec">Choosing an audio codec</a></h2><div><p>Typically, regardless of what codec you use, it will generally get the job done, even if it's not the ideal choice, as long as you choose a codec not specifically designed for a totally different kind of source audio. Choosing a voice-only codec and trying to use it for music will not give you usable results, for instance.</p>
+<p>Some codecs may limit compatibility, however, and others may be more optimal for your needs than others. Here we'll provide guidance to help you select an appropriate codec for your use case.</p>
+<p>When choosing a codec to use for your audio, you should first consider the following questions:</p>
+<ul>
+  <li>Will the encoded audio be getting remixed or recompressed? If so, avoid lossy compression, which would be compounded by recompressing the audio; or at least use as little compression as possible.</li>
+  <li>If the audio needs to go into a specific file type, keep that in mind, since media containers typically support a specific subset of the available codecs.</li>
+  <li>What kind of audio content will the codec be handling? Certain codecs are specifically designed for voice-only content (they take advantage of the reduced frequency range needed for human speech). Others may have an algorithmic tendency to perform worse when encoding specific genres of music.</li>
+  <li>What bit rates and other configurable properties does each codec have that may make it a good (or poor) choice?</li>
+  <li>To what extent, if at all, does latency matter for your needs? If you need sound that is very precisely timed, the lower the latency the better.</li>
+  <li>How much compression do you need to achieve?</li>
+</ul>
+<p>Let's consider a few common scenarios to get a feel for the decision-making process.</p></div><h3 id="example_music_for_streaming"><a href="#example_music_for_streaming" title="Permalink to Example: Music for streaming">Example: Music for streaming</a></h3><div><p>For streaming music, you want to select a codec that minimizes bandwidth usage as much as possible while introducing as few artifacts as possible into the audio through compression. This is necessary because the rate at which the music is downloaded needs to be no greater than the amount of bandwidth available on the network, and ideally there should be room left for network speed fluctuations and use of the network by other applications.</p>
+<p>Unless there's a specific need for lossless compression, or the network bandwidth is guaranteed to be high enough to support it, a lossy compression scheme is a good choice. Which one you choose depends on browser compatibility and the availability of any special features you may need the codec to support.</p>
+<p><em>Usually</em> the latency is not particularly important when streaming music. Possible exceptions include looped music, where you need music to be able to play back uninterrupted over and over, or when you need to be able to play songs back to back with no gap between them. This can be particularly important for classical music, theatrical soundtracks, and for background music during gameplay.</p>
+<p>For general music playback, the three most likely candidates are MP3, AAC, and Vorbis.</p>
+<ul>
+  <li>AAC in an MP4 container is supported by all major browsers, which makes this a great choice.</li>
+  <li>Vorbis is almost always used in Ogg files, but Ogg containers are not universally supported. Even Microsoft Edge, which supports both Vorbis, does not yet support Ogg containers.</li>
+  <li>MP3 (MPEG-1 Audio Layer III) is supported by all major browsers. These files are MPEG-1 files that contain an Audio Layer III track.</li>
+</ul>
+<p>If you need to minimize latency during music playback, you should strongly consider Opus, which has the lowest range of latencies of the general-purpose codecs (5 ms to 66.5 ms, compared to at least 100 ms for the others).</p>
+<div class="notecard note" id="sect1">
+  <p><strong>Note:</strong> Compatibility information described here is generally correct as of the time this article was written; however, there may be caveats and exceptions. Be sure to refer to the compatibility tables before committing to a given media format.</p>
+</div>
+<p>Based on this, AAC is likely your best choice if you can only support one audio format. Of course, if you can provide multiple formats (for example, by using the <a href="/en-US/docs/Web/HTML/Element/source"><code>&lt;source&gt;</code></a> element within your <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> elements), you can avoid many or all of those exceptions.</p></div><h3 id="example_music_for_download"><a href="#example_music_for_download" title="Permalink to Example: Music for download">Example: Music for download</a></h3><div><p>Music being downloaded by the user can be compressed to a larger overall file size than streamed music, since (unlike when streaming) it doesn't matter if the download speed is slower than the playback speed of the media. That means you can consider using lossy compression at higher bit rates, which results in larger files but with less loss of fidelity. Or you can choose a lossless format. The choice depends largely on the union of your application's requirements and the preferences of your users.</p>
+<p>For an actual music download service, you might offer songs for download as 128 Kbps MP3 files, 256 kbps AAC files (in MP4 containers), or FLAC files, depending on a preference selected by the user. If you need to choose just one format, select one that makes sense given your requirements and the type of audio content being downloaded.</p>
+<p>Generally, of course, MP3 is the most common format used for music; choose a bit rate of at least 192 kbps if possible. The iTunes store, on the other hand, distributes music in 256 kbps AAC format.</p></div><h3 id="example_voice_recording_and_playback"><a href="#example_voice_recording_and_playback" title="Permalink to Example: Voice recording and playback">Example: Voice recording and playback</a></h3><div><p>The specific characteristics of human speech allow speech-specific codecs to compress the audio far more than most general-purpose codecs can. That's because although humans hear frequencies ranging from around 20 Hz to 20,000 Hz, and human speech sounds range from about 300 Hz to 18,000 Hz, the majority of the speech sounds that we need in order to understand what's being said lie in the frequency range of 500 Hz to 3,000 Hz or so. That means voice-only codecs can throw away everything else.</p>
+<p>The voice-specific codecs are all inherently very lossy, however, and any sound with significant information in the frequency bands outside the vocal range captured will be entirely lost. This makes these codecs completely unsuitable for anything but spoken words. Even audio that contains only voices, but singing rather than speaking, will likely not be of acceptable quality in one of these formats.</p>
+<p>Voice recording and playback usually needs to be low-latency in order to synchronize with video tracks, or in order to avoid cross-talk or other problems. Fortunately, the characteristics that lead to speech codecs being so efficient storage space-wise also make them tend to be very low latency. If you're working with WebRTC, <a href="#g.722_64_kbps_7_khz_audio_coding">G.722</a>, for example, has 4 ms latency (compared with over 100 ms for MP3), and <a href="#amr_adaptive_multi-rate">AMR</a>'s latency is around 25 ms.</p>
+<div class="notecard note" id="sect2">
+  <p><strong>Note:</strong> For more about WebRTC and the codecs it can use, see <a href="/en-US/docs/Web/Media/Formats/WebRTC_codecs">Codecs used by WebRTC</a>.</p>
+</div>
+<p>The codecs generally used on the web that are used for voice-only encoding are G.722 and AMR. AMR is a narrowband codec, encoding only the frequencies between 200 Hz and 3,400 Hz at bit rates typically around 7.4 kbps, while G.722 is a wideband codec that expands the audio bandwidth to 50 Hz to 7,000 Hz at much higher bit rates—usually 64 kbps.</p>
+<p>If you have plenty of network bandwidth to work with, and are reasonably certain your users will as well, G.722 is the better choice. To maximize the storage and network efficiency in a constrained environment, choose AMR.</p></div><h3 id="example_audio_clips_for_professional_mixing"><a href="#example_audio_clips_for_professional_mixing" title="Permalink to Example: Audio clips for professional mixing">Example: Audio clips for professional mixing</a></h3><div><p>When compressing audio that will be getting mixed or remixed, you typically want zero or close to zero loss of fidelity, which suggests a lossless codec may be in order. However, because lossless encoding naturally has a much lower compression level than lossy encoding, you may find that if your source audio is large enough, you might have to choose a lossy encoder anyway, especially in a web environment in which you can't control the download rate of the media.</p>
+<p>Assuming that lossless compression is our best option here (which it usually is, as long as the audio files are small), the three strongest candidates from a codec perspective are <a href="https://en.wikipedia.org/wiki/FLAC" class="external" rel=" noopener">FLAC</a>, <a href="https://en.wikipedia.org/wiki/Apple_Lossless" class="external" rel=" noopener">Apple Lossless (ALA</a>, and <a href="https://en.wikipedia.org/wiki/Audio_Lossless_Coding" class="external" rel=" noopener">MPEG-4 ALS</a>. Which we choose will depend on browser support and which media container formats support them.</p>
+<p>For the purposes of this example, we'll assume that all browsers have the same codec and container support as Firefox (although this is far from true). Consider the breadth of actual support for the codecs when making your decisions.</p>
+<ul>
+  <li>Firefox supports FLAC in FLAC's native containers as well as in Ogg and MPEG-4 (MP4) files.</li>
+  <li>Firefox only supports Apple Lossless through its platform-specific QuickTime support.</li>
+  <li>Firefox doesn't support MP4 ALS.</li>
+</ul>
+<p>In this case, it appears that FLAC is most likely the best codec to go with; ALAC has little to no direct browser support.</p></div><h2 id="audio_encoding_software"><a href="#audio_encoding_software" title="Permalink to Audio encoding software">Audio encoding software</a></h2><div><p>There are many tools available for encoding audio. The simplest are those which are meant for ripping CDs or pulling in audio files and quickly and automatically converting them to MP3 or AAC format to store in a library, such as <a href="https://www.apple.com/itunes/" class="external" rel=" noopener">iTunes</a>. But when developing web apps that use audio as a component of the app, such as games, you will need more control over the encoding process and more options surrounding the format used while encoding the audio.</p>
+<p>A few popular options:</p>
+<dl>
+  <dt id="ffmpeg"><a href="https://ffmpeg.org/" class="external" rel=" noopener">FFmpeg</a></dt>
+  <dd>
+    <p>Arguably the best-known and most widely regarded open source codec package available, FFmpeg supports the majority of the most popular audio formats and provides command-line tools and libraries for encoding, decoding, and performing format conversions of both audio and video. Binaries are available for macOS, Linux, and Windows.</p>
+  </dd>
+  <dt id="handbrake"><a href="https://handbrake.fr/" class="external" rel=" noopener">Handbrake</a></dt>
+  <dd>
+    <p>A highly popular open source front-end to FFmpeg which adds a graphical user interface that makes it much easier to control the wide variety of options FFmpeg offers while encoding audio and/or video. Binaries are available for macOS, Linux, and Windows.</p>
+  </dd>
+  <dt id="audacity"><a href="https://www.audacityteam.org/" class="external" rel=" noopener">Audacity</a></dt>
+  <dd>
+    <p>An open source audio editor that supports loading audio from many different formats, editing, filtering, and adjusting the audio, and saving it back out in either the original format or a new format. Available for macOS, Linux, and Windows.</p>
+  </dd>
+  <dt id="lame"><a href="https://lame.sourceforge.io/" class="external" rel=" noopener">LAME</a></dt>
+  <dd>
+    <p>A high quality open source MP3 encoder with support for CBR, ABR, and VBR encoding as well as a variety of other options. Distributed only in source form by the LAME project, but can be installed using <a href="https://brew.sh/" class="external" rel=" noopener">Homebrew</a> or similar tools.</p>
+  </dd>
+</dl></div><h2 id="see_also"><a href="#see_also" title="Permalink to See also">See also</a></h2><div><ul>
+  <li><a href="/en-US/docs/Web/Media/Formats/Containers">Media container formats</a></li>
+  <li>The <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> elements</li>
+  <li><a href="/en-US/docs/Web/API/WebRTC_API">WebRTC API</a></li>
+  <li><a href="/en-US/docs/Web/Media/Formats/Video_codecs">Web video codec guide</a></li>
+  <li><a href="/en-US/docs/Web/Media/Formats/WebRTC_codecs">Codecs used by WebRTC</a></li>
+</ul></div></article><aside class="metadata"><div class="metadata-content-container"><div id="on-github" class="on-github"><h3>Found a problem with this page?</h3><ul><li><a href="https://github.com/mdn/content/edit/style/old/files/en-us/web/media/formats/audio_codecs/index.md" title="You're going to need to sign in to GitHub first (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Edit on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/content/blob/style/old/files/en-us/web/media/formats/audio_codecs/index.md" title="Folder: en-us/web/media/formats/audio_codecs (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Source on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/content/issues/new?body=MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FMedia%2FFormats%2FAudio_codecs%0A%0A%23%23%23%23+What+information+was+incorrect%2C+unhelpful%2C+or+incomplete%3F%0A%0A%0A%23%23%23%23+Specific+section+or+headline%3F%0A%0A%0A%23%23%23%23+What+did+you+expect+to+see%3F%0A%0A%0A%23%23%23%23+Did+you+test+this%3F+If+so%2C+how%3F%0A%0A%0A%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+Content+page+report+details%3C%2Fsummary%3E%0A%0A*+Folder%3A+%60en-us%2Fweb%2Fmedia%2Fformats%2Faudio_codecs%60%0A*+MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FMedia%2FFormats%2FAudio_codecs%0A*+GitHub+URL%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fblob%2Fstyle%2Fold%2Ffiles%2Fen-us%2Fweb%2Fmedia%2Fformats%2Faudio_codecs%2Findex.md%0A*+Last+commit%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fcommit%2F5887d9bebdcbccdcec1129d720f24744fd827921%0A*+Document+last+modified%3A+2022-09-13T08%3A41%3A19.000Z%0A%0A%3C%2Fdetails%3E&amp;title=Issue+with+%22Web+audio+codec+guide%22%3A+%28short+summary+here+please%29&amp;labels=needs-triage%2CContent%3AMedia" title="This will take you to https://github.com/mdn/content to file a new issue" target="_blank" rel="noopener noreferrer">Report a problem with this content on <b>GitHub</b></a></li><li>Want to fix the problem yourself? See<!-- --> <a href="https://github.com/mdn/content/blob/main/README.md" target="_blank" rel="noopener noreferrer">our Contribution guide</a>.</li></ul></div><p class="last-modified-date"><b>Last modified:</b> <time datetime="2022-09-13T08:41:19.000Z">Sep 13, 2022</time>,<!-- --> <a href="/en-US/docs/Web/Media/Formats/Audio_codecs/contributors.txt">by MDN contributors</a></p></div></aside></main><nav id="sidebar-quicklinks" class="sidebar"><h4>Related Topics</h4><div>
+<ol><li><a href="/en-US/docs/Web/Media/Autoplay_guide">Autoplay guide for media and Web Audio APIs</a></li><li><a href="/en-US/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video">DASH Adaptive Streaming for HTML 5 Video</a></li><li><a href="/en-US/docs/Web/Media/Streaming">Guide to streaming audio and video</a></li><li><a href="/en-US/docs/Web/Media/Formats">Media type and format guide: image, audio, and video content</a><ol><li><a href="/en-US/docs/Web/Media/Formats">Media type and format guide: image, audio, and video content</a></li><li><a href="/en-US/docs/Web/Media/Formats/Audio_codecs">Web audio codec guide</a></li><li><a href="/en-US/docs/Web/Media/Formats/Audio_concepts">Digital audio concepts</a></li><li><a href="/en-US/docs/Web/Media/Formats/codecs_parameter">The "codecs" parameter in common media types</a></li><li><a href="/en-US/docs/Web/Media/Formats/Containers">Media container formats (file types)</a></li><li><a href="/en-US/docs/Web/Media/Formats/Image_types">Image file type and format guide</a></li><li><a href="/en-US/docs/Web/Media/Formats/Support_issues">Handling media support issues in web content</a></li><li><a href="/en-US/docs/Web/Media/Formats/Video_codecs">Web video codec guide</a></li><li><a href="/en-US/docs/Web/Media/Formats/Video_concepts">Digital video concepts</a></li><li><a href="/en-US/docs/Web/Media/Formats/WebRTC_codecs">Codecs used by WebRTC</a></li></ol></li><li><a href="/en-US/docs/Web/Media/HTML_media">Using audio and video in HTML</a></li><li><a href="/en-US/docs/Web/Media/images">Using images in HTML</a><ol><li><a href="/en-US/docs/Web/Media/images">Using images in HTML</a></li><li><a href="/en-US/docs/Web/Media/images/aspect_ratio_mapping">Mapping the width and height attributes of media container elements to their aspect-ratio</a></li></ol></li></ol>
+</div></nav></div><footer id="nav-footer" class="page-footer"><div class="content-container"><div class="page-footer-logo"><a href="/en-US/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135" fill="#fff"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a></div><ul class="link-list-mdn"><li><a href="/en-US/docs/Web">Web Technologies</a></li><li><a href="/en-US/docs/Learn">Learn Web Development</a></li><li><a href="/en-US/docs/MDN/About">About MDN</a></li><li><a href="/en-US/docs/MDN/Feedback">Feedback</a></li></ul><ul class="link-list-moz"><li><a href="https://www.mozilla.org/about/" target="_blank" rel="noopener noreferrer">About</a></li><li><a href="https://shop.spreadshirt.com/mdn-store/" target="_blank" rel="noopener noreferrer">MDN Web Docs Store</a></li><li><a href="https://www.mozilla.org/contact/" target="_blank" rel="noopener noreferrer">Contact Us</a></li><li><a href="https://www.mozilla.org/firefox/?utm_source=developer.mozilla.org&amp;utm_campaign=footer&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Firefox</a></li></ul><div class="social social-mdn"><h4>MDN</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozdevnet" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Twitter</span></a></li><li><a class="social-icon github" href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Github</span></a></li></ul></div><div class="social social-moz"><h4>Mozilla</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozilla" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Twitter</span></a></li><li><a class="social-icon instagram" href="https://www.instagram.com/mozillagram/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Instagram</span></a></li></ul></div><p id="license" class="footer-license">© 2005-<!-- -->2022<!-- --> Mozilla and individual contributors. Content is available under<!-- --> <a href="/docs/MDN/About#Copyrights_and_licenses">these licenses</a>.</p><ul class="footer-legal"><li><a href="https://www.mozilla.org/about/legal/terms/mozilla" target="_blank" rel="noopener noreferrer">Terms</a></li><li><a href="https://www.mozilla.org/privacy/websites/" target="_blank" rel="noopener noreferrer">Privacy</a></li><li><a href="https://www.mozilla.org/privacy/websites/#cookies" target="_blank" rel="noopener noreferrer">Cookies</a></li></ul></div></footer><div class="page-overlay hidden"></div></div><script type="application/json" id="hydration">{"doc":{"isMarkdown":true,"isTranslated":false,"isActive":true,"flaws":{},"title":"Web audio codec guide","mdn_url":"/en-US/docs/Web/Media/Formats/Audio_codecs","locale":"en-US","native":"English (US)","sidebarHTML":"\n<ol><li><a href=\"/en-US/docs/Web/Media/Autoplay_guide\">Autoplay guide for media and Web Audio APIs</a></li><li><a href=\"/en-US/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video\">DASH Adaptive Streaming for HTML 5 Video</a></li><li><a href=\"/en-US/docs/Web/Media/Streaming\">Guide to streaming audio and video</a></li><li><a href=\"/en-US/docs/Web/Media/Formats\">Media type and format guide: image, audio, and video content</a><ol><li><a href=\"/en-US/docs/Web/Media/Formats\">Media type and format guide: image, audio, and video content</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Audio_codecs\">Web audio codec guide</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts\">Digital audio concepts</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/codecs_parameter\">The \"codecs\" parameter in common media types</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Containers\">Media container formats (file types)</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Image_types\">Image file type and format guide</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Support_issues\">Handling media support issues in web content</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Video_codecs\">Web video codec guide</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Video_concepts\">Digital video concepts</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/WebRTC_codecs\">Codecs used by WebRTC</a></li></ol></li><li><a href=\"/en-US/docs/Web/Media/HTML_media\">Using audio and video in HTML</a></li><li><a href=\"/en-US/docs/Web/Media/images\">Using images in HTML</a><ol><li><a href=\"/en-US/docs/Web/Media/images\">Using images in HTML</a></li><li><a href=\"/en-US/docs/Web/Media/images/aspect_ratio_mapping\">Mapping the width and height attributes of media container elements to their aspect-ratio</a></li></ol></li></ol>\n","body":[{"type":"prose","value":{"id":null,"title":null,"isH3":false,"content":"<p>Even modest quality, high-fidelity stereo sound can use a substantial amount of disk space. For web developers, an even bigger concern is the network bandwidth needed in order to transfer audio, whether for streaming or to download it for use during gameplay. The processing of audio data to encode and decode it is handled by an audio <strong><a href=\"/en-US/docs/Glossary/Codec\">codec</a></strong> (<strong>CO</strong>der/<strong>DEC</strong>oder). In this article, we look at audio codecs used on the web to compress and decompress audio, what their capabilities and use cases are, and offer guidance when choosing audio codecs to use for your content.</p>\n<p>Additionally, WebRTC implementations generally use a subset of these codecs for their encoding and decoding of media, and may support additional codecs as well, for optimal cross-platform support of video and audio conferencing, and to integrate better with legacy telecommunication solutions. See <a href=\"/en-US/docs/Web/Media/Formats/WebRTC_codecs\">Codecs used by WebRTC</a> for details.</p>\n<p>For information about the fundamental concepts behind how digital audio works, see the article <a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts\">Digital audio concepts</a>.</p>"}},{"type":"prose","value":{"id":"common_codecs","title":"Common codecs","isH3":false,"content":"<p>The list below denotes the codecs most commonly used on the web and which containers (file types) support them. If all you need to know is which codecs are even possible to use, this is for you. Of course, individual browsers may or may not choose to support all of these codecs, and their support for which container types can use them may vary as well. In addition, browsers may choose to support additional codecs not included on this list.</p>\n<table class=\"standard-table\">\n  <thead>\n    <tr>\n      <th scope=\"row\">Codec name (short)</th>\n      <th scope=\"col\">Full codec name</th>\n      <th scope=\"col\">Container support</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\"><a href=\"#aac_advanced_audio_coding\">AAC</a></th>\n      <td>Advanced Audio Coding</td>\n      <td>\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4\">MP4</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#adts\">ADTS</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#3gp\">3GP</a>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#alac_apple_lossless_audio_codec\">ALAC</a></th>\n      <td>Apple Lossless Audio Codec</td>\n      <td>\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4\">MP4</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#quicktime\">QuickTime</a>\n        (MOV)\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#amr_adaptive_multi-rate\">AMR</a></th>\n      <td>Adaptive Multi-Rate</td>\n      <td><a href=\"/en-US/docs/Web/Media/Formats/Containers#3gp\">3GP</a></td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#flac_free_lossless_audio_codec\">FLAC</a></th>\n      <td>Free Lossless Audio Codec</td>\n      <td>\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4\">MP4</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#ogg\">Ogg</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#flac\">FLAC</a>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#g.711_pulse_code_modulation_of_voice_frequencies\">G.711</a></th>\n      <td>Pulse Code Modulation (PCM) of Voice Frequencies</td>\n      <td>\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#g.722_64_kbps_7_khz_audio_coding\">G.722</a></th>\n      <td>\n        7 kHz Audio Coding Within 64 kbps (for\n        telephony/<a href=\"/en-US/docs/Glossary/VoIP\">VoIP</a>)\n      </td>\n      <td>\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#mp3_mpeg-1_audio_layer_iii\">MP3</a></th>\n      <td>MPEG-1 Audio Layer III</td>\n      <td>\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4\">MP4</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#adts\">ADTS</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#mpeg\">MPEG</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#3gp\">3GP</a>\n        <p>\n          When MPEG-1 Audio Layer III codec data is stored in an MPEG file, and\n          there is no video track on the file, the file is typically referred to\n          as an MP3 file, even though it's still an MPEG format file.\n        </p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#opus\">Opus</a></th>\n      <td>Opus</td>\n      <td>\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#webm\">WebM</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#mpeg-4_mp4\">MP4</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#ogg\">Ogg</a>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#vorbis\">Vorbis</a></th>\n      <td>Vorbis</td>\n      <td>\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#webm\">WebM</a>,\n        <a href=\"/en-US/docs/Web/Media/Formats/Containers#ogg\">Ogg</a>\n      </td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"factors_affecting_the_encoded_audio","title":"Factors affecting the encoded audio","isH3":false,"content":"<p>There are two general categories of factors that affect the encoded audio which is output by an audio codec's encoder: details about the source audio's format and contents, and the codec and its configuration during the encoding process.</p>\n<p>For each factor that affects the encoded audio, there is a simple rule that is nearly always true: because the fidelity of digital audio is determined by the granularity and precision of the samples taken to convert it into a data stream, the more data used to represent the digital version of the audio, the more closely the sampled sound will match the source material.</p>"}},{"type":"prose","value":{"id":"the_effect_of_source_audio_format_on_encoded_audio_output","title":"The effect of source audio format on encoded audio output","isH3":true,"content":"<p>Because encoded audio inherently uses fewer bits to represent each sample, the source audio format may actually have less impact on the encoded audio size than one might expect. However, a number of factors do still affect the encoded audio quality and size. The table below lists a number of key source audio file format factors and their impact on the encoded audio.</p>\n<table class=\"standard-table\">\n  <caption>\n    The effect of source audio format and contents on the encoded audio quality\n    and size\n  </caption>\n  <thead>\n    <tr>\n      <th scope=\"row\">Feature</th>\n      <th scope=\"col\">Effect on quality</th>\n      <th scope=\"col\">Effect on size</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\"><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#audio_data_format_and_structure\">Channel count</a></th>\n      <td>\n        The number of channels affects only the perception of directionality,\n        not the quality.\n      </td>\n      <td>\n        Each channel may substantially increase the encoded audio size,\n        depending on contents and encoder settings.\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Noise / Hiss</th>\n      <td>\n        Unwanted background noise or hiss tends to reduce audio quality both\n        directly (by masking details of the foreground audio) and indirectly (by\n        making the audio waveform more complicated and therefore difficult to\n        reduce in size while maintaining precision).\n      </td>\n      <td>\n        Hiss, static, or background noise increases the audio complexity, which\n        generally reduces the amount of compression which is possible.\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#sampling_audio\">Sample rate</a></th>\n      <td>\n        The more samples available per second, the higher the resulting encoded\n        audio fidelity is likely to be.\n      </td>\n      <td>Increasing the sample rate increases the encoded audio file's size.</td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#audio_data_format_and_structure\">Sample size</a></th>\n      <td>\n        The larger the samples, the more detail each sample can contain,\n        resulting in more accurate representation of each sample.\n      </td>\n      <td>\n        Depends on the codec; codecs typically have an internal sample format\n        that may or may not be the same as the original sample size. But more\n        source detail may make the encoded file larger; it will never make it\n        smaller.\n      </td>\n    </tr>\n  </tbody>\n</table>\n<p>Of course, these effects can be altered by decisions made while encoding the audio. For example, if the encoder is configured to reduce the sample rate, the sample rate's effect on the output file will be reduced in kind.</p>\n<p>For more information about these and other features of audio data, see <a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#audio_data_format_and_structure\">Audio data format and structure</a> in <a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts\">Digital audio concepts</a>.</p>"}},{"type":"prose","value":{"id":"the_effect_of_codec_configuration_on_encoded_audio_output","title":"The effect of codec configuration on encoded audio output","isH3":true,"content":"<p>Audio codecs typically employ cleverly-designed and highly-complex mathematical algorithms to take source audio data and compress it to take substantially less space in memory or network bandwidth. In addition to choosing the type of encoder to use, you may have the opportunity to adjust the encoder using parameters that choose specific algorithms, tune those algorithms, and specify how many passes to apply while encoding.</p>\n<table class=\"standard-table\">\n  <caption>Audio encoder configuration effects on quality and size</caption>\n  <thead>\n    <tr>\n      <th scope=\"row\">Feature</th>\n      <th scope=\"col\">Effect on quality</th>\n      <th scope=\"col\">Effect on size</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\"><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#lossy_vs_lossless_compression\">Lossless compression</a></th>\n      <td>No loss of fidelity</td>\n      <td>Unlikely to get more than 40-50% compression</td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#lossy_vs_lossless_compression\">Lossy compression</a></th>\n      <td>\n        Always some loss of fidelity; the higher the compression, the more the\n        loss\n      </td>\n      <td>Compression of up to 80-95% possible</td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#quality\">Quality setting</a></th>\n      <td>The higher the quality, the better the fidelity of the encoded audio</td>\n      <td>\n        The higher the fidelity, the larger the resulting file becomes, though\n        the amount of change varies from codec to codec\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#bit_rate\">Bit rate</a></th>\n      <td>The higher the bit rate, the higher the quality can be</td>\n      <td>The higher the bit rate, the larger the encoded file is likely to be</td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#audio_frequency_bandwidth\">Audio frequency bandwidth</a></th>\n      <td>\n        If there is any audio in the removed frequency band(s), there may be a\n        noticeable loss of fidelity\n      </td>\n      <td>\n        Removing frequency bands means less data to encode, thus smaller encoded\n        files\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#stereo_coding_method\">Stereo coding</a></th>\n      <td>\n        Simple stereo and\n        <a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#mid-side_stereo_coding\">mid-side stereo coding</a>\n        don't affect quality;\n        <a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts#intensity_stereo_coding\">intensity stereo coding</a>\n        introduces loss of detail, however.\n      </td>\n      <td>Joint stereo can reduce the size of the encoded audio to some extent</td>\n    </tr>\n  </tbody>\n</table>\n<p>The parameters available—and the range of possible values—varies from codec to codec, and even among different encoding utilities for the same codec, so read the documentation that comes with the encoding software you use to learn more.</p>"}},{"type":"prose","value":{"id":"features_affecting_encoded_audio_size","title":"Features affecting encoded audio size","isH3":true,"content":"<p>Several factors affect the size of the encoded audio. Some of these are a matter of the form of the source audio; others are related to decisions made while encoding the audio.</p>\n<h4 id=\"lossless_versus_lossy_codecs\">Lossless versus lossy codecs</h4>\n<p>There are two basic categories of audio compression. <strong>Lossless</strong> compression algorithms reduce the size of the audio without compromising the quality or fidelity of the sound. Upon decoding audio compressed with a lossless codec such as <a href=\"#flac_free_lossless_audio_codec\">FLAC</a> or <a href=\"#alac_apple_lossless_audio_codec\">ALAC</a>, the result is identical in every way to the original sound, down to the bit.</p>\n<p><strong>Lossy</strong> codecs, on the other hand, take advantage of the fact that the human ear is not a perfect interpreter of audio, and of the fact that the human brain can pluck the important information out of imperfect or noisy audio. They strip away audio frequencies that aren't used much, tolerate loss of precision in the decoded output, and use other methods to lose audio content, quality, and fidelity to produce smaller encoded media. Upon decoding, the output is, to varying degrees, still understandable. The specific codec used—and the compression configuration selected—determine how close to the original, uncompressed audio signal the output seems to be when heard by the human ear.</p>\n<p>Because of the differences in how lossy codecs work compared to lossless ones, especially the fact that lossless ones have to be much more conservative with their compression, lossy codecs nearly always result in significantly smaller compressed audio than lossless codecs do.</p>\n<p>Generally speaking, the most common reasons to choose lossless audio are because you require archival-quality storage, or because the audio samples will be remixed and recompressed, and you wish to avoid the amplification of artifacts in the audio due to recompression. For real-time streaming of audio, a lossy codec is usually required in order to ensure the flow of data can keep up with the audio playback rate regardless of network performance.</p>"}},{"type":"prose","value":{"id":"maximum_number_of_channels","title":"Maximum number of channels","isH3":true,"content":"<p>The audio delivered to each speaker in a sound system is provided by one audio channel in a stream. Monaural sound is a single channel. Stereo sound is two. 5.1 surround sound has five audio channels, plus one <strong>Low Frequency Enhancement</strong> (<strong>LFE</strong>) channel.</p>\n<p>LFE channels are specifically designed to store low-frequency audio data, and are commonly used to provide audio data for subwoofers, for example. When you see the number of audio channels written in the form X.Y (such as 2.1 or 5.1), the number after the decimal point, Y, is the number of LFE channels. For example, MP3 supports one LFE channel, while AAC supports up to 16.</p>\n<p>In addition to providing audio for specific speakers in a sound system, some codecs may allow audio channels to be used to provide alternative audio, such as vocals in different languages or descriptive audio for visually impaired people.</p>"}},{"type":"prose","value":{"id":"audio_frequency_bandwidth","title":"Audio frequency bandwidth","isH3":true,"content":"<p>The <strong>audio frequency bandwidth</strong> of a codec indicates the range of audio frequencies that can be represented using the codec. Some codecs operate specifically by eliminating audio that falls outside a given frequency range. There is a correlation between the sample rate and the maximum sound frequency that can be represented by a waveform represented by a codec. At a theoretical level, the maximum frequency a codec can represent is the sample rate divided by two; this frequency is called the <a href=\"https://en.wikipedia.org/wiki/Nyquist_frequency\" class=\"external\" rel=\" noopener\">Nyquist frequency</a>. In reality, the maximum is slightly lower, but it's close.</p>\n<p>The audio frequency bandwidth comes into play especially vividly when a codec is designed or configured to represent human speech rather than a broad range of sounds. Human speech generally resides within the audio frequency range of 300 Hz to 18 kHz. However, the vast majority of human vocalizations exist in the range 300 Hz to 8 kHz, and you can capture enough of human vocalizations in the frequency range 500 Hz to 3 kHz to still be understandable.</p>\n<p>For that reason, speech-specific codecs often begin by dropping sound that falls outside a set range. That range is the audio frequency bandwidth. G.722, for example, strips away sounds outside the audio frequency bandwidth of 50 Hz to 7 kHz. This reduces the amount of data that needs to be encoded from the outset.</p>"}},{"type":"prose","value":{"id":"codec_details","title":"Codec details","isH3":false,"content":"<p>Below we take a brief look at each of these codecs, looking at their basic capabilities and their primary use cases.</p>"}},{"type":"prose","value":{"id":"aac_advanced_audio_coding","title":"AAC (Advanced Audio Coding)","isH3":true,"content":"<p>The <strong>Advanced Audio Coding</strong> (<strong>AAC</strong>) codec is defined as part of the MPEG-4 (H.264) standard; specifically, as part of <a href=\"https://www.iso.org/standard/53943.html\" class=\"external\" rel=\" noopener\">MPEG-4 Part 3</a> and <a href=\"https://www.iso.org/standard/43345.html\" class=\"external\" rel=\" noopener\">MPEG-2 Part 7</a>. Designed to be able to provide more compression with higher audio fidelity than MP3, AAC has become a popular choice, and is the standard format for audio in many types of media, including Blu-Ray discs and HDTV, as well as being the format used for songs purchased from online vendors including iTunes.</p>\n<p>AAC has a number of profiles that define methods of compressing audio for specific use cases, including everything from high quality surround sound to low-fidelity audio for speech-only use.</p>\n<p>As a patent-encumbered format, AAC support is somewhat less predictable. For example, Firefox only supports AAC if support is provided by the operating system or an external library.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">Supported bit rates</th>\n      <td>Arbitrary, up to 512 kbps</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Variable Bit Rate (VBR) support</th>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample formats</th>\n      <td>32-bit integer</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample rates</th>\n      <td>8 kHz - 96 kHz</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Recommended minimum bit rate for stereo sound</th>\n      <td>96 kbps at 48 kHz sample rate</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Compression</th>\n      <td>Lossy</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Maximum audio channels</th>\n      <td>48 (plus 16 Low Frequency Enhancement channels)</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Audio frequency bandwidth</th>\n      <td>\n        0 Hz - 96 kHz (standard audio channels)<br>0 Hz - 120 Hz (LFE\n        channels)\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Latency</th>\n      <td>20 ms to 405 ms</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Browser compatibility</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">AAC support</th>\n              <td>Yes</td>\n              <td>Yes</td>\n              <td>Yes</td>\n              <td>9</td>\n              <td>Yes</td>\n              <td>3.1</td>\n            </tr>\n          </tbody>\n        </table>\n        <p>\n          Due to patent issues, Firefox does not directly support AAC. Instead,\n          Firefox relies upon a platform's native support for AAC. This\n          capability was introduced on each platform in different Firefox\n          releases:\n        </p>\n        <p>\n          Chrome supports AAC only in MP4 containers, and only supports AAC's\n          Main Profile. In addition, AAC is not available in Chromium builds.\n        </p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Container support</th>\n      <td>MP4, ADTS, 3GP</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> compatible\n      </th>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Licensing</th>\n      <td>\n        For streaming or distributing AAC-encoded content: no license required;\n        developers of codecs are required to obtain a patent license through\n        <a href=\"https://www.via-corp.com/licensing/aac/\" class=\"external\" rel=\" noopener\">VIA Licensing</a>\n      </td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\" style=\"margin-left: 4em; max-width: 30em\">\n  <caption>AAC support in Firefox using external library, by platform</caption>\n  <thead>\n    <tr>\n      <th scope=\"row\">Platform</th>\n      <th scope=\"col\">First Firefox version<br>with AAC support</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">Windows (Vista and later)</th>\n      <td>22</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Android</th>\n      <td>20</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        Linux (depends on\n        <a href=\"https://gstreamer.freedesktop.org/\" class=\"external\" rel=\" noopener\">GStreamer</a>)\n      </th>\n      <td>26</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">macOS</th>\n      <td>35</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"alac_apple_lossless_audio_codec","title":"ALAC (Apple Lossless Audio Codec)","isH3":true,"content":"<p>The <strong>Apple Lossless Audio Codec</strong> (<strong>ALAC</strong> or <strong>Apple Lossless</strong>) is a lossless codec developed by Apple. After initially being a closed format, Apple opened it up under an Apache license.</p>\n<p>Cross-platform and browser support for ALAC is not very strong, making it a less than ideal choice for general usage. However, if your target is primarily macOS and iOS users, it may be worth considering, as the operating systems have integrated support for ALAC. Otherwise, FLAC is likely a better choice, if you must use a lossless codec.</p>\n<p>Keep in mind, however, that lossless codecs require substantially more bandwidth and storage capacity, and may not be a good choice outside very specific use cases.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">Supported bit rates</th>\n      <td>\n        Based on the sample format and sample rate, as well as the compression\n        level\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Variable Bit Rate (VBR) support</th>\n      <td>No</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample formats</th>\n      <td>16-bit, 20-bit, 24-bit, and 32-bit integer</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample rates</th>\n      <td>1 Hz to 384,000 Hz</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Recommended minimum bit rate for stereo sound</th>\n      <td>n/a</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Compression</th>\n      <td>Lossless; up to 45-60%</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Maximum audio channels</th>\n      <td>8 (up to 7.1 surround)</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Audio frequency bandwidth</th>\n      <td>?</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Latency</th>\n      <td>?</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Browser compatibility</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">ALAC support</th>\n              <td>No</td>\n              <td>No</td>\n              <td>No</td>\n              <td>No</td>\n              <td>No</td>\n              <td>Yes</td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Container support</th>\n      <td>MP4</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> compatible\n      </th>\n      <td>No</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Licensing</th>\n      <td>\n        Open license (Apache License 2.0);\n        <a href=\"https://github.com/macosforge/alac\" class=\"external\" rel=\" noopener\">source code available on GitHub</a>\n      </td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"amr_adaptive_multi-rate","title":"AMR (Adaptive Multi-Rate)","isH3":true,"content":"<p>The <strong><a href=\"http://www.voiceage.com/AMR-NB.AMR.html\" class=\"external\" rel=\" noopener\">Adaptive Multi-Rate audio codec</a></strong> is optimized for encoding human speech efficiently. It was standardized in 1999 as part of the 3GPP audio standard used for both <a href=\"https://en.wikipedia.org/wiki/GSM\" class=\"external\" rel=\" noopener\">GSM</a> and <a href=\"https://en.wikipedia.org/wiki/UMTS\" class=\"external\" rel=\" noopener\">UMTS</a> cellular telephony, and uses a multi-rate narrowband algorithm to encode audio frequencies at a telephony-grade quality level at around 7.4 kbps. In addition to being used for real-time telephony, AMR audio may be used for voicemail and other short audio recordings.</p>\n<p>AMR audio which is stored in files may be typed <code>.amr</code>, but may also be encapsulated in <code>.3gp</code> files.</p>\n<p>As a speech-specific codec, AMR is essentially useless for any other content, including audio containing only singing voices. Additionally, because AMR is designed to minimize capacity requirements, it only captures the portion of the full audio frequency bandwidth of human speech which is absolutely necessary to understand what's being said, so quality is reduced accordingly. If you need the ability to record audio at a minimal impact to network and/or storage capacity, AMR can be a great choice. However, if you need high-fidelity reproduction of human speech—or even low-quality music reproduction—you need to choose another format.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\">Supported bit rates</th>\n      <td>\n        <strong>Half Rate (HR) and Full Rate (FR):</strong> 1.8 kbps, 4.75 kbps,\n        5.15 kbpz, 5.9 kbps, 6.7 kbps, 7.4 kbps, 7.95 kbps\n      </td>\n    </tr>\n    <tr>\n      <td><strong>Full Rate (FR) only:</strong> 10.2 kbps and 12.2 kbps</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Variable Bit Rate (VBR) support</th>\n      <td>No</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample formats</th>\n      <td>13-bit integer</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample rates</th>\n      <td>8 kHz</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Recommended minimum bit rate for stereo sound</th>\n      <td>n/a</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Compression</th>\n      <td>Lossy</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Maximum audio channels</th>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Audio frequency bandwidth</th>\n      <td>200 Hz to 3,400 Hz</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Latency</th>\n      <td>25 ms</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Browser compatibility</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">AMR support</th>\n              <td>No</td>\n              <td>?</td>\n              <td>No</td>\n              <td>?</td>\n              <td>No</td>\n              <td>?</td>\n            </tr>\n          </tbody>\n        </table>\n        <p>\n          While the Chrome browser does not support AMR, Chrome OS supports\n          AMR-NB (narrowband) and AMR-WB (wideband).\n        </p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Container support</th>\n      <td>AMR, 3GPP</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> compatible\n      </th>\n      <td>No</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Licensing</th>\n      <td>\n        Non-free; license fees and annual royalties apply. See\n        <a href=\"http://www.voiceage.com/Overview-lic.html\" class=\"external\" rel=\" noopener\">VoiceAge licensing</a>\n        for details\n      </td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"flac_free_lossless_audio_codec","title":"FLAC (Free Lossless Audio Codec)","isH3":true,"content":"<p><strong>FLAC</strong> (<strong>Free Lossless Audio Codec</strong>) is a lossless audio codec published by the <a href=\"https://xiph.org/\" class=\"external\" rel=\" noopener\">Xiph.org Foundation</a>. It provides good compression rates with no loss of audio fidelity; that is, the decompressed audio is identical to the original. Because the compression algorithm is specifically designed for audio, it gives better results than would be achieved using a general-purpose compression algorithm.</p>\n<p>FLAC is a great choice for smaller audio effects files where pristine quality and tonal accuracy are desired, as well as for archival of music.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">Supported bit rates</th>\n      <td>—</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Variable Bit Rate (VBR) support</th>\n      <td>No</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample formats</th>\n      <td>4-bit to 24-bit integers</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample rates</th>\n      <td>\n        1 Hz to 65,535 Hz (in 1 Hz increments) or 10 Hz to 655,350 Hz in 10 Hz\n        increments\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Recommended minimum bit rate for stereo sound</th>\n      <td>—</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Compression</th>\n      <td>Lossless; up to 40-50% size reduction</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Maximum audio channels</th>\n      <td>8</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Audio frequency bandwidth</th>\n      <td>Full-spectrum</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Latency</th>\n      <td>4.3 ms to 92 ms with 46.4 ms being the typical average</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Browser compatibility</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">FLAC support</th>\n              <td>Yes</td>\n              <td>Yes</td>\n              <td>51 (desktop)<br>58 (mobile)</td>\n              <td>No</td>\n              <td>No</td>\n              <td>11</td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Container support</th>\n      <td>MP4, Ogg, FLAC</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> compatible\n      </th>\n      <td>No</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Licensing</th>\n      <td>Fully open and free of any licensing requirements</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"g.711_pulse_code_modulation_of_voice_frequencies","title":"G.711 (Pulse Code Modulation of Voice Frequencies)","isH3":true,"content":"<p>The <strong>G.711</strong> specification, published by the International Telecommunications Union (ITU), was issued in 1972 to define standard audio encoding for telephone applications. It supports voice-grade audio covering frequencies from 300 to 3400 Hz. It is used extensively for telephone traffic and voicemail, and it is the highest quality audio encoding which can be transmitted through the public telephone network.</p>\n<p>G.711 is not a high fidelity codec, but is instead optimized to support a wide range of voice levels (from whisper to shout) while maintaining high intelligibility and low computational complexity. G.711 uses a logarithmic companding algorithm which provides 14 bits of dynamic range in an 8-bit sample. It uses a sampling rate of 8000 samples/sec, corresponding to a bitrate of 64000 bps.</p>\n<p>There are two flavors of G.711 which indicate the exact mathematical equation for the algorithm: <a href=\"https://en.wikipedia.org/wiki/M-law\" class=\"external\" rel=\" noopener\">µ-law</a> (commonly used in North America and Japan) and <a href=\"https://en.wikipedia.org/wiki/A-law\" class=\"external\" rel=\" noopener\">A-law</a> (common in the rest of the world). There is no substantial quality difference between the two laws, and it is simple to transcode audio from one to the other. Nevertheless, it is important to specify which law is in use in any replay application or file format. A-law audio will replay poorly if mistakenly uncompressed with the µ-law algorithm, and vice versa.</p>\n<p>This codec is required to be supported by all <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> solutions because it is simple, easy to implement, widely-used, and broadly compatible across all modern computing platforms.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">Supported bit rates</th>\n      <td>64 kbps</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Variable Bit Rate (VBR) support</th>\n      <td>No</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample formats</th>\n      <td>encoded audio is 8 bits per sample</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample rates</th>\n      <td>8 kHz</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Recommended minimum bit rate for stereo sound</th>\n      <td>128 kbps</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Compression</th>\n      <td>Logarithmic companding (µ-law or A-law)</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Maximum audio channels</th>\n      <td>2</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Audio frequency bandwidth</th>\n      <td>300 Hz – 3400 Hz</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Latency</th>\n      <td>0.125 ms</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Browser compatibility</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">G.711 support</th>\n              <td>23</td>\n              <td>15</td>\n              <td>22</td>\n              <td>No</td>\n              <td>43</td>\n              <td>11</td>\n            </tr>\n          </tbody>\n        </table>\n        <p>G.711 is supported only for WebRTC connections.</p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Container support</th>\n      <td>3GP, WAV</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> compatible\n      </th>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Licensing</th>\n      <td>\n        All applicable patents have expired, so G.711 is free to use without\n        restriction\n      </td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"g.722_64_kbps_7_khz_audio_coding","title":"G.722 (64 kbps (7 kHz) audio coding)","isH3":true,"content":"<p>Published by the International Telecommunications Union (ITU), the <strong>G.722</strong> codec is designed specifically for voice compression. Its audio coding bandwidth is limited to the 50 Hz to 7,000 Hz range, which covers most of the frequency range of typical human vocalization. This makes it ill-suited for handling any audio that might range outside the human speech range, such as music.</p>\n<p>G.722 audio is encoded using Adaptive Differential Pulse Code Modulation (ADPCM), in which each sample is represented not by its absolute value, but as a value indicating how much the new sample differs from the previous sample.</p>\n<p>G.722 is primarily used with WebRTC connections, as it's one of the audio codecs mandated by the WebRTC specification.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">Supported bit rates</th>\n      <td>\n        G.722: 48 kbps, 56 kbps, and 64 kbps; however, in practice 64 kbps is\n        always used<br>G.722 Annex B Super Wide-Band: 64 kbps, 80 kbps, and 96\n        kbps<br>G.722 Annex D Stereo Wide-Band: 64 kbps and 80 kbps<br>G.722\n        Annex D Stereo Super Wide-Band: 80 kbps, 96 kbps, 112 kbps, and 128 kbps\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Variable Bit Rate (VBR) support</th>\n      <td>No</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample formats</th>\n      <td>14-bit integer</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample rates</th>\n      <td>\n        16 kHz (ADPCM is specified to allow 8 kHz, 11.025 kHz, 22.05 kHz, 44.1\n        kHz, but G.722 uses 16 kHz)\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Recommended minimum bit rate for stereo sound</th>\n      <td>128 kbps at 44.1 kHz sample rate</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Compression</th>\n      <td>Lossy</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Maximum audio channels</th>\n      <td>2</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Audio frequency bandwidth</th>\n      <td>50 Hz - 7 kHz</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Latency</th>\n      <td>4 ms</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Browser compatibility</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">G.722 support</th>\n              <td>Yes</td>\n              <td>Yes</td>\n              <td>Yes</td>\n              <td>No</td>\n              <td>Yes</td>\n              <td>Yes</td>\n            </tr>\n          </tbody>\n        </table>\n        <p>WebRTC only.</p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Container support</th>\n      <td>3GP, AMR-WB</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> compatible\n      </th>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Licensing</th>\n      <td>\n        All applicable patents have expired; G.722 is free to use without\n        restriction\n      </td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"mp3_mpeg-1_audio_layer_iii","title":"MP3 (MPEG-1 Audio Layer III)","isH3":true,"content":"<p>Of the audio formats specified by the MPEG/MPEG-2 standards, <strong>MPEG-1 Audio Layer III</strong>—otherwise known as <strong><a href=\"https://en.wikipedia.org/wiki/MP3\" class=\"external\" rel=\" noopener\">MP3</a></strong>—is by far the most widely used and best-known. The MP3 codec is defined by <a href=\"https://www.iso.org/standard/22412.html\" class=\"external\" rel=\" noopener\">MPEG-1 Part 3</a> and <a href=\"https://www.iso.org/standard/26797.html\" class=\"external\" rel=\" noopener\">MPEG-2 Part 3</a>, and was introduced in 1991 (and finalized in 1992).</p>\n<p>When MP3-format audio is stored inside an MPEG container, the resulting file is also referred to as just an \"MP3 file\" or \"MP3.\" Files with the ubiquitous <code>.mp3</code> extension are stored in what is perhaps the most widely distributed audio file format in the world, which is in large part responsible for the digital audio revolution of the late 1990s and early 2000s.</p>\n<p>MPEG-1 MP3 audio supports higher bit rates as well as higher sampling rates than MP3 audio in MPEG-2 files. MPEG-1 format MP3 is generally best for music or other complex audio, while MPEG-2 mode MP3 audio is acceptable for speech and other simpler sounds.</p>\n<p>The patents behind MP3 have expired, removing many or most licensing concerns around using MP3 files in your projects. That makes them a good choice for many projects.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\">Supported bit rates</th>\n      <td>\n        <strong>MPEG-1 mode:</strong> 32 kbps, 40 kbps, 48 kbps, 56 kbps, 64\n        kbps, 80 kbps, 96 kbps, 112 kbps, 128 kbps, 160 kbps, 192 kbps, 224\n        kbps, 256 kbps, 320 kbps\n      </td>\n    </tr>\n    <tr>\n      <td>\n        <strong>MPEG-2 mode:</strong> 8 kbps, 16 kbps, 24 kbps, 32 kbps, 40\n        kbps, 48 kbps, 56 kbps, 64 kbps, 80 kbps, 96 kbps, 112 kbps, 128 kbps,\n        144 kbps, 160 kbps\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Variable Bit Rate (VBR) support</th>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample formats</th>\n      <td>16-bit integer</td>\n    </tr>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\">Supported sample rates</th>\n      <td><strong>MPEG-1 mode:</strong> 32000 Hz, 44100 Hz, 48000 Hz</td>\n    </tr>\n    <tr>\n      <td>\n        <strong>MPEG-2 mode:</strong> 16000 Hz, 22050 Hz, 24000 Hz (Half the\n        frequency of the MPEG-1 supported modes)\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Recommended minimum bit rate for stereo sound</th>\n      <td>128 kbps at 48 kHz sample rate</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Compression</th>\n      <td>Lossy</td>\n    </tr>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\">Maximum audio channels</th>\n      <td><strong>MPEG-1 mode:</strong> 2 [2.0]</td>\n    </tr>\n    <tr>\n      <td>\n        <strong>MPEG-2 mode:</strong> 5 (plus 1 optional Low Frequency\n        Enhancement channel) [5.1]\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Audio frequency bandwidth</th>\n      <td>Varies, depending on bit rate and psychoacoustic analysis</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Latency</th>\n      <td>At least 100 ms</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Browser compatibility</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">MP3 support</th>\n              <td>Yes</td>\n              <td>Yes</td>\n              <td>Yes</td>\n              <td>9</td>\n              <td>Yes</td>\n              <td>3.1</td>\n            </tr>\n          </tbody>\n        </table>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Container support</th>\n      <td>MPEG-1, MPEG-2, MP4, ADTS, 3GP</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> compatible\n      </th>\n      <td>No</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Licensing</th>\n      <td>\n        Patent-free in the EU as of 2012; patent-free in the United States as of\n        April 16, 2017; now free to use\n      </td>\n    </tr>\n  </tbody>\n</table>\n<p>For patent reasons, Firefox did not directly support MP3 prior to version 71; instead, platform-native libraries were used to support MP3. This capability was introduced on each platform in different Firefox releases:</p>\n<table class=\"standard-table\" style=\"margin-left: 4em; max-width: 30em\">\n  <caption>MP3 support with external library, by platform, in Firefox</caption>\n  <thead>\n    <tr>\n      <th scope=\"row\">Platform</th>\n      <th scope=\"col\">First Firefox version<br>with MP3 support</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">Windows (Vista and later)</th>\n      <td>22</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Android</th>\n      <td>20</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        Linux (depends on\n        <a href=\"https://gstreamer.freedesktop.org/\" class=\"external\" rel=\" noopener\">GStreamer</a>)\n      </th>\n      <td>26</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">macOS</th>\n      <td>35</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"opus","title":"Opus","isH3":true,"content":"<p>The <a href=\"https://en.wikipedia.org/wiki/Opus_(audio_format)\" class=\"external\" rel=\" noopener\">Opus</a> audio format was created by the Xiph.org Foundation as a fully open audio format; it has been standardized by <a href=\"https://www.ietf.org/\" class=\"external\" rel=\" noopener\">IETF</a> as <a href=\"https://datatracker.ietf.org/doc/html/rfc6716\" class=\"external\" rel=\" noopener\">RFC 6716</a>. It's a good general-purpose audio codec that can efficiently handle both low-complexity audio such as speech as well as music and other high-complexity sounds.</p>\n<p>Opus supports multiple compression algorithms, and can even use more than one algorithm in the same audio file, since the encoder can choose the bit rate, audio bandwidth, algorithm, and other details of the compression settings for each frame of audio.</p>\n<p>Opus is a good all-around audio codec for use in your web applications, and can be used for any audio tasks you have in mind.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">Supported bit rates</th>\n      <td>6 kbps - 510 kbps</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Variable Bit Rate (VBR) support</th>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample formats</th>\n      <td>16-bit integer and 32-bit float (-1.0 to 1.0)</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample rates</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Profile</th>\n              <th scope=\"col\">Effective sample rate</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">Narrowband (NB)</th>\n              <td>8 kHz</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Medium band (MB)</th>\n              <td>12 kHz</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Wideband (WB)</th>\n              <td>16 kHz</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Super Wideband (SWB)</th>\n              <td>24 kHz</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Fullband (FB)</th>\n              <td>48 kHz</td>\n            </tr>\n          </tbody>\n        </table>\n        <p>\n          The specified sample rates are <em>effective sample rates</em>. Opus\n          uses an algorithm based on audio bandwidths rather than sample rates.\n          See <a href=\"https://datatracker.ietf.org/doc/html/rfc6716#section-2\" class=\"external\" rel=\" noopener\">RFC 6716, section 2</a> for details. In addition, there is an\n          <em>optional</em> part of the Opus specification (Opus Custom) that\n          does allow for non-standard sample rates, but the use of this feature\n          is discouraged.\n        </p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Recommended minimum bit rate for stereo sound</th>\n      <td>96 kbps at 48 kHz sample rate</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Compression</th>\n      <td>Lossy</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Maximum audio channels</th>\n      <td>255 (up to 1 LFE channel)</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Audio frequency bandwidth</th>\n      <td>\n        <table class=\"standard-table\">\n          <thead>\n            <tr>\n              <th scope=\"row\">Profile</th>\n              <th scope=\"col\">Audio bandwidth</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th scope=\"row\">Narrowband (NB)</th>\n              <td>4 kHz</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Medium band (MB)</th>\n              <td>6 kHz</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Wideband (WB)</th>\n              <td>8 kHz</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Super Wideband (SWB)</th>\n              <td>12 kHz</td>\n            </tr>\n            <tr>\n              <th scope=\"row\">Fullband (FB)</th>\n              <td>20 kHz</td>\n            </tr>\n          </tbody>\n        </table>\n        <p>\n          Although the\n          <a href=\"https://en.wikipedia.org/wiki/Nyquist–Shannon_sampling_theorem\" class=\"external\" rel=\" noopener\">Nyquist–Shannon sampling theorem</a>\n          shows that audio bandwidth can be as much as one half of the sampling\n          rate, Opus doesn't allow encoding outside a maximum 20 kHz audio\n          frequency band, since the human ear can't perceive anything above the\n          20 kHz point anyway. This saves some space in the encoded audio.\n        </p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Latency</th>\n      <td>5 ms to 66.5 ms</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Browser compatibility</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">Opus support</th>\n              <td>33</td>\n              <td>14</td>\n              <td>15</td>\n              <td>No</td>\n              <td>20</td>\n              <td>11</td>\n            </tr>\n          </tbody>\n        </table>\n        <p>\n          This information refers to support for Opus in HTML\n          <a href=\"/en-US/docs/Web/HTML/Element/audio\"><code>&lt;audio&gt;</code></a> and <a href=\"/en-US/docs/Web/HTML/Element/video\"><code>&lt;video&gt;</code></a>\n          elements, and not to WebRTC.\n        </p>\n        <p>\n          Safari supports Opus in the <a href=\"/en-US/docs/Web/HTML/Element/audio\"><code>&lt;audio&gt;</code></a> element\n          only when packaged in a CAF file, and only on macOS High Sierra\n          (10.13) or iOS 11.\n        </p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Container support</th>\n      <td>Ogg, WebM, MPEG-TS, MP4</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> compatible\n      </th>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Licensing</th>\n      <td>Fully open and free of any licensing requirements</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"vorbis","title":"Vorbis","isH3":true,"content":"<p><a href=\"https://www.xiph.org/vorbis/\" class=\"external\" rel=\" noopener\">Vorbis</a> is an open format from the <a href=\"https://xiph.org/\" class=\"external\" rel=\" noopener\">Xiph.org Foundation</a> which supports a wide range of channel combinations, including monaural, stereo, polyphonic, quadraphonic, 5.1 surround, ambisonic, or up to 255 discrete audio channels. Depending on the quality setting used during encoding, the resulting bit rate can vary from around 45 kbps to 500 kbps. Vorbis inherently uses variable bit rate encoding; the bit rate can vary from one sample to the next as needed during the compression process.</p>\n<p>Generally, Vorbis is more efficient in terms of size and bit rate than MP3 at similar quality levels. This and its free and open license, make it a good choice for many kinds of audio data as long as its high latency isn't a problem.</p>\n<table class=\"standard-table\">\n  <tbody>\n    <tr>\n      <th scope=\"row\">Supported bit rates</th>\n      <td>45 kbps - 500 kbps</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Variable Bit Rate (VBR) support</th>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample formats</th>\n      <td>16-bit integer</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Supported sample rates</th>\n      <td>8 kHz - 192 kHz</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Recommended minimum bit rate for stereo sound</th>\n      <td>\n        192 kbps at 48 kHz; this is typically accomplished by setting the\n        quality level to 6 to 8.\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Compression</th>\n      <td>Lossy</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Maximum audio channels</th>\n      <td>255</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Audio frequency bandwidth</th>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Latency</th>\n      <td>At least 100 ms</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Browser compatibility</th>\n      <td>\n        <table class=\"standard-table\">\n          <tbody>\n            <tr>\n              <th scope=\"row\">Feature</th>\n              <th scope=\"col\">Chrome</th>\n              <th scope=\"col\">Edge</th>\n              <th scope=\"col\">Firefox</th>\n              <th scope=\"col\">Internet Explorer</th>\n              <th scope=\"col\">Opera</th>\n              <th scope=\"col\">Safari</th>\n            </tr>\n            <tr>\n              <th scope=\"row\">Vorbis support</th>\n              <td>4</td>\n              <td>17</td>\n              <td>3.5</td>\n              <td>No</td>\n              <td>11.5</td>\n              <td>No</td>\n            </tr>\n          </tbody>\n        </table>\n        <p>\n          This information refers to support for Vorbis in HTML\n          <a href=\"/en-US/docs/Web/HTML/Element/audio\"><code>&lt;audio&gt;</code></a> and <a href=\"/en-US/docs/Web/HTML/Element/video\"><code>&lt;video&gt;</code></a>\n          elements, and not to WebRTC.\n        </p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Container support</th>\n      <td>Ogg, WebM</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">\n        <a href=\"/en-US/docs/Glossary/RTP\">RTP</a> /\n        <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> compatible\n      </th>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Licensing</th>\n      <td>Fully open and free of any licensing requirements</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"choosing_an_audio_codec","title":"Choosing an audio codec","isH3":false,"content":"<p>Typically, regardless of what codec you use, it will generally get the job done, even if it's not the ideal choice, as long as you choose a codec not specifically designed for a totally different kind of source audio. Choosing a voice-only codec and trying to use it for music will not give you usable results, for instance.</p>\n<p>Some codecs may limit compatibility, however, and others may be more optimal for your needs than others. Here we'll provide guidance to help you select an appropriate codec for your use case.</p>\n<p>When choosing a codec to use for your audio, you should first consider the following questions:</p>\n<ul>\n  <li>Will the encoded audio be getting remixed or recompressed? If so, avoid lossy compression, which would be compounded by recompressing the audio; or at least use as little compression as possible.</li>\n  <li>If the audio needs to go into a specific file type, keep that in mind, since media containers typically support a specific subset of the available codecs.</li>\n  <li>What kind of audio content will the codec be handling? Certain codecs are specifically designed for voice-only content (they take advantage of the reduced frequency range needed for human speech). Others may have an algorithmic tendency to perform worse when encoding specific genres of music.</li>\n  <li>What bit rates and other configurable properties does each codec have that may make it a good (or poor) choice?</li>\n  <li>To what extent, if at all, does latency matter for your needs? If you need sound that is very precisely timed, the lower the latency the better.</li>\n  <li>How much compression do you need to achieve?</li>\n</ul>\n<p>Let's consider a few common scenarios to get a feel for the decision-making process.</p>"}},{"type":"prose","value":{"id":"example_music_for_streaming","title":"Example: Music for streaming","isH3":true,"content":"<p>For streaming music, you want to select a codec that minimizes bandwidth usage as much as possible while introducing as few artifacts as possible into the audio through compression. This is necessary because the rate at which the music is downloaded needs to be no greater than the amount of bandwidth available on the network, and ideally there should be room left for network speed fluctuations and use of the network by other applications.</p>\n<p>Unless there's a specific need for lossless compression, or the network bandwidth is guaranteed to be high enough to support it, a lossy compression scheme is a good choice. Which one you choose depends on browser compatibility and the availability of any special features you may need the codec to support.</p>\n<p><em>Usually</em> the latency is not particularly important when streaming music. Possible exceptions include looped music, where you need music to be able to play back uninterrupted over and over, or when you need to be able to play songs back to back with no gap between them. This can be particularly important for classical music, theatrical soundtracks, and for background music during gameplay.</p>\n<p>For general music playback, the three most likely candidates are MP3, AAC, and Vorbis.</p>\n<ul>\n  <li>AAC in an MP4 container is supported by all major browsers, which makes this a great choice.</li>\n  <li>Vorbis is almost always used in Ogg files, but Ogg containers are not universally supported. Even Microsoft Edge, which supports both Vorbis, does not yet support Ogg containers.</li>\n  <li>MP3 (MPEG-1 Audio Layer III) is supported by all major browsers. These files are MPEG-1 files that contain an Audio Layer III track.</li>\n</ul>\n<p>If you need to minimize latency during music playback, you should strongly consider Opus, which has the lowest range of latencies of the general-purpose codecs (5 ms to 66.5 ms, compared to at least 100 ms for the others).</p>\n<div class=\"notecard note\" id=\"sect1\">\n  <p><strong>Note:</strong> Compatibility information described here is generally correct as of the time this article was written; however, there may be caveats and exceptions. Be sure to refer to the compatibility tables before committing to a given media format.</p>\n</div>\n<p>Based on this, AAC is likely your best choice if you can only support one audio format. Of course, if you can provide multiple formats (for example, by using the <a href=\"/en-US/docs/Web/HTML/Element/source\"><code>&lt;source&gt;</code></a> element within your <a href=\"/en-US/docs/Web/HTML/Element/audio\"><code>&lt;audio&gt;</code></a> and <a href=\"/en-US/docs/Web/HTML/Element/video\"><code>&lt;video&gt;</code></a> elements), you can avoid many or all of those exceptions.</p>"}},{"type":"prose","value":{"id":"example_music_for_download","title":"Example: Music for download","isH3":true,"content":"<p>Music being downloaded by the user can be compressed to a larger overall file size than streamed music, since (unlike when streaming) it doesn't matter if the download speed is slower than the playback speed of the media. That means you can consider using lossy compression at higher bit rates, which results in larger files but with less loss of fidelity. Or you can choose a lossless format. The choice depends largely on the union of your application's requirements and the preferences of your users.</p>\n<p>For an actual music download service, you might offer songs for download as 128 Kbps MP3 files, 256 kbps AAC files (in MP4 containers), or FLAC files, depending on a preference selected by the user. If you need to choose just one format, select one that makes sense given your requirements and the type of audio content being downloaded.</p>\n<p>Generally, of course, MP3 is the most common format used for music; choose a bit rate of at least 192 kbps if possible. The iTunes store, on the other hand, distributes music in 256 kbps AAC format.</p>"}},{"type":"prose","value":{"id":"example_voice_recording_and_playback","title":"Example: Voice recording and playback","isH3":true,"content":"<p>The specific characteristics of human speech allow speech-specific codecs to compress the audio far more than most general-purpose codecs can. That's because although humans hear frequencies ranging from around 20 Hz to 20,000 Hz, and human speech sounds range from about 300 Hz to 18,000 Hz, the majority of the speech sounds that we need in order to understand what's being said lie in the frequency range of 500 Hz to 3,000 Hz or so. That means voice-only codecs can throw away everything else.</p>\n<p>The voice-specific codecs are all inherently very lossy, however, and any sound with significant information in the frequency bands outside the vocal range captured will be entirely lost. This makes these codecs completely unsuitable for anything but spoken words. Even audio that contains only voices, but singing rather than speaking, will likely not be of acceptable quality in one of these formats.</p>\n<p>Voice recording and playback usually needs to be low-latency in order to synchronize with video tracks, or in order to avoid cross-talk or other problems. Fortunately, the characteristics that lead to speech codecs being so efficient storage space-wise also make them tend to be very low latency. If you're working with WebRTC, <a href=\"#g.722_64_kbps_7_khz_audio_coding\">G.722</a>, for example, has 4 ms latency (compared with over 100 ms for MP3), and <a href=\"#amr_adaptive_multi-rate\">AMR</a>'s latency is around 25 ms.</p>\n<div class=\"notecard note\" id=\"sect2\">\n  <p><strong>Note:</strong> For more about WebRTC and the codecs it can use, see <a href=\"/en-US/docs/Web/Media/Formats/WebRTC_codecs\">Codecs used by WebRTC</a>.</p>\n</div>\n<p>The codecs generally used on the web that are used for voice-only encoding are G.722 and AMR. AMR is a narrowband codec, encoding only the frequencies between 200 Hz and 3,400 Hz at bit rates typically around 7.4 kbps, while G.722 is a wideband codec that expands the audio bandwidth to 50 Hz to 7,000 Hz at much higher bit rates—usually 64 kbps.</p>\n<p>If you have plenty of network bandwidth to work with, and are reasonably certain your users will as well, G.722 is the better choice. To maximize the storage and network efficiency in a constrained environment, choose AMR.</p>"}},{"type":"prose","value":{"id":"example_audio_clips_for_professional_mixing","title":"Example: Audio clips for professional mixing","isH3":true,"content":"<p>When compressing audio that will be getting mixed or remixed, you typically want zero or close to zero loss of fidelity, which suggests a lossless codec may be in order. However, because lossless encoding naturally has a much lower compression level than lossy encoding, you may find that if your source audio is large enough, you might have to choose a lossy encoder anyway, especially in a web environment in which you can't control the download rate of the media.</p>\n<p>Assuming that lossless compression is our best option here (which it usually is, as long as the audio files are small), the three strongest candidates from a codec perspective are <a href=\"https://en.wikipedia.org/wiki/FLAC\" class=\"external\" rel=\" noopener\">FLAC</a>, <a href=\"https://en.wikipedia.org/wiki/Apple_Lossless\" class=\"external\" rel=\" noopener\">Apple Lossless (ALA</a>, and <a href=\"https://en.wikipedia.org/wiki/Audio_Lossless_Coding\" class=\"external\" rel=\" noopener\">MPEG-4 ALS</a>. Which we choose will depend on browser support and which media container formats support them.</p>\n<p>For the purposes of this example, we'll assume that all browsers have the same codec and container support as Firefox (although this is far from true). Consider the breadth of actual support for the codecs when making your decisions.</p>\n<ul>\n  <li>Firefox supports FLAC in FLAC's native containers as well as in Ogg and MPEG-4 (MP4) files.</li>\n  <li>Firefox only supports Apple Lossless through its platform-specific QuickTime support.</li>\n  <li>Firefox doesn't support MP4 ALS.</li>\n</ul>\n<p>In this case, it appears that FLAC is most likely the best codec to go with; ALAC has little to no direct browser support.</p>"}},{"type":"prose","value":{"id":"audio_encoding_software","title":"Audio encoding software","isH3":false,"content":"<p>There are many tools available for encoding audio. The simplest are those which are meant for ripping CDs or pulling in audio files and quickly and automatically converting them to MP3 or AAC format to store in a library, such as <a href=\"https://www.apple.com/itunes/\" class=\"external\" rel=\" noopener\">iTunes</a>. But when developing web apps that use audio as a component of the app, such as games, you will need more control over the encoding process and more options surrounding the format used while encoding the audio.</p>\n<p>A few popular options:</p>\n<dl>\n  <dt id=\"ffmpeg\"><a href=\"https://ffmpeg.org/\" class=\"external\" rel=\" noopener\">FFmpeg</a></dt>\n  <dd>\n    <p>Arguably the best-known and most widely regarded open source codec package available, FFmpeg supports the majority of the most popular audio formats and provides command-line tools and libraries for encoding, decoding, and performing format conversions of both audio and video. Binaries are available for macOS, Linux, and Windows.</p>\n  </dd>\n  <dt id=\"handbrake\"><a href=\"https://handbrake.fr/\" class=\"external\" rel=\" noopener\">Handbrake</a></dt>\n  <dd>\n    <p>A highly popular open source front-end to FFmpeg which adds a graphical user interface that makes it much easier to control the wide variety of options FFmpeg offers while encoding audio and/or video. Binaries are available for macOS, Linux, and Windows.</p>\n  </dd>\n  <dt id=\"audacity\"><a href=\"https://www.audacityteam.org/\" class=\"external\" rel=\" noopener\">Audacity</a></dt>\n  <dd>\n    <p>An open source audio editor that supports loading audio from many different formats, editing, filtering, and adjusting the audio, and saving it back out in either the original format or a new format. Available for macOS, Linux, and Windows.</p>\n  </dd>\n  <dt id=\"lame\"><a href=\"https://lame.sourceforge.io/\" class=\"external\" rel=\" noopener\">LAME</a></dt>\n  <dd>\n    <p>A high quality open source MP3 encoder with support for CBR, ABR, and VBR encoding as well as a variety of other options. Distributed only in source form by the LAME project, but can be installed using <a href=\"https://brew.sh/\" class=\"external\" rel=\" noopener\">Homebrew</a> or similar tools.</p>\n  </dd>\n</dl>"}},{"type":"prose","value":{"id":"see_also","title":"See also","isH3":false,"content":"<ul>\n  <li><a href=\"/en-US/docs/Web/Media/Formats/Containers\">Media container formats</a></li>\n  <li>The <a href=\"/en-US/docs/Web/HTML/Element/audio\"><code>&lt;audio&gt;</code></a> and <a href=\"/en-US/docs/Web/HTML/Element/video\"><code>&lt;video&gt;</code></a> elements</li>\n  <li><a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC API</a></li>\n  <li><a href=\"/en-US/docs/Web/Media/Formats/Video_codecs\">Web video codec guide</a></li>\n  <li><a href=\"/en-US/docs/Web/Media/Formats/WebRTC_codecs\">Codecs used by WebRTC</a></li>\n</ul>"}}],"toc":[{"text":"Common codecs","id":"common_codecs"},{"text":"Factors affecting the encoded audio","id":"factors_affecting_the_encoded_audio"},{"text":"Codec details","id":"codec_details"},{"text":"Choosing an audio codec","id":"choosing_an_audio_codec"},{"text":"Audio encoding software","id":"audio_encoding_software"},{"text":"See also","id":"see_also"}],"summary":"Even modest quality, high-fidelity stereo sound can use a substantial amount of disk space. For web developers, an even bigger concern is the network bandwidth needed in order to transfer audio, whether for streaming or to download it for use during gameplay. The processing of audio data to encode and decode it is handled by an audio codec (COder/DECoder). In this article, we look at audio codecs used on the web to compress and decompress audio, what their capabilities and use cases are, and offer guidance when choosing audio codecs to use for your content.","popularity":0.003,"modified":"2022-09-13T08:41:19.000Z","source":{"folder":"en-us/web/media/formats/audio_codecs","github_url":"https://github.com/mdn/content/blob/style/old/files/en-us/web/media/formats/audio_codecs/index.md","last_commit_url":"https://github.com/mdn/content/commit/5887d9bebdcbccdcec1129d720f24744fd827921","filename":"index.md"},"parents":[{"uri":"/en-US/docs/Web","title":"Web technology for developers"},{"uri":"/en-US/docs/Web/Media","title":"Web media technologies"},{"uri":"/en-US/docs/Web/Media/Formats","title":"Media type and format guide: image, audio, and video content"},{"uri":"/en-US/docs/Web/Media/Formats/Audio_codecs","title":"Web audio codec guide"}],"pageTitle":"Web audio codec guide - Web media technologies | MDN","noIndexing":false}}</script></body></html>

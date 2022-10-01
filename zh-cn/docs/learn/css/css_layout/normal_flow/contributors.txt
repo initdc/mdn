@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/css_layout/normal_flow/index.md
+
+# Original Wiki contributors
+niuqv
+boxerqyx
+laizenan
+sun_xiansong

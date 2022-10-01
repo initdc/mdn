@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/scriptprocessornode/index.md
+
+# Original Wiki contributors
+1valdis
+chrisdavidmills
+sideshowbarker
+fscholz
+hoch
+abbycar
+Sebastianz
+Clafou
+teoli
+DavidWalsh
+chadoh
+Thormme
+Prachi_Dighe
+rick_carlino
+mankyd
+cronco
+Sheppy

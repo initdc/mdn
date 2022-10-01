@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/reference/index.md
+
+# Original Wiki contributors
+zixuan945
+mengli404
+RainSlide
+flowfire
+codeofjackie
+Idealist_EZ
+Ende93
+PaperFlu
+zsxeee
+PerlaHGL
+0lightbee0
+fygyx1
+Go7hic
+zhang-kai
+zhyupe
+kevinfszu
+chliuqi
+xiaolong
+Breezewish
+ziyunfei
+teoli
+anjianshi
+Jimmie_Felidae
+alimon
+tregagnon
+Mgjbot
+TigerSoldier
+Emcc
+Mickeyboy

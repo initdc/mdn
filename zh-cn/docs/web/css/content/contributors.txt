@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/content/index.md
+
+# Original Wiki contributors
+fengchunsgit
+wbamberg
+SphinxKnight
+Go7hic
+Sebastianz
+NicoleRao
+peanut_tao
+ziyunfei
+Darrel.Hsu

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>Blob - 创建一个指向类型化数组的_url - code sample</title>
+    </head>
+    <body>
+        
+            <p>此示例创建一个类型化数组，其中包含空格以及 A 到
+  Z 的 ASCII 字符。然后将其转换为一个对象
+  URL。并创建一个打开该对象 URL 的链接。点击这个链接以查看对象
+  URL 解码后的内容。</p>
+
+        
+        
+            <script>
+                function showViewLiveResultButton() {
+  if (window.self !== window.top) {
+    // 如果当前文档是否在一个 frame 中，则
+    // 确保让用户在新的标签页或窗口中打开它。
+    // 否则，此示例将无法正常演示。
+    const p = document.querySelector("p");
+    p.textContent = "";
+    const button = document.createElement("button");
+    button.textContent = "查看上面示例代码的渲染结果";
+    p.append(button);
+    button.addEventListener('click', () => window.open(location.href));
+    return true;
+  }
+  return false;
+}
+
+if (!showViewLiveResultButton()) {
+  function typedArrayToURL(typedArray, mimeType) {
+    return URL.createObjectURL(new Blob([typedArray.buffer],
+        {type: mimeType}))
+  }
+  const bytes = new Uint8Array(59);
+
+  for (let i = 0; i < 59; i++) {
+    bytes[i] = 32 + i;
+  }
+
+  const url = typedArrayToURL(bytes, 'text/plain');
+
+  const link = document.createElement('a');
+  link.href = url;
+  link.innerText = '打开这个数组的 URL';
+
+  document.body.appendChild(link);
+}
+
+            </script>
+        
+    </body>
+</html>

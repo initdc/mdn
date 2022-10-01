@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/yari/index.html
+
+# Original Wiki contributors
+SphinxKnight
+wbamberg
+BychekRU
+FRiMN

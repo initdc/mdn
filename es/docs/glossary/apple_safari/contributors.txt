@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/apple_safari/index.md
+
+# Original Wiki contributors
+mastertrooper
+ekros

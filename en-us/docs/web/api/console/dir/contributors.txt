@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/console/dir/index.md
+
+# Original Wiki contributors
+mfuji09
+estelle
+alattalatta
+ivorpad
+connorshea
+NolanMagee
+Thw0rted
+fscholz
+abhijeetguptaa
+SphinxKnight
+wurining
+arronei
+valtlai
+erikadoyle
+ClompenSander
+Sebastianz
+chrisdavidmills
+cvrebert
+teoli
+kscarfone
+Shraddha_Magdum
+Sheppy
+myakura
+ziyunfei
+alanh

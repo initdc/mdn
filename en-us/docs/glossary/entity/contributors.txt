@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/entity/index.md
+
+# Original Wiki contributors
+Geoffrey-A
+stevenwdv
+cdschroeder
+rolfedh
+Tigt
+jeremy-french
+writerkac
+Colptha
+PushpitaPikuDey
+wblock
+Jeremie
+klez
+Andrew_Pfeiffer

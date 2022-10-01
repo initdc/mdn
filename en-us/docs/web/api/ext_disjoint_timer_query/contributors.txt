@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/ext_disjoint_timer_query/index.md
+
+# Original Wiki contributors
+fscholz
+jaen
+chrisdavidmills
+Wandalen
+nmve
+teoli

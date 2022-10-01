@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/htmlcanvaselement/capturestream/index.html
+
+# Original Wiki contributors
+belukha
+curdwithraisins

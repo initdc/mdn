@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/order/index.md
+
+# Original Wiki contributors
+e508ea3d
+albertmolodec
+chulanovskyi

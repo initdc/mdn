@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/htmlelement/dragstart_event_be9da5ef68a2920309b168752ea03d20/index.md
+
+# Original Wiki contributors
+mfuji09

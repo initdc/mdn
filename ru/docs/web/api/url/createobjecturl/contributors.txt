@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/url/createobjecturl/index.html
+
+# Original Wiki contributors
+YozhEzhi
+bagau
+chevsky
+ga2mer
+Vasia-Gav

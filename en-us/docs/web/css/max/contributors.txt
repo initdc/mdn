@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/max/index.md
+
+# Original Wiki contributors
+sideshowbarker
+chrisdavidmills
+ramiy
+wbamberg
+jswisher
+mfuji09
+GalustOsipyan
+mfluehr
+QuentinA
+MiLeung
+ExE-Boss
+estelle

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mozilla/add-ons/webextensions/api/tabs/get/index.html
+
+# Original Wiki contributors
+wbamberg
+siweter

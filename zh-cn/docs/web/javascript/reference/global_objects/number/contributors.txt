@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/number/index.md
+
+# Original Wiki contributors
+SageX
+Mookiepiece
+huxinsen
+hhxxhg
+shevche24
+re09
+righttoe
+yurielZhang
+liudeyuan
+liuzeyafzy
+Ende93
+teoli
+xuxiaodong
+ethertank

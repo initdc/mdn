@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/typedarray/buffer/index.md
+
+# Original Wiki contributors
+SphinxKnight
+joseluisq

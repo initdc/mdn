@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/experimental_features/index.md
+
+# Original Wiki contributors
+Rumyra
+hamishwillee
+chrisdavidmills
+rachelandrew
+Emosewaj
+Sheppy
+jswisher
+WebMechanic
+staktrace
+mklein
+Sebastianz
+honzabambas
+fscholz
+baumanj
+kvark
+digitarald
+graingert
+Jürgen Jeka
+Skierpage
+wbamberg
+Zhang-Junzhi
+poke
+ExE-Boss
+evilpie
+Rijesh1802
+ntim
+daveloyall
+teoli
+jryans
+gomezmichael7574
+birtles
+justindarc
+msreckovic

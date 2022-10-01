@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mouseevent/buttons/index.md
+
+# Original Wiki contributors
+TrevorKarjanis
+intellild
+brunoais
+Blacktodreamlight
+ZaneHannanAU
+mfluehr
+fscholz
+benjick
+Robg1
+david_ross
+jpmedley
+libbymc
+mcrafty50
+zoechi
+bethge
+Sebastianz
+michaelbaur
+teoli
+syoichi
+cvrebert
+zastrowm
+kscarfone
+amycb
+Jeremie

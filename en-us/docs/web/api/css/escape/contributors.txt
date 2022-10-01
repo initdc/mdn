@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/css/escape/index.md
+
+# Original Wiki contributors
+ExE-Boss
+fscholz
+merih
+eugeneford
+jpmedley
+Sebastianz
+Sheppy
+yisibl
+cvrebert
+teoli
+ziyunfei

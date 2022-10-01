@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/scope/index.md
+
+# Original Wiki contributors
+Neo42
+lucida959595
+RainSlide
+fnfacun
+Beibei0529
+MrRENGE
+chrislung
+gucong
+Capchen
+walwimp
+jvua
+ziyunfei
+ArcherGrey

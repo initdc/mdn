@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/opensearch/index.html
+
+# Original Wiki contributors
+teoli
+Etrigan
+tbusca
+Nukeador
+Rodrigoknascimento
+Citora
+Mgjbot
+Fenomeno

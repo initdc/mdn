@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/canvas_api/index.md
+
+# Original Wiki contributors
+SphinxKnight
+loella16
+timkrief
+NemoNobobyPersonne
+etienne-gauvin
+emersion
+Laurent_Lyaudet
+Delapouite
+tregagnon
+ethertank
+openjck
+teoli
+dextra
+Mgjbot
+BenoitL
+Chbok

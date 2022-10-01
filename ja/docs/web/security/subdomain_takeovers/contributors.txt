@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/security/subdomain_takeovers/index.md
+
+# Original Wiki contributors
+silverskyvicto

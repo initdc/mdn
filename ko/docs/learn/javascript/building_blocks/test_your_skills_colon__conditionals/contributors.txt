@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/javascript/building_blocks/test_your_skills_colon__conditionals/index.md
+
+# Original Wiki contributors
+

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/releaseevents/index.md
+
+# Original Wiki contributors
+lucian95
+Ac1521
+fscholz
+MHasan
+teoli
+iamanupmenon
+kohei.yoshino
+ethertank
+Sheppy
+Mgjbot
+Ptak82
+Nickolay
+Callek
+Dria
+JesseW

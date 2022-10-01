@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/webassembly/existing_c_to_wasm/index.md
+
+# Original Wiki contributors
+leela52452
+msobanjo
+sideshowbarker
+nylki
+AntonOellerer
+tomasdev
+jpmedley
+chrisdavidmills

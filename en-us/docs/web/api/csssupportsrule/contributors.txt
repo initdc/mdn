@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/csssupportsrule/index.md
+
+# Original Wiki contributors
+fscholz
+mfluehr
+erikadoyle
+Sebastianz
+teoli
+kscarfone
+Sheppy
+webinista

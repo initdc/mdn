@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            /* Décommentez ce CSS pour que le sélecteur multiple ait la même hauteur que le simple. */
+
+/*
+select[multiple] {
+  height: 1.5em;
+  vertical-align: top;
+}
+select[multiple]:focus,
+select[multiple]:active {
+  height: auto;
+}
+*/
+
+        </style>
+        
+        <title>Attribut HTML : multiple - saisir_plusieurs_options - code sample</title>
+    </head>
+    <body>
+        
+            <form method="get" action="#">
+<p>
+ <label for="dwarfs">Sélectionnez les menuisiers que vous aimez :</label>
+  <select multiple name="dwarfs" id="dwarfs">
+    <option>grincheux@menuisiers.fr</option>
+    <option>joyeux@menuisiers.fr</option>
+    <option>dormeur@menuisiers.fr</option>
+    <option>timide@menuisiers.fr</option>
+    <option>atchoum@menuisiers.fr</option>
+    <option>simplet@menuisiers.fr</option>
+    <option>doc@menuisiers.fr</option>
+  </select>
+</p>
+<p>
+ <label for="favoriteOnly">Sélectionnez votre préféré :</label>
+  <select name="favoriteOnly" id="favoriteOnly">
+    <option>grincheux@menuisiers.fr</option>
+    <option>joyeux@menuisiers.fr</option>
+    <option>dormeur@menuisiers.fr</option>
+    <option>timide@menuisiers.fr</option>
+    <option>atchoum@menuisiers.fr</option>
+    <option>simplet@menuisiers.fr</option>
+    <option>doc@menuisiers.fr</option>
+  </select>
+</p>
+<p>
+  <input type="submit" value="Soumettre">
+</p>
+</form>
+
+        
+        
+    </body>
+</html>

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/element/svg/index.md
+
+# Original Wiki contributors
+alphabet007
+liyongleihf2006
+Sebastianz
+fanxiaojie
+charlie
+fonglezen

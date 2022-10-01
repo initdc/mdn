@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/mathml/element/msqrt/index.md
+
+# Original Wiki contributors
+rachelandrew
+sideshowbarker
+fscholz
+fred.wang
+Sheppy
+jswisher

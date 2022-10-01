@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/css/using_css_custom_properties/index.md
+
+# Original Wiki contributors
+SphinxKnight
+MagicalStrangeQuark
+chrisdavidmills
+TecladistaProd
+matheus.raduan
+wellviana
+eltonmesquita

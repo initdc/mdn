@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/statements/for/index.md
+
+# Original Wiki contributors
+RainSlide
+yy7054wyq5
+zhangchen
+IShinji
+yenshen
+oscar1980
+gaigeshen

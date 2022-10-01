@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/firefox/releases/3/xul_improvements_in_firefox_3/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+Nukeador
+Mgjbot
+Nathymig
+Dukebody

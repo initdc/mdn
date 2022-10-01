@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/meta/index.html
+
+# Original Wiki contributors
+Sebastianz
+feardarkness
+jigs12
+teoli
+Jorolo

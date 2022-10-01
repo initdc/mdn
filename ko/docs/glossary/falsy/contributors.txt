@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/glossary/falsy/index.md
+
+# Original Wiki contributors
+honggaruy
+Seonghui
+alattalatta
+Violet-Bora-Lee
+Parcovia
+hohoonlee

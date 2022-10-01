@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/glossary/dom/index.md
+
+# Original Wiki contributors
+imbant
+yunng
+zeyongTsai
+Undecyce
+moquede
+yuyx91
+byoungd
+GyonGyon
+sunnylost
+leeziwong
+jianzhou520
+zsh110123

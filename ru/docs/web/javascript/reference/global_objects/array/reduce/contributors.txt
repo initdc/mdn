@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/array/reduce/index.html
+
+# Original Wiki contributors
+sborenko
+nikolai-shabalin
+likerRr
+Ant-VAV
+Metotron
+fxrbfg
+Ohar
+slavablind91
+AliaksandrSith
+Riim
+Mingun
+NikitaK
+Anton_Arestov

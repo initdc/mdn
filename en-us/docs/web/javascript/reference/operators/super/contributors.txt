@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/super/index.md
+
+# Original Wiki contributors
+MendyBerger
+vaniananthuni
+fscholz
+ThomasOrlita
+preethamkamidi
+pillowfication
+mfuji09
+awdltd
+lalitcoder
+anurag-majumdar
+amitparrikar
+dawoonchung
+Wellspring
+SphinxKnight
+isomorphismes
+LittleWhole
+koroliov
+chrisdavidmills
+kamalx
+Soupedenuit
+jameshkramer
+joneit
+nmve
+spacegoing
+kdex
+Natalya_Surikova
+jsx
+senocular
+arai
+jpmedley
+ErikL
+Jeremie
+kmaglione

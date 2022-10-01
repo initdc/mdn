@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/url/index.md
+
+# Original Wiki contributors
+alattalatta
+cybaj
+limkukhyun
+SeonHyungJo
+yuj25

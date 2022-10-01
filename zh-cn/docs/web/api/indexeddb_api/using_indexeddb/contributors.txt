@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/indexeddb_api/using_indexeddb/index.md
+
+# Original Wiki contributors
+Dennis273
+thxl2010
+microchang
+zimocode
+hooozen
+luoxzhg
+HJava
+BreezeDealer
+fireswork
+johncido
+ziyunfei
+princetoad@gmail.com
+karsa.si

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/css_images/index.md
+
+# Original Wiki contributors
+wbamberg
+estelle
+mfuji09
+ExE-Boss
+fscholz
+mfluehr
+wizAmit
+mrstork
+cvrebert
+Sebastianz
+teoli

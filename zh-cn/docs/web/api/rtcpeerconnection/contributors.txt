@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/rtcpeerconnection/index.md
+
+# Original Wiki contributors
+崮生
+Tsui
+ztacesa
+yxxgoogle
+Move
+zhuyeqing5828
+Wunmest

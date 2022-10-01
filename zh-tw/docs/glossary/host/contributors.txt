@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/glossary/host/index.md
+
+# Original Wiki contributors
+iigmir
+slivenred
+Rocker

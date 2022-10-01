@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/fromcharcode/index.md
+
+# Original Wiki contributors
+叶扬
+laampui
+weiqinl
+Jiang-Xuan
+xgqfrms-GitHub
+AlexChao

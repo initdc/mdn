@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/css_backgrounds_and_borders/resizing_background_images/index.md
+
+# Original Wiki contributors
+Aaron_Zhung

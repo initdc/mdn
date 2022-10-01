@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/tabs/oncreated/index.md
+
+# Original Wiki contributors
+irenesmith
+fscholz
+hellosct1
+Leif-AMO
+wbamberg
+Makyen

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/server-side/first_steps/introduction/index.md
+
+# Original Wiki contributors
+dake0805
+vicco
+yijie_sun
+zhangchen
+Nothosaurs
+lonelee
+diaotai
+old2sun
+ziyouwa
+Zeng

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/glossary/signature/function/index.md
+
+# Original Wiki contributors
+SELO77
+seungha-kim

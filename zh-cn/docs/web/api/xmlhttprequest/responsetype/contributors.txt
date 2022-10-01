@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/xmlhttprequest/responsetype/index.md
+
+# Original Wiki contributors
+urain39
+scottxu
+CodingSherlock
+breakair
+xgqfrms-GitHub

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/cors-safelisted_request_header/index.md
+
+# Original Wiki contributors
+hamishwillee
+mfuji09
+12Me21
+xec
+fscholz
+Annevk

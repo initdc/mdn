@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/broadcastchannel/message_event/index.md
+
+# Original Wiki contributors
+Spikef
+wbamberg
+Lim
+CrystalY
+Yongest
+hellowrenfei

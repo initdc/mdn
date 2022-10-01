@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/regexp/index.md
+
+# Original Wiki contributors
+Nachec
+lord-reptilia
+wbamberg
+angeldomp49
+F94Olivera
+EstebanVictorio
+teoli
+fmvilas
+Sole
+marcoslhc
+lmorchard
+Scipion
+Sheppy

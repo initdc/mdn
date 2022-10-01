@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/guide/introduction/index.md
+
+# Original Wiki contributors
+mpcjazz
+xfq
+Uemmra3
+kenji-yamasaki
+kaiji
+sutara79
+mfuji09
+toVersus
+mdmss37
+teoli
+Marsf
+mamodayo
+x2357
+isomura-bon
+Shuyas

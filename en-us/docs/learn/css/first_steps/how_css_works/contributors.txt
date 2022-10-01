@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/first_steps/how_css_works/index.md
+
+# Original Wiki contributors
+warleyfdias
+choudh70
+jlbuckner
+rachelandrew
+chrisdavidmills
+ExE-Boss

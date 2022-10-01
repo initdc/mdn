@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/touchevent/index.md
+
+# Original Wiki contributors
+mfuji09
+dlibby-
+hinell
+mfluehr
+fscholz
+ziadkh0
+Sheppy
+lrvolle
+jackblackevo
+jpmedley
+chrisdavidmills
+mattwojo
+cvrebert
+AFBarstow
+dtapuska
+teoli
+MHasan
+Pettay
+Khannabyss
+kscarfone
+acusti
+bigbossSNK
+wesj

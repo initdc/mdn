@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/basics_of_http/mime_types/common_types/index.md
+
+# Original Wiki contributors
+khalyomede
+chrisdavidmills
+smalesys
+ptbrowne
+kabanon
+SphinxKnight
+Alpha
+NathanB

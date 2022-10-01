@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/mix-blend-mode/index.md
+
+# Original Wiki contributors
+sqchenxiyuan
+shenxiang11
+ExE-Boss
+ClassicOldSong
+mrstork
+Sebastianz
+FredWe

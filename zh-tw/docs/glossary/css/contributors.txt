@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/glossary/css/index.md
+
+# Original Wiki contributors
+jjyaung
+Chou-Chun-Yu
+iigmir

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/forms/how_to_structure_a_web_form/example/index.md
+
+# Original Wiki contributors
+mfuji09
+silverskyvicto

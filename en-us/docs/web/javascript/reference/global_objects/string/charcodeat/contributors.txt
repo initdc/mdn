@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/charcodeat/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+Zearin_Galaurum
+Raigorx
+SphinxKnight
+AbhimanyuAryan
+jameshkramer
+zrw354
+nicoder
+eduardoboucas
+metamatt
+maybe
+Mingun
+elisee
+mathiasbynens
+Moyogo
+Sheppy
+chienpo
+ethertank
+Brettz9
+evilpie
+greggman
+Libra.zhu
+inimino
+Sephr
+Levon
+Mgjbot
+Waldo
+HeroreV
+BijuGC
+Maian
+Dria

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/http/status/index.html
+
+# Original Wiki contributors
+FennecFoxSW
+yjs000
+Hozerogold
+gaucho1218
+fscholz
+desty

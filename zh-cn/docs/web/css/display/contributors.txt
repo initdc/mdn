@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/display/index.md
+
+# Original Wiki contributors
+zhuangyin
+bolu_gogoo
+shangcode
+Tindoc
+junbin123
+hhxxhg
+yanabcd
+cissoid
+zhangchen
+Bayes
+DaySunx2
+fanerge
+Elviretoffoli
+songwear
+alphabet007
+ddtyjmyjm
+xgqfrms-GitHub
+KrasnayaPloshchad
+teoli
+201341
+lwxyfer
+Sebastianz
+FredWe
+paddingme
+valiantk
+aaron4512
+TigerSoldier

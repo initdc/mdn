@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/gamepad_api/using_the_gamepad_api/index.md
+
+# Original Wiki contributors
+mfuji09
+Potappo
+T.Ukegawa
+mzyy94

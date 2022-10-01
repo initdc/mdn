@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/transform-function/scaley/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+rachelandrew
+ramiy
+wbamberg
+estelle
+komalbharadiya
+xgqfrms
+mfluehr
+Sebastianz
+moali1.
+SphinxKnight

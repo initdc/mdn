@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/datalist/index.html
+
+# Original Wiki contributors
+mfranzke
+hernanarica
+miguelgilmartinez
+Luuis
+SphinxKnight
+teoli
+translatoon
+Izel

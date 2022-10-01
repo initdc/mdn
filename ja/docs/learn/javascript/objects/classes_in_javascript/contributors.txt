@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/objects/classes_in_javascript/index.md
+
+# Original Wiki contributors
+eldesh
+wlt
+silverskyvicto
+AkihikoTakeda
+Uemmra3
+hamasaki
+kenji-yamasaki

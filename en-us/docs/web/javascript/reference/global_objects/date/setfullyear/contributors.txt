@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/date/setfullyear/index.md
+
+# Original Wiki contributors
+mfuji09
+fscholz
+ryansh100
+wbamberg
+schalkneethling
+jameshkramer
+eduardoboucas
+kirilloid
+Mingun
+Sheppy
+ethertank
+evilpie
+Ptak82
+Maian
+Dria

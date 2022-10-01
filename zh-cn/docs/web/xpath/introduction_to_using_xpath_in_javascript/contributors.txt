@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/xpath/introduction_to_using_xpath_in_javascript/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+zhanglianxin
+zengguanming
+fscholz
+ziyunfei
+Cuimingda

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/techniques/3d_on_the_web/webvr/index.md
+
+# Original Wiki contributors
+Wind1808
+wbamberg
+chrisdavidmills
+gmarty
+end3r

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/microsoft_internet_explorer/index.md
+
+# Original Wiki contributors
+Andrew_Pfeiffer
+lpiot
+klez
+Jeremie
+MargotW
+mreichstein

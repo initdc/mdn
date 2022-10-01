@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/errors/index.md
+
+# Original Wiki contributors
+mfuji09
+fuyofuyopiroq
+Uemmra3
+sii
+YuichiNukiyama
+fscholz

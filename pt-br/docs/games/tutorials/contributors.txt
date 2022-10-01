@@ -1,0 +1,3 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/games/tutorials/index.md
+

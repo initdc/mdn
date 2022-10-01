@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/html_drag_and_drop_api/drag_operations/index.md
+
+# Original Wiki contributors
+oooooo
+jackblackevo
+foxbrush

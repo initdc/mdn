@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/mediastream/id/index.md
+
+# Original Wiki contributors
+e53e04ac

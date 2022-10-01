@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/svg/index.md
+
+# Original Wiki contributors
+tristantheb
+AbdelElMansari
+Tresmollo
+unpeudetout
+marie-ototoi
+nicodel
+SphinxKnight
+teoli
+Delapouite
+darnuria
+Jeremie
+MsTeshi
+marc971
+gemy_c
+fscholz
+BenoitL
+Fredchat
+Kyodev
+Duarna
+Verruckt
+Chbok
+Mgjbot
+Jorolo
+Anonymous

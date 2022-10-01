@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/objects/object_building_practice/index.md
+
+# Original Wiki contributors
+eldesh
+wlt
+endlsspain
+silverskyvicto
+Uemmra3
+i12o

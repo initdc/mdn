@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/accessibility/index.md
+
+# Original Wiki contributors
+hadleyel
+chrisdavidmills
+sharma86hub
+beezedits
+nawaazwill11
+Shobhit1
+ijsasser
+estelle
+poacher2k
+nackman
+msobanjo
+christopherwilson1
+charlie-s

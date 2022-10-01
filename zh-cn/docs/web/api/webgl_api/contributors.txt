@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/webgl_api/index.md
+
+# Original Wiki contributors
+KaiserZh
+Futrime
+Yayure
+wymm0008
+RoXoM
+yzweb2018
+guzhongren
+shenwenkai
+wqQudian
+xgqfrms-GitHub
+lunix01
+marsoln
+wth
+JoshuaLee
+peterwang1996
+xgqfrms
+shawntsia
+fscholz
+MoYuLing
+Zhining
+teoli
+RobberPhex
+ethertank
+KangKai
+ziyunfei
+bean

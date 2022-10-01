@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/add-ons/webextensions/api/i18n/index.md
+
+# Original Wiki contributors
+tristantheb
+hellosct1
+SphinxKnight
+rlouvat

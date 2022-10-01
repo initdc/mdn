@@ -1,0 +1,35 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/number/isnan/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+KevinRamharak
+ramsunvtech
+MaySoMusician
+rockerest
+anonyco
+jameshkramer
+samjewell
+Corea
+nmve
+kdex
+eduardoboucas
+akqj10
+stevemao
+SphinxKnight
+nwangtw
+jasonhr13
+Jeremie
+Waldo
+ziyunfei
+AlexChao
+Mingun
+realityking
+Sheppy
+harrybotboy
+tw2113
+ethertank
+m_gol
+evilpie

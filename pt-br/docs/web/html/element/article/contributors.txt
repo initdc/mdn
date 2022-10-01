@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/html/element/article/index.md
+
+# Original Wiki contributors
+wbamberg
+Jerffersonferreira
+teoli
+robsonds

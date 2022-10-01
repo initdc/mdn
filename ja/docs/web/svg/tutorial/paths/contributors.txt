@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/tutorial/paths/index.md
+
+# Original Wiki contributors
+5064
+mfuji09
+aki-webii
+I_Slapped_The_Goose
+ethertank
+yyss

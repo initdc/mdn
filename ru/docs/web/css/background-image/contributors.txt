@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/background-image/index.md
+
+# Original Wiki contributors
+romazaharov09
+AliaksandrZahorski
+Akh-rman
+x-in
+wizAmit
+SphinxKnight
+teoli
+s1lver
+Sebastianz
+Aleksej
+russian

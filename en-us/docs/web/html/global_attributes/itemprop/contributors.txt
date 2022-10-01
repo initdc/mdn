@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/global_attributes/itemprop/index.md
+
+# Original Wiki contributors
+Julix
+mfuji09
+jpreuss
+fscholz
+sideshowbarker
+mrngoitall
+ntzm
+SphinxKnight
+rolfedh
+duncanmcdonald
+MarkBeleski
+neotam

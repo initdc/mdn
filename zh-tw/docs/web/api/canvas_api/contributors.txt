@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/canvas_api/index.md
+
+# Original Wiki contributors
+pig3629
+jackblackevo
+fscholz
+teoli
+elin
+ethertank
+dextra
+Kennyluck
+happysadman

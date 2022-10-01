@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/pseudo-elements/index.md
+
+# Original Wiki contributors
+RainSlide
+StudentMain
+anderson_liu
+linyang4
+nDos
+xgqfrms-GitHub
+lizhihua
+FredWe
+xiaowtz
+Fadeoc
+teoli
+alimon

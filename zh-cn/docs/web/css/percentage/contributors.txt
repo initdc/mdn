@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/percentage/index.md
+
+# Original Wiki contributors
+StudentMain
+yangmei123
+RainSlide
+The-End-Hero
+xhlsrj
+mrstork
+fscholz
+FredWe

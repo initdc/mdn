@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/nodeiterator/index.md
+
+# Original Wiki contributors
+segayuu
+yyss
+fscholz
+khalid32
+ethertank
+RobinEgg

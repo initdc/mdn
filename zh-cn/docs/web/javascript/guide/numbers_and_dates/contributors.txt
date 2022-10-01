@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/numbers_and_dates/index.md
+
+# Original Wiki contributors
+柳涤尘
+antield
+symant233
+迷子碳
+qazsweet
+canyi1942
+fenyu
+adasqg
+zms1995
+trionfo1993
+ShaderWind
+vividlai
+yonglezhou
+DaiZhiTao
+jitingsun
+niccoming
+xiaokk06
+sgr
+suxiesumiao
+victor0801x
+zhulinpinyu
+williamchu123
+ShiJianwen
+zhe13
+Toweave
+Serifx
+456wyc
+wenxiangmao

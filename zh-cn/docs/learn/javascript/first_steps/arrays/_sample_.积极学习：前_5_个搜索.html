@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>数组 - 积极学习：前_5_个搜索 - code sample</title>
+    </head>
+    <body>
+        
+            <div class="output" style="min-height: 150px;">
+
+<input type="text"><button>Search</button>
+
+<ul>
+
+</ul>
+
+</div>
+
+<textarea id="code" class="playable-code" style="height: 370px;">
+var list = document.querySelector('.output ul');
+var searchInput = document.querySelector('.output input');
+var searchBtn = document.querySelector('.output button');
+
+list.innerHTML = '';
+
+var myHistory = [];
+
+searchBtn.onclick = function() {
+  // 如果搜索框不为空，我们则将搜索词添加到开头
+  if (searchInput.value !== '') {
+    // number 1
+
+    // 清空显示的搜索关键词列表，防止显示
+    // 每次输入搜索词都会重新生成显示的内容
+    list.innerHTML = '';
+
+    // 通过循环遍历，显示所有的搜索关键词
+    for (var i = 0; i < myHistory.length; i++) {
+      var itemText = myHistory[i];
+      var listItem = document.createElement('li');
+      listItem.textContent = itemText;
+      list.appendChild(listItem);
+    }
+
+    // 如果数组的长度大于 5，那么便移除旧的搜索关键词
+    if (myHistory.length >= 5) {
+      // number 2
+
+    }
+
+    // 清空并聚焦到搜索框，准备下一次的搜索
+    searchInput.value = '';
+    searchInput.focus();
+  }
+}
+</textarea>
+
+<div class="playable-buttons">
+  <input id="reset" type="button" value="Reset">
+  <input id="solution" type="button" value="Show solution">
+</div>
+
+        
+        
+            <script>
+                var textarea = document.getElementById('code');
+var reset = document.getElementById('reset');
+var solution = document.getElementById('solution');
+var code = textarea.value;
+
+function updateCode() {
+  eval(textarea.value);
+}
+
+reset.addEventListener('click', function() {
+  textarea.value = code;
+  updateCode();
+});
+
+solution.addEventListener('click', function() {
+  textarea.value = jsSolution;
+  updateCode();
+});
+
+var jsSolution = 'var list = document.querySelector(\'.output ul\');\nvar searchInput = document.querySelector(\'.output input\');\nvar searchBtn = document.querySelector(\'.output button\');\n\nlist.innerHTML = \'\';\n\nvar myHistory= [];\n\nsearchBtn.onclick = function() {\n  if(searchInput.value !== \'\') {\n    myHistory.unshift(searchInput.value);\n\n    list.innerHTML = \'\';\n\n    for(var i = 0; i < myHistory.length; i++) {\n     var itemText = myHistory[i];\n      var listItem = document.createElement(\'li\');\n      listItem.textContent = itemText;\n      list.appendChild(listItem);\n    }\n\n    if(myHistory.length >= 5) {\n      myHistory.pop();\n    }\n\n    searchInput.value = \'\';\n    searchInput.focus();\n  }\n}';
+
+textarea.addEventListener('input', updateCode);
+window.addEventListener('load', updateCode);
+
+            </script>
+        
+    </body>
+</html>

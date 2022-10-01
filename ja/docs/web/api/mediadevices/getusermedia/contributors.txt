@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/mediadevices/getusermedia/index.md
+
+# Original Wiki contributors
+nagamatz
+shnjp
+hex4d
+mfuji09
+shimoA
+shinnoske0727
+hikarino
+yuushimizu
+cosmology233
+YuichiNukiyama

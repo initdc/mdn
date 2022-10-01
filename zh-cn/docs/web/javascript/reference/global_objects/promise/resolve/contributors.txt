@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/promise/resolve/index.md
+
+# Original Wiki contributors
+inlym
+ly023
+zhangchen
+xiaoxiyao
+rockedpanda
+cyancity
+Jiang-Xuan
+fscholz
+nineSean
+purple_force
+Zhangjd
+ylc395

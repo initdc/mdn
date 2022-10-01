@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/howto/create_fancy_boxes/index.md
+
+# Original Wiki contributors
+hbloomer
+Jeremie

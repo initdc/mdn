@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/web_animations_api/using_the_web_animations_api/index.md
+
+# Original Wiki contributors
+theSdev
+rafaelpradella
+kit494way
+stevejay
+birtles
+kvoncode
+sideshowbarker
+nineSean
+jamesdhurd
+joshuabryant
+Sheppy
+rachelnabors
+simevidas
+MarkusStange
+jwhitlock_test
+chrisdavidmills

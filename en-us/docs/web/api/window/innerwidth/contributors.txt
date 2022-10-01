@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/window/innerwidth/index.md
+
+# Original Wiki contributors
+mfuji09
+Sheppy
+Konrud
+connorshea
+libbymc
+mrenty
+Sebastianz
+cvrebert
+fscholz
+teoli
+Delapouite
+kscarfone
+Jeremie
+McGurk
+reustle
+shelbymoore3
+pjotrb123
+Mgjbot
+Waldo
+GT
+Dria
+Wladimir_Palant

@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/htmlshadowelement/getdistributednodes/index.html
+
+# Original Wiki contributors
+dkocho4

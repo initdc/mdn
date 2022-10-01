@@ -1,0 +1,3 @@
+/*! For license information please see 0.97b092a0.chunk.js.LICENSE.txt */
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[0],{73:function(t,n,e){"use strict";e.d(n,"a",(function(){return i})),e.d(n,"b",(function(){return s}));e(3);var c=e(1);e(13);function r(t,n){if(!t)throw new Error(n)}var u=Object(c.createContext)(null);var o=Object(c.createContext)({outlet:null,matches:[]});function a(){return null!=Object(c.useContext)(u)}function i(){return a()||r(!1),Object(c.useContext)(u).location}function s(){var t=Object(c.useContext)(o).matches,n=t[t.length-1];return n?n.params:{}}}}]);
+//# sourceMappingURL=0.97b092a0.chunk.js.map

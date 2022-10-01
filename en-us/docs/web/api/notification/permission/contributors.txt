@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/notification/permission/index.md
+
+# Original Wiki contributors
+mfuji09
+chrisdavidmills
+bershanskiy
+Sheppy
+fscholz
+jpmedley
+abbycar
+edmoz
+MHasan
+kscarfone
+Jeremie

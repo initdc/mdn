@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/index.html
+
+# Original Wiki contributors
+limkukhyun
+naduhy2
+Netaras
+epicsaga
+teoli
+Constantine Kim
+MoGi
+Dyhan81
+Goldmund

@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/console/profileend/index.md
+
+# Original Wiki contributors
+ExE-Boss
+julienw
+fscholz
+maybe
+sideshowbarker
+LurN
+crazy2be
+arronei
+valtlai
+erikadoyle
+janv8000
+Sebastianz
+chrisdavidmills
+openmando
+wbamberg

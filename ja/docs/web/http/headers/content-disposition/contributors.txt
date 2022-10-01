@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/headers/content-disposition/index.md
+
+# Original Wiki contributors
+mfuji09
+pcw
+silverskyvicto
+unarist
+yuji38kwmt

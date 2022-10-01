@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/conflicting/mdn/writing_guidelines/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+wcqueiroz
+wbamberg
+Sheppy

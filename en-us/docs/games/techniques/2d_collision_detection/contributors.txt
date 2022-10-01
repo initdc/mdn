@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/techniques/2d_collision_detection/index.md
+
+# Original Wiki contributors
+escattone
+MitchyGoodness
+donhad1
+nfosterky
+wbamberg
+kothique
+calum1904
+signalsender103
+jlr7245
+fscholz
+thohag
+chrisdavidmills
+NiamhG

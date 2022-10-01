@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/yield_star_/index.md
+
+# Original Wiki contributors
+fscholz
+brantphoto
+Zearin_Galaurum
+sideshowbarker
+SphinxKnight
+martian2049
+wbamberg
+alefesouza
+jameshkramer
+XMO
+nmve
+kdex
+dongyuwei
+ziyunfei
+arai

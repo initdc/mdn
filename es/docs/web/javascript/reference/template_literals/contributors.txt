@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/template_literals/index.md
+
+# Original Wiki contributors
+Magdiel
+sanchezalvarezjp
+JuanWTF
+IsaacLf
+theelmix
+SphinxKnight
+MarkelCuesta
+kdex
+mishelashala
+orasio

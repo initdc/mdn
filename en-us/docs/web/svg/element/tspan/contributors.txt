@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/tspan/index.md
+
+# Original Wiki contributors
+mfuji09
+matt-curtis
+Jeremie
+Tigt
+fscholz
+mattwojo
+Sebastianz
+ryuslash
+kscarfone
+Manuel_Strehl

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/polyline/index.md
+
+# Original Wiki contributors
+Jeremie
+fscholz
+mattwojo
+Sebastianz
+brunoais
+Tigt
+gregtatum
+kscarfone
+Manuel_Strehl
+trevorh
+Wjjohnst

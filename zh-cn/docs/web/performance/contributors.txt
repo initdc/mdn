@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/performance/index.md
+
+# Original Wiki contributors
+lvbaiying
+FE_pangxing
+biqing
+RainSlide
+maoyougan
+sqd123
+chrisdavidmills
+iceytea

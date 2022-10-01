@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/glossary/card_sorting/index.html
+
+# Original Wiki contributors
+maXimusIsMyName
+nova-k

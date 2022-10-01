@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/guide/writing_forward-compatible_websites/index.md
+
+# Original Wiki contributors
+SphinxKnight
+teoli
+xfq
+kohei.yoshino
+yyss
+pixelastic
+Gerv
+Bzbarsky
+Sheppy
+Hsivonen
+jswisher

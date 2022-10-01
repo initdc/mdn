@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/text-decoration/index.md
+
+# Original Wiki contributors
+Zshining
+molly
+Mookiepiece
+liyuhang1997
+The-End-Hero
+SunGuona
+fscholz
+Sebastianz
+ziyunfei
+Deguang

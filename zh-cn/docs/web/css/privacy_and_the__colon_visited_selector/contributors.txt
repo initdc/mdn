@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/privacy_and_the__colon_visited_selector/index.md
+
+# Original Wiki contributors
+tiansh
+599316527

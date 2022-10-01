@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/classes/index.md
+
+# Original Wiki contributors
+xiaoxiao1024
+xgqfrms
+niices
+showad
+xuyimingwork
+zytjs
+brizer
+johnao
+PeanutQAQ
+HermitSun
+narutojian
+JackDing1208
+willerhehehe
+zhangchen
+llyo
+LiXin
+xgqfrms-GitHub
+LouisaNikita
+winjeysong
+PhilTheAir
+XiongAmao
+kylezhang
+tarma
+Jeane
+Ende93
+miuchan
+slientomorrr
+ziyunfei
+eric183
+sartrey
+snandy
+bumaociyuan

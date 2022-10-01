@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/setstart/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+Wliu
+abbycar
+robertknight
+teoli
+Brettz9
+kollishivagangadhar
+shubham.hatwar
+Sheppy
+SkyLined
+Nickolay
+Riboribo
+Mcaruso

@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/statements/export/index.md
+
+# Original Wiki contributors
+AlePerez92
+frank-orellana
+fxisco
+hmorv
+guumo
+Jdiaz
+SphinxKnight
+teoli
+Scipion

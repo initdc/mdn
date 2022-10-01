@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/html/element/a/index.md
+
+# Original Wiki contributors
+iigmir
+hinet60613
+jackblackevo
+teoli
+BobChao
+ethertank

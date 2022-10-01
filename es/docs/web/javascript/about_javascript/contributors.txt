@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/about_javascript/index.md
+
+# Original Wiki contributors
+Nachec
+fscholz
+teoli
+arpunk
+inma_610
+RickieesES
+StripTM

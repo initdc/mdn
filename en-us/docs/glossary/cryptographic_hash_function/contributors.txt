@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/cryptographic_hash_function/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+sebastien-bartoli
+marumari
+lpiot
+Andrew_Pfeiffer
+kscarfone
+teoli

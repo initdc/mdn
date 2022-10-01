@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/window/navigator/index.md
+
+# Original Wiki contributors
+lixingnan200
+jackblackevo

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/location/index.md
+
+# Original Wiki contributors
+mfuji09
+Marsf
+momdo
+teoli
+tk1024
+khalid32
+ethertank
+teppeis
+drry
+Potappo

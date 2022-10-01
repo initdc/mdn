@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/client/url/index.md
+
+# Original Wiki contributors
+Wind1808
+jpmedley
+mfluehr
+fscholz
+chrisdavidmills
+nmve
+Sebastianz
+kscarfone

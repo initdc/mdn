@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/intersection_observer_api/index.html
+
+# Original Wiki contributors
+StepanSnigur
+ArtemStudio
+SamTLT
+Tixxxon
+ishpartko
+kotAndy
+InoY
+alexbs
+newbornfrontender
+pkozemirov
+baomastr
+viktoryiakuzmitskaya
+keslo
+ahavianiri
+c01nd01r
+pepsikat
+nechehin

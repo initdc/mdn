@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field/index.md
+
+# Original Wiki contributors
+escattone
+ro-kl
+raymondjplante
+wbamberg
+yumetodo
+chrisdavidmills
+SphinxKnight
+HongchenLiu
+daniel.stormont
+landrey
+allisonlu
+kundan333
+RishYang
+Yuri-Predborskiy
+fscholz
+gbharatwaj
+trevorh
+end3r

@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/cors/errors/corsmissingalloworigin/index.md
+
+# Original Wiki contributors
+HermosinNunez
+danhiel98
+pyumbillo
+rewin23

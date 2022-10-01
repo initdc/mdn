@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlelement/inert/index.md
+
+# Original Wiki contributors
+carmacleod
+MatheusAvellar
+rachelandrew
+goatandsheep
+divyanshu013

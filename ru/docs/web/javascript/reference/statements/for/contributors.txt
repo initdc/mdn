@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/for/index.html
+
+# Original Wiki contributors
+farvater2
+romankrru
+BychekRU
+ascheyloven

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/animation-iteration-count/index.md
+
+# Original Wiki contributors
+AlisaLiCn
+SilenMark
+seven-lh

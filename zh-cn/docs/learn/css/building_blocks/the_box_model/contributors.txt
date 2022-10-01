@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/building_blocks/the_box_model/index.md
+
+# Original Wiki contributors
+fortunatemouse
+Young-Spark
+SirnoChan
+AsukaZERO2
+LucioLu
+CharCat
+ArcherGrey
+Wolf-Tungsten
+xiaocang
+scauwyf

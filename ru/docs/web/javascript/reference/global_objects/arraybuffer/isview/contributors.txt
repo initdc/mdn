@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/arraybuffer/isview/index.html
+
+# Original Wiki contributors
+shmel3

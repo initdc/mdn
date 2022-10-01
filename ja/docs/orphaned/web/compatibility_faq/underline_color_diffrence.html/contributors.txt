@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/orphaned/web/compatibility_faq/underline_color_diffrence.html/index.md
+
+# Original Wiki contributors
+wtrfp

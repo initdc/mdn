@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/string/touppercase/index.md
+
+# Original Wiki contributors
+sideshowbarker
+hhimanshu
+wbamberg
+fscholz
+alattalatta
+mfluehr
+doubleOrt
+jameshkramer
+eduardoboucas
+Mingun
+Sheppy
+ziyunfei
+evilpie
+Brettz9
+Mgjbot
+Ptak82
+Maian
+Dria

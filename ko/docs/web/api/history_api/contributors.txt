@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/api/history_api/index.md
+
+# Original Wiki contributors
+MyeonghwanCho
+alattalatta
+hoony
+DublinCity
+cheolee
+cs09g
+kimbumbum
+WonbaeLee
+danhojin
+joshua1988

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/node/nextsibling/index.html
+
+# Original Wiki contributors
+wbamberg
+ayc
+Natalya_Surikova
+BychekRU
+AlexAlex

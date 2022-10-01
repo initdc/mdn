@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/flatmap/index.md
+
+# Original Wiki contributors
+zyq
+BadmasterY
+SageX
+ZzqiZQute
+a81965689
+RainSlide
+rxliuli
+LiuYuan
+Channely
+zhixudong666
+baylin87

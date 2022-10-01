@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            span[data-descr] {
+ position: relative;
+ text-decoration: underline;
+ color: #00F;
+ cursor: help;
+}
+
+span[data-descr]:hover::after {
+ content: attr(data-descr);
+ position: absolute;
+ left: 0;
+ top: 24px;
+ min-width: 200px;
+ border: 1px #aaaaaa solid;
+ border-radius: 10px;
+ background-color: #ffffcc;
+ padding: 12px;
+ color: #000000;
+ font-size: 14px;
+ z-index: 1;
+}
+
+        </style>
+        
+        <title>::after (:after) - tooltips - code sample</title>
+    </head>
+    <body>
+        
+            <p>这是上面代码的实现<br />
+  我们有一些 <span data-descr="collection of words and punctuation">文字</span> 有一些
+  <span data-descr="small popups which also hide again">提示</span>。<br />
+  把鼠标放上去<span data-descr="not to be taken literally">看看</span>。
+</p>
+
+        
+        
+    </body>
+</html>

@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/line-height-step/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+ddbeck
+mfuji09
+fscholz
+xfq
+jakubfiala
+SphinxKnight
+opickbenkbenk
+chrisdavidmills
+Siilwyn
+jpmedley

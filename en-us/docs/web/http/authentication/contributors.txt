@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/authentication/index.md
+
+# Original Wiki contributors
+cpmsmith
+mfuji09
+Tigt
+gsxuan
+dungdm93
+mfluehr
+jpmedley
+curt953
+danehrlich1
+slate71
+tjfwalker
+Vlence
+kraneok
+chrisdavidmills
+kwwxis
+ts9111
+scooter-dangle
+shadok
+granttchart
+fscholz
+teoli

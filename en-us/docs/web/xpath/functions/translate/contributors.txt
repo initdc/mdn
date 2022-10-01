@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/xpath/functions/translate/index.md
+
+# Original Wiki contributors
+elix0n
+jdlauret
+vor0nwe
+fscholz
+SphinxKnight
+LeoSko
+chbrown
+jakub.vanek
+Lemondoge
+Sheppy
+Mgjbot
+Diablownik
+Jake Archibald
+Ptak82
+Jonnyq
+AlanKrueger

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/api/webrequest/index.md
+
+# Original Wiki contributors
+Uemmra3
+rinsuki
+wbamberg

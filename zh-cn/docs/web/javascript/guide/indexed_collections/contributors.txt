@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/indexed_collections/index.md
+
+# Original Wiki contributors
+MaZheng
+amzrk2
+keys
+ruoxianbaby
+aimishan
+BUnnY25
+LeoSpark
+hpcherry
+niccoming
+xdsnet
+kiyonlin
+codetaro
+caoruiy
+suxiesumiao
+victor0801x
+zhulinpinyu
+456wyc
+gaigeshen
+VincentLiu0314

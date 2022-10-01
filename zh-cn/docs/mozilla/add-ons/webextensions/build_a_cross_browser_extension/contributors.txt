@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mozilla/add-ons/webextensions/build_a_cross_browser_extension/index.md
+
+# Original Wiki contributors
+kingcc
+Daryl.Xu

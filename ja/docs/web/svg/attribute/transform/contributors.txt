@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/attribute/transform/index.md
+
+# Original Wiki contributors
+mfuji09
+cmplstofB
+SphinxKnight
+piyo-ko
+hiraku
+manzyun

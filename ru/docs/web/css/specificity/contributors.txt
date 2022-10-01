@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/specificity/index.md
+
+# Original Wiki contributors
+kirillsh
+umbrochcho
+teddy-bear
+zipp3r
+hellpirat
+Hydrock
+102

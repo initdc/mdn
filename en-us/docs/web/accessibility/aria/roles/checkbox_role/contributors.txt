@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/roles/checkbox_role/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+Moiety
+paul.verbeek
+Sertion
+andrew-t-james
+estelle
+irenesmith
+billybonks
+applePrincess
+AleksejDix
+smarvin
+deepu
+allen
+Fredchat
+Sheppy
+pendlepants
+hhillen

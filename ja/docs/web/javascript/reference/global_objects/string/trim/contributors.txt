@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/string/trim/index.md
+
+# Original Wiki contributors
+mpcjazz
+ciffelia
+segayuu
+YuichiNukiyama
+teoli
+ethertank
+Potappo
+Yuki Konno

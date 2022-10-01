@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/blob/index.md
+
+# Original Wiki contributors
+chenjsh36
+zgayjjf
+c1er
+zwmin
+AlixWang
+RainSlide
+mxyzzhong
+zxsunrise
+zhangchen
+rolitter
+luojia
+kagawagao
+xgqfrms-GitHub
+Ende93
+hujinglin
+lyxuncle
+loraine
+gyc1299339354
+ziyunfei

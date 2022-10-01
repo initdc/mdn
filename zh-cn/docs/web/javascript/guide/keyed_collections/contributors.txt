@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/guide/keyed_collections/index.md
+
+# Original Wiki contributors
+haoye999
+Jiasm
+zhangchen
+jiahui
+indux
+supermanmsc
+fengzhongye

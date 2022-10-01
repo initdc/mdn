@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/equality_comparisons_and_sameness/index.md
+
+# Original Wiki contributors
+jaredhan418
+zjffun
+RenzHoly
+gongzhibin
+xiayao
+esphas
+dy21335
+Charlotte007
+fun3c
+Ende93
+xgqfrms-GitHub
+vincenting
+Roland_Reed
+Jack-Q
+ngtmuzi
+i-PeterZhang
+xufeng
+ziyunfei
+fskuok
+tiansh
+faceach
+ilia

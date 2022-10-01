@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/css/background-clip/index.md
+
+# Original Wiki contributors
+marlonveiga-santos
+CarlosHMoreira
+fscholz
+Sebastianz
+filipewl

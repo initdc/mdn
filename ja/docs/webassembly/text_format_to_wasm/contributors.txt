@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/webassembly/text_format_to_wasm/index.md
+
+# Original Wiki contributors
+mfuji09
+dasoran
+silverskyvicto
+acid-chicken
+ukyo

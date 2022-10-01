@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/xslt/xslt_js_interface_in_gecko/advanced_example/index.md
+
+# Original Wiki contributors
+SphinxKnight
+chrisdavidmills
+Sebastianz
+Jeremie
+Fredchat

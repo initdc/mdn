@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/tabs/getcurrent/index.md
+
+# Original Wiki contributors
+Zearin_Galaurum
+Jonathan_Watt
+irenesmith
+fscholz
+wbamberg
+Makyen

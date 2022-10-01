@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/isequalnode/index.md
+
+# Original Wiki contributors
+fscholz
+rubyroobs
+EGD
+abbycar
+stefangabos
+jsx
+Sheppy
+foolip
+LouisLazaris
+teoli
+kscarfone
+gurdev_singh
+ethertank
+mattbasta
+ziyunfei
+Sephr
+trevorh

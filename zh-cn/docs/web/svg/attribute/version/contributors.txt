@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/attribute/version/index.md
+
+# Original Wiki contributors
+monkeycf
+LiKunWillShine

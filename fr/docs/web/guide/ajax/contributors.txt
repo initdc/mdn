@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/guide/ajax/index.md
+
+# Original Wiki contributors
+Maxi-MenuBestOfPlus
+CyrilKrylatov
+SphinxKnight
+chrisdavidmills
+Arkhall
+Nothus
+tregagnon
+arena
+Mgjbot
+Summit677
+Fredchat
+BenoitL
+Neumann
+Chbok
+VincentN
+Dria

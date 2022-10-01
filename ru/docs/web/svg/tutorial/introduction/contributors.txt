@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/svg/tutorial/introduction/index.html
+
+# Original Wiki contributors
+wBureshGitHub
+hisbvdis
+tcheburator
+alexbs
+Alianta
+Dizzy
+tavira
+mboris1
+nakhodkiin
+MaxManchak

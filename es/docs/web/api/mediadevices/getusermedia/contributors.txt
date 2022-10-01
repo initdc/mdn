@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/mediadevices/getusermedia/index.html
+
+# Original Wiki contributors
+AdanPalacios
+titosobabas
+RSalgadoAtala
+Cristhian
+matajm

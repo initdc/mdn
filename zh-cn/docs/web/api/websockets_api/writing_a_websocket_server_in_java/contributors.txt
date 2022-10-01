@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/websockets_api/writing_a_websocket_server_in_java/index.md
+
+# Original Wiki contributors
+hgaong
+yydzxz

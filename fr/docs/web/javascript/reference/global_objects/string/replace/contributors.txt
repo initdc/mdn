@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/javascript/reference/global_objects/string/replace/index.md
+
+# Original Wiki contributors
+tristantheb
+SphinxKnight
+nkokla
+lpoujade
+NemoNobobyPersonne
+MathieuDerelle
+callmemagnus
+lbesson
+davidbourguignon
+Grahack
+tregagnon
+virg
+teoli
+XenonDeele

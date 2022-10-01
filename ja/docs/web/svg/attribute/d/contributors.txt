@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/svg/attribute/d/index.md
+
+# Original Wiki contributors
+Satachito
+n-oshiro
+zakki
+arayaryoma
+Shunter1112

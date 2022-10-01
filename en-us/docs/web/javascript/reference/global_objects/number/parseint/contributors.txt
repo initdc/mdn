@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/global_objects/number/parseint/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+mfuji09
+Zearin_Galaurum
+alattalatta
+scrum
+anonyco
+kleinph
+Tommytrg
+jameshkramer
+zbjornson
+kdex
+Rajesh_Choudhary
+schlagi123
+eduardoboucas
+imrek
+SphinxKnight
+Jeremie
+ziyunfei
+danielnixon
+Mingun
+realityking
+raztus

@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/justify-content/index.md
+
+# Original Wiki contributors
+Thinker-z
+Fancyflame
+catlair
+huangcheng
+KeBaob
+hutingting119
+GShen
+yong_a
+vidahaha
+archi__
+zhuangyin
+dongyu_-_
+Ende93
+jiahui
+fscholz
+Go7hic
+Sebastianz
+FredWe

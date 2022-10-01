@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@font-face/font-style/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+68kHeart
+estelle
+chrisdavidmills
+fscholz
+ddbeck
+mfluehr
+cynicaldevil
+teoli

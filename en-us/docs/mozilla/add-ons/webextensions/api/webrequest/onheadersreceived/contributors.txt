@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/webrequest/onheadersreceived/index.md
+
+# Original Wiki contributors
+rebloor
+JeffersonScher
+EricLaw1979
+wbamberg
+globau
+andrewtruongmoz
+Makyen
+johnadungan

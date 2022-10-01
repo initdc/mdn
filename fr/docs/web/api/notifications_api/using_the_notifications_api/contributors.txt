@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/notifications_api/using_the_notifications_api/index.md
+
+# Original Wiki contributors
+nhoizey
+ajie62
+Kazquo
+Hell_Carlito
+JeffD
+3bandiste
+Goofy
+Moosh

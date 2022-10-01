@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/roles/heading_role/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+PickensC
+estelle
+jswisher
+MarcoZ

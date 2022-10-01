@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/filter/index.md
+
+# Original Wiki contributors
+escattone
+SphinxKnight
+aziaziazi
+Sebastianz
+Prinz_Rana
+teoli
+emersion
+wakka27
+flexbox
+FredB
+thenew

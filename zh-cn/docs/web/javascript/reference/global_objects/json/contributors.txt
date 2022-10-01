@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/json/index.md
+
+# Original Wiki contributors
+recursion
+renfufei
+codevvvv9
+zhangchen
+luojia
+righttoe
+xgqfrms-GitHub
+Freed
+huguangju
+liyongleihf2006
+Ende93
+yenshen
+teoli
+Yaty
+fscholz
+AlexChao
+Wladimir_Palant
+ziyunfei

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/api/htmlelement/drop_event_21b7ebf04561093fe90276329e9bddff/index.md
+
+# Original Wiki contributors
+silverskyvicto
+mfuji09
+fscholz

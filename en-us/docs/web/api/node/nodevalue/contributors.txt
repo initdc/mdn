@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/node/nodevalue/index.md
+
+# Original Wiki contributors
+sideshowbarker
+Sheppy
+nor3aini
+nakhodkiin
+mfluehr
+fscholz
+teoli
+kscarfone
+Reachmeatshivam
+ethertank
+ziyunfei
+dextra
+Matej Lednar
+BenoitL
+Federico
+Ptak82
+Nickolay
+Dria
+Callek
+JesseW

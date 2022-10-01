@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/animation-play-state/index.md
+
+# Original Wiki contributors
+Akh-rman
+Rammfall
+andreww2012

@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/mathml/examples/mathml_pythagorean_theorem/index.md
+
+# Original Wiki contributors
+asmeurer
+grzegorz-zur
+hbelay
+maryannetpdx
+Tao
+nielsdg
+SphinxKnight
+mouse-karaganda
+rohspeed
+Sheppy
+bfontecc
+fscholz
+Paul_Mollomo
+ethertank

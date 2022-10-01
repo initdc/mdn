@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/contribute/index.md
+
+# Original Wiki contributors
+wbamberg
+Uemmra3
+Marsf
+akiomik
+mamodayo
+x2357
+Fajrovulpo
+koheishingai
+Mars

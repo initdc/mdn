@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/proxy_server/index.md
+
+# Original Wiki contributors
+wbamberg
+SebastienParis
+dentboy
+teoli
+fscholz

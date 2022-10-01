@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/referrer/index.md
+
+# Original Wiki contributors
+sideshowbarker
+jennyevans
+mfuji09
+mightyiam
+mfluehr
+fscholz
+smhmic
+teoli
+kscarfone
+Prachi_Dighe
+Sheppy
+ethertank
+ziyunfei
+Matej Lednar
+George3
+Ptak82
+Dria
+JesseW

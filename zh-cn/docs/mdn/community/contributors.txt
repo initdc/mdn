@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mdn/community/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+SphinxKnight
+gogoend
+z-xw
+wbamberg
+15010300689
+AnthonyYY
+pftom
+yfdyh000
+iamzken
+lunix01

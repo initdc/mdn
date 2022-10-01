@@ -1,0 +1,23 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/navigator/plugins/index.md
+
+# Original Wiki contributors
+ExE-Boss
+chrisdavidmills
+Makyen
+teoli
+cpeterson
+kohei.yoshino
+bsmedberg
+kscarfone
+ethertank
+Sheppy
+ziyunfei
+Mgjbot
+Diablownik
+George3
+Nickolay
+Jabez
+Dria
+Smcn
+JesseW

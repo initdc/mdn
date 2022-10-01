@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/document/scroll_event/index.md
+
+# Original Wiki contributors
+camsa
+irenesmith
+ExE-Boss
+arkgast
+fscholz
+PatoDeTuring
+Thargelion

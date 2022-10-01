@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/scrollby/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+tsrkhlm
+teoli
+AshfaqHossain
+ethertank
+Potappo

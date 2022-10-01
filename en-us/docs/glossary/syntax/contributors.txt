@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/syntax/index.md
+
+# Original Wiki contributors
+kelvinsekx
+chrisdavidmills
+hbloomer
+sap
+Andrew_Pfeiffer
+Sheppy
+alispivak
+klez
+kscarfone
+panaggio

@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/css/first_steps/how_css_is_structured/index.md
+
+# Original Wiki contributors
+Seeeven7
+mfuji09
+gdsimoes
+ohaver
+impossibleshadow
+theRealJennie
+SnakeWhisperer
+paul2ma
+PatientLearner
+vgiffin
+bart5
+jsargey
+fischer
+sardarisk
+chrisdavidmills
+choudh70
+mikemorr
+xp44mm
+mbrasseau
+jlbuckner
+rachelandrew
+ExE-Boss

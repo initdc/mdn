@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  font: 14px "Open Sans", "Arial", sans-serif;
+}
+
+video {
+  margin-top: 20px;
+  border: 1px solid black;
+}
+
+.button {
+  cursor: pointer;
+  width: 150px;
+  border: 1px solid black;
+  font-size: 16px;
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 4px;
+  color: white;
+  background-color: darkgreen;
+}
+
+.wrapper {
+  margin-bottom: 10px;
+  width: 600px;
+}
+
+.trackrow {
+  height: 200px;
+}
+
+.leftside {
+  float: left;
+  width: calc(calc(100% / 2) - 10px);
+}
+
+.rightside {
+  float: right;
+  width: calc(calc(100% / 2) - 10px);
+}
+
+textarea {
+  padding: 8px;
+}
+
+h3 {
+  margin-bottom: 3px;
+}
+
+#supportedConstraints {
+  column-count: 2;
+}
+
+#log {
+  padding-top: 10px;
+}
+
+        </style>
+        
+        <title>Capabilities, constraints, and settings - example_constraint_exerciser - code sample</title>
+    </head>
+    <body>
+        
+            <p>
+  Experiment with media constraints! Edit the constraint sets for the video and
+  audio tracks in the edit boxes on the left, then click the "Apply Constraints"
+  button to try them out. The actual settings the browser selected and is using
+  are shown in the boxes on the right. Below all of that, you'll see the video
+  itself.
+</p>
+<p>Click the "Start" button to begin.</p>
+
+<h3>Constrainable properties available:</h3>
+<ul id="supportedConstraints"></ul>
+<div id="startButton" class="button">Start</div>
+<div class="wrapper">
+  <div class="trackrow">
+    <div class="leftside">
+      <h3>Requested video constraints:</h3>
+      <textarea id="videoConstraintEditor" cols="32" rows="8"></textarea>
+    </div>
+    <div class="rightside">
+      <h3>Actual video settings:</h3>
+      <textarea id="videoSettingsText" cols="32" rows="8" disabled></textarea>
+    </div>
+  </div>
+  <div class="trackrow">
+    <div class="leftside">
+      <h3>Requested audio constraints:</h3>
+      <textarea id="audioConstraintEditor" cols="32" rows="8"></textarea>
+    </div>
+    <div class="rightside">
+      <h3>Actual audio settings:</h3>
+      <textarea id="audioSettingsText" cols="32" rows="8" disabled></textarea>
+    </div>
+  </div>
+
+  <div class="button" id="applyButton">Apply Constraints</div>
+</div>
+<video id="video" autoplay></video>
+
+<div class="button" id="stopButton">Stop Video</div>
+
+<div id="log"></div>
+
+        
+        
+            <script>
+                const videoDefaultConstraintString = '{\n  "width": 320,\n  "height": 240,\n  "frameRate": 30\n}';
+const audioDefaultConstraintString = '{\n  "sampleSize": 16,\n  "channelCount": 2,\n  "echoCancellation": false\n}';
+
+let videoConstraints = null;
+let audioConstraints = null;
+
+let audioTrack = null;
+let videoTrack = null;
+
+const videoElement = document.getElementById("video");
+const logElement = document.getElementById("log");
+const supportedConstraintList = document.getElementById("supportedConstraints");
+const videoConstraintEditor = document.getElementById("videoConstraintEditor");
+const audioConstraintEditor = document.getElementById("audioConstraintEditor");
+const videoSettingsText = document.getElementById("videoSettingsText");
+const audioSettingsText = document.getElementById("audioSettingsText");
+
+videoConstraintEditor.value = videoDefaultConstraintString;
+audioConstraintEditor.value = audioDefaultConstraintString;
+
+function getCurrentSettings() {
+  if (videoTrack) {
+    videoSettingsText.value = JSON.stringify(videoTrack.getSettings(), null, 2);
+  }
+
+  if (audioTrack) {
+    audioSettingsText.value = JSON.stringify(audioTrack.getSettings(), null, 2);
+  }
+}
+
+function buildConstraints() {
+  try {
+    videoConstraints = JSON.parse(videoConstraintEditor.value);
+    audioConstraints = JSON.parse(audioConstraintEditor.value);
+  } catch (error) {
+    handleError(error);
+  }
+}
+
+function startVideo() {
+  buildConstraints();
+
+  navigator.mediaDevices
+    .getUserMedia({
+      video: videoConstraints,
+      audio: audioConstraints,
+    })
+    .then((stream) => {
+      const audioTracks = stream.getAudioTracks();
+      const videoTracks = stream.getVideoTracks();
+
+      videoElement.srcObject = stream;
+
+      if (audioTracks.length > 0) {
+        audioTrack = audioTracks[0];
+      }
+
+      if (videoTracks.length > 0) {
+        videoTrack = videoTracks[0];
+      }
+    })
+    .then(() => {
+      return new Promise((resolve) => {
+        videoElement.onloadedmetadata = resolve;
+      });
+    })
+    .then(() => {
+      getCurrentSettings();
+    })
+    .catch(handleError);
+}
+
+document.getElementById("startButton").addEventListener(
+  "click",
+  () => { startVideo(); },
+  false
+);
+
+document.getElementById("applyButton").addEventListener(
+  "click",
+  () => {
+    if (!videoTrack && !audioTrack) {
+      startVideo();
+    } else {
+      buildConstraints();
+
+      const prettyJson = (obj) => JSON.stringify(obj, null, 2);
+
+      if (videoTrack) {
+        videoTrack
+          .applyConstraints(videoConstraints)
+          .then(() => {
+            videoSettingsText.value = prettyJson(videoTrack.getSettings());
+          })
+          .catch(handleError);
+      }
+
+      if (audioTrack) {
+        audioTrack
+          .applyConstraints(audioConstraints)
+          .then(() => {
+            audioSettingsText.value = prettyJson(audioTrack.getSettings());
+          })
+          .catch(handleError);
+      }
+    }
+  },
+  false
+);
+
+document.getElementById("stopButton").addEventListener("click", () => {
+  if (videoTrack) {
+    videoTrack.stop();
+  }
+
+  if (audioTrack) {
+    audioTrack.stop();
+  }
+
+  videoTrack = audioTrack = null;
+  videoElement.srcObject = null;
+});
+
+function keyDownHandler(event) {
+  if (event.key === "Tab") {
+    const elem = event.target;
+    const str = elem.value;
+
+    const position = elem.selectionStart;
+    const beforeTab = str.substring(0, position);
+    const afterTab = str.substring(position, str.length);
+    const newStr = `${beforeTab}  ${afterTab}`;
+    elem.value = newStr;
+    elem.selectionStart = elem.selectionEnd = position + 2;
+    event.preventDefault();
+  }
+}
+
+videoConstraintEditor.addEventListener("keydown", keyDownHandler, false);
+audioConstraintEditor.addEventListener("keydown", keyDownHandler, false);
+
+const supportedConstraints = navigator.mediaDevices.getSupportedConstraints();
+for (const constraint in supportedConstraints) {
+  if (Object.hasOwn(supportedConstraints, constraint)) {
+    const elem = document.createElement("li");
+
+    elem.innerHTML = `<code><a href='https://developer.mozilla.org/docs/Web/API/MediaTrackSupportedConstraints/${constraint}' target='_blank'>${constraint}</a></code>`;
+    supportedConstraintList.appendChild(elem);
+  }
+}
+
+function log(msg) {
+  logElement.innerHTML += `${msg}<br>`;
+}
+
+function handleError(reason) {
+  log(`Error <code>${reason.name}</code> in constraint <code>${reason.constraint}</code>: ${reason.message}`);
+}
+
+            </script>
+        
+    </body>
+</html>

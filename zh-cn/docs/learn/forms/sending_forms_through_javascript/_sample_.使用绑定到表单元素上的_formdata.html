@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>使用 JavaScript 发送表单 - 使用绑定到表单元素上的_formdata - code sample</title>
+    </head>
+    <body>
+        
+            <form id="myForm">
+  <label for="myName">告诉我你的名字：</label>
+  <input id="myName" name="name" value="John">
+  <input type="submit" value="提交">
+</form>
+
+        
+        
+            <script>
+                window.addEventListener("load", function () {
+  function sendData() {
+    var XHR = new XMLHttpRequest();
+
+    // 我们把这个 FormData 和表单元素绑定在一起。
+    var FD  = new FormData(form);
+
+    // 我们定义了数据成功发送时会发生的事。
+    XHR.addEventListener("load", function(event) {
+      alert(event.target.responseText);
+    });
+
+    // 我们定义了失败的情形下会发生的事
+    XHR.addEventListener("error", function(event) {
+      alert('哎呀！出了一些问题。');
+    });
+
+    // 我们设置了我们的请求
+    XHR.open("POST", "https://example.com/cors.php");
+
+    // 发送的数据是由用户在表单中提供的
+    XHR.send(FD);
+  }
+
+  // 我们需要获取表单元素
+  var form = document.getElementById("myForm");
+
+  // ...然后接管表单的提交事件
+  form.addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    sendData();
+  });
+});
+
+            </script>
+        
+    </body>
+</html>

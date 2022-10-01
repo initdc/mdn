@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/for...in/index.html
+
+# Original Wiki contributors
+camelos
+Miracle93
+olvin-hh
+AliaksandrZahorski
+Jarith
+UriShlomov
+a1ia5
+BychekRU

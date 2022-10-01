@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/setattributenodens/index.md
+
+# Original Wiki contributors
+Brettz9
+sideshowbarker
+mfluehr
+connorshea
+fscholz
+teoli
+kscarfone
+nairakhil13
+Sheppy
+mattbasta
+Mgjbot
+Sjoerd visscher
+Ptak82
+Jabez
+Nickolay
+RobG
+Dria
+JesseW

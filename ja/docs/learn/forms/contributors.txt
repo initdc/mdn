@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/forms/index.md
+
+# Original Wiki contributors
+mfuji09
+dskmori
+araimono
+Uemmra3
+silverskyvicto
+tomouchi_
+chrisdavidmills
+yyss
+ethertank

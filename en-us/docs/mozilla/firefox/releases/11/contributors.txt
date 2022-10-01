@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/11/index.md
+
+# Original Wiki contributors
+wbamberg
+Sebastianz
+chrisdavidmills
+fscholz
+ethertank
+Sheppy
+zhangpin04
+yyss
+JasonCheng
+pretzer
+teoli
+Marcoos
+Jeremie
+myakura
+trevorh
+Hsivonen
+Bzbarsky
+Midnightaz

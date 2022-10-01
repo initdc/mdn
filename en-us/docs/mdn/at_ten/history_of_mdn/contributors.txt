@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mdn/at_ten/history_of_mdn/index.md
+
+# Original Wiki contributors
+bershanskiy
+Sheppy
+jswisher
+jwhitlock
+stephaniehobson
+groovecoder

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/mozilla/firefox/releases/12/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+tregagnon
+FredB
+ThePrisoner

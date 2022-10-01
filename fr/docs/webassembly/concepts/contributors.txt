@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/webassembly/concepts/index.md
+
+# Original Wiki contributors
+SphinxKnight
+lionelquellery
+NerOcrO
+mael-jarnole
+benerone
+Keuklar
+Mo-la-machette
+arthurwhite

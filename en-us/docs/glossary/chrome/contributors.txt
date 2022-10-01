@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/chrome/index.md
+
+# Original Wiki contributors
+jextrevor
+jpmedley
+vanz
+Jeremie
+klez
+Olson.dev
+leVirve
+Andrew_Pfeiffer
+Zeba_Shah
+sandeepmishraxp
+trevorh
+wbamberg
+xfq
+teoli
+ajinkya_p

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mozilla/firefox/releases/57/index.md
+
+# Original Wiki contributors
+wbamberg
+fitojb

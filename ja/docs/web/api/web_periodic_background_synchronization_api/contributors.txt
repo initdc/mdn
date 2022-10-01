@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/web_periodic_background_synchronization_api/index.md
+
+# Original Wiki contributors
+shimazu

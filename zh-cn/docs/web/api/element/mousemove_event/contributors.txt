@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/mousemove_event/index.md
+
+# Original Wiki contributors
+lianzhidong
+ZZES_REN
+irenesmith
+fscholz
+Dcfm
+genglei01

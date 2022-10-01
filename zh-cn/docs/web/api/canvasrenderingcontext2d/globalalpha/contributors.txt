@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvasrenderingcontext2d/globalalpha/index.md
+
+# Original Wiki contributors
+Marco_dev
+ice-i-snow

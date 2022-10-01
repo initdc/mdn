@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/mask-image/index.md
+
+# Original Wiki contributors
+wbamberg
+Sheppy
+BaliBalo
+estelle
+chrisdavidmills
+juniorRubyist
+mfuji09
+Biiinggg
+fscholz
+adamwirth
+Konrud
+mfluehr
+libbymc
+DailyAlice
+teoli
+Sebastianz
+Siilwyn
+rolfedh

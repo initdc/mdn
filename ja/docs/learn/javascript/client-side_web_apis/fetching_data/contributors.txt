@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/client-side_web_apis/fetching_data/index.md
+
+# Original Wiki contributors
+wlt
+silverskyvicto
+i12o

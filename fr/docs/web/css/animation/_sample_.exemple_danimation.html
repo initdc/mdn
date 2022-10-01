@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            html,body {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+pre { margin-bottom: 0; }
+svg { width: 1.5em; height: 1.5em; }
+
+button {
+  width: 27px;
+  height: 27px;
+  background-size: 16px;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button.play {
+  background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cstyle%3Epath%20%7Bdisplay%3Anone%7D%20path%3Atarget%7Bdisplay%3Ablock%7D%3C%2Fstyle%3E%3Cpath%20id%3D%22play%22%20d%3D%22M3%2C3%20L3%2C13%20L13%2C8%20Z%22%20%2F%3E%3Cpath%20id%3D%22pause%22%20d%3D%22M5%2C4%20L7%2C4%20L7%2C13%20L5%2C13%20Z%20M9%2C4%20L11%2C4%20L11%2C13%20L9%2C13%20Z%22%20%2F%3E%3Cpath%20id%3D%22restart%22%20d%3D%22M13%2C9%20A5%2C5%2C1%2C1%2C1%2C8%2C4%20L8%2C2%20L12%2C5%20L8%2C8%20L8%2C6%20A3%2C3%2C1%2C1%2C0%2C11%2C9%20A1%2C1%2C1%2C1%2C1%2C13%2C9%20z%22%20%2F%3E%3C%2Fsvg%3E#play');
+}
+
+button.pause {
+  background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cstyle%3Epath%20%7Bdisplay%3Anone%7D%20path%3Atarget%7Bdisplay%3Ablock%7D%3C%2Fstyle%3E%3Cpath%20id%3D%22play%22%20d%3D%22M3%2C3%20L3%2C13%20L13%2C8%20Z%22%20%2F%3E%3Cpath%20id%3D%22pause%22%20d%3D%22M5%2C4%20L7%2C4%20L7%2C13%20L5%2C13%20Z%20M9%2C4%20L11%2C4%20L11%2C13%20L9%2C13%20Z%22%20%2F%3E%3Cpath%20id%3D%22restart%22%20d%3D%22M13%2C9%20A5%2C5%2C1%2C1%2C1%2C8%2C4%20L8%2C2%20L12%2C5%20L8%2C8%20L8%2C6%20A3%2C3%2C1%2C1%2C0%2C11%2C9%20A1%2C1%2C1%2C1%2C1%2C13%2C9%20z%22%20%2F%3E%3C%2Fsvg%3E#pause');
+}
+
+button.restart {
+  background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cstyle%3Epath%20%7Bdisplay%3Anone%7D%20path%3Atarget%7Bdisplay%3Ablock%7D%3C%2Fstyle%3E%3Cpath%20id%3D%22play%22%20d%3D%22M3%2C3%20L3%2C13%20L13%2C8%20Z%22%20%2F%3E%3Cpath%20id%3D%22pause%22%20d%3D%22M5%2C4%20L7%2C4%20L7%2C13%20L5%2C13%20Z%20M9%2C4%20L11%2C4%20L11%2C13%20L9%2C13%20Z%22%20%2F%3E%3Cpath%20id%3D%22restart%22%20d%3D%22M13%2C9%20A5%2C5%2C1%2C1%2C1%2C8%2C4%20L8%2C2%20L12%2C5%20L8%2C8%20L8%2C6%20A3%2C3%2C1%2C1%2C0%2C11%2C9%20A1%2C1%2C1%2C1%2C1%2C13%2C9%20z%22%20%2F%3E%3C%2Fsvg%3E#restart');
+}
+
+.grid {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background: #EEE;
+  font: 1em monospace;
+}
+
+.row {
+  display: flex;
+  flex: 1 auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.col {
+  display: flex;
+  flex: 1 auto;
+  flex-direction: column;
+}
+
+.cell {
+  box-sizing: border-box;
+  margin: .5em;
+  padding: 0;
+  background-color: #FFF;
+  overflow: hidden;
+  text-align: left;
+}
+
+.flx {
+  flex: 1 0;
+}
+
+.note {
+  background: #fff3d4;
+  padding: 1em;
+  margin: .5em;
+  font: .8em sans-serif;
+  text-align: left;
+  flex: none;
+}
+
+.overlay { padding: .5em; }
+
+@keyframes slidein {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+
+.a1 { animation: 3s ease-in 1s 2 reverse both paused slidein; }
+.a2 { animation: 3s linear 1s slidein; }
+.a3 { animation: 3s slidein; }
+
+.animation {
+  background: #3F87A6;
+  width: 100%;
+  height: calc(100% - 1.5em);
+  transform-origin: left center;
+}
+
+        </style>
+        
+        <title>animation - exemple_danimation - code sample</title>
+    </head>
+    <body>
+        
+            <div class="grid">
+  <div class="col">
+    <div class="note">
+      Avec l'animation suivante :
+      <pre>@keyframes slidein {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
+}</pre>
+    </div>
+    <div class="row">
+      <div class="cell">
+        <button class="play" title="LECTURE"></button>
+      </div>
+      <div class="cell flx">
+        <div class="overlay">animation: 3s ease-in 1s 2 reverse both paused slidein;</div>
+        <div class="animation a1"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="cell">
+        <button class="pause" title="PAUSE"></button>
+      </div>
+      <div class="cell flx">
+        <div class="overlay">animation: 3s linear 1s slidein;</div>
+        <div class="animation a2"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="cell">
+        <button class="pause" title="PAUSE"></button>
+      </div>
+      <div class="cell flx">
+        <div class="overlay">animation: 3s slidein;</div>
+        <div class="animation a3"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+        
+            <script>
+                window.addEventListener('load', function () {
+  var ANIMATION = Array.from(document.querySelectorAll('.animation'));
+  var BUTTON    = Array.from(document.querySelectorAll('button'));
+
+  function toggleButton (btn, type) {
+    btn.classList.remove('play', 'pause', 'restart');
+    btn.classList.add(type);
+    btn.title = type.toUpperCase(type);
+  }
+
+  function playPause (i) {
+    var btn  = BUTTON[i];
+    var anim = ANIMATION[i];
+
+    if (btn.classList.contains('play')) {
+      anim.style.animationPlayState = 'running';
+      toggleButton(btn, 'pause');
+    } else if (btn.classList.contains('pause')) {
+      anim.style.animationPlayState = 'paused';
+      toggleButton(btn, 'play');
+    } else {
+      anim.classList.remove('a' + (i + 1));
+      setTimeout(function () {
+        toggleButton(btn, i === 0 ? 'play' : 'pause');
+        anim.style.animationPlayState = '';
+        anim.classList.add('a' + (i + 1));
+      }, 100)
+    }
+  }
+
+  ANIMATION.forEach(function (node, index) {
+    node.addEventListener('animationstart', function () { toggleButton(BUTTON[index], 'pause');   });
+    node.addEventListener('animationend',   function () { toggleButton(BUTTON[index], 'restart'); });
+  });
+
+  BUTTON.forEach(function (btn, index) {
+    btn.addEventListener('click', function () { playPause(index); });
+  });
+})
+
+            </script>
+        
+    </body>
+</html>

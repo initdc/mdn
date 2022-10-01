@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/oscillatornode/type/index.md
+
+# Original Wiki contributors
+sideshowbarker
+MysteryPancake
+fscholz
+Sheppy
+abbycar
+alxjnssn
+chrisdavidmills
+lamarqua
+arslonga

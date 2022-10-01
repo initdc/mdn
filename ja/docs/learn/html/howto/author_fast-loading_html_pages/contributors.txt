@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/html/howto/author_fast-loading_html_pages/index.md
+
+# Original Wiki contributors
+Kafuka
+Mgjbot

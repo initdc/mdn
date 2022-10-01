@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/operators/this/index.html
+
+# Original Wiki contributors
+almaceleste
+dmarkin
+HermesC
+smlkA
+JS_Johny
+marinazareka
+sbadulin
+Stejok
+aprostya
+dChunikhin
+DayFan
+olegkarpovich
+alexfromvl
+Viktoria_Slesarchuk
+eXukraine
+AlexO
+AliaksandrSith
+AlexKhram
+vovek
+wertlex
+Mary_Gorgol

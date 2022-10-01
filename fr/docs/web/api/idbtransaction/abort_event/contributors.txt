@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/api/idbtransaction/abort_event/index.md
+
+# Original Wiki contributors
+wbamberg
+fscholz
+Kalwyn

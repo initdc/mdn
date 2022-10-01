@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmltableelement/caption/index.md
+
+# Original Wiki contributors
+mfluehr
+fscholz
+libbymc
+teoli
+kscarfone
+Sheppy
+ethertank
+Chbok
+Ptak82
+RobG
+Dria
+JesseW

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/formdata/get/index.md
+
+# Original Wiki contributors
+AndrzejSala
+irenesmith
+ExE-Boss
+jpmedley
+teoli
+Jonathan_Watt
+dwelle
+Jeremie
+chrisdavidmills
+kscarfone

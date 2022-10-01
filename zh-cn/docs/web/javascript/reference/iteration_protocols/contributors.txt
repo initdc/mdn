@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/iteration_protocols/index.md
+
+# Original Wiki contributors
+wubaodong
+Mr_kaze
+Clarkkkk
+DengZhihao
+RainSlide
+wangxiujuni
+houzp
+edward12699
+luohe
+Shigma
+yueshuiniao
+isLishude
+xgqfrms-GitHub
+kdex
+bnerDY
+xgqfrms
+m31271n.
+jiraiya
+harttle
+holajiawei
+zbinlin
+panhezeng
+Qcui
+Ende93
+ziyunfei
+teoli

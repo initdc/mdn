@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/common_questions/common_web_layouts/index.md
+
+# Original Wiki contributors
+silverskyvicto

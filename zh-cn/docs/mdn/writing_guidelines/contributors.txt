@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/mdn/writing_guidelines/index.md
+
+# Original Wiki contributors
+brizer
+SphinxKnight
+YunYouJun
+wang1212
+wbamberg
+hhxxhg
+FlyRecker
+RunningTortoise
+zihengCat
+AberSheeran
+X-hung
+outloudvi
+jswisher
+zccz14
+Jack-Q
+Atester
+AzureRay
+lunix01

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/related/imsc/mapping_video_time_codes_to_imsc/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+tairt

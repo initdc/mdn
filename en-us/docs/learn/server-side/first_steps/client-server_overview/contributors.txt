@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/server-side/first_steps/client-server_overview/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ahlawataman3
+ckashby
+yuminatsu
+jdblischak
+chrisdavidmills
+Jagdeep-Singh
+PointForerunners
+suterj
+stephaniehobson
+buoyantair
+cortical-iv
+asynchub
+WG75
+0level0
+thelartman
+JonathanPool
+BaderSur
+kmtu
+hamishwillee

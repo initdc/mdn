@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/progressive_web_apps/installable_pwas/index.md
+
+# Original Wiki contributors
+timvisee
+Sheppy
+poum
+chrisdavidmills
+ExE-Boss
+end3r
+jswisher

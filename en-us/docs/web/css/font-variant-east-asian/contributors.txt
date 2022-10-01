@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/font-variant-east-asian/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+Sheppy
+Mookiepiece
+ddbeck
+HarJIT
+mfluehr
+fscholz
+pborenstein
+ledakis
+Ruggero
+Sebastianz
+teoli

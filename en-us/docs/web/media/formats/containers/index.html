@@ -1,0 +1,1318 @@
+<!DOCTYPE html><html lang="en-US" prefix="og: https://ogp.me/ns#"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/favicon-48x48.97046865.png"><link rel="apple-touch-icon" href="/apple-touch-icon.0ea0fa02.png"><meta name="theme-color" content="#ffffff"><link rel="manifest" href="/manifest.56b1cedc.json"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="MDN Web Docs"><script>Array.prototype.flat&&Array.prototype.includes||document.write('<script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.flat%2Ces6"><\/script>')</script><title>Media container formats (file types) - Web media technologies | MDN</title><link rel="preload" as="font" type="font/woff2" crossorigin="" href="/static/media/ZillaSlab-Bold.subset.0beac26b.woff2"><link rel="alternate" title="Media container formats (file types)" href="https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Containers" hreflang="en"><link rel="alternate" title="Media container formats (file types)" href="https://developer.mozilla.org/zh-TW/docs/Web/Media/Formats/Containers" hreflang="zh-TW"><link rel="alternate" title="Media container formats (file types)" href="https://developer.mozilla.org/zh-CN/docs/Web/Media/Formats/Containers" hreflang="zh"><link rel="alternate" title="미디어 컨테이너 포맷 (파일 타입)" href="https://developer.mozilla.org/ko/docs/Web/Media/Formats/Containers" hreflang="ko"><meta name="description" content="The format of audio and video media files is defined in two parts (three if a file has both audio and video in it, of course): the audio and/or video codecs used and the media container format (or file type) used.
+  In this guide, we'll look at the container formats used most commonly on the web, covering basics about their specifications as well as their benefits, limitations, and ideal use cases."><meta property="og:url" content="https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Containers"><meta property="og:title" content="Media container formats (file types) - Web media technologies | MDN"><meta property="og:description" content="The format of audio and video media files is defined in two parts (three if a file has both audio and video in it, of course): the audio and/or video codecs used and the media container format (or file type) used.
+  In this guide, we'll look at the container formats used most commonly on the web, covering basics about their specifications as well as their benefits, limitations, and ideal use cases."><meta property="og:locale" content="en-US"><meta property="og:image" content="https://developer.mozilla.org/mdn-social-share.0ca9dbda.png"><meta property="twitter:card" content="summary_large_image"><meta name="robots" content="index, follow"><link rel="canonical" href="https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Containers"><style media="print">.breadcrumbs-container,.document-toc-container,.language-menu,.language-toggle,.on-github,.page-footer,.page-header-main,nav.sidebar,ul.prev-next{display:none!important}.main-page-content,.main-page-content pre{padding:2px}.main-page-content pre{border-left-width:2px}</style><link href="/static/css/main.55b68e13.chunk.css" rel="stylesheet"><script src="/static/js/runtime-main.4bb4c356.js" defer=""></script><script src="/static/js/4.a756dea3.chunk.js" defer=""></script><script src="/static/js/main.d4d565e0.chunk.js" defer=""></script></head><body><div id="root"><ul id="nav-access" class="a11y-nav"><li><a id="skip-main" href="#content">Skip to main content</a></li><li><a id="skip-search" href="#main-q">Skip to search</a></li><li><a id="skip-select-language" href="#select-language">Skip to select language</a></li></ul><div class="page-wrapper document-page"><header class="page-header"><a href="/en-US/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a><button type="button" class="ghost main-menu-toggle" aria-haspopup="true" aria-label="Show Menu"></button><div class="page-header-main "><nav class="main-nav" aria-label="Main menu"><ul class="main-menu nojs"><li class="top-level-entry-container"><button id="technologies-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Technologies</button><ul class="technologies " role="menu" aria-labelledby="technologies-button"><li role="none"><a tabindex="-1" href="/en-US/docs/Web" role="menuitem">Technologies Overview</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/HTML" role="menuitem">HTML</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/CSS" role="menuitem">CSS</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/JavaScript" role="menuitem">JavaScript</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Guide/Graphics" role="menuitem">Graphics</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/HTTP" role="menuitem">HTTP</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/API" role="menuitem">APIs</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Mozilla/Add-ons/WebExtensions" role="menuitem">Browser Extensions</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/MathML" role="menuitem">MathML</a></li></ul></li><li class="top-level-entry-container"><button id="references-guides-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">References &amp; Guides</button><ul class="references-guides " role="menu" aria-labelledby="references-guides-button"><li role="none"><a tabindex="-1" href="/en-US/docs/Learn" role="menuitem">Learn web development</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Tutorials" role="menuitem">Tutorials</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Reference" role="menuitem">References</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Guide" role="menuitem">Developer Guides</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web/Accessibility" role="menuitem">Accessibility</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Games" role="menuitem">Game development</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/Web" role="menuitem">...more docs</a></li></ul></li><li class="top-level-entry-container"><button id="feedback-button" type="button" class="top-level-entry" aria-haspopup="menu" aria-expanded="false">Feedback</button><ul class="feedback " role="menu" aria-labelledby="feedback-button"><li role="none"><a tabindex="-1" href="/en-US/docs/MDN/Contribute/Feedback" role="menuitem">Send Feedback</a></li><li role="none"><a tabindex="-1" href="/en-US/docs/MDN/Contribute" role="menuitem">Contribute to MDN</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/content/issues/new" role="menuitem">Report a content issue<!-- --> 🌐</a></li><li role="none"><a tabindex="-1" target="_blank" rel="noopener noreferrer" href="https://github.com/mdn/yari/issues/new" role="menuitem">Report a platform issue<!-- --> 🌐</a></li></ul></li></ul></nav><div class="header-search"><form action="/en-US/search" class="search-form search-widget" role="search"><label for="main-q" class="visually-hidden">Search MDN</label><input type="search" name="q" id="main-q" class="search-input-field" placeholder="Site search... (Press &quot;/&quot; to focus)" pattern="(.|\s)*\S(.|\s)*" required="" value=""><input type="submit" class="ghost search-button" value="" aria-label="Search"></form></div><div class="auth-container"></div></div></header><div class="breadcrumb-locale-container"><nav class="breadcrumbs-container" aria-label="Breadcrumb navigation"><ol typeof="BreadcrumbList" vocab="https://schema.org/" aria-label="breadcrumbs"><li property="itemListElement" typeof="ListItem"><a class="breadcrumb" property="item" typeof="WebPage" href="/en-US/docs/Web"><span property="name">Web technology for developers</span></a><meta property="position" content="1"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb" property="item" typeof="WebPage" href="/en-US/docs/Web/Media"><span property="name">Web media technologies</span></a><meta property="position" content="2"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-penultimate" property="item" typeof="WebPage" href="/en-US/docs/Web/Media/Formats"><span property="name">Media type and format guide: image, audio, and video content</span></a><meta property="position" content="3"></li><li property="itemListElement" typeof="ListItem"><a class="breadcrumb-current-page" property="item" typeof="WebPage" href="/en-US/docs/Web/Media/Formats/Containers"><span property="name">Media container formats (file types)</span></a><meta property="position" content="4"></li></ol></nav><ul class="language-toggle single-option"><li><a href="#select-language" class="language-icon"><span class="show-desktop">Change language</span></a></li></ul></div><aside class="document-toc-container"><section class="document-toc"><header><h2>Table of contents</h2><button type="button" class="ghost toc-trigger-mobile" aria-controls="toc-entries" aria-expanded="false">Table of contents</button></header><ul id="toc-entries"><li><a href="#common_container_formats">Common container formats</a></li><li><a href="#choosing_the_right_container">Choosing the right container</a></li><li><a href="#maximizing_compatibility_with_multiple_containers">Maximizing compatibility with multiple containers</a></li><li><a href="#specifications">Specifications</a></li><li><a href="#browser_compatibility">Browser compatibility</a></li><li><a href="#see_also">See also</a></li></ul></section></aside><main id="content" class="main-content" role="main"><article class="main-page-content" lang="en-US"><h1>Media container formats (file types)</h1><div><p>
+  The format of audio and video media files is defined in two parts (three if a file has both audio and video in it, of course): the audio and/or video codecs used and the media container format (or file type) used.
+  In this guide, we'll look at the container formats used most commonly on the web, covering basics about their specifications as well as their benefits, limitations, and ideal use cases.
+</p>
+<p>
+  <a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a> does not use a container at all.
+  Instead, it streams the encoded audio and video tracks directly from one peer to another using <a href="/en-US/docs/Web/API/MediaStreamTrack"><code>MediaStreamTrack</code></a> objects to represent each track.
+  See <a href="/en-US/docs/Web/Media/Formats/WebRTC_codecs">Codecs used by WebRTC</a> for information about codecs commonly used for making WebRTC calls, as well as browser compatibility information around codec support in WebRTC.
+</p></div><h2 id="common_container_formats"><a href="#common_container_formats" title="Permalink to Common container formats">Common container formats</a></h2><div><p>
+  While there are a vast number of media container formats, the ones listed below are the ones you are most likely to encounter.
+  Some support only audio while others support both audio and video.
+  The MIME types and extensions for each are listed. The most commonly used containers for media on the web are probably MPEG-4 (MP4), QuickTime Movie (MOV), and the Wavefile Audio File Format (WAV).
+  However, you may also encounter MP3, Ogg, WebM, AVI, and other formats.
+  Not all of these are broadly supported by browsers, however; some combinations of container and codec are sometimes given their own file extensions and MIME types as a matter of convenience, or because of their ubiquity.
+  For example, an Ogg file with only an Opus audio track is sometimes referred to as an Opus file, and might even have the extension <code>.opus</code>.
+  But it's still actually just an Ogg file.
+</p>
+<p>
+  In other cases, a particular codec, stored in a certain container type, is so ubiquitous that the pairing is treated in a unique fashion.
+  A good example of this is the MP3 audio file, which is in fact an MPEG-1 container with a single audio track encoded using MPEG-1 Audio Layer III encoding.
+  These files use the <code>audio/mp3</code> MIME type and the <code>.mp3</code> extension, even though their containers are just MPEG.
+</p></div><h3 id="index_of_media_container_formats_file_types"><a href="#index_of_media_container_formats_file_types" title="Permalink to Index of media container formats (file types)">Index of media container formats (file types)</a></h3><div><p>To learn more about a specific container format, find it in this list and click through to the details, which include information about what the container is typically useful for, what codecs it supports, and which browsers support it, among other specifics.</p>
+<table class="standard-table">
+  <thead>
+    <tr>
+      <th scope="row">Codec name (short)</th>
+      <th scope="col">Full codec name</th>
+      <th scope="col">Browser compatibility</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><a href="#3gp">3GP</a></th>
+      <td>Third Generation Partnership</td>
+      <td>Firefox for Android</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#adts">ADTS</a></th>
+      <td>Audio Data Transport Stream</td>
+      <td>
+        <p>Firefox</p>
+        <p>Available only if available on the underlying operating system's media framework.</p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#flac">FLAC</a></th>
+      <td>Free Lossless Audio Codec</td>
+      <td>Chrome 56, Edge 16, Firefox 51, Safari 11</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#mpegmpeg-2">MPEG / MPEG-2</a></th>
+      <td>Moving Picture Experts Group (1 and 2)</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#mpeg-4_mp4">MPEG-4 (MP4)</a></th>
+      <td>Moving Picture Experts Group 4</td>
+      <td>Chrome 3, Edge 12, Firefox, Internet Explorer 9, Opera 24, Safari 3.1</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#ogg">Ogg</a></th>
+      <td>Ogg</td>
+      <td>
+        <p>Chrome 3, Firefox 3.5, Edge 17 (desktop only), Internet Explorer 9, Opera 10.50</p>
+        <p>Edge requires <a href="https://www.microsoft.com/store/productId/9N5TDP8VCMHS" class="external" rel=" noopener">Web Media Extensions</a> to be installed.</p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#quicktime">QuickTime (MOV)</a></th>
+      <td>Apple QuickTime movie</td>
+      <td>Only older versions of Safari, plus other browsers that supported Apple's QuickTime plugin</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="#webm">WebM</a></th>
+      <td>Web Media</td>
+      <td>
+        <p>Chrome 6, Edge 17 (desktop only), Firefox 4, Opera 10.6, Safari 14.1 (macOS), Safari 15 (iOS).</p>
+        <p>Edge requires <a href="https://www.microsoft.com/store/productId/9N5TDP8VCMHS" class="external" rel=" noopener">Web Media Extensions</a> to be installed.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  Unless otherwise specified, both mobile and desktop browser compatibility is implied if a browser is listed here.
+  Support is also implied only for the container itself, not for any specific codecs.
+</p></div><h3 id="3gp"><a href="#3gp" title="Permalink to 3GP">3GP</a></h3><div><p>
+  The <strong>3GP</strong> or <strong>3GPP</strong> media container is used to encapsulate audio and/or video that is specifically intended for transmission over cellular networks for consumption on mobile devices.
+  The format was designed for use on 3G mobile phones, but can still be used on more modern phones and networks.
+  However, the improved bandwidth availability and increased data caps on most networks has reduced the need for the 3GP format.
+  However, this format is still used for slower networks and for lower-performance phones.
+</p>
+<p>This media container format is derived from the ISO Base Media File Format and MPEG-4, but is specifically streamlined for lower bandwidth scenarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/3gpp</code></td>
+      <td><code>video/3gpp</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/3gpp2</code></td>
+      <td><code>video/3gpp2</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/3gp2</code></td>
+      <td><code>video/3gp2</code></td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  These MIME types are the fundamental types for the 3GP media container; other types may be used depending on the specific codec or codecs in use.
+  In addition, you can <a href="/en-US/docs/Web/Media/Formats/codecs_parameter#iso-bmff">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.
+</p>
+<table class="standard-table">
+  <caption>Video codecs supported by 3GP</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AVC (H.264)</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">H.263</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-4 Part 2 (MP4v-es)</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP8</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Audio codecs supported by 3GP</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AMR-NB</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">AMR-WB</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">AMR-WB+</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">AAC-LC</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">HE-AAC v1</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">HE-AAC v2</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MP3</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="adts"><a href="#adts" title="Permalink to ADTS">ADTS</a></h3><div><p>
+  <strong>Audio Data Transport Stream</strong> (<strong>ADTS</strong>) is a container format specified by MPEG-4 Part 3 for audio data, intended to be used for streamed audio, such as for Internet radio.
+  It is, essentially, an almost bare stream of AAC audio data, comprised of ADTS frames with a minimal header.
+</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/aac</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/mpeg</code></td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  The MIME type used for ADTS depends on what kind of audio frames are contained within.
+  If ADTS frames are used, the <code>audio/aac</code> MIME type should be used.
+  If the audio frames are in MPEG-1/MPEG-2 Audio Layer I, II, or III format, the MIME type should be <code>audio/mpeg</code>.
+</p>
+<table class="standard-table">
+  <caption>Audio codecs supported by ADTS</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AAC</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MP3</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<p>Firefox support for AAC relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p></div><h3 id="flac"><a href="#flac" title="Permalink to FLAC">FLAC</a></h3><div><p>
+  The <strong>Free Lossless Audio Codec</strong> (<strong>FLAC</strong>) is a lossless audio codec; there is also an associated simple container format, also called FLAC, that can contain this audio.
+  The format is not encumbered by any patents, so its use is safe from interference.
+  FLAC files can only contain FLAC audio data.
+</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/flac</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/x-flac</code> (non-standard)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Audio codecs supported by FLAC</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">FLAC</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="mpegmpeg-2"><a href="#mpegmpeg-2" title="Permalink to MPEG/MPEG-2">MPEG/MPEG-2</a></h3><div><p>
+  The <strong><a href="https://en.wikipedia.org/wiki/MPEG-1" class="external" rel=" noopener">MPEG-1</a></strong> and <strong><a href="https://en.wikipedia.org/wiki/MPEG-2" class="external" rel=" noopener">MPEG-2</a></strong> file formats are essentially identical.
+  Created by the Moving Picture Experts Group (MPEG), these formats are widely used in physical media, including as the format of the video on DVD media.
+</p>
+<p>
+  On the internet, perhaps the most common use of the MPEG file format is to contain <a href="https://en.wikipedia.org/wiki/MPEG-1" class="external" rel=" noopener">Layer_III/MP3</a> sound data; the resulting files are the wildly popular MP3 file used by digital music devices around the world.
+  Otherwise, MPEG-1 and MPEG-2 are not widely used in Web content.
+</p>
+<p>
+  The main differences between MPEG-1 and MPEG-2 take place in the media data formats rather than the container format.
+  MPEG-1 was introduced in 1992; MPEG-2 was introduced in 1996.
+</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/mpeg</code></td>
+      <td><code>video/mpeg</code></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Video codecs supported by MPEG-1 and MPEG-2</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">MPEG-1 Part 2</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-2 Part 2</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Audio codecs supported by MPEG-1 and MPEG-2</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer I</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer II</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer III (MP3)</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="mpeg-4_mp4"><a href="#mpeg-4_mp4" title="Permalink to MPEG-4 (MP4)">MPEG-4 (MP4)</a></h3><div><p>
+  <strong><a href="https://en.wikipedia.org/wiki/MPEG-4" class="external" rel=" noopener">MPEG-4</a></strong> (<strong>MP4</strong>) is the latest version of the MPEG file format.
+  There are two versions of the format, defined in parts 1 and 14 of the specification.
+  MP4 is a popular container today, as it supports several of the most-used codecs and is broadly supported.
+</p>
+<p>
+  The original MPEG-4 Part 1 file format was introduced in 1999; the version 2 format, defined in Part 14, was added in 2003.
+  The MP4 file format is derived from the <a href="https://en.wikipedia.org/wiki/ISO_base_media_file_format" class="external" rel=" noopener">ISO base media file format</a>, which is directly derived from the <a href="https://en.wikipedia.org/wiki/QuickTime_File_Format" class="external" rel=" noopener">QuickTime file format</a> developed by <a href="https://www.apple.com/" class="external" rel=" noopener">Apple</a>.
+</p>
+<p>When specifying the MPEG-4 media type (<code>audio/mp4</code> or <code>video/mp4</code>), you can <a href="/en-US/docs/Web/Media/Formats/codecs_parameter#iso-bmff">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/mp4</code></td>
+      <td><code>video/mp4</code></td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  These MIME types are the fundamental types for the MPEG-4 media container; other MIME types may be used depending on the specific codec or codecs in use within the container.
+  In addition, you can <a href="/en-US/docs/Web/Media/Formats/codecs_parameter#iso-bmff">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.
+</p>
+<table class="standard-table">
+  <caption>Video codecs supported by MPEG-4</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AVC (H.264)</th>
+      <td></td>
+      <td></td>
+      <td>
+        <p>Yes</p>
+        <p>
+          Firefox support for H.264 relies upon the operating system's media
+          infrastructure, so it is available as long as the OS supports it.
+        </p>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">AV1</th>
+      <td></td>
+      <td></td>
+      <td>
+        <p>Yes</p>
+        <p>Firefox support for AV1 is disabled on Android (<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1672276" class="external" rel=" noopener">bug&nbsp;1672276</a>) and on Windows on ARM (enable by setting the preference <code>media.av1.enabled</code> to <code>true</code>).</p>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">H.263</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-4 Part 2 Visual</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP9</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Audio codecs supported by MPEG-4</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AAC</th>
+      <td></td>
+      <td></td>
+      <td>
+        <p>Yes</p>
+        <p>Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">FLAC</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer III (MP3)</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Opus</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="ogg"><a href="#ogg" title="Permalink to Ogg">Ogg</a></h3><div><p>
+  The <a href="https://en.wikipedia.org/wiki/Ogg" class="external" rel=" noopener">Ogg</a> container format is a free and open format maintained by the <a href="https://www.xiph.org/" class="external" rel=" noopener">Xiph.org Foundation</a>.
+  The Ogg framework also defines patent unencumbered media data formats, such as the Theora video codec and the Vorbis and Opus audio codecs.
+  <a href="https://xiph.org/ogg/" class="external" rel=" noopener">Xiph.org documents about the Ogg format</a> are available on their web site.
+</p>
+<p>
+  While Ogg has been around for a long time, it has never gained the wide support needed to make it a good first choice for a media container.
+  You are typically better off using WebM, though there are times when Ogg is useful to offer, such as when you wish to support older versions of Firefox and Chrome which don't yet support WebM.
+  For example, Firefox 3.5 and 3.6 support Ogg, but not WebM.
+</p>
+<p>You can get more information about Ogg and its codecs in the <a href="https://en.flossmanuals.net/ogg-theora/_full/" class="external" rel=" noopener">Theora Cookbook</a>.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/ogg</code></td>
+      <td><code>video/ogg</code></td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  The <code>application/ogg</code> MIME type can be used when you don't necessarily know whether the media contains audio or video.
+  If at all possible, you should use one of the specific types, but fall back to <code>application/ogg</code> if you don't know the content format or formats.
+</p>
+<p>You can also <a href="/en-US/docs/Web/Media/Formats/codecs_parameter#ogg">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally further describe the track media formats.</p>
+<table class="standard-table">
+  <caption>Video codecs supported by Ogg</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Theora</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP8</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">VP9</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Audio codecs supported by Ogg</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">FLAC</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Opus</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Vorbis</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="quicktime"><a href="#quicktime" title="Permalink to QuickTime">QuickTime</a></h3><div><p>
+  The <strong>QuickTime</strong> file format (<strong>QTFF</strong>, <strong>QT</strong>, or <strong>MOV</strong>) was created by Apple for use by its media framework of the same name.
+  The extension for these files, <code>.mov</code>, comes from the fact that the format was initially used for movies and was usually called the "QuickTime movie" format.
+  While QTFF served as the basis for the MPEG-4 file format, there are differences and the two are not quite interchangeable.
+</p>
+<p>
+  QuickTime files support any sort of time-based data, including audio and video media, text tracks, and so forth.
+  QuickTime files are primarily supported by macOS, but for a number of years, QuickTime for Windows was available to access them on Windows.
+  However, QuickTime for Windows is no longer supported by Apple as of early 2016, and <em>should not be used</em>, as there are known security concerns.
+  However, Windows Media Player now has integrated support for QuickTime version 2.0 and earlier files; support for later versions of QuickTime requires third-party additions.
+</p>
+<p>
+  On Mac OS, the QuickTime framework not only supported QuickTime format movie files and codecs, but supported a vast array of popular and specialty audio and video codecs, as well as still image formats.
+  Through QuickTime, Mac applications (including web browsers, through the QuickTime plugin or direct QuickTime integration) were able to read and write audio formats including AAC, AIFF, MP3, PCM, and Qualcomm PureVoice; and video formats including AVI, DV, Pixlet, ProRes, FLAC, Cinepak, 3GP, H.261 through H.265, MJPEG, MPEG-1 and MPEG-4 Part 2, Sorenson, and many more.
+</p>
+<p>In addition, a number of third-party components are available for QuickTime, some of which add support for additional codecs.</p>
+<p>
+  Because QuickTime support is, for all intents and purposes, primarily available on Apple devices, it is no longer widely used on the internet.
+  Apple itself generally now uses MP4 for video.
+  In addition, the QuickTime framework has been deprecated on the Mac for some time, and is no longer available at all starting in macOS 10.15 Catalina.
+</p>
+<table>
+  <thead>
+    <tr>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>video/quicktime</code></td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  The <code>video/quicktime</code> MIME type is the fundamental type for the QuickTime media container.
+  It's worth noting that QuickTime (the media framework on Mac operating systems) supports a wide variety of containers and codecs, so it actually supports many other MIME types.
+</p>
+<p>You can <a href="/en-US/docs/Web/Media/Formats/codecs_parameter#iso-bmff">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.</p>
+<table class="standard-table">
+  <caption>Video codecs supported by QuickTime</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AVC (H.264)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Cinepak</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Component Video</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">DV</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">H.261</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">H.263</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-2</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-4 Part 2 Visual</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Motion JPEG</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Sorenson Video 2</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Sorenson Video 3</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Audio codecs supported by QuickTime</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AAC</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">ALaw 2:1</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Apple Lossless (ALAC)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">HE-AAC</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer III (MP3)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Microsoft ADPCM</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">µ-Law 2:1 (u-Law)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="wave_wav"><a href="#wave_wav" title="Permalink to WAVE (WAV)">WAVE (WAV)</a></h3><div><p>The <strong>Waveform Audio File Format</strong> (<strong>WAVE</strong>), usually referred to as WAV due to its filename extension being <code>.wav</code>, is a format developed by Microsoft and IBM to store audio bitstream data.</p>
+<p>
+  It is derived from the Resource Interchange File Format (RIFF), and as such is similar to other formats such as Apple's AIFF.
+  The WAV codec registry can be found at <a href="https://datatracker.ietf.org/doc/html/rfc2361" class="external" rel=" noopener">RFC 2361</a>; however, because nearly all WAV files use linear PCM, support for the other codecs is sparse.
+</p>
+<p>The WAVE format was first released in 1991.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/wave</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/wav</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/x-wav</code></td>
+    </tr>
+    <tr>
+      <td><code>audio/x-pn-wav</code></td>
+    </tr>
+  </tbody>
+</table>
+<p>The <code>audio/wave</code> MIME type is the standard type, and is preferred; however, the others have been used by various products over the years and may be used as well in some environments.</p>
+<table class="standard-table">
+  <caption>Audio codecs supported by WAVE</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">ADPCM (Adaptive Differential Pulse Code Modulation)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">GSM 06.10</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">LPCM (Linear Pulse Code Modulation)</th>
+      <td></td>
+      <td></td>
+      <td>Yes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">MPEG-1 Audio Layer III (MP3)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">µ-Law (u-Law)</th>
+      <td></td>
+      <td></td>
+      <td>No</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h3 id="webm"><a href="#webm" title="Permalink to WebM">WebM</a></h3><div><p>
+  <strong><a href="https://en.wikipedia.org/wiki/WebM" class="external" rel=" noopener">WebM</a></strong> (<strong>Web Media</strong>) is a format based on <a href="https://en.wikipedia.org/wiki/Matroska" class="external" rel=" noopener">Matroska</a> which is designed specifically for use in modern web environments.
+  It's based entirely on free and open technologies and primarily uses codecs that are in turn free and open, although some products support other codecs in WebM containers as well.
+</p>
+<p>
+  WebM was first introduced in 2010 and is now widely supported.
+  Compliant implementations of WebM are required to support the VP8 and VP9 video codecs and the Vorbis and Opus audio codecs.
+  The WebM container format and its required codecs are all available under open licenses.
+  Any other codecs may require a license to use.
+</p>
+<table>
+  <thead>
+    <tr>
+      <th>Audio</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>audio/webm</code></td>
+      <td><code>video/webm</code></td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Video codecs supported by WebM</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">AV1</th>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>
+        <p>Yes</p>
+        <p>
+          Firefox support for AV1 was added to macOS in Firefox 66; for Windows in Firefox 67; and Firefox 68 on Linux.
+          Firefox for Android does not yet support AV1; the implementation in Firefox is designed to use a secure process, which is not supported yet in Android.
+        </p>
+      </td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">VP8</th>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">VP9</th>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+  </tbody>
+</table>
+<table class="standard-table">
+  <caption>Audio codecs supported by WebM</caption>
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Codec</th>
+      <th colspan="4" scope="col" style="text-align: center">Browser support</th>
+    </tr>
+    <tr>
+      <th scope="col">Chrome</th>
+      <th scope="col">Edge</th>
+      <th scope="col">Firefox</th>
+      <th scope="col">Safari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Opus</th>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Vorbis</th>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+  </tbody>
+</table></div><h2 id="choosing_the_right_container"><a href="#choosing_the_right_container" title="Permalink to Choosing the right container">Choosing the right container</a></h2><div><p>
+  There are a few factors to consider when selecting the best container or containers to use for your media.
+  The relative importance of each will depend on your needs, your license requirements, and the compatibility requirements of your target audience.
+</p></div><h3 id="guidelines"><a href="#guidelines" title="Permalink to Guidelines">Guidelines</a></h3><div><p>
+  The best choice also depends on what you'll be doing with the media.
+  Playing back media is a different thing than recording and/or editing it.
+  If you're going to be manipulating the media data, using an uncompressed format can improve performance, while using a lossless compressed format at least prevents the accumulation of noise as compression artifacts are multiplied with each re-compression that occurs.
+</p>
+<ul>
+  <li>If your target audience is likely to include users on mobile, especially on lower-end devices or on slow networks, consider providing a version of your media in a 3GP container with appropriate compression.</li>
+  <li>If you have any specific encoding requirements, make sure the container you choose supports the appropriate codecs.</li>
+  <li>If you want your media to be in a non-proprietary, open format, consider using one of the open container formats such as FLAC (for audio) or WebM (for video).</li>
+  <li>If for any reason you are only able to provide media in a single format, choose a format that's available on the broadest selection of devices and browsers, such as MP3 (for audio) or MP4 (for video and/or audio).</li>
+  <li>
+    If your media is audio-only, choosing an audio-only container format likely makes sense.
+    Now that the patents have all expired, MP3 is a widely supported and good choice.
+    WAVE is good but uncompressed, so be aware of that before using it for large audio samples.
+    FLAC is a very good choice, due to its lossless compression, if the target browsers all support it.
+  </li>
+</ul>
+<p>
+  Unfortunately, neither of the relatively major lossless compression formats (FLAC and ALAC) are universally supported.
+  FLAC is the more broadly supported of the two, but is not supported by macOS without additional software installed, and is not supported at all on iOS.
+  If you need to offer lossless audio, you may need to provide both FLAC and ALAC to get close to universal compatibility.
+</p></div><h3 id="container_selection_advice"><a href="#container_selection_advice" title="Permalink to Container selection advice">Container selection advice</a></h3><div><p>
+  The tables below offer suggested containers to use in various scenarios.
+  These are just suggestions.
+  Be sure to consider the needs of your application and your organization before selecting a container format.
+</p>
+<h4 id="audio-only_files">Audio-only files</h4>
+<table>
+  <thead>
+    <tr>
+      <th>If you need…</th>
+      <th>Consider using this container format</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Compressed files for general-purpose playback</td>
+      <td>MP3 (MPEG-1 Audio Layer III)</td>
+    </tr>
+    <tr>
+      <td>Losslessly compressed files</td>
+      <td>FLAC with ALAC fallback</td>
+    </tr>
+    <tr>
+      <td>Uncompressed files</td>
+      <td>WAV</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  Now that MP3's patents have all expired, the choice of audio file format has become much easier to make.
+  It's no longer necessary to choose between MP3's broad compatibility and the need to pay royalties when using it.
+</p>
+<h4 id="video_files">Video files</h4>
+<table>
+  <thead>
+    <tr>
+      <th>If you need…</th>
+      <th>Consider using this container format</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>General purpose video, preferably in an open format</td>
+      <td>WebM (ideally with MP4 fallback)</td>
+    </tr>
+    <tr>
+      <td>General purpose video</td>
+      <td>MP4 (ideally with WebM or Ogg fallback)</td>
+    </tr>
+    <tr>
+      <td>High compression optimized for slow connections</td>
+      <td>3GP (ideally with MP4 fallback)</td>
+    </tr>
+    <tr>
+      <td>Compatibility with older devices/browsers</td>
+      <td>QuickTime (ideally with AVI and/or MPEG-2 fallback)</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  These suggestions make a number of assumptions.
+  You should carefully consider the options before making a final decision, especially if you have a lot of media that will need to be encoded.
+</p></div><h2 id="maximizing_compatibility_with_multiple_containers"><a href="#maximizing_compatibility_with_multiple_containers" title="Permalink to Maximizing compatibility with multiple containers">Maximizing compatibility with multiple containers</a></h2><div><p>
+  To optimize compatibility, it's worth considering providing more than one version of media files, using the <a href="/en-US/docs/Web/HTML/Element/source"><code>&lt;source&gt;</code></a> element to specify each source within the <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> or <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> element.
+  For example, you can offer an Ogg or WebM video as the first choice, with a fallback in MP4 format.
+  You could even choose to offer a retro-like QuickTime or AVI fallback for good measure.
+</p>
+<p>
+  To do this, you create a <code>&lt;video&gt;</code> (or <code>&lt;audio&gt;</code>) element with no <a href="/en-US/docs/Web/HTML/Element/video#attr-src"><code>src</code></a> attribute.
+  Then add child <a href="/en-US/docs/Web/HTML/Element/source"><code>&lt;source&gt;</code></a> elements within the <code>&lt;video&gt;</code> element, one for each version of the video you offer.
+  This can be used to offer various versions of a video that can be selected depending on bandwidth availability, but in our case, we'll use it to offer format options.
+</p>
+<p>In the example shown here, a video is offered to the browser in two formats: WebM and MP4.</p><iframe class="interactive" height="445" src="https://interactive-examples.mdn.mozilla.net/pages/tabbed/source.html" title="MDN Web Docs Interactive Example" loading="lazy"></iframe>
+<p>
+  The video is offered first in WebM format (with the <a href="/en-US/docs/Web/HTML/Element/video#attr-type"><code>type</code></a> attribute set to <code>video/webm</code>).
+  If the <a href="/en-US/docs/Glossary/User_agent">user agent</a> can't play that, it moves on to the next option, whose <code>type</code> is specified as <code>video/mp4</code>.
+  If neither of those can be played, the text "This browser does not support the HTML video element." is presented.
+</p></div><h2 id="specifications"><a href="#specifications" title="Permalink to Specifications">Specifications</a></h2><div><table>
+  <thead>
+    <tr>
+      <th>Specification</th>
+      <th>Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=1441" class="external" rel=" noopener">ETSI 3GPP</a></td>
+      <td>Defines the 3GP container format</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.iso.org/standard/53943.html" class="external" rel=" noopener">ISO/IEC 14496-3</a> (MPEG-4 Part 3 Audio)</td>
+      <td>Defines MP4 audio including ADTS</td>
+    </tr>
+    <tr>
+      <td><a href="https://xiph.org/flac/format.html" class="external" rel=" noopener">FLAC Format</a></td>
+      <td>The FLAC format specification</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.iso.org/standard/19180.html" class="external" rel=" noopener">ISO/IEC 11172-1</a> (MPEG-1 Part 1 Systems)</td>
+      <td>Defines the MPEG-1 container format</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.iso.org/standard/74427.html" class="external" rel=" noopener">ISO/IEC 13818-1</a> (MPEG-2 Part 1 Systems)</td>
+      <td>Defines the MPEG-2 container format</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.iso.org/standard/75929.html" class="external" rel=" noopener">ISO/IEC 14496-14</a> (MPEG-4 Part 14: MP4 file format)</td>
+      <td>Defines the MPEG-4 (MP4) version 2 container format</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.iso.org/standard/55688.html" class="external" rel=" noopener">ISO/IEC 14496-1</a> (MPEG-4 Part 1 Systems)</td>
+      <td>Defines the original MPEG-4 (MP4) container format</td>
+    </tr>
+    <tr>
+      <td><a href="https://datatracker.ietf.org/doc/html/rfc3533" class="external" rel=" noopener">RFC 3533</a></td>
+      <td>Defines the Ogg container format</td>
+    </tr>
+    <tr>
+      <td><a href="https://datatracker.ietf.org/doc/html/rfc5334" class="external" rel=" noopener">RFC 5334</a></td>
+      <td>Defines the Ogg media types and file extensions</td>
+    </tr>
+    <tr>
+      <td><a href="https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html" class="external" rel=" noopener">QuickTime File Format Specification</a></td>
+      <td>Defines the QuickTime movie (MOV) format</td>
+    </tr>
+    <tr>
+      <td><a href="https://web.archive.org/web/20090417165828/http://www.kk.iij4u.or.jp/~kondo/wave/mpidata.txt" class="external" rel=" noopener">Multimedia Programming Interface and Data Specifications 1.0</a></td>
+      <td>The closest thing to an official WAVE specification</td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.microsoft.com/windows/win32/xaudio2/resource-interchange-file-format--riff-" class="external" rel=" noopener">Resource Interchange File Format</a> (used by WAV)</td>
+      <td>Defines the RIFF format; WAVE files are a form of RIFF</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.webmproject.org/docs/container/" class="external" rel=" noopener">WebM Container Guidelines</a></td>
+      <td>Guide for adapting Matroska for WebM</td>
+    </tr>
+    <tr>
+      <td><a href="https://matroska.org/index.html" class="external" rel=" noopener">Matroska Specifications</a></td>
+      <td>The specification for the Matroska container format upon which WebM is based</td>
+    </tr>
+    <tr>
+      <td><a href="https://w3c.github.io/media-source/webm-byte-stream-format.html" class="external" rel=" noopener">WebM Byte Stream Format</a></td>
+      <td>WebM byte stream format for use with <a href="/en-US/docs/Web/API/Media_Source_Extensions_API">Media Source Extensions</a></td>
+    </tr>
+  </tbody>
+</table></div><h2 id="browser_compatibility"><a href="#browser_compatibility" title="Permalink to Browser compatibility">Browser compatibility</a></h2><div><table class="standard-table">
+  <thead>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: bottom">Container format name</th>
+      <th colspan="3" scope="col" style="text-align: center; border-right: 2px solid #d4dde4">Audio</th>
+      <th colspan="3" scope="col" style="text-align: center">Video</th>
+    </tr>
+    <tr>
+      <th scope="col" style="vertical-align: bottom">MIME type</th>
+      <th scope="col" style="vertical-align: bottom">Extension(s)</th>
+      <th scope="col" style="vertical-align: bottom; border-right: 2px solid #d4dde4">Browser support</th>
+      <th scope="col" style="vertical-align: bottom">MIME type</th>
+      <th scope="col" style="vertical-align: bottom">Extension(s)</th>
+      <th scope="col" style="vertical-align: bottom; border-right: 2px solid #d4dde4">Browser support</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row" style="vertical-align: bottom">3GP</th>
+      <td style="vertical-align: top"><code>audio/3gpp</code></td>
+      <td style="vertical-align: top"><code>.3gp</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top"><code>video/3gpp</code></td>
+      <td style="vertical-align: top"><code>.3gp</code></td>
+      <td style="vertical-align: top">Firefox</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">ADTS (Audio Data Transport Stream)</th>
+      <td style="vertical-align: top"><code>audio/aac</code></td>
+      <td style="vertical-align: top"><code>.aac</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">FLAC</th>
+      <td style="vertical-align: top"><code>audio/flac</code></td>
+      <td style="vertical-align: top"><code>.flac</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+    </tr>
+    <tr>
+      <th rowspan="2" scope="row" style="vertical-align: top">MPEG-1 / MPEG-2 (MPG or MPEG)</th>
+      <td style="vertical-align: top"><code>audio/mpeg</code></td>
+      <td style="vertical-align: top"><code>.mpg</code><br><code>.mpeg</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td rowspan="2" style="vertical-align: top"><code>video/mpeg</code></td>
+      <td rowspan="2" style="vertical-align: top"><code>.mpg</code><br><code>.mpeg</code></td>
+      <td rowspan="2" style="vertical-align: top">Firefox</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top"><code>audio/mp3</code></td>
+      <td style="vertical-align: top"><code>.mp3</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">MPEG-4 (MP4)</th>
+      <td style="vertical-align: top"><code>audio/mp4</code></td>
+      <td style="vertical-align: top"><code>.mp4</code><br><code>.m4a</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top"><code>video/mp4</code></td>
+      <td style="vertical-align: top"><code>.mp4</code><br><code>.m4v</code><br><code>.m4p</code></td>
+      <td style="vertical-align: top">Firefox</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">Ogg</th>
+      <td style="vertical-align: top"><code>audio/ogg</code></td>
+      <td style="vertical-align: top"><code>.oga</code><br><code>.ogg</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top"><code>video/ogg</code></td>
+      <td style="vertical-align: top"><code>.ogv</code><br><code>.ogg</code></td>
+      <td style="vertical-align: top">Firefox</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">QuickTime Movie (MOV)</th>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">—</td>
+      <td style="vertical-align: top"><code>video/quicktime</code></td>
+      <td style="vertical-align: top"><code>.mov</code></td>
+      <td style="vertical-align: top">Safari</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">WAV (Waveform Audiofile)</th>
+      <td style="vertical-align: top"><code>audio/wav</code></td>
+      <td style="vertical-align: top"><code>.wav</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+      <td style="vertical-align: top">—</td>
+    </tr>
+    <tr>
+      <th scope="row" style="vertical-align: top">WebM</th>
+      <td style="vertical-align: top"><code>audio/webm</code></td>
+      <td style="vertical-align: top"><code>.webm</code></td>
+      <td style="vertical-align: top; border-right: 2px solid #d4dde4">Firefox</td>
+      <td style="vertical-align: top"><code>video/webm</code></td>
+      <td style="vertical-align: top"><code>.webm</code></td>
+      <td style="vertical-align: top">Firefox</td>
+    </tr>
+  </tbody>
+</table></div><h2 id="see_also"><a href="#see_also" title="Permalink to See also">See also</a></h2><div><ul>
+  <li><a href="/en-US/docs/Web/API/WebRTC_API">WebRTC API</a></li>
+  <li><a href="/en-US/docs/Web/API/MediaStream_Recording_API">MediaStream Recording API</a></li>
+  <li><a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> elements</li>
+</ul></div></article><aside class="metadata"><div class="metadata-content-container"><div id="on-github" class="on-github"><h3>Found a problem with this page?</h3><ul><li><a href="https://github.com/mdn/content/edit/style/old/files/en-us/web/media/formats/containers/index.md" title="You're going to need to sign in to GitHub first (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Edit on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/content/blob/style/old/files/en-us/web/media/formats/containers/index.md" title="Folder: en-us/web/media/formats/containers (Opens in a new tab)" target="_blank" rel="noopener noreferrer">Source on <b>GitHub</b></a></li><li><a href="https://github.com/mdn/content/issues/new?body=MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FMedia%2FFormats%2FContainers%0A%0A%23%23%23%23+What+information+was+incorrect%2C+unhelpful%2C+or+incomplete%3F%0A%0A%0A%23%23%23%23+Specific+section+or+headline%3F%0A%0A%0A%23%23%23%23+What+did+you+expect+to+see%3F%0A%0A%0A%23%23%23%23+Did+you+test+this%3F+If+so%2C+how%3F%0A%0A%0A%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+Content+page+report+details%3C%2Fsummary%3E%0A%0A*+Folder%3A+%60en-us%2Fweb%2Fmedia%2Fformats%2Fcontainers%60%0A*+MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FMedia%2FFormats%2FContainers%0A*+GitHub+URL%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fblob%2Fstyle%2Fold%2Ffiles%2Fen-us%2Fweb%2Fmedia%2Fformats%2Fcontainers%2Findex.md%0A*+Last+commit%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fcommit%2Ff22e42182591e38590c9add80de91a51bce3cde2%0A*+Document+last+modified%3A+2022-09-09T05%3A38%3A45.000Z%0A%0A%3C%2Fdetails%3E&amp;title=Issue+with+%22Media+container+formats+%28file+types%29%22%3A+%28short+summary+here+please%29&amp;labels=needs-triage%2CContent%3AMedia" title="This will take you to https://github.com/mdn/content to file a new issue" target="_blank" rel="noopener noreferrer">Report a problem with this content on <b>GitHub</b></a></li><li>Want to fix the problem yourself? See<!-- --> <a href="https://github.com/mdn/content/blob/main/README.md" target="_blank" rel="noopener noreferrer">our Contribution guide</a>.</li></ul></div><p class="last-modified-date"><b>Last modified:</b> <time datetime="2022-09-09T05:38:45.000Z">Sep 9, 2022</time>,<!-- --> <a href="/en-US/docs/Web/Media/Formats/Containers/contributors.txt">by MDN contributors</a></p><form class="language-menu"><fieldset id="select-language"><legend>Change your language</legend><label for="language-selector" class="visually-hidden">Select your preferred language</label> <select id="language-selector" name="language"><option selected="" value="en-US">English (US)</option><option value="ko">한국어</option><option value="zh-CN">中文 (简体)</option><option value="zh-TW">正體中文 (繁體)</option></select> <button type="submit" class="button minimal">Change language</button></fieldset></form></div></aside></main><nav id="sidebar-quicklinks" class="sidebar"><h4>Related Topics</h4><div>
+<ol><li><a href="/en-US/docs/Web/Media/Autoplay_guide">Autoplay guide for media and Web Audio APIs</a></li><li><a href="/en-US/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video">DASH Adaptive Streaming for HTML 5 Video</a></li><li><a href="/en-US/docs/Web/Media/Streaming">Guide to streaming audio and video</a></li><li><a href="/en-US/docs/Web/Media/Formats">Media type and format guide: image, audio, and video content</a><ol><li><a href="/en-US/docs/Web/Media/Formats">Media type and format guide: image, audio, and video content</a></li><li><a href="/en-US/docs/Web/Media/Formats/Audio_codecs">Web audio codec guide</a></li><li><a href="/en-US/docs/Web/Media/Formats/Audio_concepts">Digital audio concepts</a></li><li><a href="/en-US/docs/Web/Media/Formats/codecs_parameter">The "codecs" parameter in common media types</a></li><li><a href="/en-US/docs/Web/Media/Formats/Containers">Media container formats (file types)</a></li><li><a href="/en-US/docs/Web/Media/Formats/Image_types">Image file type and format guide</a></li><li><a href="/en-US/docs/Web/Media/Formats/Support_issues">Handling media support issues in web content</a></li><li><a href="/en-US/docs/Web/Media/Formats/Video_codecs">Web video codec guide</a></li><li><a href="/en-US/docs/Web/Media/Formats/Video_concepts">Digital video concepts</a></li><li><a href="/en-US/docs/Web/Media/Formats/WebRTC_codecs">Codecs used by WebRTC</a></li></ol></li><li><a href="/en-US/docs/Web/Media/HTML_media">Using audio and video in HTML</a></li><li><a href="/en-US/docs/Web/Media/images">Using images in HTML</a><ol><li><a href="/en-US/docs/Web/Media/images">Using images in HTML</a></li><li><a href="/en-US/docs/Web/Media/images/aspect_ratio_mapping">Mapping the width and height attributes of media container elements to their aspect-ratio</a></li></ol></li></ol>
+</div></nav></div><footer id="nav-footer" class="page-footer"><div class="content-container"><div class="page-footer-logo"><a href="/en-US/" class="logo" aria-label="MDN Web Docs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.74 135" fill="#fff"><path d="M7.14 8.35v111.06h111.05V8.35zm103.71 56c-.48.92-1 1.79-1.46 2.71a3.44 3.44 0 01-3.54 2 2.4 2.4 0 00-1.55.5c-1.37.9-2.76 1.79-4.18 2.63a7.33 7.33 0 01-6.35.34 29.71 29.71 0 00-10.63-2 11.7 11.7 0 00-9.46 4.31 14.84 14.84 0 00-2.13 4.29c-1.24 3.07-2.3 21.38-2.3 26.05 0 0-17.62-3.42-34.15-20.34l4.31-11.32h-13.5l9.76-10.35h-16.8l9.77-10.34H12.69L30.45 34a40.9 40.9 0 0119.77-10.83c7.1-1.22 8.93-.53 13.31.77l2.43.73.85.25 3.1.95a12.56 12.56 0 006.21.09 11.37 11.37 0 018.25 1 8.24 8.24 0 014.1 6.22 7.29 7.29 0 003.61 5.49 59.45 59.45 0 009.32 4.11c2.27.86 4.54 1.84 6.79 2.72a6.81 6.81 0 012.86 2.06 4.81 4.81 0 011.1 2.73c.14 2 .37 4 .47 6a15.24 15.24 0 01-1.77 8.03zM320.12 39.62a5.42 5.42 0 00-4.53 2.13 7.36 7.36 0 00-1.7 4.43v2.36a6.28 6.28 0 001.7 4.46 5.63 5.63 0 004.3 1.82 5.12 5.12 0 004.57-2.27A9.7 9.7 0 00326 47a8.11 8.11 0 00-1.67-5.52 5.36 5.36 0 00-4.21-1.86zM387.38 39.53a5.52 5.52 0 00-4.7 2.15 8.8 8.8 0 00-1.63 5.49 9.23 9.23 0 001.58 5.45 5.38 5.38 0 004.7 2.25 5.61 5.61 0 004.74-2.2 8.91 8.91 0 001.68-5.59 8.24 8.24 0 00-1.75-5.52 5.76 5.76 0 00-4.62-2.03zM299.47 41.35a4.34 4.34 0 00-4-1.92 4.55 4.55 0 00-3.89 1.73 8.37 8.37 0 00-1.58 4.17h10.48a6.3 6.3 0 00-1.01-3.98zM357.74 30.75H352v23.31h5.72q5.47 0 8.35-3t2.93-8.65q0-5.43-2.88-8.55t-8.38-3.11z"></path><path d="M121.55 8.35v70.8h323V8.35zm42.21 22.45h-4V54h3.68v3.73h-11.25V54h3.31V36.79h-.19l-9.63 19.12h-2.12l-10-19.4h-.19V54h3.45v3.73h-11.15V54h3.68V30.8h-4v-3.73H133l11.66 22.56h.19l11.18-22.56h7.7zm29.12 22.67q-4.11 4.28-11.38 4.28h-14.06v-3.69h3.73V30.75h-3.73v-3.68h13.83q7.59 0 11.66 4.29a15.4 15.4 0 014 11 15.33 15.33 0 01-4.05 11.11zm38.89-22.67h-3.68v27h-2.6L208.08 35h-.19v19h4.67v3.73h-12.22V54h3.49V30.8h-4v-3.73h7.08l16.9 22.09h.19V30.8h-4.58v-3.73h12.32zm43.8 27h-3.31l-7.83-23.18h-.19l-7.55 23.18h-3.35l-8.78-27h-2.65v-3.73H253v3.73h-3.87L255 50.71h.23l6.61-19.91H259v-3.73h11v3.73h-2.78l6.61 20.1h.23l5.43-20.1h-4.15v-3.73h11v3.73h-2.54zm26.71-1.51a9.66 9.66 0 01-6.42 2 10.2 10.2 0 01-7.41-2.74c-1.89-1.82-2.83-4.47-2.83-7.93a12.37 12.37 0 012.64-8.12 9 9 0 017.32-3.21 8.62 8.62 0 016.75 2.69 9.65 9.65 0 012.45 6.52 13.67 13.67 0 01-.28 2.69H290q.29 6.71 6.18 6.7a5.2 5.2 0 003.71-1.18 5.82 5.82 0 001.67-2.83l3.45.71a7.21 7.21 0 01-2.73 4.65zm25.77-1.63c-1.51 2.4-3.92 3.61-7.22 3.61s-5.84-1.29-7.22-3.87c0 .25-.1.82-.21 1.7s-.19 1.44-.22 1.7H309c.16-1 .31-2 .47-3.07a21.42 21.42 0 00.24-3.16v-23h-3.4v-3.3h7.55V40.9a9.76 9.76 0 012.67-3.28 7.33 7.33 0 014.74-1.4 8.48 8.48 0 016.5 2.78q2.55 2.74 2.55 7.74a14.6 14.6 0 01-2.27 7.87zm41.39-1.14q-4.11 4.28-11.37 4.28H344v-3.74h3.73V30.75H344v-3.68h13.83q7.59 0 11.66 4.29a15.41 15.41 0 014.06 11 15.34 15.34 0 01-4.11 11.11zm25.65 1.68a10.53 10.53 0 01-7.9 3.07 10 10 0 01-7.63-3 10.93 10.93 0 01-2.8-7.83 12.13 12.13 0 012.69-7.93q2.69-3.3 8-3.3t8 3.28a12 12 0 012.64 7.76 10.86 10.86 0 01-3 7.9zm22.61.57c-1.4 1.66-3.63 2.5-6.68 2.5a9.58 9.58 0 01-7.15-2.76q-2.72-2.76-2.71-7.91a12.25 12.25 0 012.69-8 9.17 9.17 0 017.5-3.28 15 15 0 013.82.48 10.37 10.37 0 013.5 1.65l.85 5.47-3.35.38-.76-3.54a8.07 8.07 0 00-4.11-1 4.9 4.9 0 00-4.39 2.15 9.93 9.93 0 00-1.41 5.55 8.9 8.9 0 001.5 5.38 5.23 5.23 0 004.44 2c2.92 0 4.67-1.7 5.23-5.1l3.5.71a10.34 10.34 0 01-2.47 5.27zm20.48.75a11.68 11.68 0 01-6.63 1.75 15.52 15.52 0 01-8.26-2.08L424 51l3.26.33-.1 2.74a7 7 0 002.06.66 12.63 12.63 0 002.19.19 8.68 8.68 0 003.66-.75 2.5 2.5 0 001.63-2.36 2.25 2.25 0 00-1.32-2.2 12.65 12.65 0 00-3.28-1 47.39 47.39 0 01-3.9-.82 7.5 7.5 0 01-3.25-1.7 4.67 4.67 0 01-1.33-3.66c0-2.36.88-4 2.62-4.91a12 12 0 015.6-1.37 15 15 0 014.08.55 16.65 16.65 0 013.47 1.39l.47 5.1-3.3.37-.48-3.3a9.5 9.5 0 00-4.06-.9 5.62 5.62 0 00-2.87.66 2.33 2.33 0 00-1.15 2.25 2.13 2.13 0 001.3 2.07 11.91 11.91 0 003.21.92 36.69 36.69 0 013.82.83 7.46 7.46 0 013.21 1.74 4.9 4.9 0 011.3 3.73 5.56 5.56 0 01-2.66 4.91z"></path><path d="M181.17 30.75h-5.71v23.31h5.71q5.47 0 8.36-3t2.88-8.61q0-5.43-2.88-8.55t-8.36-3.15zM121.63 119.32V81.74h114.91v37.58zM153.22 109h-2v-6.85a4.8 4.8 0 00-1.58-4 5.57 5.57 0 00-3.55-1.26 5 5 0 00-4.92 3.26 4.19 4.19 0 00-1.88-2.46 5.82 5.82 0 00-3-.8 4.89 4.89 0 00-4.56 2.56v-2.21h-6.28v3.26h2v8.5h-2v3.23h9.11V109h-2.86v-5.25a4.4 4.4 0 01.69-2.56 2.47 2.47 0 012.21-1q2.57 0 2.56 3.63v8.41h6.29V109h-2v-5.25a4.47 4.47 0 01.67-2.56 2.42 2.42 0 012.19-1q2.63 0 2.63 3.63v8.41h6.28zm9.88-12.07q-4 0-6 2.36a8.41 8.41 0 00-2 5.66 7.25 7.25 0 002.17 5.62 8 8 0 005.65 2 8.54 8.54 0 005.94-2.11 7.27 7.27 0 002.34-5.67 8.21 8.21 0 00-2-5.51q-2.07-2.34-6.1-2.34zm-.1 12.35a3 3 0 01-2.63-1.33 5.68 5.68 0 01-.9-3.26 5 5 0 011-3.28 3.23 3.23 0 012.61-1.18 3.5 3.5 0 012.59 1.08 4.56 4.56 0 011.07 3.31 5.21 5.21 0 01-1 3.41 3.33 3.33 0 01-2.74 1.25zm25-2.3l-3.39-.29-.7 2.32H179l8.32-9.54-.32-2.23h-13.19l-.53 5.25 3.16.34.67-2.36h4.65l-8.25 9.53.44 2.26h13.13zm7.62-9.74h-4.46v5.39h4.46zm0 9.61h-4.46v5.39h4.46zm13.54-17.49h-4.23l-6.48 22.88h4.22zm8.68 0h-4.23l-6.45 22.88h4.19zm15 22.51l-.07-2.26a1.22 1.22 0 01-.56.1c-.69 0-1-.39-1-1.16v-6.49a4.39 4.39 0 00-1.8-3.84 7 7 0 00-4.16-1.28 14.55 14.55 0 00-3.16.3 24.14 24.14 0 00-3.29 1.06l-.56 3.46 3.39.4.5-1.69a2.78 2.78 0 011.08-.37 11.3 11.3 0 011.25-.07c1.19 0 1.89.37 2.09 1.1a8.55 8.55 0 01.3 2.26v.5a8.91 8.91 0 00-1.18-.11h-1.21a12.64 12.64 0 00-4.81.88 3.53 3.53 0 00-2.18 3.64 3.66 3.66 0 001.48 3.33 5.63 5.63 0 003.11 1 4.67 4.67 0 003-.91 6.78 6.78 0 001.8-2 3 3 0 003.33 3 5.54 5.54 0 002.66-.85zm-9.25-2.32a1.69 1.69 0 01-1.36-.52 1.81 1.81 0 01-.43-1.21 1.67 1.67 0 01.86-1.68 4.63 4.63 0 012-.42 7.69 7.69 0 011.07.07l1.06.13a3.58 3.58 0 01-1.08 2.74 3.24 3.24 0 01-2.11.89z"></path></svg></a></div><ul class="link-list-mdn"><li><a href="/en-US/docs/Web">Web Technologies</a></li><li><a href="/en-US/docs/Learn">Learn Web Development</a></li><li><a href="/en-US/docs/MDN/About">About MDN</a></li><li><a href="/en-US/docs/MDN/Feedback">Feedback</a></li></ul><ul class="link-list-moz"><li><a href="https://www.mozilla.org/about/" target="_blank" rel="noopener noreferrer">About</a></li><li><a href="https://shop.spreadshirt.com/mdn-store/" target="_blank" rel="noopener noreferrer">MDN Web Docs Store</a></li><li><a href="https://www.mozilla.org/contact/" target="_blank" rel="noopener noreferrer">Contact Us</a></li><li><a href="https://www.mozilla.org/firefox/?utm_source=developer.mozilla.org&amp;utm_campaign=footer&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Firefox</a></li></ul><div class="social social-mdn"><h4>MDN</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozdevnet" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Twitter</span></a></li><li><a class="social-icon github" href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">MDN on Github</span></a></li></ul></div><div class="social social-moz"><h4>Mozilla</h4><ul><li><a class="social-icon twitter" href="https://twitter.com/mozilla" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Twitter</span></a></li><li><a class="social-icon instagram" href="https://www.instagram.com/mozillagram/" target="_blank" rel="noopener noreferrer"><span class="visually-hidden">Mozilla on Instagram</span></a></li></ul></div><p id="license" class="footer-license">© 2005-<!-- -->2022<!-- --> Mozilla and individual contributors. Content is available under<!-- --> <a href="/docs/MDN/About#Copyrights_and_licenses">these licenses</a>.</p><ul class="footer-legal"><li><a href="https://www.mozilla.org/about/legal/terms/mozilla" target="_blank" rel="noopener noreferrer">Terms</a></li><li><a href="https://www.mozilla.org/privacy/websites/" target="_blank" rel="noopener noreferrer">Privacy</a></li><li><a href="https://www.mozilla.org/privacy/websites/#cookies" target="_blank" rel="noopener noreferrer">Cookies</a></li></ul></div></footer><div class="page-overlay hidden"></div></div><script type="application/json" id="hydration">{"doc":{"isMarkdown":true,"isTranslated":false,"isActive":true,"flaws":{},"title":"Media container formats (file types)","mdn_url":"/en-US/docs/Web/Media/Formats/Containers","locale":"en-US","native":"English (US)","sidebarHTML":"\n<ol><li><a href=\"/en-US/docs/Web/Media/Autoplay_guide\">Autoplay guide for media and Web Audio APIs</a></li><li><a href=\"/en-US/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video\">DASH Adaptive Streaming for HTML 5 Video</a></li><li><a href=\"/en-US/docs/Web/Media/Streaming\">Guide to streaming audio and video</a></li><li><a href=\"/en-US/docs/Web/Media/Formats\">Media type and format guide: image, audio, and video content</a><ol><li><a href=\"/en-US/docs/Web/Media/Formats\">Media type and format guide: image, audio, and video content</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Audio_codecs\">Web audio codec guide</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Audio_concepts\">Digital audio concepts</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/codecs_parameter\">The \"codecs\" parameter in common media types</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Containers\">Media container formats (file types)</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Image_types\">Image file type and format guide</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Support_issues\">Handling media support issues in web content</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Video_codecs\">Web video codec guide</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/Video_concepts\">Digital video concepts</a></li><li><a href=\"/en-US/docs/Web/Media/Formats/WebRTC_codecs\">Codecs used by WebRTC</a></li></ol></li><li><a href=\"/en-US/docs/Web/Media/HTML_media\">Using audio and video in HTML</a></li><li><a href=\"/en-US/docs/Web/Media/images\">Using images in HTML</a><ol><li><a href=\"/en-US/docs/Web/Media/images\">Using images in HTML</a></li><li><a href=\"/en-US/docs/Web/Media/images/aspect_ratio_mapping\">Mapping the width and height attributes of media container elements to their aspect-ratio</a></li></ol></li></ol>\n","body":[{"type":"prose","value":{"id":null,"title":null,"isH3":false,"content":"<p>\n  The format of audio and video media files is defined in two parts (three if a file has both audio and video in it, of course): the audio and/or video codecs used and the media container format (or file type) used.\n  In this guide, we'll look at the container formats used most commonly on the web, covering basics about their specifications as well as their benefits, limitations, and ideal use cases.\n</p>\n<p>\n  <a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC</a> does not use a container at all.\n  Instead, it streams the encoded audio and video tracks directly from one peer to another using <a href=\"/en-US/docs/Web/API/MediaStreamTrack\"><code>MediaStreamTrack</code></a> objects to represent each track.\n  See <a href=\"/en-US/docs/Web/Media/Formats/WebRTC_codecs\">Codecs used by WebRTC</a> for information about codecs commonly used for making WebRTC calls, as well as browser compatibility information around codec support in WebRTC.\n</p>"}},{"type":"prose","value":{"id":"common_container_formats","title":"Common container formats","isH3":false,"content":"<p>\n  While there are a vast number of media container formats, the ones listed below are the ones you are most likely to encounter.\n  Some support only audio while others support both audio and video.\n  The MIME types and extensions for each are listed. The most commonly used containers for media on the web are probably MPEG-4 (MP4), QuickTime Movie (MOV), and the Wavefile Audio File Format (WAV).\n  However, you may also encounter MP3, Ogg, WebM, AVI, and other formats.\n  Not all of these are broadly supported by browsers, however; some combinations of container and codec are sometimes given their own file extensions and MIME types as a matter of convenience, or because of their ubiquity.\n  For example, an Ogg file with only an Opus audio track is sometimes referred to as an Opus file, and might even have the extension <code>.opus</code>.\n  But it's still actually just an Ogg file.\n</p>\n<p>\n  In other cases, a particular codec, stored in a certain container type, is so ubiquitous that the pairing is treated in a unique fashion.\n  A good example of this is the MP3 audio file, which is in fact an MPEG-1 container with a single audio track encoded using MPEG-1 Audio Layer III encoding.\n  These files use the <code>audio/mp3</code> MIME type and the <code>.mp3</code> extension, even though their containers are just MPEG.\n</p>"}},{"type":"prose","value":{"id":"index_of_media_container_formats_file_types","title":"Index of media container formats (file types)","isH3":true,"content":"<p>To learn more about a specific container format, find it in this list and click through to the details, which include information about what the container is typically useful for, what codecs it supports, and which browsers support it, among other specifics.</p>\n<table class=\"standard-table\">\n  <thead>\n    <tr>\n      <th scope=\"row\">Codec name (short)</th>\n      <th scope=\"col\">Full codec name</th>\n      <th scope=\"col\">Browser compatibility</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\"><a href=\"#3gp\">3GP</a></th>\n      <td>Third Generation Partnership</td>\n      <td>Firefox for Android</td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#adts\">ADTS</a></th>\n      <td>Audio Data Transport Stream</td>\n      <td>\n        <p>Firefox</p>\n        <p>Available only if available on the underlying operating system's media framework.</p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#flac\">FLAC</a></th>\n      <td>Free Lossless Audio Codec</td>\n      <td>Chrome 56, Edge 16, Firefox 51, Safari 11</td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#mpegmpeg-2\">MPEG / MPEG-2</a></th>\n      <td>Moving Picture Experts Group (1 and 2)</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#mpeg-4_mp4\">MPEG-4 (MP4)</a></th>\n      <td>Moving Picture Experts Group 4</td>\n      <td>Chrome 3, Edge 12, Firefox, Internet Explorer 9, Opera 24, Safari 3.1</td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#ogg\">Ogg</a></th>\n      <td>Ogg</td>\n      <td>\n        <p>Chrome 3, Firefox 3.5, Edge 17 (desktop only), Internet Explorer 9, Opera 10.50</p>\n        <p>Edge requires <a href=\"https://www.microsoft.com/store/productId/9N5TDP8VCMHS\" class=\"external\" rel=\" noopener\">Web Media Extensions</a> to be installed.</p>\n      </td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#quicktime\">QuickTime (MOV)</a></th>\n      <td>Apple QuickTime movie</td>\n      <td>Only older versions of Safari, plus other browsers that supported Apple's QuickTime plugin</td>\n    </tr>\n    <tr>\n      <th scope=\"row\"><a href=\"#webm\">WebM</a></th>\n      <td>Web Media</td>\n      <td>\n        <p>Chrome 6, Edge 17 (desktop only), Firefox 4, Opera 10.6, Safari 14.1 (macOS), Safari 15 (iOS).</p>\n        <p>Edge requires <a href=\"https://www.microsoft.com/store/productId/9N5TDP8VCMHS\" class=\"external\" rel=\" noopener\">Web Media Extensions</a> to be installed.</p>\n      </td>\n    </tr>\n  </tbody>\n</table>\n<p>\n  Unless otherwise specified, both mobile and desktop browser compatibility is implied if a browser is listed here.\n  Support is also implied only for the container itself, not for any specific codecs.\n</p>"}},{"type":"prose","value":{"id":"3gp","title":"3GP","isH3":true,"content":"<p>\n  The <strong>3GP</strong> or <strong>3GPP</strong> media container is used to encapsulate audio and/or video that is specifically intended for transmission over cellular networks for consumption on mobile devices.\n  The format was designed for use on 3G mobile phones, but can still be used on more modern phones and networks.\n  However, the improved bandwidth availability and increased data caps on most networks has reduced the need for the 3GP format.\n  However, this format is still used for slower networks and for lower-performance phones.\n</p>\n<p>This media container format is derived from the ISO Base Media File Format and MPEG-4, but is specifically streamlined for lower bandwidth scenarios.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/3gpp</code></td>\n      <td><code>video/3gpp</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/3gpp2</code></td>\n      <td><code>video/3gpp2</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/3gp2</code></td>\n      <td><code>video/3gp2</code></td>\n    </tr>\n  </tbody>\n</table>\n<p>\n  These MIME types are the fundamental types for the 3GP media container; other types may be used depending on the specific codec or codecs in use.\n  In addition, you can <a href=\"/en-US/docs/Web/Media/Formats/codecs_parameter#iso-bmff\">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.\n</p>\n<table class=\"standard-table\">\n  <caption>Video codecs supported by 3GP</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AVC (H.264)</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">H.263</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-4 Part 2 (MP4v-es)</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP8</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Audio codecs supported by 3GP</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AMR-NB</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">AMR-WB</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">AMR-WB+</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">AAC-LC</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">HE-AAC v1</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">HE-AAC v2</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MP3</th>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"adts","title":"ADTS","isH3":true,"content":"<p>\n  <strong>Audio Data Transport Stream</strong> (<strong>ADTS</strong>) is a container format specified by MPEG-4 Part 3 for audio data, intended to be used for streamed audio, such as for Internet radio.\n  It is, essentially, an almost bare stream of AAC audio data, comprised of ADTS frames with a minimal header.\n</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/aac</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/mpeg</code></td>\n    </tr>\n  </tbody>\n</table>\n<p>\n  The MIME type used for ADTS depends on what kind of audio frames are contained within.\n  If ADTS frames are used, the <code>audio/aac</code> MIME type should be used.\n  If the audio frames are in MPEG-1/MPEG-2 Audio Layer I, II, or III format, the MIME type should be <code>audio/mpeg</code>.\n</p>\n<table class=\"standard-table\">\n  <caption>Audio codecs supported by ADTS</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AAC</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MP3</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<p>Firefox support for AAC relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>"}},{"type":"prose","value":{"id":"flac","title":"FLAC","isH3":true,"content":"<p>\n  The <strong>Free Lossless Audio Codec</strong> (<strong>FLAC</strong>) is a lossless audio codec; there is also an associated simple container format, also called FLAC, that can contain this audio.\n  The format is not encumbered by any patents, so its use is safe from interference.\n  FLAC files can only contain FLAC audio data.\n</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/flac</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/x-flac</code> (non-standard)</td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Audio codecs supported by FLAC</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">FLAC</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"mpegmpeg-2","title":"MPEG/MPEG-2","isH3":true,"content":"<p>\n  The <strong><a href=\"https://en.wikipedia.org/wiki/MPEG-1\" class=\"external\" rel=\" noopener\">MPEG-1</a></strong> and <strong><a href=\"https://en.wikipedia.org/wiki/MPEG-2\" class=\"external\" rel=\" noopener\">MPEG-2</a></strong> file formats are essentially identical.\n  Created by the Moving Picture Experts Group (MPEG), these formats are widely used in physical media, including as the format of the video on DVD media.\n</p>\n<p>\n  On the internet, perhaps the most common use of the MPEG file format is to contain <a href=\"https://en.wikipedia.org/wiki/MPEG-1\" class=\"external\" rel=\" noopener\">Layer_III/MP3</a> sound data; the resulting files are the wildly popular MP3 file used by digital music devices around the world.\n  Otherwise, MPEG-1 and MPEG-2 are not widely used in Web content.\n</p>\n<p>\n  The main differences between MPEG-1 and MPEG-2 take place in the media data formats rather than the container format.\n  MPEG-1 was introduced in 1992; MPEG-2 was introduced in 1996.\n</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/mpeg</code></td>\n      <td><code>video/mpeg</code></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Video codecs supported by MPEG-1 and MPEG-2</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">MPEG-1 Part 2</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-2 Part 2</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Audio codecs supported by MPEG-1 and MPEG-2</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer I</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer II</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer III (MP3)</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"mpeg-4_mp4","title":"MPEG-4 (MP4)","isH3":true,"content":"<p>\n  <strong><a href=\"https://en.wikipedia.org/wiki/MPEG-4\" class=\"external\" rel=\" noopener\">MPEG-4</a></strong> (<strong>MP4</strong>) is the latest version of the MPEG file format.\n  There are two versions of the format, defined in parts 1 and 14 of the specification.\n  MP4 is a popular container today, as it supports several of the most-used codecs and is broadly supported.\n</p>\n<p>\n  The original MPEG-4 Part 1 file format was introduced in 1999; the version 2 format, defined in Part 14, was added in 2003.\n  The MP4 file format is derived from the <a href=\"https://en.wikipedia.org/wiki/ISO_base_media_file_format\" class=\"external\" rel=\" noopener\">ISO base media file format</a>, which is directly derived from the <a href=\"https://en.wikipedia.org/wiki/QuickTime_File_Format\" class=\"external\" rel=\" noopener\">QuickTime file format</a> developed by <a href=\"https://www.apple.com/\" class=\"external\" rel=\" noopener\">Apple</a>.\n</p>\n<p>When specifying the MPEG-4 media type (<code>audio/mp4</code> or <code>video/mp4</code>), you can <a href=\"/en-US/docs/Web/Media/Formats/codecs_parameter#iso-bmff\">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/mp4</code></td>\n      <td><code>video/mp4</code></td>\n    </tr>\n  </tbody>\n</table>\n<p>\n  These MIME types are the fundamental types for the MPEG-4 media container; other MIME types may be used depending on the specific codec or codecs in use within the container.\n  In addition, you can <a href=\"/en-US/docs/Web/Media/Formats/codecs_parameter#iso-bmff\">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.\n</p>\n<table class=\"standard-table\">\n  <caption>Video codecs supported by MPEG-4</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AVC (H.264)</th>\n      <td></td>\n      <td></td>\n      <td>\n        <p>Yes</p>\n        <p>\n          Firefox support for H.264 relies upon the operating system's media\n          infrastructure, so it is available as long as the OS supports it.\n        </p>\n      </td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">AV1</th>\n      <td></td>\n      <td></td>\n      <td>\n        <p>Yes</p>\n        <p>Firefox support for AV1 is disabled on Android (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1672276\" class=\"external\" rel=\" noopener\">bug&nbsp;1672276</a>) and on Windows on ARM (enable by setting the preference <code>media.av1.enabled</code> to <code>true</code>).</p>\n      </td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">H.263</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-4 Part 2 Visual</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP9</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Audio codecs supported by MPEG-4</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AAC</th>\n      <td></td>\n      <td></td>\n      <td>\n        <p>Yes</p>\n        <p>Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.</p>\n      </td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">FLAC</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer III (MP3)</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Opus</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"ogg","title":"Ogg","isH3":true,"content":"<p>\n  The <a href=\"https://en.wikipedia.org/wiki/Ogg\" class=\"external\" rel=\" noopener\">Ogg</a> container format is a free and open format maintained by the <a href=\"https://www.xiph.org/\" class=\"external\" rel=\" noopener\">Xiph.org Foundation</a>.\n  The Ogg framework also defines patent unencumbered media data formats, such as the Theora video codec and the Vorbis and Opus audio codecs.\n  <a href=\"https://xiph.org/ogg/\" class=\"external\" rel=\" noopener\">Xiph.org documents about the Ogg format</a> are available on their web site.\n</p>\n<p>\n  While Ogg has been around for a long time, it has never gained the wide support needed to make it a good first choice for a media container.\n  You are typically better off using WebM, though there are times when Ogg is useful to offer, such as when you wish to support older versions of Firefox and Chrome which don't yet support WebM.\n  For example, Firefox 3.5 and 3.6 support Ogg, but not WebM.\n</p>\n<p>You can get more information about Ogg and its codecs in the <a href=\"https://en.flossmanuals.net/ogg-theora/_full/\" class=\"external\" rel=\" noopener\">Theora Cookbook</a>.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/ogg</code></td>\n      <td><code>video/ogg</code></td>\n    </tr>\n  </tbody>\n</table>\n<p>\n  The <code>application/ogg</code> MIME type can be used when you don't necessarily know whether the media contains audio or video.\n  If at all possible, you should use one of the specific types, but fall back to <code>application/ogg</code> if you don't know the content format or formats.\n</p>\n<p>You can also <a href=\"/en-US/docs/Web/Media/Formats/codecs_parameter#ogg\">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally further describe the track media formats.</p>\n<table class=\"standard-table\">\n  <caption>Video codecs supported by Ogg</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">Theora</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP8</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP9</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Audio codecs supported by Ogg</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">FLAC</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Opus</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Vorbis</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"quicktime","title":"QuickTime","isH3":true,"content":"<p>\n  The <strong>QuickTime</strong> file format (<strong>QTFF</strong>, <strong>QT</strong>, or <strong>MOV</strong>) was created by Apple for use by its media framework of the same name.\n  The extension for these files, <code>.mov</code>, comes from the fact that the format was initially used for movies and was usually called the \"QuickTime movie\" format.\n  While QTFF served as the basis for the MPEG-4 file format, there are differences and the two are not quite interchangeable.\n</p>\n<p>\n  QuickTime files support any sort of time-based data, including audio and video media, text tracks, and so forth.\n  QuickTime files are primarily supported by macOS, but for a number of years, QuickTime for Windows was available to access them on Windows.\n  However, QuickTime for Windows is no longer supported by Apple as of early 2016, and <em>should not be used</em>, as there are known security concerns.\n  However, Windows Media Player now has integrated support for QuickTime version 2.0 and earlier files; support for later versions of QuickTime requires third-party additions.\n</p>\n<p>\n  On Mac OS, the QuickTime framework not only supported QuickTime format movie files and codecs, but supported a vast array of popular and specialty audio and video codecs, as well as still image formats.\n  Through QuickTime, Mac applications (including web browsers, through the QuickTime plugin or direct QuickTime integration) were able to read and write audio formats including AAC, AIFF, MP3, PCM, and Qualcomm PureVoice; and video formats including AVI, DV, Pixlet, ProRes, FLAC, Cinepak, 3GP, H.261 through H.265, MJPEG, MPEG-1 and MPEG-4 Part 2, Sorenson, and many more.\n</p>\n<p>In addition, a number of third-party components are available for QuickTime, some of which add support for additional codecs.</p>\n<p>\n  Because QuickTime support is, for all intents and purposes, primarily available on Apple devices, it is no longer widely used on the internet.\n  Apple itself generally now uses MP4 for video.\n  In addition, the QuickTime framework has been deprecated on the Mac for some time, and is no longer available at all starting in macOS 10.15 Catalina.\n</p>\n<table>\n  <thead>\n    <tr>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>video/quicktime</code></td>\n    </tr>\n  </tbody>\n</table>\n<p>\n  The <code>video/quicktime</code> MIME type is the fundamental type for the QuickTime media container.\n  It's worth noting that QuickTime (the media framework on Mac operating systems) supports a wide variety of containers and codecs, so it actually supports many other MIME types.\n</p>\n<p>You can <a href=\"/en-US/docs/Web/Media/Formats/codecs_parameter#iso-bmff\">add the <code>codecs</code> parameter</a> to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.</p>\n<table class=\"standard-table\">\n  <caption>Video codecs supported by QuickTime</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AVC (H.264)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Cinepak</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Component Video</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">DV</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">H.261</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">H.263</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-2</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-4 Part 2 Visual</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Motion JPEG</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Sorenson Video 2</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Sorenson Video 3</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Audio codecs supported by QuickTime</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AAC</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">ALaw 2:1</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Apple Lossless (ALAC)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">HE-AAC</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer III (MP3)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Microsoft ADPCM</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">µ-Law 2:1 (u-Law)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"wave_wav","title":"WAVE (WAV)","isH3":true,"content":"<p>The <strong>Waveform Audio File Format</strong> (<strong>WAVE</strong>), usually referred to as WAV due to its filename extension being <code>.wav</code>, is a format developed by Microsoft and IBM to store audio bitstream data.</p>\n<p>\n  It is derived from the Resource Interchange File Format (RIFF), and as such is similar to other formats such as Apple's AIFF.\n  The WAV codec registry can be found at <a href=\"https://datatracker.ietf.org/doc/html/rfc2361\" class=\"external\" rel=\" noopener\">RFC 2361</a>; however, because nearly all WAV files use linear PCM, support for the other codecs is sparse.\n</p>\n<p>The WAVE format was first released in 1991.</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/wave</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/wav</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/x-wav</code></td>\n    </tr>\n    <tr>\n      <td><code>audio/x-pn-wav</code></td>\n    </tr>\n  </tbody>\n</table>\n<p>The <code>audio/wave</code> MIME type is the standard type, and is preferred; however, the others have been used by various products over the years and may be used as well in some environments.</p>\n<table class=\"standard-table\">\n  <caption>Audio codecs supported by WAVE</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">ADPCM (Adaptive Differential Pulse Code Modulation)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">GSM 06.10</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">LPCM (Linear Pulse Code Modulation)</th>\n      <td></td>\n      <td></td>\n      <td>Yes</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">MPEG-1 Audio Layer III (MP3)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n    <tr>\n      <th scope=\"row\">µ-Law (u-Law)</th>\n      <td></td>\n      <td></td>\n      <td>No</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"webm","title":"WebM","isH3":true,"content":"<p>\n  <strong><a href=\"https://en.wikipedia.org/wiki/WebM\" class=\"external\" rel=\" noopener\">WebM</a></strong> (<strong>Web Media</strong>) is a format based on <a href=\"https://en.wikipedia.org/wiki/Matroska\" class=\"external\" rel=\" noopener\">Matroska</a> which is designed specifically for use in modern web environments.\n  It's based entirely on free and open technologies and primarily uses codecs that are in turn free and open, although some products support other codecs in WebM containers as well.\n</p>\n<p>\n  WebM was first introduced in 2010 and is now widely supported.\n  Compliant implementations of WebM are required to support the VP8 and VP9 video codecs and the Vorbis and Opus audio codecs.\n  The WebM container format and its required codecs are all available under open licenses.\n  Any other codecs may require a license to use.\n</p>\n<table>\n  <thead>\n    <tr>\n      <th>Audio</th>\n      <th>Video</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>audio/webm</code></td>\n      <td><code>video/webm</code></td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Video codecs supported by WebM</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">AV1</th>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>\n        <p>Yes</p>\n        <p>\n          Firefox support for AV1 was added to macOS in Firefox 66; for Windows in Firefox 67; and Firefox 68 on Linux.\n          Firefox for Android does not yet support AV1; the implementation in Firefox is designed to use a secure process, which is not supported yet in Android.\n        </p>\n      </td>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP8</th>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">VP9</th>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n    </tr>\n  </tbody>\n</table>\n<table class=\"standard-table\">\n  <caption>Audio codecs supported by WebM</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Codec</th>\n      <th colspan=\"4\" scope=\"col\" style=\"text-align: center\">Browser support</th>\n    </tr>\n    <tr>\n      <th scope=\"col\">Chrome</th>\n      <th scope=\"col\">Edge</th>\n      <th scope=\"col\">Firefox</th>\n      <th scope=\"col\">Safari</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">Opus</th>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Vorbis</th>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"choosing_the_right_container","title":"Choosing the right container","isH3":false,"content":"<p>\n  There are a few factors to consider when selecting the best container or containers to use for your media.\n  The relative importance of each will depend on your needs, your license requirements, and the compatibility requirements of your target audience.\n</p>"}},{"type":"prose","value":{"id":"guidelines","title":"Guidelines","isH3":true,"content":"<p>\n  The best choice also depends on what you'll be doing with the media.\n  Playing back media is a different thing than recording and/or editing it.\n  If you're going to be manipulating the media data, using an uncompressed format can improve performance, while using a lossless compressed format at least prevents the accumulation of noise as compression artifacts are multiplied with each re-compression that occurs.\n</p>\n<ul>\n  <li>If your target audience is likely to include users on mobile, especially on lower-end devices or on slow networks, consider providing a version of your media in a 3GP container with appropriate compression.</li>\n  <li>If you have any specific encoding requirements, make sure the container you choose supports the appropriate codecs.</li>\n  <li>If you want your media to be in a non-proprietary, open format, consider using one of the open container formats such as FLAC (for audio) or WebM (for video).</li>\n  <li>If for any reason you are only able to provide media in a single format, choose a format that's available on the broadest selection of devices and browsers, such as MP3 (for audio) or MP4 (for video and/or audio).</li>\n  <li>\n    If your media is audio-only, choosing an audio-only container format likely makes sense.\n    Now that the patents have all expired, MP3 is a widely supported and good choice.\n    WAVE is good but uncompressed, so be aware of that before using it for large audio samples.\n    FLAC is a very good choice, due to its lossless compression, if the target browsers all support it.\n  </li>\n</ul>\n<p>\n  Unfortunately, neither of the relatively major lossless compression formats (FLAC and ALAC) are universally supported.\n  FLAC is the more broadly supported of the two, but is not supported by macOS without additional software installed, and is not supported at all on iOS.\n  If you need to offer lossless audio, you may need to provide both FLAC and ALAC to get close to universal compatibility.\n</p>"}},{"type":"prose","value":{"id":"container_selection_advice","title":"Container selection advice","isH3":true,"content":"<p>\n  The tables below offer suggested containers to use in various scenarios.\n  These are just suggestions.\n  Be sure to consider the needs of your application and your organization before selecting a container format.\n</p>\n<h4 id=\"audio-only_files\">Audio-only files</h4>\n<table>\n  <thead>\n    <tr>\n      <th>If you need…</th>\n      <th>Consider using this container format</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Compressed files for general-purpose playback</td>\n      <td>MP3 (MPEG-1 Audio Layer III)</td>\n    </tr>\n    <tr>\n      <td>Losslessly compressed files</td>\n      <td>FLAC with ALAC fallback</td>\n    </tr>\n    <tr>\n      <td>Uncompressed files</td>\n      <td>WAV</td>\n    </tr>\n  </tbody>\n</table>\n<p>\n  Now that MP3's patents have all expired, the choice of audio file format has become much easier to make.\n  It's no longer necessary to choose between MP3's broad compatibility and the need to pay royalties when using it.\n</p>\n<h4 id=\"video_files\">Video files</h4>\n<table>\n  <thead>\n    <tr>\n      <th>If you need…</th>\n      <th>Consider using this container format</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>General purpose video, preferably in an open format</td>\n      <td>WebM (ideally with MP4 fallback)</td>\n    </tr>\n    <tr>\n      <td>General purpose video</td>\n      <td>MP4 (ideally with WebM or Ogg fallback)</td>\n    </tr>\n    <tr>\n      <td>High compression optimized for slow connections</td>\n      <td>3GP (ideally with MP4 fallback)</td>\n    </tr>\n    <tr>\n      <td>Compatibility with older devices/browsers</td>\n      <td>QuickTime (ideally with AVI and/or MPEG-2 fallback)</td>\n    </tr>\n  </tbody>\n</table>\n<p>\n  These suggestions make a number of assumptions.\n  You should carefully consider the options before making a final decision, especially if you have a lot of media that will need to be encoded.\n</p>"}},{"type":"prose","value":{"id":"maximizing_compatibility_with_multiple_containers","title":"Maximizing compatibility with multiple containers","isH3":false,"content":"<p>\n  To optimize compatibility, it's worth considering providing more than one version of media files, using the <a href=\"/en-US/docs/Web/HTML/Element/source\"><code>&lt;source&gt;</code></a> element to specify each source within the <a href=\"/en-US/docs/Web/HTML/Element/audio\"><code>&lt;audio&gt;</code></a> or <a href=\"/en-US/docs/Web/HTML/Element/video\"><code>&lt;video&gt;</code></a> element.\n  For example, you can offer an Ogg or WebM video as the first choice, with a fallback in MP4 format.\n  You could even choose to offer a retro-like QuickTime or AVI fallback for good measure.\n</p>\n<p>\n  To do this, you create a <code>&lt;video&gt;</code> (or <code>&lt;audio&gt;</code>) element with no <a href=\"/en-US/docs/Web/HTML/Element/video#attr-src\"><code>src</code></a> attribute.\n  Then add child <a href=\"/en-US/docs/Web/HTML/Element/source\"><code>&lt;source&gt;</code></a> elements within the <code>&lt;video&gt;</code> element, one for each version of the video you offer.\n  This can be used to offer various versions of a video that can be selected depending on bandwidth availability, but in our case, we'll use it to offer format options.\n</p>\n<p>In the example shown here, a video is offered to the browser in two formats: WebM and MP4.</p><iframe class=\"interactive\" height=\"445\" src=\"https://interactive-examples.mdn.mozilla.net/pages/tabbed/source.html\" title=\"MDN Web Docs Interactive Example\" loading=\"lazy\"></iframe>\n<p>\n  The video is offered first in WebM format (with the <a href=\"/en-US/docs/Web/HTML/Element/video#attr-type\"><code>type</code></a> attribute set to <code>video/webm</code>).\n  If the <a href=\"/en-US/docs/Glossary/User_agent\">user agent</a> can't play that, it moves on to the next option, whose <code>type</code> is specified as <code>video/mp4</code>.\n  If neither of those can be played, the text \"This browser does not support the HTML video element.\" is presented.\n</p>"}},{"type":"prose","value":{"id":"specifications","title":"Specifications","isH3":false,"content":"<table>\n  <thead>\n    <tr>\n      <th>Specification</th>\n      <th>Comment</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><a href=\"https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=1441\" class=\"external\" rel=\" noopener\">ETSI 3GPP</a></td>\n      <td>Defines the 3GP container format</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://www.iso.org/standard/53943.html\" class=\"external\" rel=\" noopener\">ISO/IEC 14496-3</a> (MPEG-4 Part 3 Audio)</td>\n      <td>Defines MP4 audio including ADTS</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://xiph.org/flac/format.html\" class=\"external\" rel=\" noopener\">FLAC Format</a></td>\n      <td>The FLAC format specification</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://www.iso.org/standard/19180.html\" class=\"external\" rel=\" noopener\">ISO/IEC 11172-1</a> (MPEG-1 Part 1 Systems)</td>\n      <td>Defines the MPEG-1 container format</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://www.iso.org/standard/74427.html\" class=\"external\" rel=\" noopener\">ISO/IEC 13818-1</a> (MPEG-2 Part 1 Systems)</td>\n      <td>Defines the MPEG-2 container format</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://www.iso.org/standard/75929.html\" class=\"external\" rel=\" noopener\">ISO/IEC 14496-14</a> (MPEG-4 Part 14: MP4 file format)</td>\n      <td>Defines the MPEG-4 (MP4) version 2 container format</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://www.iso.org/standard/55688.html\" class=\"external\" rel=\" noopener\">ISO/IEC 14496-1</a> (MPEG-4 Part 1 Systems)</td>\n      <td>Defines the original MPEG-4 (MP4) container format</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://datatracker.ietf.org/doc/html/rfc3533\" class=\"external\" rel=\" noopener\">RFC 3533</a></td>\n      <td>Defines the Ogg container format</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://datatracker.ietf.org/doc/html/rfc5334\" class=\"external\" rel=\" noopener\">RFC 5334</a></td>\n      <td>Defines the Ogg media types and file extensions</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html\" class=\"external\" rel=\" noopener\">QuickTime File Format Specification</a></td>\n      <td>Defines the QuickTime movie (MOV) format</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://web.archive.org/web/20090417165828/http://www.kk.iij4u.or.jp/~kondo/wave/mpidata.txt\" class=\"external\" rel=\" noopener\">Multimedia Programming Interface and Data Specifications 1.0</a></td>\n      <td>The closest thing to an official WAVE specification</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://docs.microsoft.com/windows/win32/xaudio2/resource-interchange-file-format--riff-\" class=\"external\" rel=\" noopener\">Resource Interchange File Format</a> (used by WAV)</td>\n      <td>Defines the RIFF format; WAVE files are a form of RIFF</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://www.webmproject.org/docs/container/\" class=\"external\" rel=\" noopener\">WebM Container Guidelines</a></td>\n      <td>Guide for adapting Matroska for WebM</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://matroska.org/index.html\" class=\"external\" rel=\" noopener\">Matroska Specifications</a></td>\n      <td>The specification for the Matroska container format upon which WebM is based</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://w3c.github.io/media-source/webm-byte-stream-format.html\" class=\"external\" rel=\" noopener\">WebM Byte Stream Format</a></td>\n      <td>WebM byte stream format for use with <a href=\"/en-US/docs/Web/API/Media_Source_Extensions_API\">Media Source Extensions</a></td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"browser_compatibility","title":"Browser compatibility","isH3":false,"content":"<table class=\"standard-table\">\n  <thead>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: bottom\">Container format name</th>\n      <th colspan=\"3\" scope=\"col\" style=\"text-align: center; border-right: 2px solid #d4dde4\">Audio</th>\n      <th colspan=\"3\" scope=\"col\" style=\"text-align: center\">Video</th>\n    </tr>\n    <tr>\n      <th scope=\"col\" style=\"vertical-align: bottom\">MIME type</th>\n      <th scope=\"col\" style=\"vertical-align: bottom\">Extension(s)</th>\n      <th scope=\"col\" style=\"vertical-align: bottom; border-right: 2px solid #d4dde4\">Browser support</th>\n      <th scope=\"col\" style=\"vertical-align: bottom\">MIME type</th>\n      <th scope=\"col\" style=\"vertical-align: bottom\">Extension(s)</th>\n      <th scope=\"col\" style=\"vertical-align: bottom; border-right: 2px solid #d4dde4\">Browser support</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: bottom\">3GP</th>\n      <td style=\"vertical-align: top\"><code>audio/3gpp</code></td>\n      <td style=\"vertical-align: top\"><code>.3gp</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\"><code>video/3gpp</code></td>\n      <td style=\"vertical-align: top\"><code>.3gp</code></td>\n      <td style=\"vertical-align: top\">Firefox</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">ADTS (Audio Data Transport Stream)</th>\n      <td style=\"vertical-align: top\"><code>audio/aac</code></td>\n      <td style=\"vertical-align: top\"><code>.aac</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">FLAC</th>\n      <td style=\"vertical-align: top\"><code>audio/flac</code></td>\n      <td style=\"vertical-align: top\"><code>.flac</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n    </tr>\n    <tr>\n      <th rowspan=\"2\" scope=\"row\" style=\"vertical-align: top\">MPEG-1 / MPEG-2 (MPG or MPEG)</th>\n      <td style=\"vertical-align: top\"><code>audio/mpeg</code></td>\n      <td style=\"vertical-align: top\"><code>.mpg</code><br><code>.mpeg</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td rowspan=\"2\" style=\"vertical-align: top\"><code>video/mpeg</code></td>\n      <td rowspan=\"2\" style=\"vertical-align: top\"><code>.mpg</code><br><code>.mpeg</code></td>\n      <td rowspan=\"2\" style=\"vertical-align: top\">Firefox</td>\n    </tr>\n    <tr>\n      <td style=\"vertical-align: top\"><code>audio/mp3</code></td>\n      <td style=\"vertical-align: top\"><code>.mp3</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">MPEG-4 (MP4)</th>\n      <td style=\"vertical-align: top\"><code>audio/mp4</code></td>\n      <td style=\"vertical-align: top\"><code>.mp4</code><br><code>.m4a</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\"><code>video/mp4</code></td>\n      <td style=\"vertical-align: top\"><code>.mp4</code><br><code>.m4v</code><br><code>.m4p</code></td>\n      <td style=\"vertical-align: top\">Firefox</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">Ogg</th>\n      <td style=\"vertical-align: top\"><code>audio/ogg</code></td>\n      <td style=\"vertical-align: top\"><code>.oga</code><br><code>.ogg</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\"><code>video/ogg</code></td>\n      <td style=\"vertical-align: top\"><code>.ogv</code><br><code>.ogg</code></td>\n      <td style=\"vertical-align: top\">Firefox</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">QuickTime Movie (MOV)</th>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">—</td>\n      <td style=\"vertical-align: top\"><code>video/quicktime</code></td>\n      <td style=\"vertical-align: top\"><code>.mov</code></td>\n      <td style=\"vertical-align: top\">Safari</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">WAV (Waveform Audiofile)</th>\n      <td style=\"vertical-align: top\"><code>audio/wav</code></td>\n      <td style=\"vertical-align: top\"><code>.wav</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n      <td style=\"vertical-align: top\">—</td>\n    </tr>\n    <tr>\n      <th scope=\"row\" style=\"vertical-align: top\">WebM</th>\n      <td style=\"vertical-align: top\"><code>audio/webm</code></td>\n      <td style=\"vertical-align: top\"><code>.webm</code></td>\n      <td style=\"vertical-align: top; border-right: 2px solid #d4dde4\">Firefox</td>\n      <td style=\"vertical-align: top\"><code>video/webm</code></td>\n      <td style=\"vertical-align: top\"><code>.webm</code></td>\n      <td style=\"vertical-align: top\">Firefox</td>\n    </tr>\n  </tbody>\n</table>"}},{"type":"prose","value":{"id":"see_also","title":"See also","isH3":false,"content":"<ul>\n  <li><a href=\"/en-US/docs/Web/API/WebRTC_API\">WebRTC API</a></li>\n  <li><a href=\"/en-US/docs/Web/API/MediaStream_Recording_API\">MediaStream Recording API</a></li>\n  <li><a href=\"/en-US/docs/Web/HTML/Element/audio\"><code>&lt;audio&gt;</code></a> and <a href=\"/en-US/docs/Web/HTML/Element/video\"><code>&lt;video&gt;</code></a> elements</li>\n</ul>"}}],"toc":[{"text":"Common container formats","id":"common_container_formats"},{"text":"Choosing the right container","id":"choosing_the_right_container"},{"text":"Maximizing compatibility with multiple containers","id":"maximizing_compatibility_with_multiple_containers"},{"text":"Specifications","id":"specifications"},{"text":"Browser compatibility","id":"browser_compatibility"},{"text":"See also","id":"see_also"}],"summary":"The format of audio and video media files is defined in two parts (three if a file has both audio and video in it, of course): the audio and/or video codecs used and the media container format (or file type) used.\n  In this guide, we'll look at the container formats used most commonly on the web, covering basics about their specifications as well as their benefits, limitations, and ideal use cases.","popularity":0.0037,"modified":"2022-09-09T05:38:45.000Z","other_translations":[{"title":"미디어 컨테이너 포맷 (파일 타입)","locale":"ko","native":"한국어"},{"title":"Media container formats (file types)","locale":"zh-CN","native":"中文 (简体)"},{"title":"Media container formats (file types)","locale":"zh-TW","native":"正體中文 (繁體)"}],"source":{"folder":"en-us/web/media/formats/containers","github_url":"https://github.com/mdn/content/blob/style/old/files/en-us/web/media/formats/containers/index.md","last_commit_url":"https://github.com/mdn/content/commit/f22e42182591e38590c9add80de91a51bce3cde2","filename":"index.md"},"parents":[{"uri":"/en-US/docs/Web","title":"Web technology for developers"},{"uri":"/en-US/docs/Web/Media","title":"Web media technologies"},{"uri":"/en-US/docs/Web/Media/Formats","title":"Media type and format guide: image, audio, and video content"},{"uri":"/en-US/docs/Web/Media/Formats/Containers","title":"Media container formats (file types)"}],"pageTitle":"Media container formats (file types) - Web media technologies | MDN","noIndexing":false}}</script></body></html>

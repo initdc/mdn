@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/statements/async_function/index.html
+
+# Original Wiki contributors
+AppleAlex
+nikolai-shabalin
+parusev
+sazhnevdunice
+mmameko
+epodivilov
+rsvato
+glowlh
+torbasow
+nakhodkiin
+BondarenkoAlex
+tcheburator
+curdwithraisins

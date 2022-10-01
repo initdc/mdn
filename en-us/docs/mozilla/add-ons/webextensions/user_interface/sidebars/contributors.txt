@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/user_interface/sidebars/index.md
+
+# Original Wiki contributors
+RicardsVeveris
+potterwrit
+irenesmith
+rugk
+rebloor
+maxnikulin
+andrewtruongmoz
+ericjung
+hellosct1
+wbamberg

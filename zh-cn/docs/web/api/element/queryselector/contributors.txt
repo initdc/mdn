@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/queryselector/index.md
+
+# Original Wiki contributors
+zhuangyin
+gnepnaiL-oahZ
+shanqiaosong
+nicole-li
+_sollrei
+xgqfrms-GitHub
+KngZhi
+ziyunfei
+teoli
+cuixiping
+AlexChao

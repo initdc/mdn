@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/navigator/vendor/index.md
+
+# Original Wiki contributors
+teoli
+mimzi_fahia
+ziyunfei

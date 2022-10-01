@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/basics_of_http/data_urls/index.md
+
+# Original Wiki contributors
+leegent
+2585479524
+BobGreen
+bramblex
+tlos142857
+Ende93
+xgqfrms-GitHub
+little-tomorrow
+ziyunfei

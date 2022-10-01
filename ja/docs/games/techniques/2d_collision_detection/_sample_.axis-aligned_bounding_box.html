@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>二次元の衝突検出 - axis-aligned_bounding_box - code sample</title>
+    </head>
+    <body>
+        
+            <div id="cr-stage"></div>
+<p>矢印キーで矩形を移動してください。緑は衝突、青は衝突なしを意味します。</p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crafty/0.5.4/crafty-min.js"></script>
+
+        
+        
+            <script>
+                Crafty.init(200, 200);
+
+const dim1 = {x: 5, y: 5, w: 50, h: 50}
+const dim2 = {x: 20, y: 10, w: 60, h: 40}
+
+const rect1 = Crafty.e("2D, Canvas, Color").attr(dim1).color("red");
+
+const rect2 = Crafty.e("2D, Canvas, Color, Keyboard, Fourway").fourway(2).attr(dim2).color("blue");
+
+rect2.bind("EnterFrame", function () {
+    if (rect1.x < rect2.x + rect2.w &&
+        rect1.x + rect1.w > rect2.x &&
+        rect1.y < rect2.y + rect2.h &&
+        rect1.h + rect1.y > rect2.y) {
+        // collision detected!
+        this.color("green");
+    } else {
+        // no collision
+        this.color("blue");
+    }
+});
+
+            </script>
+        
+    </body>
+</html>

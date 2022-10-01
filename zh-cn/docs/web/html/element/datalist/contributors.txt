@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/datalist/index.md
+
+# Original Wiki contributors
+gafish
+zhangchen
+mfranzke
+wbamberg
+Jianming
+SphinxKnight
+koaqiu
+JulieLee77
+ziyunfei

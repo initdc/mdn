@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/games/tutorials/2d_breakout_game_phaser/index.md
+
+# Original Wiki contributors
+escattone
+msobanjo
+MPDSilva
+smoothie1998
+wbamberg
+chrisdavidmills
+end3r
+Jeremie

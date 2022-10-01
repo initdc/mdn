@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/setattribute/index.md
+
+# Original Wiki contributors
+KingAdiao
+Fancyflame
+RainSlide
+RoXoM
+xgqfrms-GitHub
+teoli
+AlexChao

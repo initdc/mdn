@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/tutorials/index.md
+
+# Original Wiki contributors
+GKilyar
+StorytellerF
+yzweb2018
+shengoo
+yangzi
+wumouse
+185-5162-9169
+Ende93
+SamuraiMe
+cehnjing
+shengyouxiao
+ziyunfei

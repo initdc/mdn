@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/http/overview/index.html
+
+# Original Wiki contributors
+sapsan7630
+bershanskiy
+javid-aliyev
+donchak1610
+demoredeyes
+Dyenex
+Mikhail_Kozachkov
+red100k
+registoo
+Mikhail42
+rustavellyne
+kshiukaev
+izhurav
+v-zubritsky
+campside
+uleming
+ENBelko
+SnejUgal

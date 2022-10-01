@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/response/index.html
+
+# Original Wiki contributors
+chux
+kant
+ignatius73
+crrlos

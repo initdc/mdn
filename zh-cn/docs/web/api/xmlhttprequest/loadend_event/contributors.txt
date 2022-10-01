@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/xmlhttprequest/loadend_event/index.md
+
+# Original Wiki contributors
+fscholz
+wudexiang
+xgqfrms-GitHub

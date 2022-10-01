@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>为“弹球”示例添加新功能 - 项目简介 - code sample</title>
+    </head>
+    <body>
+        
+            <!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <title>弹球</title>
+    <style>
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: 'PingFangSC-Regular', '微软雅黑', sans-serif;
+    height: 100%;
+}
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: -1px;
+    position: absolute;
+    margin: 0;
+    top: -4px;
+    right: 5px;
+
+    color: transparent;
+    text-shadow: 0 0 4px white;
+  }
+
+p {
+    position: absolute;
+    margin: 0;
+    top: 35px;
+    right: 5px;
+    color: #aaa;
+}    </style>
+  </head>
+
+  <body>
+    <h1>弹球</h1>
+    <p></p>
+    <canvas></canvas>
+
+    <script>
+const BALLS_COUNT = 25;
+const BALL_SIZE_MIN = 10;
+const BALL_SIZE_MAX = 20;
+const BALL_SPEED_MAX = 7;
+
+class Shape {
+    constructor(x, y, velX, velY, exists) {
+        this.x = x;
+        this.y = y;
+        this.velX = velX;
+        this.velY = velY;
+        this.exists = exists;
+    }
+}
+
+class Ball extends Shape {
+    constructor(x, y, velX, velY, color, size, exists) {
+        super(x, y, velX, velY, exists);
+
+        this.color = color;
+        this.size = size;
+    }
+
+    draw() {
+        ctx.beginPath();
+        ctx.fillStyle = this.color;
+        ctx.arc(this.x, this.y, this.size, 0, 2 * Math.PI);
+        ctx.fill();
+    }
+
+    update() {
+        if ((this.x + this.size) >= width) {
+            this.velX = -(this.velX);
+        }
+
+        if ((this.x - this.size) <= 0) {
+            this.velX = -(this.velX);
+        }
+
+        if ((this.y + this.size) >= height) {
+            this.velY = -(this.velY);
+        }
+
+        if ((this.y - this.size) <= 0) {
+            this.velY = -(this.velY);
+        }
+
+        this.x += this.velX;
+        this.y += this.velY;
+    }
+
+    collisionDetect() {
+        for (let j = 0; j < balls.length; j++) {
+            if ( ! (this === balls[j]) ) {
+                const dx = this.x - balls[j].x;
+                const dy = this.y - balls[j].y;
+                const distance = Math.sqrt(dx * dx + dy * dy);
+
+                if (distance < this.size + balls[j].size && balls[j].exists) {
+                    balls[j].color = this.color = randomColor();
+                }
+            }
+        }
+    }
+}
+
+class EvilCircle extends Shape {
+    constructor(x, y, exists) {
+        super(x, y, exists);
+
+        this.velX = BALL_SPEED_MAX;
+        this.velY = BALL_SPEED_MAX;
+        this.color = "white";
+        this.size = 10;
+        this.setControls();
+    }
+
+    draw() {
+        ctx.beginPath();
+        ctx.strokeStyle = this.color;
+        ctx.lineWidth = 3;
+        ctx.arc(this.x, this.y, this.size, 0, 2 * Math.PI);
+        ctx.stroke();
+    }
+
+    checkBounds() {
+        if ((this.x + this.size) >= width) {
+            this.x -= this.size;
+        }
+
+        if ((this.x - this.size) <= 0) {
+            this.x += this.size;
+        }
+
+        if ((this.y + this.size) >= height) {
+            this.y -= this.size;
+        }
+
+        if ((this.y - this.size) <= 0) {
+            this.y += this.size;
+        }
+    }
+
+    setControls() {
+        window.onkeydown = (e) => {
+            switch(e.key) {
+                case 'a':
+                case 'A':
+                case 'ArrowLeft':
+                    this.x -= this.velX;
+                    break;
+                case 'd':
+                case 'D':
+                case 'ArrowRight':
+                    this.x += this.velX;
+                    break;
+                case 'w':
+                case 'W':
+                case 'ArrowUp':
+                    this.y -= this.velY;
+                    break;
+                case 's':
+                case 'S':
+                case 'ArrowDown':
+                    this.y += this.velY;
+                    break;
+            }
+        };
+    }
+
+    collisionDetect() {
+        for (let j = 0; j < balls.length; j++) {
+            if (balls[j].exists) {
+                const dx = this.x - balls[j].x;
+                const dy = this.y - balls[j].y;
+                const distance = Math.sqrt(dx * dx + dy * dy);
+
+                if (distance < this.size + balls[j].size) {
+                    balls[j].exists = false;
+                    count--;
+                    para.textContent = '还剩 ' + count + ' 个球';
+                }
+            }
+        }
+    }
+}
+
+const para = document.querySelector('p');
+const canvas = document.querySelector('canvas');
+const ctx = canvas.getContext('2d');
+
+const width = canvas.width = window.innerWidth;
+const height = canvas.height = window.innerHeight;
+
+const balls = [];
+let count = 0;
+
+const evilBall = new EvilCircle(
+    random(0, width),
+    random(0, height),
+    true
+);
+
+loop();
+
+function random(min,max) {
+    return Math.floor(Math.random()*(max-min)) + min;
+}
+
+function randomColor() {
+    return 'rgb(' +
+           random(0, 255) + ', ' +
+           random(0, 255) + ', ' +
+           random(0, 255) + ')';
+}
+
+function loop() {
+    ctx.fillStyle = 'rgba(0, 0, 0, 0.25)';
+    ctx.fillRect(0, 0, width, height);
+
+    while (balls.length < BALLS_COUNT) {
+        const size = random(BALL_SIZE_MIN, BALL_SIZE_MAX);
+        const ball = new Ball(
+            random(0 + size, width - size),
+            random(0 + size, height - size),
+            random(-BALL_SPEED_MAX, BALL_SPEED_MAX),
+            random(-BALL_SPEED_MAX, BALL_SPEED_MAX),
+            randomColor(),
+            size,
+            true
+        );
+        balls.push(ball);
+        count++;
+        para.textContent = '还剩 ' + count + ' 个球';
+    }
+
+    for (let i = 0; i < balls.length; i++) {
+        if (balls[i].exists) {
+            balls[i].draw();
+            balls[i].update();
+            balls[i].collisionDetect();
+        }
+    }
+
+    evilBall.draw();
+    evilBall.checkBounds();
+    evilBall.collisionDetect();
+
+    requestAnimationFrame(loop);
+}
+    </script>
+  </body>
+</html>
+
+        
+        
+    </body>
+</html>

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/border-radius/index.md
+
+# Original Wiki contributors
+tjbulick
+AliaksandrZahorski
+BychekRU
+oxmap
+Roman-Kosov
+Sajag
+Sebastianz

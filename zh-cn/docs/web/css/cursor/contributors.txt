@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/cursor/index.md
+
+# Original Wiki contributors
+淡空醉花
+wallena3
+Mookiepiece
+wbamberg
+fsx950223
+BillgoXu
+lizhonggang
+xgqfrms-GitHub
+cuilongjin
+mrstork
+Sebastianz
+fskuok
+teoli

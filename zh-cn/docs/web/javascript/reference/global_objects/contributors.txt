@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/index.md
+
+# Original Wiki contributors
+Neo42
+Ende93
+laampui
+wallena3
+RainSlide
+Frederick-S
+SageX
+liushengxin
+Terry.Qiao
+xgqfrms-GitHub
+ZQH
+zhangchen
+mwc
+Jiang-Xuan
+SamuraiMe
+highkay
+lunix01
+JoshuaGhost
+ziyunfei
+SphinxKnight
+yiding_he
+Fantasy_shao
+AlexChao
+teoli
+OoOoOoOo

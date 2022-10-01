@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/svg/element/a/index.html
+
+# Original Wiki contributors
+ekirpichyov
+boxa6
+bogdancdc
+Sebastianz
+AlexeyFedotof
+Eugene_Ishchenko

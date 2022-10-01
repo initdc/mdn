@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/conflicting/web/javascript/javascript_technologies_overview_0191f05ec18a4ee4d771b548feb0701d/index.md
+
+# Original Wiki contributors
+mfuji09
+ethertank
+ziyunfei
+shirayuki
+Potappo
+Mgjbot
+Taken
+electrolysis

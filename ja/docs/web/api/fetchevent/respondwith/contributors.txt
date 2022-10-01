@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/fetchevent/respondwith/index.md
+
+# Original Wiki contributors
+Wind1808
+shimazu
+Uemmra3
+chikoski
+YuichiNukiyama

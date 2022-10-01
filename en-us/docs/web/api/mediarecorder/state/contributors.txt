@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mediarecorder/state/index.md
+
+# Original Wiki contributors
+sideshowbarker
+lucian95
+qw3n
+Sheppy
+jpmedley
+Sebastianz
+chrisdavidmills
+teoli

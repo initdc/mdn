@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/client-side_web_apis/drawing_graphics/index.md
+
+# Original Wiki contributors
+MiRinZhang
+xuquentinyang
+ChongyouXu
+chrisdavidmills
+Roy-Tian
+YeeMarco
+kensz66
+Bayes
+Ray-Eldath

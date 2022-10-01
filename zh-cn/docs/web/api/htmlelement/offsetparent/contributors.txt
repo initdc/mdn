@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/htmlelement/offsetparent/index.md
+
+# Original Wiki contributors
+hehos
+SunGuoQiang123
+NvanYu
+likwotsing
+SphinxKnight
+winson
+uinging
+nuxio
+teoli
+AlexChao

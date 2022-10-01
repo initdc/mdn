@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/html/index.md
+
+# Original Wiki contributors
+SphinxKnight
+arslan6226262
+kss555
+JCodeg
+Dozorengel
+aleshkanet
+slavikse
+alikkille
+NurievMikhail
+alisakova
+Filofei
+MaksimKonoz
+warsan
+SnejUgal
+L18-666B
+BychekRU
+Aleksej
+stephaniehobson
+sputnik1986
+sega84
+Sashka.makarov.86
+uleming
+Newser
+teoli
+hakster
+Norville
+Defolter
+irmatov
+Elrow

@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/building_blocks/events/index.md
+
+# Original Wiki contributors
+driftingdream
+KshZh
+Carllllo
+Isildur46
+agnoCJY
+chj
+Meteormatt
+DropDatabase
+scsc4212
+caifx
+Unissn7
+moozhu
+jiangtian
+gaopu
+zaoangod
+offcos
+RundongZou
+SummerVibes
+Ray-Eldath
+ziyunfei
+carolinezhao
+Ende93
+finegao
+Zeng
+Hayden_Zhou

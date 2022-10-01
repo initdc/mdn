@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/accessibility/index.md
+
+# Original Wiki contributors
+estelle
+Jeremie
+klez
+Andrew_Pfeiffer
+plgatto
+sueppr2
+xfq
+TWebs
+tregagnon
+ajinkya_p

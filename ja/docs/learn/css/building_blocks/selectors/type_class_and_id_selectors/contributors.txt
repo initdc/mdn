@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/css/building_blocks/selectors/type_class_and_id_selectors/index.md
+
+# Original Wiki contributors
+dlwe
+Uemmra3
+fu7mu4
+snakada

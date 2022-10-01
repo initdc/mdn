@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/forms/how_to_structure_a_web_form/index.md
+
+# Original Wiki contributors
+lucida959595
+imba-tjd
+naivexcited
+WoodCube
+Zhang-YanQi
+liy010
+web-xx
+codeofjackie
+lihaoyuan
+yawei
+zqyue
+StarryForce
+Froggy

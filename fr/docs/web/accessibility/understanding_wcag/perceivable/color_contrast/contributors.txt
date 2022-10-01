@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/accessibility/understanding_wcag/perceivable/color_contrast/index.md
+
+# Original Wiki contributors
+ewen-lbh
+Maxi_Mega

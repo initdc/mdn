@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/http/headers/accept-charset/index.md
+
+# Original Wiki contributors
+dragon38800

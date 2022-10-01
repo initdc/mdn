@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlhrelement/index.md
+
+# Original Wiki contributors
+neoncitylights
+sideshowbarker
+fscholz
+Sebastianz
+dunnbobcat
+erikadoyle
+slimsag
+teoli
+kscarfone
+ethertank
+Sheppy
+timemachine3030
+jswisher

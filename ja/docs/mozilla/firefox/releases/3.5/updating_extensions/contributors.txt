@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/firefox/releases/3.5/updating_extensions/index.md
+
+# Original Wiki contributors
+Kohei

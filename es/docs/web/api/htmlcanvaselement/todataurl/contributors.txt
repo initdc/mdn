@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/htmlcanvaselement/todataurl/index.html
+
+# Original Wiki contributors
+jagomf
+calmsz
+genuinefafa
+empirreamm

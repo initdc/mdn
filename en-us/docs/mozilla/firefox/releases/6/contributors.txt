@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/6/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+Sebastianz
+kdex
+ethertank
+Sheppy
+mnoorenberghe
+teoli
+Jürgen Jeka
+kmaglione
+Ms2ger
+myakura
+louisremi
+trevorh
+dbruant
+emk
+DirkjanOchtman
+fred.wang
+mnot
+Nickolay

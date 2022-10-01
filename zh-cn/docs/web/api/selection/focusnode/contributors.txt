@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/selection/focusnode/index.md
+
+# Original Wiki contributors
+dclovec
+teoli
+arunpandianp
+Losses

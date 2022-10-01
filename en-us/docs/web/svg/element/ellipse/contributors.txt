@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/element/ellipse/index.md
+
+# Original Wiki contributors
+alattalatta
+Jeremie
+fscholz
+chrisdavidmills
+Starbeamrainbowlabs
+abbycar
+adjusted
+Sebastianz
+trevorh
+manzyun
+kscarfone
+Manuel_Strehl
+Wjjohnst

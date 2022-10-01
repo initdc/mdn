@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/array/pop/index.md
+
+# Original Wiki contributors
+mfuji09
+mpcjazz
+isdh
+YuichiNukiyama
+mamodayo
+tatsuyaoiw
+teoli
+ethertank
+Potappo
+Mgjbot
+Yuichirou

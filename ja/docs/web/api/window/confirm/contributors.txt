@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/window/confirm/index.md
+
+# Original Wiki contributors
+pcw
+HiromuKinoshita
+woodmix
+fscholz
+khalid32
+ethertank
+Potappo

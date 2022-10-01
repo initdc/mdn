@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/manifest.json/permissions/index.md
+
+# Original Wiki contributors
+FranklinYu
+rebloor
+sazzadbinashique
+Zearin_Galaurum
+edjroot
+tim-we
+ozars
+wbamberg
+ExE-Boss
+Rob W
+hellosct1
+rugk
+ryans90
+JeremyRedhead
+andrewtruongmoz
+roryokane
+freaktechnik
+CasualLobster
+abbycar
+aswan
+Makyen
+evilpie
+kmaglione

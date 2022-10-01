@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/status/index.html
+
+# Original Wiki contributors
+SphinxKnight
+gonzalestino924
+manuelguido
+juliocesardeveloper
+ismanapa
+santiago.lator
+leticia-acib
+josecarbajalbolbot
+StarViruZ
+amircp
+SebastianBar
+serivt
+Jens.B

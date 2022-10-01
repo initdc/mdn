@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/scope/index.md
+
+# Original Wiki contributors
+Angel10050

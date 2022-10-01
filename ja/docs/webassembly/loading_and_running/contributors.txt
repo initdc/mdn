@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/webassembly/loading_and_running/index.md
+
+# Original Wiki contributors
+silverskyvicto
+ukyo

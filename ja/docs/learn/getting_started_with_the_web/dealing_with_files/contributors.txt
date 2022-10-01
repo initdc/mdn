@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/getting_started_with_the_web/dealing_with_files/index.md
+
+# Original Wiki contributors
+silverskyvicto
+Uemmra3
+talken-sakurament
+mfuji09
+T.Ukegawa

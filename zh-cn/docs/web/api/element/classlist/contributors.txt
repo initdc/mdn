@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/classlist/index.md
+
+# Original Wiki contributors
+yunxiaomeng
+mokunshao
+whwangms
+RainSlide
+zhangchen
+fanerge
+xianshenglu
+xgqfrms-GitHub
+NarK
+teoli
+AlexChao
+ziyunfei
+Wladimir_Palant

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/canvasrenderingcontext2d/arc/index.md
+
+# Original Wiki contributors
+Tigt
+mfluehr
+fscholz
+thatmichael85
+nmve
+erikadoyle
+hwiechers
+michaellaszlo

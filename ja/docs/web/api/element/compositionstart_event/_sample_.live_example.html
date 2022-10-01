@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <style type="text/css">
+            body {
+  padding: .2rem;
+  display: grid;
+  grid-template-areas: "control  log";
+}
+
+.control {
+  grid-area: control;
+}
+
+.event-log {
+  grid-area: log;
+}
+
+.event-log-contents {
+  resize: none;
+}
+
+label, button {
+  display: block;
+}
+
+input[type="text"] {
+  margin: .5rem 0;
+}
+
+kbd {
+  border-radius: 3px;
+  padding: 1px 2px 0;
+  border: 1px solid black;
+}
+
+        </style>
+        
+        <title>Element: compositionstart イベント - live_example - code sample</title>
+    </head>
+    <body>
+        
+            <div class="control">
+  <label for="name">On macOS, click in the textbox below,<br> then type <kbd>option</kbd> + <kbd>`</kbd>, then <kbd>a</kbd>:</label>
+  <input type="text" id="example" name="example">
+</div>
+
+<div class="event-log">
+  <label>Event log:</label>
+  <textarea readonly class="event-log-contents" rows="8" cols="25"></textarea>
+  <button class="clear-log">Clear</button>
+</div>
+
+        
+        
+            <script>
+                const inputElement = document.querySelector('input[type="text"]');
+const log = document.querySelector('.event-log-contents');
+const clearLog = document.querySelector('.clear-log');
+
+clearLog.addEventListener('click', () => {
+    log.textContent = '';
+});
+
+function handleEvent(event) {
+    log.textContent = log.textContent + `${event.type}: ${event.data}\n`;
+}
+
+inputElement.addEventListener('compositionstart', handleEvent);
+inputElement.addEventListener('compositionupdate', handleEvent);
+inputElement.addEventListener('compositionend', handleEvent);
+
+            </script>
+        
+    </body>
+</html>

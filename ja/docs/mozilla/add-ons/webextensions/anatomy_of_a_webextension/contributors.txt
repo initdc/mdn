@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/anatomy_of_a_webextension/index.md
+
+# Original Wiki contributors
+Uemmra3
+kenji-yamasaki
+Gomita
+KitaitiMakoto
+hashedhyphen
+forzando
+lv7777
+lina_taso

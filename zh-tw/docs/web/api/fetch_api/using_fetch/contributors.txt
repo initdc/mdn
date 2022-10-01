@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/api/fetch_api/using_fetch/index.md
+
+# Original Wiki contributors
+MollyHuang
+JamesGoler
+LeonClancy
+cakeant
+hms5232
+Tamako
+MOSapeizer

@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/conflicting/web/javascript/reference/global_objects/index.html
+
+# Original Wiki contributors
+boxa6
+teoli
+maxbarbul
+fscholz
+Correcter

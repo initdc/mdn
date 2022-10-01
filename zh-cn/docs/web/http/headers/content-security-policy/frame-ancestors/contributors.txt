@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/content-security-policy/frame-ancestors/index.md
+
+# Original Wiki contributors
+SphinxKnight
+ldwformat

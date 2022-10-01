@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/css/flex-direction/index.html
+
+# Original Wiki contributors
+Alex_Figueroa
+evaferreira
+Manuel-Kas
+joshitobuba
+fscholz
+Sebastianz
+elkinbernal

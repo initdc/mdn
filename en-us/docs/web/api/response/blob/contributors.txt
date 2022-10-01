@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/response/blob/index.md
+
+# Original Wiki contributors
+Wind1808
+ChayimFriedman2
+mfluehr
+tomayac
+fscholz
+chrisdavidmills
+ishasaran
+erikadoyle
+omriBernstein
+kscarfone

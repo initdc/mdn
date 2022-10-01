@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/string/startswith/index.html
+
+# Original Wiki contributors
+ilyasidorchik
+viktishchenko
+Simaleon
+dmitryorly
+SphinxKnight
+AtataUruru
+burashka
+Mingun

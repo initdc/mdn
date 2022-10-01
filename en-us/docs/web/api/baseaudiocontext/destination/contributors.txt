@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/baseaudiocontext/destination/index.md
+
+# Original Wiki contributors
+josep-panadero
+fscholz
+Progoogler
+chrisdavidmills
+erikadoyle
+teoli
+hectorlee

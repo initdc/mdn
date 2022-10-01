@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/string/codepointat/index.md
+
+# Original Wiki contributors
+mfuji09
+woodmix
+TNKSoftware
+ukyo
+YuichiNukiyama
+shide55

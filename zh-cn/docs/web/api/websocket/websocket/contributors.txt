@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/websocket/websocket/index.md
+
+# Original Wiki contributors
+shugen002
+LemonTree
+kevintrung
+wjp5826
+wasdjkl
+P-der

@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/array/foreach/index.md
+
+# Original Wiki contributors
+inlym
+RainSlide
+SageX
+yuwei
+HermitSun
+zhangchen
+hhxxhg
+fscholz
+futurefeeling
+LinLshare
+gossling
+bibi941
+xgqfrms-GitHub
+lssbq
+voidzhou
+kameii
+Liyunsheng
+TomIsion
+helloguangxue
+Ende93
+Harvesty
+AlexChao
+ziyunfei
+teoli
+yanhaijing1234

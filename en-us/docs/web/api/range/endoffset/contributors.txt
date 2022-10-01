@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/range/endoffset/index.md
+
+# Original Wiki contributors
+fscholz
+gnepnaiL-oahZ
+MarkRusciano
+abbycar
+teoli
+jsx
+shubham.hatwar
+Sheppy
+ethertank
+Jonnyq

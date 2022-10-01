@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/web/javascript/reference/global_objects/array/isarray/index.md
+
+# Original Wiki contributors
+jackblackevo
+tericky
+m80126colin
+JamesWen
+onlinemad

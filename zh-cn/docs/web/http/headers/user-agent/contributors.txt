@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/headers/user-agent/index.md
+
+# Original Wiki contributors
+RainSlide
+zidian257
+wangshi3
+qwqmeow
+AaronGod
+WayneCui

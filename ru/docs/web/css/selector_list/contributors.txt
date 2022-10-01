@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/selector_list/index.md
+
+# Original Wiki contributors
+opereverzeva

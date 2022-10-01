@@ -1,0 +1,38 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/column-width/index.md
+
+# Original Wiki contributors
+krosylight
+wbamberg
+Sheppy
+ddbeck
+mfuji09
+rachelandrew
+estelle
+mfluehr
+msimmer
+camsteffen
+jswisher
+scholachoi
+arronei
+chrisdavidmills
+erikadoyle
+fscholz
+jpmedley
+Prinz_Rana
+corysimmons
+yisibl
+teoli
+Sebastianz
+liza_dev
+mdrburke
+jsx
+kscarfone
+FredB
+ethertank
+brianloveswords
+kuvik3
+Marsf
+Jürgen Jeka
+DBaron
+BijuGC

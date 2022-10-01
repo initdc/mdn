@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/notification/permission/index.md
+
+# Original Wiki contributors
+linfeng2gh

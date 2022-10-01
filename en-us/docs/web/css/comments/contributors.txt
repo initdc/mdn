@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/comments/index.md
+
+# Original Wiki contributors
+wbamberg
+mfluehr
+Sebastianz
+BychekRU
+SphinxKnight
+Sheppy
+ethertank
+teoli
+tregagnon
+jswisher
+McGurk

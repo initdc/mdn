@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/initial_value/index.md
+
+# Original Wiki contributors
+SphinxKnight
+mfuji09
+ethertank
+teoli
+Marsf

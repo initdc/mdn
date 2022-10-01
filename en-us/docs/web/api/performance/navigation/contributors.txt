@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/performance/navigation/index.md
+
+# Original Wiki contributors
+fscholz
+rideron89
+kmag
+abbycar
+jpmedley
+chrisdavidmills
+Rob W
+teoli
+dispareil
+khushboo_Dwivedi

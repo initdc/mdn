@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/array/slice/index.html
+
+# Original Wiki contributors
+olijyat
+DaFont
+parzibyte
+kosme
+kdex
+atl3
+eljonims
+Grijander81
+asero82
+oillescas

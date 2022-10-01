@@ -1,0 +1,47 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/background-size/index.md
+
+# Original Wiki contributors
+yoichi_michael
+rachelandrew
+wbamberg
+Sheppy
+zjffun
+ddbeck
+connorshea
+myf
+mfluehr
+Jeremie
+fscholz
+teoli
+erikadoyle
+smalllong
+DDR0
+Sebastianz
+Simplexible
+SphinxKnight
+Prinz_Rana
+guilhermehn
+DevelX
+bobtherobot
+dvorapa
+chrisdavidmills
+kscarfone
+emersonveenstra
+sergiocerrutti
+ethertank
+Canuckistani
+trevorh
+skybound
+FredB
+myakura
+Waldo
+jkomoros
+grendel
+jswisher
+gregthebusker
+paul.irish
+JonRimmer
+Jürgen Jeka
+Piro
+Mvent2

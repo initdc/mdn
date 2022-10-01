@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/web_workers_api/using_web_workers/index.md
+
+# Original Wiki contributors
+TheFirstSunday
+lisiur
+WindrunnerMax
+Ende93
+zhangchen
+qq240814476
+stonehuang
+SphinxKnight
+zhongzi
+ramseyfeng
+YehaiChen
+lhywell
+xgqfrms-GitHub
+Qcui
+Jessy.D.
+ziyunfei
+fscholz
+siberiawolf0307
+sunnylost
+xcffl

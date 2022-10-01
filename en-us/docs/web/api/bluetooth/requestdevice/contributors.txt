@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/bluetooth/requestdevice/index.md
+
+# Original Wiki contributors
+bershanskiy
+fscholz
+jpmedley
+styfle
+scheib
+rolfedh

@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/content_scripts/index.md
+
+# Original Wiki contributors
+nickgaya
+evilpie
+photoelectriceffect
+Santosh_Viswanatham
+jswisher
+jinx.virulent.info
+Zearin_Galaurum
+rebloor
+filipp
+irenesmith
+wbamberg
+freaktechnik
+cmcaine
+realslimshanky
+Uemmra3
+e-motiv
+The_8472
+vnctdj
+andymckay-github
+Syn-McJ
+andrewtruongmoz
+Rob W
+Sheppy
+groovecoder
+zohl
+jonathanKingston

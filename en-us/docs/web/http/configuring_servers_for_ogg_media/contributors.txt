@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/configuring_servers_for_ogg_media/index.md
+
+# Original Wiki contributors
+Sheppy
+fscholz
+bholley
+chrisdavidmills
+teoli
+kscarfone
+Dikrib
+Sephr
+BenB
+cpearce
+Zcorpan
+Varmaa
+sorinelpusti

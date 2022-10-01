@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/games/introduction/index.md
+
+# Original Wiki contributors
+sujilee91
+wbamberg
+daesD
+yuyuny
+talkinglove
+kom2727

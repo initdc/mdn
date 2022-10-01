@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/keypress_event/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+chrisdavidmills

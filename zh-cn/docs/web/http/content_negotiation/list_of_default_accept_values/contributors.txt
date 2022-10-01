@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/http/content_negotiation/list_of_default_accept_values/index.md
+
+# Original Wiki contributors
+heekei

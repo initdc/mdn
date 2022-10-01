@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/guide/keyed_collections/index.md
+
+# Original Wiki contributors
+Joel-An
+LumiLoves
+hoony
+fureweb
+nacyot
+ryukato

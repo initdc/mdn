@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/overflow-block/index.md
+
+# Original Wiki contributors
+mfuji09
+wbamberg
+fscholz
+vspedr
+rachelandrew
+Malvoz
+chrisdavidmills

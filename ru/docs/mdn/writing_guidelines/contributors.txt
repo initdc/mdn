@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/mdn/writing_guidelines/index.html
+
+# Original Wiki contributors
+andrygreen777
+S-inTheory
+SphinxKnight
+wbamberg
+BychekRU
+NekoBroadway
+jswisher
+gitzizou
+warsan
+Corba
+uleming

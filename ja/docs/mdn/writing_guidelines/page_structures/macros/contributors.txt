@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/writing_guidelines/page_structures/macros/index.md
+
+# Original Wiki contributors
+

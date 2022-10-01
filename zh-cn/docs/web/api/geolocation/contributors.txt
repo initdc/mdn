@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/geolocation/index.md
+
+# Original Wiki contributors
+SundayNine
+hmzll
+Ray-Eldath
+Cattla
+SimGenius
+wangxb
+ziyunfei

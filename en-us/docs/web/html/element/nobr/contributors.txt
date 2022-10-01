@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/nobr/index.md
+
+# Original Wiki contributors
+sideshowbarker
+mfuji09
+ExE-Boss
+SphinxKnight
+MunifTanjim
+MrMaxMeranda
+Sheppy
+teoli
+mfluehr
+slimsag
+Vijayakumar
+Jeremie
+trethayug
+trevorh
+kscarfone
+ethertank
+thomasbilk

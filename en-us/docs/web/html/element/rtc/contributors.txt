@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/element/rtc/index.md
+
+# Original Wiki contributors
+escattone
+chrisdavidmills
+alattalatta
+sideshowbarker
+mfuji09
+ExE-Boss
+SphinxKnight
+yuheiy
+Benji1337
+anton.ingfors
+Sheppy
+teoli
+Pokechu22
+shvaikalesh
+Sebastianz
+Inkbug

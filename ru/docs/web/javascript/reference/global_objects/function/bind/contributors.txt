@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/reference/global_objects/function/bind/index.html
+
+# Original Wiki contributors
+vlad-vorontsov
+alfaslash
+IPri
+mxxn
+nikbelikov
+rmaksim
+Mingun
+im7mortal
+teoli
+AlexyAV

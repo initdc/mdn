@@ -1,0 +1,28 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/backface-visibility/index.md
+
+# Original Wiki contributors
+alattalatta
+wbamberg
+Sheppy
+rachelandrew
+ddbeck
+mfluehr
+fscholz
+llkk
+Sebastianz
+erikadoyle
+SphinxKnight
+jsx
+cvrebert
+RahulKapuriya12692
+trevorh
+J-Mackerel
+kscarfone
+teoli
+Ugoku
+FredB
+enderandpeter
+matt_basta
+ethertank
+CutenessOverload

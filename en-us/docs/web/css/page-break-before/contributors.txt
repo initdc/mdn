@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/page-break-before/index.md
+
+# Original Wiki contributors
+fselcukcan
+wbamberg
+fscholz
+mfuji09
+rachelandrew
+chrisdavidmills
+erikadoyle
+Sebastianz
+cvrebert
+Dattaya
+Sheppy
+makonvict
+kscarfone
+teoli
+ethertank
+grendel
+jojomojo

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/isp/index.md
+
+# Original Wiki contributors
+Marsf
+piza_suki

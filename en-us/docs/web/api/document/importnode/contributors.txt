@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/importnode/index.md
+
+# Original Wiki contributors
+mfuji09
+Zearin_Galaurum
+TrevorKarjanis
+wbamberg
+Tigt
+fscholz
+dstorey
+Sheppy
+arronei
+erikadoyle
+teoli
+Sebastianz
+Velmurugan
+kohei.yoshino
+kscarfone
+Khodaidad_Basharmand
+ethertank
+ziyunfei
+dbruant
+Marcoos
+Brettz9
+Mgjbot
+Nickolay
+Jabez
+BenoitL
+DBaron
+Telic.detour
+Jonnyq

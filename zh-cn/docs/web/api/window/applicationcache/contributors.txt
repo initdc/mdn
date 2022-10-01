@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/window/applicationcache/index.md
+
+# Original Wiki contributors
+xgqfrms-GitHub
+inJs
+teoli
+ziyunfei
+sunnylost

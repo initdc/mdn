@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/navigator/sendbeacon/index.md
+
+# Original Wiki contributors
+mfuji09
+nomeaning777
+taise
+__ku

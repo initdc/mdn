@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/mozilla/add-ons/webextensions/api/pageaction/show/index.md
+
+# Original Wiki contributors
+SphinxKnight
+grizlupo

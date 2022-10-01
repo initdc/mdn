@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/svg/attribute/conditional_processing/index.md
+
+# Original Wiki contributors
+MelchiorIm3Tal
+sposhe
+Jeremie

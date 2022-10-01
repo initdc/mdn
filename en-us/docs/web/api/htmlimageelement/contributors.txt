@@ -1,0 +1,42 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/htmlimageelement/index.md
+
+# Original Wiki contributors
+foolip
+Sheppy
+Sebastianz
+jpmedley
+mfluehr
+sideshowbarker
+chrisdavidmills
+ExE-Boss
+fscholz
+trusktr
+mussali
+Markus Prokott
+erikadoyle
+slimsag
+EmileSonneveld
+ccnokes
+PushpitaPikuDey
+venkatbharadwaj
+teoli
+gilly3
+fastest963
+DomiR
+realityking
+Zcorpan
+louuis
+phistuck
+Svl
+jaypeagi
+Brettz9
+kirilloid
+kscarfone
+sethstone
+ethertank
+lcarlson
+trevorh
+jswisher
+JorisW
+Yanmorin

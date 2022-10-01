@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/arraybuffer/isview/index.md
+
+# Original Wiki contributors
+Dyon
+knightyun
+fscholz
+yunl819
+fred4444source

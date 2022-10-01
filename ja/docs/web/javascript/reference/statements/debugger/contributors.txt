@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/statements/debugger/index.md
+
+# Original Wiki contributors
+mfuji09
+YujiSoftware
+dlwe
+YuichiNukiyama
+shide55

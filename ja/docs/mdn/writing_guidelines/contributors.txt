@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mdn/writing_guidelines/index.md
+
+# Original Wiki contributors
+dskmori
+mfuji09
+SphinxKnight
+silverskyvicto
+wbamberg
+Uemmra3
+jswisher
+shuuji3
+Potappo
+teoli
+hamasaki
+x2357
+ethertank
+kyo_ago
+Shimono
+Taken
+Okome
+Akio
+Victory
+Kozawa

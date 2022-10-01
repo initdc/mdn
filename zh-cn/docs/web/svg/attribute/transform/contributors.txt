@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/attribute/transform/index.md
+
+# Original Wiki contributors
+qq240814476

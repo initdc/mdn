@@ -1,0 +1,19 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/tabs/sendmessage/index.md
+
+# Original Wiki contributors
+zombie
+lionelw
+Zearin_Galaurum
+rebloor
+Roubo
+irenesmith
+fscholz
+Flatllin
+Alien426
+maxnikulin
+andrewtruongmoz
+Robbendebiene
+kmaglione
+wbamberg
+Makyen

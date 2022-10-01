@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/browser_compatibility_for_manifest.json/index.md
+
+# Original Wiki contributors
+Uemmra3
+kenji-yamasaki

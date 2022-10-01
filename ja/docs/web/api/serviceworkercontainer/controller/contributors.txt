@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/serviceworkercontainer/controller/index.md
+
+# Original Wiki contributors
+Wind1808
+Uemmra3

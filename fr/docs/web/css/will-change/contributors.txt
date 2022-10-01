@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/css/will-change/index.md
+
+# Original Wiki contributors
+cdoublev
+Marc.V
+SphinxKnight
+Sebastianz
+PRASS95

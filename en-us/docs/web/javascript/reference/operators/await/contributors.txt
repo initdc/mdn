@@ -1,0 +1,30 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/await/index.md
+
+# Original Wiki contributors
+krosylight
+chrisdavidmills
+tafadzwagonera
+fscholz
+michaelkolber
+duanemoody
+bryndyment
+nxhxtuu
+neaumusic
+teddy-error
+ExE-Boss
+IgnoredAmbience
+user_
+Jun711
+fselcukcan
+wnavarre
+54huanan
+domleonard
+jpmedley
+fkling42
+jameshkramer
+Venryx
+nmve
+daytonlowell
+past
+arai

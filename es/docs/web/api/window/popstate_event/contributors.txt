@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/api/window/popstate_event/index.md
+
+# Original Wiki contributors
+borxdev
+jccuevas

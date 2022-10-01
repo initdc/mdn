@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/xmlhttprequest/index.md
+
+# Original Wiki contributors
+RainSlide
+NicoNicoNicoNico
+jsonz1993
+fscholz
+xiaoyixiang
+huhushengwei
+Df0620
+xianjiezh
+frankfang1990
+Ratin
+yzzhuo
+linkqjlin
+righttoe
+Ende93
+konrumi
+xgqfrms-GitHub
+roberthow
+vivian-xu
+wangcansunking
+WinstonZheng
+holynewbie
+Brandy_Jin
+johncido
+williamchu123
+jamemark
+RyanZhang
+teoli
+ziyunfei
+sunnylost
+hanzhao
+Carrie zhxj
+Kook pudding

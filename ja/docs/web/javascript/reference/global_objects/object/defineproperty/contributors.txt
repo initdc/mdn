@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/object/defineproperty/index.md
+
+# Original Wiki contributors
+mfuji09
+unarist
+taromi22
+__ku
+woodmix
+taiyaki32lp64
+YuichiNukiyama
+teoli
+ethertank
+yyss

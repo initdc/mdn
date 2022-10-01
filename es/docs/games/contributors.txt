@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/games/index.md
+
+# Original Wiki contributors
+SphinxKnight
+isocialweb
+wbamberg
+fscholz
+ajspadial
+Arudb79
+atlas7jean
+chrisdavidmills

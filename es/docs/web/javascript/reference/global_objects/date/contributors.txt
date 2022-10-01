@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/date/index.md
+
+# Original Wiki contributors
+wbamberg
+Eduardo_66
+teoli
+Talisker
+Mgjbot
+Sheppy

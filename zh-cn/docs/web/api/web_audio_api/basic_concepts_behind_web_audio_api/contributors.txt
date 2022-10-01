@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/web_audio_api/basic_concepts_behind_web_audio_api/index.md
+
+# Original Wiki contributors
+akamos01
+fanpaa
+LiuTong

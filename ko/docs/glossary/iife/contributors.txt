@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/glossary/iife/index.md
+
+# Original Wiki contributors
+songdoing
+cs09g
+dsma73
+sshplendid

@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/overflow/index.md
+
+# Original Wiki contributors
+bershanskiy
+warsan
+Natalya_Surikova
+Dzenly
+Sebastianz
+s-n-ushakov
+Sheppy
+ldone

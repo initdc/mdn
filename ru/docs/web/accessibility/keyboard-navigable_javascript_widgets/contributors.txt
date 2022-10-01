@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/accessibility/keyboard-navigable_javascript_widgets/index.html
+
+# Original Wiki contributors
+DianaGalter
+Chudesnov
+yakotika
+estelle
+MicOne
+SphinxKnight
+ArianaFa
+nikolaifedorov
+Aleksej
+teoli
+Jifeon

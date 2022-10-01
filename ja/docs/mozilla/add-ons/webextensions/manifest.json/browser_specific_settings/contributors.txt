@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/mozilla/add-ons/webextensions/manifest.json/browser_specific_settings/index.md
+
+# Original Wiki contributors
+marlex
+fscholz
+ExE-Boss
+taka-sho
+Uemmra3
+YuichiNukiyama

@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/statements/try...catch/index.md
+
+# Original Wiki contributors
+zhangchen
+Lan1967
+cddsgtc
+Xheldon
+gooqiao
+llwanghong
+YouHeng
+xgqfrms-GitHub
+Hugh
+helloguangxue
+TUKOMI
+ziyunfei
+licop

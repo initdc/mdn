@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/getting_started_with_the_web/publishing_your_website/index.md
+
+# Original Wiki contributors
+cunlim
+jingkaimori
+Sphish
+WoodCube
+WindLo
+Yang_Hanlin
+xmcgcg
+Unequaled804
+yzweb2018
+runyul
+b2ns
+fan19900404
+tntC4stl3
+troywith77

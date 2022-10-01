@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/filesystemfileentry/index.md
+
+# Original Wiki contributors
+sideshowbarker
+chrisdavidmills
+brasmon8351
+fscholz
+Sheppy
+libbymc
+jscissr
+robinwassen
+imran1008
+Cobra
+teoli
+grendel

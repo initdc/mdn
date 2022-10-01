@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/what_are_webextensions/index.md
+
+# Original Wiki contributors
+caitmuenster
+hellosct1
+jswisher
+muffinresearch
+freaktechnik
+MStokholm
+aceylan
+treinio
+abelsteph72
+rebloor
+mconca
+BryanL
+wbamberg
+suterj
+JKpeng
+dvincent
+SphinxKnight
+Tonnes
+Sheppy
+andrewtruongmoz
+Jorge.villalobos
+beizaibeifang19

@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/element/clienttop/index.md
+
+# Original Wiki contributors
+Konrud
+mfluehr
+connorshea
+tshinnic
+smalllong
+leonardSmalls
+AL-X-dev
+s0n1da
+cvrebert
+MelindaR
+moagrius
+fvsch
+fscholz
+calebxx
+teoli
+kscarfone
+Prachi_Dighe
+vishu_gawli
+Sheppy
+George3
+Mgjbot
+Nickolay
+GT
+Ptak82
+RobG

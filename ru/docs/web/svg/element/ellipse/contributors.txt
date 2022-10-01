@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/svg/element/ellipse/index.html
+
+# Original Wiki contributors
+ialexi-bl
+boxa6
+wbamberg
+Sebastianz
+littleleshy

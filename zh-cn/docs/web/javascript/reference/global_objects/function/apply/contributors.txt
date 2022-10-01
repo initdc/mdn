@@ -1,0 +1,25 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/function/apply/index.md
+
+# Original Wiki contributors
+leafwingstar
+熊英明
+zhanjunhao
+wisecamle
+zhangchen
+Plortinus
+MoYuLing
+tangj1206
+Humyang
+Leivy
+xgqfrms-GitHub
+Ende93
+JJPandari
+hbkdsm
+paddingme
+onetree
+AlexChao
+ziyunfei
+Nebu1aX
+teoli
+endlesswind

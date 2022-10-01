@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/document/write/index.md
+
+# Original Wiki contributors
+RainSlide
+ridiculousjam
+six-moon
+xgqfrms-GitHub
+Marcia_gm
+shisaq
+teoli
+jsx
+ziyunfei
+AlexChao

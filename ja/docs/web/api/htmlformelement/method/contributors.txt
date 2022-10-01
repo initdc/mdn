@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlformelement/method/index.md
+
+# Original Wiki contributors
+fscholz
+arunpandianp
+ethertank
+drry
+Marsf
+Mgjbot
+Okome

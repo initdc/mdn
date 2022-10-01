@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/beforeinstallpromptevent/index.md
+
+# Original Wiki contributors
+SDUTWSL
+xgqfrms-GitHub
+marcoscaceres

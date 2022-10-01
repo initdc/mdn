@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/errors/missing_semicolon_before_statement/index.md
+
+# Original Wiki contributors
+fscholz
+sideshowbarker
+kevinbmagill
+SphinxKnight
+ogigpermana
+luisvallejomohl
+PatrickKettner
+nmve
+jwhitlock
+loveabushu1

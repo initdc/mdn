@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/css/styling_text/styling_lists/index.md
+
+# Original Wiki contributors
+rtxu
+codeofjackie
+allan_simon
+xp44mm
+Froggy
+jingyiwang1209
+Ende93
+Barren
+qw950027
+dazyzsy

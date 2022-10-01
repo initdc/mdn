@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/ruby/index.md
+
+# Original Wiki contributors
+Sheppy
+ndrx42
+klez
+Andrew_Pfeiffer
+Jeremie
+anistark

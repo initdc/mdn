@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/_colon_-moz-list-bullet/index.md
+
+# Original Wiki contributors
+wbamberg
+mfluehr
+duncanmcdonald
+Sebastianz
+teoli
+Sheppy
+j.j.
+Marsf
+Zibibbo84

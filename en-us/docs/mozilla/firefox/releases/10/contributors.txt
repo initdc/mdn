@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/firefox/releases/10/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+SphinxKnight
+Sebastianz
+chrisdavidmills
+Sheppy
+Zefling
+myakura
+johndrinkwater
+AndrewMcElroy
+Marcoos
+teoli
+holloway
+Hsivonen
+One
+dbruant
+darktrojan
+Kohei

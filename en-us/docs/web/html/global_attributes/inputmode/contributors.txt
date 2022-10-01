@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/html/global_attributes/inputmode/index.md
+
+# Original Wiki contributors
+krosylight
+mfuji09
+chharvey
+Tigt
+Annevk
+sideshowbarker
+qiudongwei
+robocat
+Sheppy

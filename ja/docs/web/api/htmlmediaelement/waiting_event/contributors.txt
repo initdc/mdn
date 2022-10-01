@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/htmlmediaelement/waiting_event/index.md
+
+# Original Wiki contributors
+mfuji09
+estelle
+silverskyvicto

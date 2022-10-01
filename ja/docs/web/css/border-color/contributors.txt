@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/css/border-color/index.md
+
+# Original Wiki contributors
+mfuji09
+takahashim
+Sebastianz
+ethertank
+Yuichiro

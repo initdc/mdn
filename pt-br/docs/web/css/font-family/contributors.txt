@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/css/font-family/index.md
+
+# Original Wiki contributors
+kmoreiradesigner
+Ronkiro
+fscholz
+Sebastianz
+bubui

@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/evaluate/index.md
+
+# Original Wiki contributors
+ExE-Boss
+fscholz
+cpplearner
+stevenwdv
+erikadoyle
+teoli
+Sebastianz
+kosvrouvas
+kscarfone
+nehasharma
+namolmes
+Sheppy
+Ecmanaut
+ethertank
+anupshah
+Tiller
+Brettz9
+mooring
+Nickolay
+Tobu
+Ptak82
+Benjaminhawkeslewis
+Jonnyq

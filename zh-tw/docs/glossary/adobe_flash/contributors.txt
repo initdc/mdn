@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-tw/glossary/adobe_flash/index.md
+
+# Original Wiki contributors
+iigmir
+Rocker

@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/repeat/index.md
+
+# Original Wiki contributors
+chrisdavidmills
+ramiy
+wbamberg
+cdoublev
+connexo
+mfluehr
+fscholz
+yisibl
+david_ross
+Sebastianz

@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/text-size-adjust/index.md
+
+# Original Wiki contributors
+at940266
+self.mismatch
+rychagov
+asaulyak
+designofhumanity
+andreww2012

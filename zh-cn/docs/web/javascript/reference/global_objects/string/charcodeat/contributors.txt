@@ -1,0 +1,24 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/charcodeat/index.md
+
+# Original Wiki contributors
+laampui
+ChenNing02
+RainSlide
+lordisback
+JuFoFu
+KMKNKK
+wizardforcel
+xgqfrms-GitHub
+baishusama
+VmanXu
+NotFinally
+MarianZhang
+Bigbigbig
+greatbug
+BeHappyF
+LittleJake
+Meteormatt
+sweetliu
+teoli
+AlexChao

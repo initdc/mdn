@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/learn/common_questions/thinking_before_coding/index.md
+
+# Original Wiki contributors
+Silvermist
+ssilb4
+daebum-lee

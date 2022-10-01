@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/css/align-content/index.md
+
+# Original Wiki contributors
+alkorlos
+stefanishy
+almaceleste
+Akh-rman
+m0nclous
+ivan-ivan01
+andreww2012

@@ -1,0 +1,27 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/falsy/index.md
+
+# Original Wiki contributors
+zhongdeliu
+mfuji09
+sideshowbarker
+dd-pardal
+sorawee
+mfulton26
+chrisdavidmills
+sidlojan
+fscholz
+moyarich
+sspringer82
+torazaburo
+zhuangyin
+thenoelman
+michalgallovic
+NiLinli
+yoniLavi
+Sheppy
+chinhodado
+tjcrowder
+Andrew_Pfeiffer
+hbloomer
+klez

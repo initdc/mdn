@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/javascript/reference/global_objects/array/sort/index.md
+
+# Original Wiki contributors
+Gardeky
+frfernandezdev
+sebastian_romerola
+Tepexic
+carlosazaustre
+jesuslombardo
+reymundus2
+CatalinaCampos
+LuisSevillano
+Newtrino
+cristobal.pina
+alejandrochung
+AlePerez92
+eljonims
+rubenpizarrov
+luisbd
+lombareload

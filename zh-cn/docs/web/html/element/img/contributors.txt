@@ -1,0 +1,17 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/html/element/img/index.md
+
+# Original Wiki contributors
+liangmuyang
+HaoyuA
+XLCYun
+RainSlide
+LexieAlreadyTaken
+imbant
+zzykillu
+gafish
+Ahhaha233
+Everain
+iefreer
+fuchao2012
+anjia

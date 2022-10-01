@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/mdn/writing_guidelines/howto/tag/index.md
+
+# Original Wiki contributors
+wbamberg
+Creasick
+blanchart
+meCarrion17
+rafamagno
+teoli
+PepeAntonio
+CristianMar25
+anmartinez
+LeoHirsch

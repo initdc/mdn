@@ -1,0 +1,13 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/mozilla/add-ons/webextensions/api/runtime/sendmessage/index.md
+
+# Original Wiki contributors
+zombie
+chrisdavidmills
+rebloor
+wbamberg
+Makyen
+jonathanKingston
+andrewtruongmoz
+Rob W
+jsnjack

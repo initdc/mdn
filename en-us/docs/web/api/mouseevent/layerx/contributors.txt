@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/mouseevent/layerx/index.md
+
+# Original Wiki contributors
+nakhodkiin
+mfluehr
+fscholz
+cvrebert
+teoli
+jsx
+kscarfone
+Shraddha_Magdum
+Sheppy
+trevorh
+Matej Lednar
+Federico
+Jabez
+Ptak82
+Dria
+JesseW

@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/soap/index.md
+
+# Original Wiki contributors
+ksugimori
+szk0u

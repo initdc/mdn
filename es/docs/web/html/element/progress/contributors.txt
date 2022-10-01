@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/progress/index.html
+
+# Original Wiki contributors
+SphinxKnight
+androsfenollosa
+wbamberg
+teoli
+rubencidlara

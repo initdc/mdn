@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/conflicting/web/javascript/javascript_technologies_overview_0191f05ec18a4ee4d771b548feb0701d/index.html
+
+# Original Wiki contributors
+RenJeka
+helenasilkina
+fscholz
+Alex_Howlett
+teoli
+Millionnaire

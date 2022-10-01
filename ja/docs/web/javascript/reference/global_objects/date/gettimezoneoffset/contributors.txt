@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/global_objects/date/gettimezoneoffset/index.md
+
+# Original Wiki contributors
+mfuji09
+segayuu
+Marsf
+teoli
+ethertank
+hateka

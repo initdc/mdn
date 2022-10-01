@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/node/index.md
+
+# Original Wiki contributors
+ikemo
+Uemmra3
+yyss
+MakeNowJust
+cohei
+khalid32
+ethertank
+RobinEgg

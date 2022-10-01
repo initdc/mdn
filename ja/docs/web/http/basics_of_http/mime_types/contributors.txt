@@ -1,0 +1,9 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/http/basics_of_http/mime_types/index.md
+
+# Original Wiki contributors
+pcw
+mfuji09
+nekottyo
+silverskyvicto
+yyss

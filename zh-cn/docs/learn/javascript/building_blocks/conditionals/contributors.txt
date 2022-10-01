@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/javascript/building_blocks/conditionals/index.md
+
+# Original Wiki contributors
+SirnoChan
+qiubite-name
+Undecyce
+Ray-Eldath
+DaduCC
+NicholasCao
+ideal.Li
+lyllll000
+finegao
+INFINITSY
+HashubWang

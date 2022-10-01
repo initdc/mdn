@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/glossary/asynchronous/index.md
+
+# Original Wiki contributors
+jorgeCaster
+fjluengo
+gparra989

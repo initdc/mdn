@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/fr/web/html/quirks_mode_and_standards_mode/index.md
+
+# Original Wiki contributors
+SphinxKnight
+chrisdavidmills
+ICBreakerLA
+Jeremie
+trevorh
+Mgjbot
+BenoitL

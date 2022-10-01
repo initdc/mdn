@@ -1,0 +1,18 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/@media/prefers-reduced-motion/index.md
+
+# Original Wiki contributors
+ariasuni
+mfuji09
+wbamberg
+cookiecrook
+Sheppy
+s.zeid
+fuzzbomb
+jldavis
+estelle
+SphinxKnight
+lol768
+jhpratt
+chrisdavidmills
+rachelandrew

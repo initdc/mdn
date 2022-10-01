@@ -1,0 +1,20 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/headers/content-security-policy/script-src/index.md
+
+# Original Wiki contributors
+mfuji09
+bershanskiy
+Sheppy
+mic4ael
+ivan-aksamentov
+ryan-codingintrigue
+SphinxKnight
+xss003
+vrana
+thinktt
+vic511
+Braiam
+jpmedley
+fscholz
+DaleGardner
+teoli

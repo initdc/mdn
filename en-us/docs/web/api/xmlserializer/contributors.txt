@@ -1,0 +1,21 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/xmlserializer/index.md
+
+# Original Wiki contributors
+Tigt
+fscholz
+Sheppy
+erikadoyle
+istocode
+teoli
+ziyunfei
+vyv03354
+Brettz9
+Konno.Software
+Imphil
+leandro_pintor
+Mgjbot
+The Hunter
+Chbok
+Nickolay
+Mw22

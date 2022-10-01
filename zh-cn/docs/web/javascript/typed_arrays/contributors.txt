@@ -1,0 +1,22 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/typed_arrays/index.md
+
+# Original Wiki contributors
+norton-lee
+ThomasWhyne
+nkliyc
+AngeloZ
+zhangchen
+wblovezqy
+jing-y
+lvsiyuan
+xgqfrms-GitHub
+JoyZF
+jianzhou
+lon
+ngtmuzi
+Amme
+troywith77
+ipy
+teoli
+zekai.zheng

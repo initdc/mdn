@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/manifest/index.md
+
+# Original Wiki contributors
+7NZ
+mySoul
+flyingsouthwind
+varcat
+_da
+xgqfrms-GitHub

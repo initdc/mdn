@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/api/audiocontext/close/index.md
+
+# Original Wiki contributors
+maruhiro

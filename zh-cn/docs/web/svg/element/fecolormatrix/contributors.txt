@@ -1,0 +1,8 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/svg/element/fecolormatrix/index.md
+
+# Original Wiki contributors
+Sebastianz
+fanxiaojie
+teoli
+daniel.tian

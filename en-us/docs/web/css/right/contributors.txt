@@ -1,0 +1,37 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/right/index.md
+
+# Original Wiki contributors
+Jürgen Jeka
+wbamberg
+fscholz
+Malvoz
+sideshowbarker
+ramiy
+StefanSchwan
+wasd845
+estelle
+ilyagr
+mfuji09
+Zhang-Junzhi
+mfluehr
+chrisdavidmills
+erikadoyle
+Yann Dìnendal
+Simplexible
+Prinz_Rana
+Sebastianz
+Akash_Ajith
+teoli
+kscarfone
+trevorh
+Zenorbi
+Sheppy
+ethertank
+FredB
+McGurk
+minnow990
+BijuGC
+Mgjbot
+Waldo
+DBaron

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/reference/classes/extends/index.md
+
+# Original Wiki contributors
+fscholz
+SphinxKnight
+raduq

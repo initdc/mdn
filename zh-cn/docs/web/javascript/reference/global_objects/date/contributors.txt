@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/date/index.md
+
+# Original Wiki contributors
+SphinxKnight
+songzeng2016
+ZhangXianWei
+johnao
+oujielong
+striveyan
+fefe982
+Mr_z
+litmonw
+RainSlide
+jackylz
+fscholz
+VAN666
+liuzeyafzy
+whinc
+sharp-c
+distums
+helloguangxue
+zhang384579631
+yenshen
+fuchao2012
+hikarievo
+teoli
+littleVege
+AlexChao
+ziyunfei
+liminjun
+confusedwu
+Mickeyboy
+Mgjbot

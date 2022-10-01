@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/javascript/reference/global_objects/arraybuffer/index.md
+
+# Original Wiki contributors
+alattalatta
+chaewonkong
+niceilm
+teoli
+JiminP
+yuby

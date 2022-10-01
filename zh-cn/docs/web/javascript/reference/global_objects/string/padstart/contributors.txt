@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/global_objects/string/padstart/index.md
+
+# Original Wiki contributors
+zhuangyin
+FredYing
+dblate
+Iwouldliketobeapig
+kdex
+xgqfrms-GitHub
+Jiang-Xuan
+comehope
+tjyas
+ziyunfei

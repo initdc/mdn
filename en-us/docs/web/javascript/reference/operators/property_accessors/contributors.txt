@@ -1,0 +1,32 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/javascript/reference/operators/property_accessors/index.md
+
+# Original Wiki contributors
+fscholz
+wbamberg
+jinbeomhong
+Zearin_Galaurum
+mfuji09
+SphinxKnight
+alattalatta
+spazmodius
+jalbertbowden
+jameshkramer
+nmve
+pkowalczyk
+stevemao
+bgeron-g
+Sebastianz
+Havvy
+Delapouite
+kscarfone
+PointedEars
+TotalAMD
+inglor
+Sheppy
+trevorh
+Sevenspade
+Potappo
+Mgjbot
+Maian
+Nickolay

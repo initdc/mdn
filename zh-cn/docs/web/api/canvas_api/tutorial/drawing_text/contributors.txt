@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/canvas_api/tutorial/drawing_text/index.md
+
+# Original Wiki contributors
+BuluGuy
+hhxxhg
+mutoe
+loraine
+whrhrr
+Roscoe93
+ziyunfei
+jasonworg

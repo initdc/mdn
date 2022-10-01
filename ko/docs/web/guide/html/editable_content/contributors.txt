@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ko/web/guide/html/editable_content/index.md
+
+# Original Wiki contributors
+gblue1223

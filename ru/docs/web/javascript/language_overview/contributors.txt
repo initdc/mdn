@@ -1,0 +1,29 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/javascript/language_overview/index.html
+
+# Original Wiki contributors
+chimit
+korefusha
+Kamil-Zakiev
+EgorChernik
+aleshkanet
+CeH9
+MerkurevSergei
+shtorin
+Megabyteceer
+gudkovdanila
+pk.prog
+fscholz
+forestbird
+Saviloff
+Instigator
+shapoval
+AlexChuev
+razarusu
+kolyuchii
+PavelGrishaev
+teoli
+franza
+PROgrammaster
+sergey_tikhonov
+Dart

@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/html/element/source/index.html
+
+# Original Wiki contributors
+guillermomartinmarco
+teoli
+inma_610

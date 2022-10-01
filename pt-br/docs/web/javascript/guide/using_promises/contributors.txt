@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/pt-br/web/javascript/guide/using_promises/index.md
+
+# Original Wiki contributors
+RodrigoWebDev
+lopesboa
+marciioluucas
+alexat13
+joao-rafael
+Jeovano
+Tiagosb

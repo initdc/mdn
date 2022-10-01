@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/learn/html/multimedia_and_embedding/responsive_images/index.html
+
+# Original Wiki contributors
+Furestry
+RoPy73
+jynweythek
+konstantin.k
+petr012
+CyberNinja2007
+Zobakka
+desentcare
+Khaidarov-Dinar
+meltsulaya
+shade0602
+ckomop0x
+Roman11000
+Bargamut
+rhopos
+airtwister
+AnnaNeu
+manayardmenkgtu
+alexzimakov
+fonpixel
+RenusAvin
+KuznetsEnvy

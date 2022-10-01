@@ -1,0 +1,26 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/media_capture_and_streams_api/taking_still_photos/index.md
+
+# Original Wiki contributors
+Sheppy
+fippo
+PhilLab
+fscholz
+wbamberg
+DeveloperDavo
+weisjohn
+Hubenet
+rogeru
+Jib
+zalun
+teoli
+kshitijpurwar
+chrisdavidmills
+Kiley85
+Null
+KarlPurk
+Jeremie
+ianpgall
+codepo8
+jswisher
+espressive

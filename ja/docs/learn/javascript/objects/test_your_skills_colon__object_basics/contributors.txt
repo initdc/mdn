@@ -1,0 +1,5 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/learn/javascript/objects/test_your_skills_colon__object_basics/index.md
+
+# Original Wiki contributors
+kobayashitomoya

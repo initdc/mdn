@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow">
+        <style type="text/css">
+            body {
+              padding: 0;
+              margin: 0;
+            }
+
+            svg:not(:root) {
+              display: block;
+            }
+
+            .playable-code {
+              background-color: #f4f7f8;
+              border: none;
+              border-left: 6px solid #558abb;
+              border-width: medium medium medium 6px;
+              color: #4d4e53;
+              height: 100px;
+              width: 90%;
+              padding: 10px 10px 0;
+            }
+
+            .playable-canvas {
+              border: 1px solid #4d4e53;
+              border-radius: 2px;
+            }
+
+            .playable-buttons {
+              text-align: right;
+              width: 90%;
+              padding: 5px 10px 5px 26px;
+            }
+        </style>
+        
+        <title>JavaScript と DOM インターフェイスによる HTML の表の操作 - example_creating_an_html_table_dynamically - code sample</title>
+    </head>
+    <body>
+        
+            ...
+<table border="2">
+<tbody>
+<tr><td>0 行目、 0 列目のセル</td><td>0 行目、 1 列目のセル</td></tr>
+<tr><td>1 行目、 0 列目のセル</td><td>1 行目、 1 列目のセル</td></tr>
+</tbody>
+</table>
+...
+
+        
+        
+            <script>
+                function generate_table() {
+  // body の参照を取得
+  var body = document.getElementsByTagName("body")[0];
+
+  // <table> 要素と <tbody> 要素を作成
+  var tbl = document.createElement("table");
+  var tblBody = document.createElement("tbody");
+
+  // すべてのセルを作成
+  for (var i = 0; i < 2; i++) {
+    // 表の行を作成
+    var row = document.createElement("tr");
+
+    for (var j = 0; j < 2; j++) {
+      // <td> 要素とテキストノードを作成し、テキストノードを
+      // <td> の内容として、その <td> を表の行の末尾に追加
+      var cell = document.createElement("td");
+      var cellText = document.createTextNode(i+" 行目、 "+j+" 列目のセル");
+      cell.appendChild(cellText);
+      row.appendChild(cell);
+    }
+
+    // 表の本体の末尾に行を追加
+    tblBody.appendChild(row);
+  }
+
+  // <tbody> を <table> の中に追加
+  tbl.appendChild(tblBody);
+  // <table> を <body> の中に追加
+  body.appendChild(tbl);
+  // tbl の border 属性を 2 に設定
+  tbl.setAttribute("border", "2");
+}
+
+cell.appendChild(cellText);
+
+row.appendChild(cell);
+
+tblBody.appendChild(row);
+
+tbl.appendChild(tblBody);
+
+body.appendChild(tbl);
+
+            </script>
+        
+    </body>
+</html>

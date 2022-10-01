@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/es/web/http/headers/server/index.md
+
+# Original Wiki contributors
+sevillacode
+TheSgtPepper23
+irsequisious

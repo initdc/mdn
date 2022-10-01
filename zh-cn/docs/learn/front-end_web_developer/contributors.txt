@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/learn/front-end_web_developer/index.md
+
+# Original Wiki contributors
+Ende93
+ex90rts

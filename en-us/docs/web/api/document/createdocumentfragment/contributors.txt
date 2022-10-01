@@ -1,0 +1,33 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/api/document/createdocumentfragment/index.md
+
+# Original Wiki contributors
+mfuji09
+Sheppy
+ZaDarkSide
+olavgg
+fscholz
+Coalpha
+K-Gun
+erikadoyle
+aldendaniels
+srobynk
+Sebastianz
+worc
+samccone
+teoli
+MHasan
+kscarfone
+Cobra
+ethertank
+jonfen
+blastart
+dbruant
+Brettz9
+Federico
+Ptak82
+Nickolay
+RobG
+Maian
+Dria
+JesseW

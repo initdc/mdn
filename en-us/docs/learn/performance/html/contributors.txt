@@ -1,0 +1,10 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/learn/performance/html/index.md
+
+# Original Wiki contributors
+mfranzke
+arjenlgill
+estelle
+chrisdavidmills
+mikeblume
+ElliotHawkins

@@ -1,0 +1,11 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/api/element/touchstart_event/index.md
+
+# Original Wiki contributors
+Carllllo
+irenesmith
+fscholz
+plter
+zhaosource
+ziyunfei
+jtyjty99999

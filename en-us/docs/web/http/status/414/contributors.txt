@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/http/status/414/index.md
+
+# Original Wiki contributors
+emoryeddie1
+Tigt
+fscholz

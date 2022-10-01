@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/javascript/reference/errors/identifier_after_number/index.md
+
+# Original Wiki contributors
+AlanStewart6
+fanxiaobin1992

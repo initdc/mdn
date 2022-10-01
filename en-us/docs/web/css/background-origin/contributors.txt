@@ -1,0 +1,36 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/background-origin/index.md
+
+# Original Wiki contributors
+alattalatta
+wbamberg
+Sheppy
+ddbeck
+mfuji09
+mfluehr
+fscholz
+rwilson.or
+teoli
+erikadoyle
+Sebastianz
+ramsunvtech
+jwhitlock
+SphinxKnight
+jsx
+amitabha197
+kscarfone
+itamarro
+ethertank
+FredB
+myakura
+grendel
+JonRimmer
+Jürgen Jeka
+MarkusStange
+Waldo
+Marsf
+BijuGC
+Mgjbot
+DBaron
+Callek
+Spanglerco

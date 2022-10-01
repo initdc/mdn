@@ -1,0 +1,12 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ru/web/api/file/index.html
+
+# Original Wiki contributors
+YozhEzhi
+tjbulick
+alexx-grand
+nikitaermishin
+WispProxy
+S-le
+Helen4gu
+MuradAz

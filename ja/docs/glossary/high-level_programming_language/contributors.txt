@@ -1,0 +1,7 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/glossary/high-level_programming_language/index.md
+
+# Original Wiki contributors
+Uemmra3
+ksugimori
+Wind1808

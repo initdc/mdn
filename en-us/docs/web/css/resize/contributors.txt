@@ -1,0 +1,31 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/css/resize/index.md
+
+# Original Wiki contributors
+dpren
+sideshowbarker
+wbamberg
+fscholz
+dominicegginton
+ddbeck
+mfluehr
+SphinxKnight
+Konrud
+pborenstein
+LouisLazaris
+Sebastianz
+cvrebert
+Speich
+tregagnon
+lavish
+kscarfone
+teoli
+Sheppy
+0b10011
+ethertank
+FredB
+grendel
+jojomojo
+Jürgen Jeka
+Ms2ger
+fryn

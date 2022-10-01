@@ -1,0 +1,6 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/mask-border-mode/index.md
+
+# Original Wiki contributors
+kangour
+ragnar-document

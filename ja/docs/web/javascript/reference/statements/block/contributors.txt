@@ -1,0 +1,14 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/ja/web/javascript/reference/statements/block/index.md
+
+# Original Wiki contributors
+mpcjazz
+mfuji09
+ambi
+YuichiNukiyama
+yyss
+teoli
+ethertank
+Nanto vi
+Mgjbot
+Shimono

@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/translated-content/commits/main/files/zh-cn/web/css/value_definition_syntax/index.md
+
+# Original Wiki contributors
+AchooLuv
+zjffun
+wjp5826
+Tankunpeng
+Sebastianz
+Guillaume-Heras
+prayash
+uolcano
+ljwrer
+teoli
+Jimmie_Felidae
